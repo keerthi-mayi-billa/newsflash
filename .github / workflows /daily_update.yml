@@ -1,0 +1,53 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # Runs every day at 12:30 AM UTC = 6:00 AM IST
+    - cron: '30 0 * * *'
+  workflow_dispatch:   # also allows manual trigger from GitHub UI
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit the JSON back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Run summarizer
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python summarizer.py
+
+      - name: Copy data to static folder
+        run: cp summarized_news.json static/summarized_news.json
+
+      - name: Commit and push updated news
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/summarized_news.json summarized_news.json scraped_news.json
+          git diff --staged --quiet || git commit -m "Auto-update news $(date +'%Y-%m-%d %H:%M IST')"
+          git push
