@@ -42,7 +42,7 @@ jobs:
         run: python summarizer.py
 
       - name: Copy data to static folder
-        run: cp summarized_news.json static/summarized_news.json
+        run: cp summarized_news.json docs/summarized_news.json
 
       - name: Commit and push updated news
         run: |
