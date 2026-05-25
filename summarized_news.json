@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-25T05:07:31",
+  "generated_at": "2026-05-25T05:36:47",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
+    {
+      "category": "Top Stories",
+      "title": "What makes Delhi Gymkhana so elite: Powerful legacy with Rs 200cr in mutual funds, Rs 129cr net worth",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/what-makes-delhi-gymkhana-club-so-elite-rs-200-crore-in-mutual-funds-rs-129-crore-net-worth-and-a-powerful-legacy/articleshow/131299579.cms",
+      "published": "Mon, 25 May 2026 07:55:13 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131300013,imgsize-59704.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
     {
       "category": "Top Stories",
       "title": "Fuel prices hiked again: Petrol, diesel rates raised by over Rs 2; 4th increase in 2 weeks",
@@ -11,37 +21,37 @@
       "image_url": "https://static.toiimg.com/photo/msid-131299643,imgsize-1712142.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.06
     },
     {
       "category": "Top Stories",
-      "title": "Twisha Sharma case in SC: Suspicious death, dowry allegations, CBI probe - what happened so far",
-      "url": "https://timesofindia.indiatimes.com/india/twisha-sharma-case-in-supreme-court-suspicious-death-dowry-allegations-cbi-probe-what-happened-so-far/articleshow/131301340.cms",
-      "published": "Mon, 25 May 2026 10:16:40 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131301639,imgsize-2207728.cms",
-      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics.",
+      "title": "DU girl drugged, gang-raped multiple times, abandoned at Lucknow station with general bogie ticket",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/was-drugged-gang-raped-by-3-youth-in-lucknow-claims-du-girl-from-jaunpur/articleshow/131296440.cms",
+      "published": "Mon, 25 May 2026 01:06:12 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131301401,imgsize-36172.cms",
+      "summary": "When not covering crime, he reads fiction, roams around the dark alleys of the city in the dead of night. An MA (English Litt) from University of Lucknow, Pathikrit loves to speak French, well at least a smattering of it.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.06
     },
     {
       "category": "Top Stories",
-      "title": "CSK IPL 2026 autopsy: How the season collapsed, moment by moment",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/csk-ipl-2026-autopsy-how-the-season-collapsed-moment-by-moment/articleshow/131299855.cms",
-      "published": "Mon, 25 May 2026 08:55:29 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131300020,imgsize-100018.cms",
-      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
+      "title": "IPL 2026: Dhauladhar views, playoffs mood - Gujarat Titans\u2019 Dharamsala day out",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dhauladhar-views-playoffs-mood-gujarat-titans-dharamsala-day-out-of-selfies-reels-and-intense-training/articleshow/131301548.cms",
+      "published": "Mon, 25 May 2026 10:21:49 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131301671,imgsize-152688.cms",
+      "summary": "Pratyush Raj is a cricket journalist with TOI Sports, specializing in all things cricket, both on and off the field. He began his career with the Business Standard before following his passion as a sports reporter for the Times of India in Chandigarh.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.04
     },
     {
-      "category": "Top Stories",
-      "title": "Bihar cops frisked by Sonu-Monu gang members before house raid; 2 SHOs suspended after video viral",
-      "url": "https://timesofindia.indiatimes.com/city/patna/two-shos-suspended-over-viral-video-of-cops-frisking/articleshow/131295945.cms",
-      "published": "Mon, 25 May 2026 00:05:24 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131299817,imgsize-31462.cms",
-      "summary": "In a shocking turn of events in Patna, two Station House Officers (SHOs) were suspended after footage surfaced showing gang supporters conducting searches on police officials. This incident came to light following an alleged shooting incident involving the notorious Sonu-Monu gang targeting a local leader..",
+      "category": "India",
+      "title": "Hormuz control: Iran says managing strait is \u2018legal right\u2019 amid ceasefire talks with US",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/hormuz-control-iran-says-managing-strait-is-legal-right-amid-ceasefire-talks-with-us/articleshow/131301452.cms",
+      "published": "2026-05-25T10:16:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131301492,imgsize-157314.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.05
     },
     {
       "category": "India",
@@ -51,7 +61,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131298768,imgsize-39434.cms",
       "summary": "Barsha Dutta has been covering the NFL since 2024, bringing a fresh and engaging perspective to the game. With Masters in Literature, she blends passion with insight, making football stories both relatable and exciting for readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.06
     },
     {
       "category": "India",
@@ -61,7 +71,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131296931,imgsize-57060.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.03
     },
     {
       "category": "India",
@@ -71,17 +81,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131296586,imgsize-110558.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "India",
-      "title": "H1-B relief? USCIS says some visa holders may not need to leave US for Green Card process",
-      "url": "https://timesofindia.indiatimes.com/world/us/h1-b-relief-uscis-says-some-visa-holders-may-not-need-to-leave-us-for-green-card-process/articleshow/131295192.cms",
-      "published": "2026-05-25T00:01:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131295877,imgsize-94682.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -121,7 +121,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.05
     },
     {
       "category": "Business",
@@ -131,7 +131,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131301469,imgsize-1915807.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.05
     },
     {
       "category": "Business",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.03
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -201,7 +201,27 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.05
+    },
+    {
+      "category": "Education",
+      "title": "UGC NET June 2026 application correction window opens tomorrow at ugcnet.nta.nic.in; check steps to edit your form here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ugc-net-june-2026-application-correction-window-opens-tomorrow-at-ugcnet-nta-nic-in-check-steps-to-edit-your-form-here/articleshow/131302231.cms",
+      "published": "2026-05-25T10:45:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131302376,imgsize-330097.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ugc-net-june-2026-application-correction-window-opens-tomorrow-at-ugcnet-nta-nic-in-check-steps-to-edit-your-form-here/articleshow/131302231.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131302231.cms\" /></a>The National Testing Agency has opened the UGC NET June 2026 application correction window from May 26 to May 28. Candidates can now edit submitted application details on the official website.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Education",
+      "title": "JEE Advanced 2026 answer key released at jeeadv.ac.in: Check direct link, steps to raise objections here",
+      "url": "https://timesofindia.indiatimes.com/education/news/jee-advanced-2026-answer-key-released-at-jeeadv-ac-in-check-direct-link-steps-to-raise-objections-here/articleshow/131302098.cms",
+      "published": "2026-05-25T10:28:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131302151,imgsize-99530.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jee-advanced-2026-answer-key-released-at-jeeadv-ac-in-check-direct-link-steps-to-raise-objections-here/articleshow/131302098.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131302098.cms\" /></a>IIT Roorkee has unveiled the provisional JEE Advanced 2026 answer key on its official website. Aspirants can now check their responses and raise objections until May 26, 2026.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
     },
     {
       "category": "Education",
@@ -211,7 +231,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131301318,imgsize-719907.cms",
       "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ap-eamcet-2026-answer-key-response-sheet-releasing-shortly-at-cets-apsche-ap-gov-in-check-steps-to-download-raise-objections/articleshow/131301299.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131301299.cms\" /></a>The provisional AP EAMCET 2026 answer key and response sheet will be released today, May 25, at 11 am on the official APSCHE website. Candidates can raise objections to the provisional key until May 27, with a fee of Rs 300 per question, which will be refunded if the objection is valid..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
     },
     {
       "category": "Education",
@@ -221,27 +241,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131300045,imgsize-22108.cms",
       "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jeecup-2026-admit-card-expected-to-be-released-today-at-jeecup-admissions-nic-in-check-steps-to-download-hall-ticket/articleshow/131300047.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131300047.cms\" /></a>The JEECUP 2026 admit card is expected to be released today on the official website for candidates seeking admission to diploma programs across Uttar Pradesh. The examination, conducted in computer-based test mode from June 2 to June 9, 2026, will assess candidates through 100 MCQs in Physics, Chemistry, and Mathematics..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Education",
-      "title": "CUET UG 2026 exam scheduled for May 28 postponed due to Bakrid, NTA to announce new dates soon",
-      "url": "https://timesofindia.indiatimes.com/education/news/cuet-ug-2026-exam-scheduled-for-may-28-postponed-due-to-bakrid-nta-to-announce-new-dates-soon/articleshow/131299875.cms",
-      "published": "2026-05-25T08:38:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131299901,imgsize-49804.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cuet-ug-2026-exam-scheduled-for-may-28-postponed-due-to-bakrid-nta-to-announce-new-dates-soon/articleshow/131299875.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131299875.cms\" /></a>The National Testing Agency has postponed the CUET UG 2026 exam, originally set for May 28, due to the Id-ul-Zuha holiday. New dates will be announced soon.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Education",
-      "title": "CBSE again extends deadline for obtaining Class 12 scanned answer sheets till May 25; check official notice",
-      "url": "https://timesofindia.indiatimes.com/education/news/cbse-again-extends-deadline-for-obtaining-class-12-scanned-answer-sheets-till-may-25-check-official-notice/articleshow/131299490.cms",
-      "published": "2026-05-25T07:59:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131299587,imgsize-1120673.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cbse-again-extends-deadline-for-obtaining-class-12-scanned-answer-sheets-till-may-25-check-official-notice/articleshow/131299490.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131299490.cms\" /></a>CBSE has extended the deadline for Class 12 students to apply for scanned copies of their evaluated answer sheets until May 25, 2026, to provide sufficient time. The board also announced that re-evaluation dates will be released soon.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
@@ -251,7 +251,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131301414,imgsize-93410.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
@@ -261,7 +261,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131300735,imgsize-83132.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
@@ -271,7 +271,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131301113,imgsize-66932.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Entertainment",
@@ -281,7 +281,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-131299973,imgsize-154774.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.04
     }
   ]
 }
