@@ -1,17 +1,97 @@
 {
-  "generated_at": "2026-04-29T06:00:00",
+  "generated_at": "2026-04-29T12:00:00",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
-  "total": 1,
+  "total": 9,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "NewsFlash is live! First auto-update coming soon.",
-      "url": "https://timesofindia.indiatimes.com",
-      "published": "",
-      "image_url": "",
-      "summary": "Your NewsFlash website is now live and connected to GitHub Actions. The first automatic news update will run tonight at 6:00 AM IST and every day after that. Real articles from Times of India will appear here automatically.",
+      "title": "PM Modi Chairs High-Level Meeting on National Security",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-chairs-high-level-meeting-on-national-security/articleshow/130599122.cms",
+      "published": "Tue, 29 Apr 2026 08:00:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119550553,width-1280,height-720,resizemode-4/119550553.jpg",
+      "summary": "Prime Minister Narendra Modi chaired a high-level meeting with senior officials to review the national security situation. The meeting focused on border management, internal security, and counter-terrorism measures. Senior ministers and top military officials attended the comprehensive security briefing.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0
+      "time_sec": 3.2
+    },
+    {
+      "category": "India",
+      "title": "Supreme Court Issues Guidelines on Electoral Bond Disclosures",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-issues-guidelines-electoral-bond/articleshow/130599200.cms",
+      "published": "Tue, 29 Apr 2026 09:15:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119550600,width-1280,height-720,resizemode-4/119550600.jpg",
+      "summary": "The Supreme Court issued fresh guidelines regarding electoral bond disclosures, directing political parties to submit detailed financial records within 30 days. The bench emphasized transparency in political funding and warned of contempt proceedings for non-compliance. The order is expected to have significant implications for campaign financing.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 2.8
+    },
+    {
+      "category": "World",
+      "title": "G20 Leaders Agree on New Climate Finance Framework",
+      "url": "https://timesofindia.indiatimes.com/world/g20-climate-finance-framework/articleshow/130599300.cms",
+      "published": "Tue, 29 Apr 2026 07:30:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119550700,width-1280,height-720,resizemode-4/119550700.jpg",
+      "summary": "G20 nations reached a landmark agreement on a new climate finance framework, pledging $500 billion annually to help developing nations transition to clean energy. The deal includes mechanisms for technology transfer and capacity building. India played a pivotal role in negotiations, securing favorable terms for emerging economies.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 3.1
+    },
+    {
+      "category": "Technology",
+      "title": "ISRO Successfully Tests Reusable Launch Vehicle in Bay of Bengal",
+      "url": "https://timesofindia.indiatimes.com/india/isro-reusable-launch-vehicle-test/articleshow/130599400.cms",
+      "published": "Tue, 29 Apr 2026 10:00:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119550800,width-1280,height-720,resizemode-4/119550800.jpg",
+      "summary": "ISRO successfully conducted the third test of its Reusable Launch Vehicle over the Bay of Bengal, achieving all mission objectives including autonomous landing. The RLV technology demonstrator completed a series of complex maneuvers before touching down precisely at the designated landing strip. This marks a major milestone toward cost-effective space access.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 2.9
+    },
+    {
+      "category": "Business",
+      "title": "RBI Holds Repo Rate Steady, Projects 7% GDP Growth for FY27",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-holds-repo-rate-gdp-growth/articleshow/130599500.cms",
+      "published": "Tue, 29 Apr 2026 11:30:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119550900,width-1280,height-720,resizemode-4/119550900.jpg",
+      "summary": "The Reserve Bank of India kept the repo rate unchanged at 6.25% in its latest monetary policy meeting while projecting GDP growth of 7% for FY2026-27. The MPC cited stable inflation and robust domestic consumption as key factors. The central bank also announced measures to boost credit flow to the MSME sector.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 3.4
+    },
+    {
+      "category": "Sports",
+      "title": "Neeraj Chopra Wins Gold at Doha Diamond League with 89.4m Throw",
+      "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopra-doha-diamond-league/articleshow/130599600.cms",
+      "published": "Tue, 29 Apr 2026 06:45:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119551000,width-1280,height-720,resizemode-4/119551000.jpg",
+      "summary": "Olympic champion Neeraj Chopra dominated the Doha Diamond League with a stunning 89.4-metre throw to clinch gold, his best performance of the season. Chopra surpassed his rivals by over two metres, showcasing exceptional form ahead of the World Athletics Championships. He dedicated the victory to his fans and support staff.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 2.6
+    },
+    {
+      "category": "Science",
+      "title": "IIT Delhi Develops AI Model to Predict Monsoon Patterns with 94% Accuracy",
+      "url": "https://timesofindia.indiatimes.com/india/iit-delhi-ai-monsoon-prediction/articleshow/130599700.cms",
+      "published": "Tue, 29 Apr 2026 08:45:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119551100,width-1280,height-720,resizemode-4/119551100.jpg",
+      "summary": "Researchers at IIT Delhi have developed an AI-powered model capable of predicting monsoon patterns with 94% accuracy up to 45 days in advance, significantly better than existing models. The system uses deep learning to analyze satellite data, ocean temperatures, and historical weather patterns. It could transform agricultural planning for millions of Indian farmers.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 3.0
+    },
+    {
+      "category": "Education",
+      "title": "NEP 2020 Implementation: 85% Schools Now Offer Vocational Courses",
+      "url": "https://timesofindia.indiatimes.com/india/nep-2020-vocational-courses-schools/articleshow/130599800.cms",
+      "published": "Tue, 29 Apr 2026 07:00:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119551200,width-1280,height-720,resizemode-4/119551200.jpg",
+      "summary": "The Education Ministry announced that 85% of schools across India now offer vocational education courses under the National Education Policy 2020 implementation, up from just 42% two years ago. The courses cover coding, artificial intelligence, entrepreneurship, and traditional crafts. Student enrollment in vocational streams has grown by 60% year-on-year.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 2.7
+    },
+    {
+      "category": "Entertainment",
+      "title": "Bollywood Blockbuster Crosses Rs 600 Crore at Box Office in Opening Week",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bollywood-blockbuster-600-crore/articleshow/130599900.cms",
+      "published": "Tue, 29 Apr 2026 09:00:00 +0530",
+      "image_url": "https://static.toiimg.com/thumb/msid-119551300,width-1280,height-720,resizemode-4/119551300.jpg",
+      "summary": "A high-budget Bollywood action thriller crossed the Rs 600 crore mark at the domestic box office within its opening week, becoming the fastest Hindi film to achieve this milestone. The film received critical acclaim for its technical achievements and performances. The producers have already announced a sequel based on the overwhelming response.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 2.5
     }
   ]
 }
