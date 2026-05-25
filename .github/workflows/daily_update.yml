@@ -40,15 +40,18 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python summarizer.py
 
-      - name: Copy data to static folder
+      - name: Copy data to docs folder
         run: |
-          mkdir -p static
-          cp summarized_news.json static/summarized_news.json
+          mkdir -p docs
+          cp summarized_news.json docs/summarized_news.json
+          echo "=== Articles count ==="
+          python -c "import json; d=json.load(open('summarized_news.json')); print(str(d['total']) + ' articles summarized')"
 
       - name: Commit and push updated news
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/summarized_news.json summarized_news.json scraped_news.json
+          git add -A
+          git status
           git diff --staged --quiet || git commit -m "Auto-update news $(date +'%Y-%m-%d %H:%M IST')"
           git push
