@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-30T04:39:17",
+  "generated_at": "2026-05-31T05:05:14",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "From Ahinda to Mekedatu: 5 challenges before Karnataka's new CM",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/from-ahinda-and-finances-to-mekedatu-new-cm-will-have-many-challenges-ahead/articleshow/131396854.cms",
-      "published": "Fri, 29 May 2026 23:25:56 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131403510,imgsize-57838.cms",
+      "title": "'I saw the threat call': Mamata claims police forced doctors to release Abhishek",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/eggs-stones-chappals-abhishek-banerjee-discharged-from-itu-due-to-threat-from-police-alleges-mamata-how-events-unfolded-through-the-day/articleshow/131417930.cms",
+      "published": "Sun, 31 May 2026 08:16:55 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131418917,imgsize-74256.cms",
+      "summary": "Tamaghna Banerjee, a reporter from Kolkata, covers crime, aviation, human rights and politics. He has a keen interest in human interest and rural reporting.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "Top Stories",
+      "title": "DK Yes: Citing fuel price hike and traffic jams, Shivakumar opts for low-key ceremony",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/shivakumar-to-take-oath-as-25th-cm-of-ktaka-on-june-3/articleshow/131415013.cms",
+      "published": "Sun, 31 May 2026 00:33:00 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131417828,imgsize-70044.cms",
       "summary": "Manu Aiyappa has been with The Times of India for over two decades, currently serving as the Political Editor. His reporting focuses on politics, public policy, and in-depth features that aim to inform and engage a broad readership.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "Is Indus Treaty deadlock hurting Pak? Karachi reels under chronic water shortage",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/is-indus-waters-treaty-deadlock-hurting-pakistan-karachi-reels-under-chronic-water-shortage/articleshow/131403031.cms",
-      "published": "Sat, 30 May 2026 08:36:41 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131403229,imgsize-111824.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "'If namaz on road wrong, ban all festivals': Owaisi points at 'double standard'",
-      "url": "https://timesofindia.indiatimes.com/india/if-namaz-on-road-wrong-ban-all-festival-celebrations-owaisi-points-at-double-standard/articleshow/131403146.cms",
-      "published": "Sat, 30 May 2026 08:55:05 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131403227,imgsize-660376.cms",
-      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Top Stories",
-      "title": "'They walk among us': White House launches alien-themed website to track immigrants",
-      "url": "https://timesofindia.indiatimes.com/world/us/they-walk-among-us-white-house-launches-alien-themed-website-to-track-immigrants/articleshow/131402641.cms",
-      "published": "Sat, 30 May 2026 07:41:23 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131402693,imgsize-355451.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "Gulf's other war: UAE carried out strikes on Iran despite ceasefire \u2014 Report",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/gulfs-other-war-inside-uaes-hidden-role-behind-strikes-on-iran/articleshow/131402792.cms",
-      "published": "2026-05-30T07:54:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131402785,imgsize-91916.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
-      "category": "India",
-      "title": "'They walk among us': White House launches alien-themed website to track immigrants",
-      "url": "https://timesofindia.indiatimes.com/world/us/they-walk-among-us-white-house-launches-alien-themed-website-to-track-immigrants/articleshow/131402641.cms",
-      "published": "2026-05-30T07:41:23+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131402693,imgsize-355451.cms",
+      "category": "Top Stories",
+      "title": "Watch: Massive meteor explosion rattles houses across northeastern US",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-house-shaking-meteor-explodes-over-northeastern-us-unleashes-300-ton-tnt-blast/articleshow/131418336.cms",
+      "published": "Sun, 31 May 2026 09:10:38 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131418844,imgsize-1819058.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
+    },
+    {
+      "category": "Top Stories",
+      "title": "IPL Final: Kohli vs Siraj, Gill vs Bhuvneshwar - Five key player battles",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-vs-gt-virat-kohli-vs-mohammed-siraj-shubman-gill-vs-bhuvneshwar-kumar-five-key-player-battles-that-could-decide-ipl-2026-final/articleshow/131418233.cms",
+      "published": "Sun, 31 May 2026 09:02:30 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131418282,imgsize-1163044.cms",
+      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
     },
     {
       "category": "India",
-      "title": "China building launch pads near nuclear missile silos",
-      "url": "https://timesofindia.indiatimes.com/world/china/china-building-launch-pads-near-nuclear-missile-silos/articleshow/131402279.cms",
-      "published": "2026-05-30T06:31:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131402291,imgsize-395598.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131402279.cms\" />",
+      "title": "China expels NYT reporter over interview with Taiwan president",
+      "url": "https://timesofindia.indiatimes.com/world/china/china-expels-nyt-reporter-over-interview-with-taiwan-president/articleshow/131417789.cms",
+      "published": "2026-05-31T07:34:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417796,imgsize-776113.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417789.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Is IShowSpeed working on a FIFA World Cup 2026 song? Behind-the-scenes footage sparks major fan speculation",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/is-ishowspeed-working-on-a-fifa-world-cup-2026-song-behind-the-scenes-footage-sparks-major-fan-speculation/articleshow/131402066.cms",
-      "published": "2026-05-30T05:52:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131402066,imgsize-44076.cms",
-      "summary": "Barsha Dutta has been covering the NFL since 2024, bringing a fresh and engaging perspective to the game. With Masters in Literature, she blends passion with insight, making football stories both relatable and exciting for readers.",
+      "title": "AUKUS to develop unmanned undersea vehicles, Pentagon chief says",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/aukus-to-develop-unmanned-undersea-vehicles-pentagon-chief-says/articleshow/131417777.cms",
+      "published": "2026-05-31T07:29:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417784,imgsize-104412.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417777.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "At summit, AI dangers dwarf nuclear concerns",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-summit-ai-dangers-dwarf-nuclear-concerns/articleshow/131417770.cms",
+      "published": "2026-05-31T07:25:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417771,imgsize-1124460.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417770.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Raise defence spending or else, Hegseth tells NATO, Europe",
+      "url": "https://timesofindia.indiatimes.com/world/us/raise-defence-spending-or-else-hegseth-tells-nato-europe/articleshow/131417762.cms",
+      "published": "2026-05-31T07:22:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417768,imgsize-106772.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131417762.cms\" />US Defense Secretary Pete Hegseth took another swipe at Washington's NATO and European partners on Saturday, saying those that do not hike defence spending sufficiently \"will face a clear shift in how we do business\". \"Allies who refuse to step up and carry their own weight for our collective defence will face a clear shift in how we do business.\".",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.23
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.14
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "RBI's income rose 26% to '4.3 lakh crore over dollar gains in FY26",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbis-income-rose-26-to-4-3-lakh-crore-over-dollar-gains-in-fy26/articleshow/131403167.cms",
-      "published": "2026-05-30T08:36:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403219,imgsize-842210.cms",
+      "title": "Special additional excise duty on fuel exports reduced",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/special-additional-excise-duty-on-fuel-exports-reduced/articleshow/131417678.cms",
+      "published": "2026-05-31T06:57:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417684,imgsize-934892.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "SC clears RIL of making illegal gain charge in 2007 RPL trading",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sc-clears-ril-of-making-illegal-gain-charge-in-2007-rpl-trading/articleshow/131403099.cms",
-      "published": "2026-05-30T08:30:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403134,imgsize-563853.cms",
+      "title": "Indian crude basket below $100/bbl, 1st since March 6",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indian-crude-basket-below-100/bbl-1st-since-march-6/articleshow/131417665.cms",
+      "published": "2026-05-31T06:54:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131417668,imgsize-721458.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.17
     },
     {
       "category": "Business",
-      "title": "AI giants make aggressive India pitches",
-      "url": "https://timesofindia.indiatimes.com/india/ai-giants-make-aggressive-india-pitches/articleshow/131403152.cms",
-      "published": "2026-05-30T08:33:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403162,imgsize-1124460.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131403152.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Business",
-      "title": "India 5th most digitalised economy: Report",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/india-5th-most-digitalised-economy-report/articleshow/131403078.cms",
-      "published": "2026-05-30T08:27:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403089,imgsize-534090.cms",
+      "title": "5-month duty relief for cotton imports",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/5-month-duty-relief-for-cotton-imports/articleshow/131415509.cms",
+      "published": "2026-05-31T02:50:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131415510,imgsize-957622.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.16
+    },
+    {
+      "category": "Business",
+      "title": "US tariff row: Refunds in limbo as Trump admin moves to appeal court order",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-tariff-row-refunds-in-limbo-as-donald-trump-administration-moves-to-appeal-court-order/articleshow/131413246.cms",
+      "published": "2026-05-30T22:58:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131413426,imgsize-72618.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.27
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.12
     },
     {
       "category": "Education",
-      "title": "BRO recruitment 2026: Applications open for 899 electrician and other posts: Check complete details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/bro-recruitment-2026-applications-open-for-899-electrician-and-other-posts-check-details-here/articleshow/131403388.cms",
-      "published": "2026-05-30T09:12:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403507,imgsize-765188.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bro-recruitment-2026-applications-open-for-899-electrician-and-other-posts-check-details-here/articleshow/131403388.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131403388.cms\" /></a>The Border Roads Organisation (BRO) has begun the recruitment process for 899 vacancies, including Electrician and several other posts. Candidates can submit applications online until July 4, 2026.",
+      "title": "UP Police Constable admit card 2026 likely to be released tomorrow at upprpb.in: Check steps to download hall ticket",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-police-constable-admit-card-2026-likely-to-be-released-tomorrow-at-upprpb-in-check-steps-to-download-hall-ticket/articleshow/131418711.cms",
+      "published": "2026-05-31T10:10:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418803,imgsize-366161.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-police-constable-admit-card-2026-likely-to-be-released-tomorrow-at-upprpb-in-check-steps-to-download-hall-ticket/articleshow/131418711.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131418711.cms\" /></a>UP Police Constable admit cards for 2026 are anticipated tomorrow, June 1, on upprpb.in. The offline OMR-based exam is scheduled for June 8-10 across Uttar Pradesh.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Education",
+      "title": "UP TGT admit card 2026 released at upessc.up.gov.in: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-tgt-admit-card-2026-released-at-upessc-up-gov-in-direct-link-to-download-hall-ticket-here/articleshow/131418593.cms",
+      "published": "2026-05-31T09:46:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418645,imgsize-130925.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-tgt-admit-card-2026-released-at-upessc-up-gov-in-direct-link-to-download-hall-ticket-here/articleshow/131418593.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131418593.cms\" /></a>The Uttar Pradesh Education Service Selection Commission has released the UP TGT Admit Card 2026 for the recruitment examination scheduled for June 3 and 4. Candidates can download their hall tickets from the official website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "Maharashtra FYCJ first merit list 2026 released at mahafyjcadmissions.in: Check direct link and other important details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/maharashtra-fycj-first-merit-list-2026-released-at-mahafyjcadmissions-in-check-direct-link-and-other-important-details-here/articleshow/131402993.cms",
-      "published": "2026-05-30T08:19:16+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403023,imgsize-103529.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/maharashtra-fycj-first-merit-list-2026-released-at-mahafyjcadmissions-in-check-direct-link-and-other-important-details-here/articleshow/131402993.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131402993.cms\" /></a>Maharashtra's Class 11 admissions are underway with the release of the FYJC Merit List 2026. Over 20 lakh seats are available, with CAP Round 1 and Quota Admissions open until June 3rd.",
+      "title": "BPSC 72nd CCE 2026 applications for 1,186 posts end today; direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/bpsc-72nd-cce-2026-applications-for-1186-posts-end-today-direct-link-to-apply-here/articleshow/131418409.cms",
+      "published": "2026-05-31T09:13:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418415,imgsize-765486.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bpsc-72nd-cce-2026-applications-for-1186-posts-end-today-direct-link-to-apply-here/articleshow/131418409.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131418409.cms\" /></a>Bihar Public Service Commission's 72nd Combined Preliminary Competitive Examination 2026 application window closes today, May 31. This recruitment drive aims to fill 1,186 vacancies across various Bihar government departments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "Can critical thinking competitions change how classrooms function?",
-      "url": "https://timesofindia.indiatimes.com/education/news/can-critical-thinking-competitions-change-how-classrooms-function/articleshow/131402992.cms",
-      "published": "2026-05-30T08:15:29+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131402969,imgsize-1245298.cms",
-      "summary": "Meghna Dhulia is an Assistant News Editor at The Times of India, bringing over a decade of experience in journalism. She specialises in education reporting, covering both foundational and higher education with a clear, insightful lens.",
+      "title": "From academia to animal welfare: How Assam\u2019s Prapti Foundation emerged as a force against dog trafficking and cruelty",
+      "url": "https://timesofindia.indiatimes.com/education/news/from-academia-to-animal-welfare-how-assams-prapti-foundation-emerged-as-a-force-against-dog-trafficking-and-cruelty/articleshow/131418273.cms",
+      "published": "2026-05-31T08:59:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418284,imgsize-55046.cms",
+      "summary": "Kangkan Kalita is a reporter with The Times of India and covers issues on health, education, stories of human interest while keeping a close watch on political developments and student movements. Reporting on environment and forest related issues and concerns of the northeast interest him equally.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "'Cannot continue indefinitely': Supreme Court extends TET deadline till August 2028",
-      "url": "https://timesofindia.indiatimes.com/education/news/cannot-continue-indefinitely-supreme-court-extends-teacher-eligibility-test-tet-deadline-till-august-2028/articleshow/131393191.cms",
-      "published": "2026-05-29T20:03:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131393299,imgsize-48208.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cannot-continue-indefinitely-supreme-court-extends-teacher-eligibility-test-tet-deadline-till-august-2028/articleshow/131393191.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131393191.cms\" /></a>The Supreme Court mandated that in-service teachers must pass the Teacher Eligibility Test (TET) to continue their employment, extending the deadline to August 31, 2028. Dismissing review petitions, the bench emphasized the RTE Act's intent for all teachers to meet minimum qualifications, prioritizing children's educational future..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "Marcia Lucas passes away at 80",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/star-wars-editor-marcia-lucas-passes-away-at-the-age-of-80/articleshow/131403608.cms",
-      "published": "2026-05-30T09:33:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403631,imgsize-53612.cms",
+      "title": "Mohini Mani's demise: Vijay, Trisha reach Ajith residence",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-and-trisha-krishnan-reach-ajith-kumars-residence-offer-condolences-after-mother-mohini-manis-demise/articleshow/131418358.cms",
+      "published": "2026-05-31T09:08:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418382,imgsize-103738.cms",
+      "summary": "#Ajithkumar receiving Chief Minister Vijay along with Trisha \u00e2\u009d\u00a4\u00ef\u00b8\u008f pic.twitter.com/KhgT74nQbK \u00e2\u0080\u0094 Ayyappan (@Ayyappan_1504) May 30, 2026 The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Entertainment",
+      "title": "Italy cancels Kanye West, Travis Scott shows",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/italy-bans-kanye-west-and-travis-scott-concerts-over-security-concerns-amid-fears-of-protests-and-unrest/articleshow/131418246.cms",
+      "published": "2026-05-31T09:09:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418255,imgsize-99474.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "Joan Cusack stuns at 'Toy Story 5' premiere after 11-year hiatus",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/joan-cusack-returns-to-red-carpet-after-11-year-break-at-toy-story-5-premiere-in-london/articleshow/131403537.cms",
-      "published": "2026-05-30T09:32:16+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403585,imgsize-112328.cms",
+      "title": "Sobhita on public scrutiny post wedding: 'Comfortable to...'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sobhita-dhulipala-on-public-scrutiny-post-wedding-with-naga-chaitanya-i-am-very-comfortable-to-sit-amidst-polarising-views/articleshow/131418221.cms",
+      "published": "2026-05-31T08:52:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418256,imgsize-124550.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Entertainment",
+      "title": "Rod Stewart cancels his 'One Last Time' tour",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rod-stewart-cancels-his-one-last-time-tour-due-to-health-issues-resumes-on-june-2-i-am-on-vocal-rest/articleshow/131418259.cms",
+      "published": "2026-05-31T08:52:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131418247,imgsize-39282.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "Harry Styles\u2019 team is working hard on making changes in the concert layout",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-under-scrutiny-over-concert-layout-singers-team-working-on-making-changes-to-enhance-experience/articleshow/131403318.cms",
-      "published": "2026-05-30T08:52:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403318,imgsize-48476.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Entertainment",
-      "title": "Reema Kagti on nepotism debate: 'People outrage, but only...'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/reema-kagti-on-nepotism-debate-people-outrage-but-only-watch-films-starring-known-faces/articleshow/131403070.cms",
-      "published": "2026-05-30T08:49:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131403364,imgsize-19476.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
     }
   ]
 }
