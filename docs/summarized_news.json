@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-06-05T05:01:27",
+  "generated_at": "2026-06-06T04:41:46",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Days after taking oath, 'humilated' Ramalinga Reddy quits Karnataka cabinet; cites 'DKS U-turn'",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/i-have-been-humiliated-time-and-again-karnataka-minister-r-ramalinga-reddy-quits-flags-u-turn-by-dk-shivakumar/articleshow/131521241.cms",
-      "published": "Fri, 05 Jun 2026 09:40:07 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131521823,imgsize-28172.cms",
-      "summary": "A Journalist by profession, Sandeep Moudgal has an experience of 18 years in the field with Politics and Policy as forte. He is a Senior Assistant Editor with the Bengaluru bureau and Karnataka as his jurisdiction.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Top Stories",
-      "title": "Video: Massive fire breaks out on 12th floor of luxury high-rise in Noida",
-      "url": "https://timesofindia.indiatimes.com/city/noida/massive-fire-breaks-out-at-noidas-ivy-county/articleshow/131520051.cms",
-      "published": "Fri, 05 Jun 2026 08:18:33 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131520362,imgsize-15207298.cms",
-      "summary": "Advitya Bahl is a crime reporter with the Times of India's Noida edition. With nearly a decade of experience covering both high and medium level criminal cases, court trials, and police investigations, he has built sources within the beat with reputation, integrity, and impactful storytelling.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Top Stories",
-      "title": "'India ke liye 15 saal khelna hai': DC's 'ziddi boy' Madhav Tiwari chases big dream",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/india-ke-liye-15-saal-khelna-hai-delhi-capitals-ziddi-boy-madhav-tiwari-chases-big-india-dream-exclusive/articleshow/131519585.cms",
-      "published": "Fri, 05 Jun 2026 07:57:03 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131519654,imgsize-163012.cms",
-      "summary": "Emerging talent Madhav Tiwari, a 22-year-old from Madhya Pradesh, made a significant Indian Premier League debut for Delhi Capitals in 2026 season, showcasing his all-round abilities with both bat and ball. Despite limited prior experience, Tiwari impressed by taking crucial wickets and playing a match-winning cameo, fueling his ambition to represent India..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Top Stories",
-      "title": "Why Google cofounders lost $10 billion each on the day Google raised $80 billion",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-google-cofounders-larry-page-and-sergey-brin-lost-10-billion-each-on-the-day-google-raised-80-billion/articleshow/131511655.cms",
-      "published": "Fri, 05 Jun 2026 08:20:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131511646,imgsize-38202.cms",
-      "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "India",
-      "title": "Putin's word of caution on India-China ties; rejects notion that Pakistan is under Beijing's control",
-      "url": "https://timesofindia.indiatimes.com/world/europe/putins-word-of-caution-on-india-china-ties-rejects-notion-that-pakistan-is-under-beijings-control/articleshow/131519409.cms",
-      "published": "2026-06-05T09:27:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131519489,imgsize-835294.cms",
+      "title": "'Mass invasion of migrants': Vance calls for 'righteous anger' over UK teen's stabbing by Sikh man",
+      "url": "https://timesofindia.indiatimes.com/world/us/mass-invasion-of-migrants-jd-vance-on-teen-stabbed-by-indian-in-uk-draws-britains-reponse/articleshow/131543358.cms",
+      "published": "Sat, 06 Jun 2026 08:35:24 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131544141,imgsize-29650.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
-      "category": "India",
-      "title": "Candace Owens shuts down presidential rumors while pushing Tucker Carlson into the 2028 conversation",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-shuts-down-presidential-rumors-while-pushing-tucker-carlson-into-the-2028-conversation/articleshow/131518922.cms",
-      "published": "2026-06-05T05:28:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131518917,imgsize-695713.cms",
-      "summary": "Sehjal Gupta is a sports journalist covering US and international sports, with a specialization in the NFL. She has been writing about sports since 2025, reporting on leagues, tournaments, and athletes who shape the game.",
+      "category": "Top Stories",
+      "title": "'Sanctions threat would boomerang': Putin hails India's stance against foreign diktats",
+      "url": "https://timesofindia.indiatimes.com/india/any-sanctions-threat-would-boomerang-putin-hails-indias-stance-against-foreign-diktats/articleshow/131543803.cms",
+      "published": "Sat, 06 Jun 2026 09:27:55 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131544184,imgsize-65902.cms",
+      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.15
     },
     {
-      "category": "India",
-      "title": "\u201cI regret doing it\u201d: Sykkuno breaks silence on cheating controversy and shares emotional update on girlfriend",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/i-regret-doing-it-sykkuno-breaks-silence-on-cheating-controversy-and-shares-emotional-update-on-girlfriend/articleshow/131518746.cms",
-      "published": "2026-06-05T03:51:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131518805,imgsize-1064509.cms",
-      "summary": "Sehjal Gupta is a sports journalist covering US and international sports, with a specialization in the NFL. She has been writing about sports since 2025, reporting on leagues, tournaments, and athletes who shape the game.",
+      "category": "Top Stories",
+      "title": "Bride-to-be, stabbed 34 times, chilling CCTV: How Mohali office turned into scene of horror",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/woman-killed-in-mohali-office-was-bride-to-be-stabbed-34-times-/articleshow/131540268.cms",
+      "published": "Sat, 06 Jun 2026 02:00:03 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131543077,imgsize-9667344.cms",
+      "summary": "A shocking incident in Mohali saw a 30-year-old woman, Dimple, brutally stabbed to death by a colleague just days before her wedding. The attack, captured on CCTV, occurred at her office desk.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
+    },
+    {
+      "category": "Top Stories",
+      "title": "Meta's highest-paid employee\u2019s 'health message' to Anthropic, OpenAI &amp; Google",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-sends-health-message-to-anthropic-openai-google-and-others-with-ai-models-our-models-will-differentiate-from-yours-with-their-/articleshow/131522161.cms",
+      "published": "Fri, 05 Jun 2026 10:31:46 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131522157,imgsize-62350.cms",
+      "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "YouTuber Jesse Ridgway says he and wife made difficult choice after fetal Down syndrome diagnosis",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/youtuber-jesse-ridgway-says-he-and-wife-made-difficult-choice-after-fetal-down-syndrome-diagnosis/articleshow/131516522.cms",
-      "published": "2026-06-05T01:30:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131516515,imgsize-1014269.cms",
+      "title": "Over $580,000 forfeited in Australian visa fraud crackdown; man jailed for submitting false migration documents",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/over-580000-forfeited-in-australian-visa-fraud-crackdown-man-jailed-for-submitting-false-migration-documents/articleshow/131540571.cms",
+      "published": "2026-06-06T02:28:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540578,imgsize-92244.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "Sneako says he\u2019s getting married, but there\u2019s more to the story behind viral clip",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/sneako-says-hes-getting-married-but-theres-more-to-the-story-behind-viral-clip/articleshow/131540553.cms",
+      "published": "2026-06-06T01:53:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540552,imgsize-503219.cms",
       "summary": "Sumit Roy is a passionate WWE content writer with a keen eye for storytelling and an in-depth understanding of the wrestling world. His dedication to the sport and his ability to capture the excitement and drama of WWE events make him an invaluable asset to the wrestling community.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.03
+    },
+    {
+      "category": "India",
+      "title": "KSI\u2019s departure from Sidemen triggers fresh debate after group releases clarifying statement",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/ksis-departure-from-sidemen-triggers-fresh-debate-after-group-releases-clarifying-statement/articleshow/131540260.cms",
+      "published": "2026-06-06T00:59:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540254,imgsize-53616.cms",
+      "summary": "Sumit Roy is a passionate WWE content writer with a keen eye for storytelling and an in-depth understanding of the wrestling world. His dedication to the sport and his ability to capture the excitement and drama of WWE events make him an invaluable asset to the wrestling community.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "Twitch star Nmplol breaks silence on divorce settlement with ex-wife Malena Tudi",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-star-nmplol-breaks-silence-on-divorce-settlement-with-ex-wife-malena-tudi/articleshow/131540386.cms",
+      "published": "2026-06-06T01:16:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540380,imgsize-732853.cms",
+      "summary": "Sumit Roy is a passionate WWE content writer with a keen eye for storytelling and an in-depth understanding of the wrestling world. His dedication to the sport and his ability to capture the excitement and drama of WWE events make him an invaluable asset to the wrestling community.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.08
     },
     {
       "category": "Technology",
@@ -125,43 +125,43 @@
     },
     {
       "category": "Business",
-      "title": "Top stocks to buy today: Stock recommendations for June 5, 2026 - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-today-stock-recommendations-for-june-05-2026-check-list-power-finance-corporation-pfc-aequs/articleshow/131521438.cms",
-      "published": "2026-06-05T09:50:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131521468,imgsize-53232.cms",
+      "title": "$1.3 trillion erased from Wall Street: Here's what slowed down AI rally",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/1-3-trillion-wiped-off-wall-street-as-ai-rally-slows-nvidia-slips-6-micron-falls-13/articleshow/131544133.cms",
+      "published": "2026-06-06T09:33:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131544158,imgsize-140766.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Stock Market Live Updates Today: BSE Sensex opens over 200 points up, Nifty50 above 23,450 ahead of RBI monetary policy",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-05-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131519677.cms",
-      "published": "2026-06-05T07:58:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131519677,imgsize-111776.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519677.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices today: Crude falls as Hezbollah rejects US-backed ceasefire, traders assess conflict risks",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-05-june-2026-crude-falls-as-hezbollah-rejects-us-backed-ceasefire-traders-assess-conflict-risks/articleshow/131519827.cms",
-      "published": "2026-06-05T08:39:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131520361,imgsize-728057.cms",
+      "title": "Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/pocket-friendly-packets-why-indians-are-swapping-big-snack-packs-for-smaller-ones/articleshow/131543313.cms",
+      "published": "2026-06-06T08:16:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131543485,imgsize-2459245.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Business",
-      "title": "Gold, Silver Rate Today Live Updates: Gold prices set for weekly fall as crude oil prices remain elevated, US-Iran conflict uncertainty continues",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131519846.cms",
-      "published": "2026-06-05T08:05:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131519846,imgsize-113228.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519846.cms\" />",
+      "title": "GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-rose-7-7-in-fy26-7-8-in-q4-rbi-trims-this-years-projection-to-6-6/articleshow/131540667.cms",
+      "published": "2026-06-06T03:04:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540834,imgsize-39690.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131540667.cms\" />India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Retract charges or pay Rs 1,000cr: Tata Trusts",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/retract-charges-or-pay-1000cr-tata-trusts/articleshow/131540590.cms",
+      "published": "2026-06-06T02:23:03+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131540592,imgsize-15004.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Education",
+      "title": "Karnataka Police Constable Recruitment 2026: Applications open for 3,395 posts; check eligibility, selection process and how to apply",
+      "url": "https://timesofindia.indiatimes.com/education/news/karnataka-police-constable-recruitment-2026-applications-open-for-3395-posts-check-eligibility-selection-process-and-how-to-apply/articleshow/131544212.cms",
+      "published": "2026-06-06T09:43:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131544260,imgsize-21806.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/karnataka-police-constable-recruitment-2026-applications-open-for-3395-posts-check-eligibility-selection-process-and-how-to-apply/articleshow/131544212.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131544212.cms\" /></a>Karnataka Police has announced recruitment for 3,395 Constable (Civil) positions, with applications opening June 5, 2026. Eligibility requires PUC/Class 12, with age limits varying by category.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Education",
+      "title": "TS Inter Supplementary Results 2026 expected soon: Check likely dates, how to download",
+      "url": "https://timesofindia.indiatimes.com/education/news/tg-inter-supplementary-results-2026-expected-soon-check-likely-dates-how-to-download/articleshow/131543818.cms",
+      "published": "2026-06-06T09:14:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131543823,imgsize-1880461.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/tg-inter-supplementary-results-2026-expected-soon-check-likely-dates-how-to-download/articleshow/131543818.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543818.cms\" /></a>Telangana Intermediate supplementary exam results for 1st and 2nd year students are expected between June 10-16, 2026. Following the completion of evaluations, the TGBIE will soon release scores for both general and vocational streams.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Education",
-      "title": "OJEE Result 2026 expected date and time; scorecard link to be activated on ojee.nic.in",
-      "url": "https://timesofindia.indiatimes.com/education/news/ojee-result-2026-expected-date-and-time-scorecard-link-to-be-activated-on-ojee-nic-in/articleshow/131521473.cms",
-      "published": "2026-06-05T09:56:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131521518,imgsize-71984.cms",
-      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
+      "title": "UP Police SI Admit Card 2026 released at uppbpb.gov.in: Check link and steps to download",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-police-si-admit-card-2026-released-check-link-and-steps-to-download/articleshow/131543563.cms",
+      "published": "2026-06-06T08:45:11+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131543644,imgsize-26890.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-police-si-admit-card-2026-released-check-link-and-steps-to-download/articleshow/131543563.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543563.cms\" /></a>Uttar Pradesh Police Sub-Inspector candidates can now download their admit cards for Document Verification and Physical Standard Test. Successful candidates from the March 2026 written exam can access their hall tickets on the UPPRPB website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "Territorial Army Officer Recruitment 2026: When will admit card be released? Check exam pattern and marking scheme",
-      "url": "https://timesofindia.indiatimes.com/education/news/territorial-army-officer-recruitment-2026-when-will-admit-card-be-released-check-exam-pattern-and-marking-scheme/articleshow/131521009.cms",
-      "published": "2026-06-05T09:36:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131521225,imgsize-29352.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/territorial-army-officer-recruitment-2026-when-will-admit-card-be-released-check-exam-pattern-and-marking-scheme/articleshow/131521009.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131521009.cms\" /></a>Territorial Army Commission Examination 2026 is scheduled for July 12. Admit cards are expected in late June or early July.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Education",
-      "title": "REET Mains Result 2026 and cut-offs released at rssb.rajasthan.gov.in; download 3rd Grade scorecard PDF here",
-      "url": "https://timesofindia.indiatimes.com/education/news/reet-mains-result-2026-and-cut-offs-released-at-rssb-rajasthan-gov-in-download-3rd-grade-scorecard-pdf-here/articleshow/131521032.cms",
-      "published": "2026-06-05T09:26:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131521057,imgsize-60460.cms",
-      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Education",
-      "title": "TAT HS 2026 final answer key out at sebexam.org; SEB Gujarat result expected soon",
-      "url": "https://timesofindia.indiatimes.com/education/news/tat-hs-2026-final-answer-key-out-at-sebexam-org-seb-gujarat-result-expected-soon/articleshow/131520552.cms",
-      "published": "2026-06-05T08:49:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131520557,imgsize-65776.cms",
-      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
+      "title": "Big relief for JEE aspirants: IIT Roorkee opens counselling route for candidates below 75% marks in CBSE Class 12",
+      "url": "https://timesofindia.indiatimes.com/education/news/big-relief-for-jee-aspirants-iit-roorkee-opens-counselling-route-for-candidates-below-75-marks-in-class-12/articleshow/131543303.cms",
+      "published": "2026-06-06T08:00:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131543363,imgsize-57188.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/big-relief-for-jee-aspirants-iit-roorkee-opens-counselling-route-for-candidates-below-75-marks-in-class-12/articleshow/131543303.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131543303.cms\" /></a>IIT Roorkee has said that students who do not meet the minimum Class 12 marks criteria can still participate in the ongoing JEE Advanced counselling process. However, final admission will depend on meeting the required marks and document verification.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Hai Jawani Toh Ishq Hona Hai &amp; Bandar Movie Review and Release Live Updates",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hai-jawani-toh-ishq-hona-hai-bandar-movie-review-release-live-update-varun-dhawan-bobby-deol-hai-jawani-toh-ishq-hona-hai-bandar-review-and-box-office-collection/liveblog/131519021.cms",
-      "published": "2026-06-05T05:52:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131519021,imgsize-104132.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131519021.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Entertainment",
-      "title": "Quote of the day by Chris Hemsworth",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-chris-hemsworth-i-choose-to-run-towards-my-problems-and-not-away-from-them-because-thats-what-heroes-do/articleshow/131520957.cms",
-      "published": "2026-06-05T10:03:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131521589,imgsize-111150.cms",
+      "title": "'Bethlehem Kudumba Unit': Film gets release date",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-release-nivin-pauly-and-mamitha-baijus-film-joins-onam-release-line-up/articleshow/131544244.cms",
+      "published": "2026-06-06T09:44:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131544268,imgsize-111704.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "'Top Gun' star James Handy MURDERED by girlfriend's son",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-handy-top-gun-maverick-actor-brutally-murdered-by-girlfriends-son-chilling-911-call-revealed/articleshow/131520721.cms",
-      "published": "2026-06-05T09:27:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131520979,imgsize-88154.cms",
+      "title": "Varun Dhawan calls Farah Khan the \u2018highest paid YouTuber\u2019",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-gifts-hai-jawani-toh-ishq-hona-hai-cast-expensive-watches-varun-dhawan-calls-her-highest-paid-youtuber/articleshow/131544213.cms",
+      "published": "2026-06-06T09:40:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131544231,imgsize-117300.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "\u2018Masters of the Universe\u2019 post-credits scene LEAKED- Watch",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/masters-of-the-universe-post-credits-scene-leaked-online-sparks-buzz-about-sequel-with-she-ras-arrival-watch/articleshow/131519994.cms",
-      "published": "2026-06-05T08:55:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131520594,imgsize-235584.cms",
+      "title": "Angelina celebrates 51st b'day kids; attends Knox's graduation- PICS",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-celebrates-51st-birthday-with-her-children-attends-son-knoxs-graduation-ceremony-pics/articleshow/131543748.cms",
+      "published": "2026-06-06T09:36:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131544058,imgsize-132948.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Game of Thrones' star Kit Harington reveals rehab decision",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/game-of-thrones-star-kit-harington-reveals-he-was-in-rehab-during-the-shows-final-season-i-was-there-for-six-weeks-isolated/articleshow/131543781.cms",
+      "published": "2026-06-06T09:10:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131543796,imgsize-109494.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
     }
   ]
 }
