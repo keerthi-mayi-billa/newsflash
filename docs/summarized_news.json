@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-06-16T05:50:39",
+  "generated_at": "2026-06-17T05:29:56",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "US-Iran deal, Uranium stockpile and the $300 bn question: What exactly has Tehran agreed to?",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-deal-uranium-stockpile-and-the-300-billion-question-what-exactly-has-tehran-agreed-to/articleshow/131758967.cms",
-      "published": "Tue, 16 Jun 2026 09:46:38 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131759259,imgsize-1448660.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "title": "Blood on bed, empty liquor bottles: Mystery deepens in Gurgaon techie's death at Mussoorie homestay",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/no-foul-play-says-father-of-vizag-techie-found-dead-near-mussoorie/articleshow/131780445.cms",
+      "published": "Wed, 17 Jun 2026 00:18:39 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131784016,imgsize-56768.cms",
+      "summary": "Nalla Ram Babu is a Special Correspondent, at the Times of India-Visakhapatnam. He reports on crime, rural development, road transport, Indian Navy, sea food industry, weather, research in agriculture, legal, civic issues and data-driven stories.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.2
+      "time_sec": 15.13
     },
     {
       "category": "Top Stories",
-      "title": "Paper leak row: Centre to temporarily block Telegram ahead of NEET (UG) 2026 re-exam",
-      "url": "https://timesofindia.indiatimes.com/india/paper-leak-row-centre-blocks-telegram-ahead-of-neet-ug-2026-re-exam/articleshow/131760157.cms",
-      "published": "Tue, 16 Jun 2026 10:52:47 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131760300,imgsize-38220.cms",
+      "title": "'We are most famous couple on Instagram': Meloni's hot mic moment at G7 with PM Modi goes viral",
+      "url": "https://timesofindia.indiatimes.com/india/we-are-most-famous-couple-on-instagram-melonis-hot-mic-moment-at-g7-with-pm-modi-goes-viral/articleshow/131784865.cms",
+      "published": "Wed, 17 Jun 2026 08:35:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131785175,imgsize-37018.cms",
       "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.09
     },
     {
       "category": "Top Stories",
-      "title": "Mamata vs rebels: Lok Sabha Speaker Om Bira to hear both sides before taking call",
-      "url": "https://timesofindia.indiatimes.com/india/tmc-fallout-lok-sabha-speaker-om-birla-to-hear-both-sides-over-merger-request-by-rebels/articleshow/131759981.cms",
-      "published": "Tue, 16 Jun 2026 10:38:36 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131760087,imgsize-1453544.cms",
-      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics.",
+      "title": "Late-night Delhi huddle: Eknath Shinde meets 6 Shiv Sena (UBT) MPs amid 'Operation Tiger' buzz",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/amid-operation-tiger-buzz-eknath-shinde-in-late-night-huddle-with-6-shiv-sena-ubt-mps-in-delhi/articleshow/131784813.cms",
+      "published": "Wed, 17 Jun 2026 08:31:01 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131784915,imgsize-1671962.cms",
+      "summary": "Speculation of a Shiv Sena (UBT) split intensified after Eknath Shinde met with several MPs from Uddhav Thackeray's camp in Delhi. In response, Shiv Sena MP Arvind Sawant urged the Lok Sabha Speaker not to recognize any breakaway group or merger, citing parliamentary rules and the ongoing Supreme Court case..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.06
     },
     {
       "category": "Top Stories",
-      "title": "IND A vs SL A: Why was Super Over played despite fading light? Decision raises eyebrows",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-sri-lanka-a-why-was-the-super-over-played-despite-fading-light-dramatic-decision-raises-eyebrows/articleshow/131759662.cms",
-      "published": "Tue, 16 Jun 2026 10:29:35 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-131759666,imgsize-79432.cms",
+      "title": "Messi scripts history with first World Cup hat-trick, equals Klose's goals record",
+      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-scripts-history-with-first-fifa-world-cup-hat-trick-equals-miroslav-kloses-all-time-goals-record/articleshow/131785483.cms",
+      "published": "Wed, 17 Jun 2026 09:02:36 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-131785512,imgsize-91364.cms",
       "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "UK to supply uranium to Ukraine, ramp up sanctions on Russia: Starmer",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-to-supply-uranium-to-ukraine-ramp-up-sanctions-on-russia-starmer/articleshow/131759984.cms",
-      "published": "2026-06-16T10:35:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131760031,imgsize-32734.cms",
+      "title": "Texas plane crash: Video captures rescuers trying to free people through cockpit window",
+      "url": "https://timesofindia.indiatimes.com/world/us/texas-plane-crash-video-captures-rescuers-trying-to-free-people-through-cockpit-window/articleshow/131786177.cms",
+      "published": "2026-06-17T10:04:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786404,imgsize-593996.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "The world has 193 countries, but only one is named after a real woman; story begins nearly 1,700 years ago",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-world-has-193-countries-but-only-one-is-named-after-a-real-woman-story-begins-nearly-1700-years-ago/articleshow/131786230.cms",
+      "published": "2026-06-17T10:04:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786387,imgsize-116252.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "No nukes, Hormuz access and more: JD Vance outlines 3 pillars of US-Iran deal",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-nukes-hormuz-access-and-more-jd-vance-outlines-3-pillars-of-us-iran-deal/articleshow/131785684.cms",
+      "published": "2026-06-17T09:27:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785708,imgsize-107412.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "India",
-      "title": "Quote of the day by ex-American President Harry S. Truman: \u201cThree things can ruin a man: power, money and women. I never wanted power, I never had any money, and the only woman in my life is\u2026\u201d",
-      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-ex-american-president-harry-s-truman-three-things-can-ruin-a-man-power-money-and-women-i-never-wanted-power-i-never-had-any-money-and-the-only-woman-in-my-life-is/articleshow/131759375.cms",
-      "published": "2026-06-16T10:13:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131759454,imgsize-39658.cms",
+      "title": "US military strikes another suspected drug-trafficking boat in eastern Pacific, 1 killed",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-military-strikes-another-suspected-drug-trafficking-boat-in-eastern-pacific-1-killed/articleshow/131785133.cms",
+      "published": "2026-06-17T08:41:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785445,imgsize-16071711.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
-    },
-    {
-      "category": "India",
-      "title": "Watch: Lebanese journalist attacked by Israeli drones while reporting",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-lebanese-journalist-attacked-by-israeli-drones-while-reporting/articleshow/131758558.cms",
-      "published": "2026-06-16T09:36:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131758959,imgsize-37150.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "India",
-      "title": "US-Iran deal, Uranium stockpile and the $300 billion question: What exactly has Tehran agreed to?",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-deal-uranium-stockpile-and-the-300-billion-question-what-exactly-has-tehran-agreed-to/articleshow/131758967.cms",
-      "published": "2026-06-16T09:46:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131759259,imgsize-1448660.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
-    },
-    {
-      "category": "Business",
-      "title": "Middle East crisis may be over, but how long before Strait of Hormuz goes back to normal?",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-may-be-over-but-how-long-before-strait-of-hormuz-goes-back-to-normal/articleshow/131758242.cms",
-      "published": "2026-06-16T09:49:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131759048,imgsize-183594.cms",
-      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Income Tax Return: Is Form 16 mandatory for ITR filing &amp; what to do if the employer has not issued it?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/income-tax-return-is-form-16-mandatory-for-itr-filing-what-to-do-if-the-employer-has-not-issued-it/articleshow/131758153.cms",
-      "published": "2026-06-16T09:47:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131758425,imgsize-35146.cms",
-      "summary": "Smriti Jain is a business and economy journalist with over 16 years of reporting and editing experience. She writes extensively on the Indian & global economy, infrastructure, stock markets, personal finance, and Indian Railways.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Business",
-      "title": "Stock Market Live Updates Today: BSE Sensex opens over 200 points up, Nifty50 above 23,900; Asian stocks edge up, oil prices rise marginally",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-16-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131757635.cms",
-      "published": "2026-06-16T08:02:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131757635,imgsize-101366.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131757635.cms\" />",
+      "title": "Stock market today: BSE Sensex opens in green, Nifty50 jumps above 24,000",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-17-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131784445.cms",
+      "published": "2026-06-17T07:52:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131784445,imgsize-76094.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131784445.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Business",
-      "title": "Top stocks to buy today: Stock market recommendations for June 16, 2026 - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-june-16-2026-oberoi-realty-hdfc-life-insurance-blue-star-phoenix-mills-stocks-to-buy-today/articleshow/131757711.cms",
-      "published": "2026-06-16T08:14:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131757734,imgsize-57514.cms",
+      "title": "From passengers to parcels: Noida International Airport to see first cargo flight today",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/from-passengers-to-parcels-jewars-noida-international-airport-to-see-first-cargo-flight-today/articleshow/131785229.cms",
+      "published": "2026-06-17T09:01:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785492,imgsize-1268732.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.21
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Gold, Silver Rate Today Live Updates: International gold prices rise marginally; all eyes on US Federal Reserve decision",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131784562.cms",
+      "published": "2026-06-17T08:09:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131784562,imgsize-94206.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131784562.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Business",
+      "title": "Oil prices dip near $75 per barrel mark as Middle East turmoil cools",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-dip-near-70-per-barrel-mark-as-middle-east-turmoil-cools/articleshow/131784190.cms",
+      "published": "2026-06-17T07:27:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131784228,imgsize-2260980.cms",
+      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.03
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.23
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "MPBSE MP Board Result 2026: High School class 10 second examination results today at 4 PM on result.mponline.gov.in",
-      "url": "https://timesofindia.indiatimes.com/education/news/mpbse-mp-board-result-2026-high-school-class-10-second-examination-results-today-at-4-pm/articleshow/131760124.cms",
-      "published": "2026-06-16T10:40:15+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131760113,imgsize-53412.cms",
-      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
+      "title": "UGC NET June exam admit card 2026 released at ugcnet.nta.nic.in for June 22 to 30 exams: Check direct link to download hall tickets here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ugc-net-june-exam-admit-card-2026-released-at-ugcnet-nta-nic-in-for-june-22-to-30-exams-check-direct-link-to-download-hall-tickets-here/articleshow/131786447.cms",
+      "published": "2026-06-17T10:08:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786471,imgsize-729778.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ugc-net-june-exam-admit-card-2026-released-at-ugcnet-nta-nic-in-for-june-22-to-30-exams-check-direct-link-to-download-hall-tickets-here/articleshow/131786447.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131786447.cms\" /></a>The National Testing Agency has issued admit cards for the UGC NET June 2026 examination scheduled across six days later this month. Candidates can access their hall tickets online and are advised to verify all details carefully.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.09
     },
     {
       "category": "Education",
-      "title": "UPSC Prelims Result 2026 PDF Download: 13,343 candidates qualify for Civil Services Mains, check roll number list and next steps",
-      "url": "https://timesofindia.indiatimes.com/education/news/upsc-prelims-result-2026-pdf-download-13343-candidates-qualify-for-civil-services-mains-check-roll-number-list-and-next-steps/articleshow/131758649.cms",
-      "published": "2026-06-16T09:25:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131758645,imgsize-103342.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/upsc-prelims-result-2026-pdf-download-13343-candidates-qualify-for-civil-services-mains-check-roll-number-list-and-next-steps/articleshow/131758649.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131758649.cms\" /></a>UPSC has released the Civil Services Prelims 2026 result in PDF format, allowing candidates to download the roll number list and check their qualification status for the Mains examination. A total of 13,343 candidates have cleared the Preliminary stage against 1,016 vacancies.",
+      "title": "IPU to conduct MEd counselling on June 18; Merit-based seat allotment on same day: Check details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ipu-to-conduct-med-counselling-on-june-18-merit-based-seat-allotment-on-same-day-check-details-here/articleshow/131786131.cms",
+      "published": "2026-06-17T09:55:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786286,imgsize-37756.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ipu-to-conduct-med-counselling-on-june-18-merit-based-seat-allotment-on-same-day-check-details-here/articleshow/131786131.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131786131.cms\" /></a>Guru Gobind Singh Indraprastha University will conduct the first offline counselling for M.Ed admissions on June 18 at its Dwarka campus. Qualified candidates will undergo document verification followed by merit-based seat allotment.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.07
     },
     {
       "category": "Education",
-      "title": "UPSC Prelims Result 2026: Five mistakes qualified candidates should avoid before Mains",
-      "url": "https://timesofindia.indiatimes.com/education/news/upsc-prelims-result-2026-five-mistakes-qualified-candidates-should-avoid-before-mains/articleshow/131758553.cms",
-      "published": "2026-06-16T09:15:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131758552,imgsize-95298.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/upsc-prelims-result-2026-five-mistakes-qualified-candidates-should-avoid-before-mains/articleshow/131758553.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131758553.cms\" /></a>With the UPSC Prelims 2026 results declared, qualified candidates must avoid common mistakes that could affect their chances in the next stage. From missing the mandatory June 19\u201328 application window to delaying Mains preparation, neglecting answer-writing practice and overlooking optional subjects, experts warn that small errors can have significant consequences.",
+      "title": "SGPGI Nursing Officer admit card 2026 released at sgpgims.org.in: Direct link to download hall tickets here",
+      "url": "https://timesofindia.indiatimes.com/education/news/sgpgi-nursing-officer-admit-card-2026-released-at-sgpgims-org-in-direct-link-to-download-hall-tickets-here/articleshow/131785676.cms",
+      "published": "2026-06-17T09:28:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785733,imgsize-354342.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sgpgi-nursing-officer-admit-card-2026-released-at-sgpgims-org-in-direct-link-to-download-hall-tickets-here/articleshow/131785676.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131785676.cms\" /></a>The SGPGI Nursing Officer recruitment process has entered its final stage with the release of the city intimation slip and the admit card expected shortly before the examination. Candidates scheduled to appear for the computer-based test between June 19 and 23 should verify their details carefully, follow official instructions, and stay updated through the institute\u2019s website..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "Re-NEET UG 2026: NTA launches portal to report fake paper leak claims, impersonation ahead of June 21 exam",
-      "url": "https://timesofindia.indiatimes.com/education/news/re-neet-ug-2026-nta-launches-portal-to-report-fake-paper-leak-claims-impersonation-ahead-of-june-21-exam/articleshow/131758403.cms",
-      "published": "2026-06-16T08:57:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131758405,imgsize-42626.cms",
-      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
+      "title": "Gujarat TAT HS result 2026 released at sebexam.org: Direct link to download here",
+      "url": "https://timesofindia.indiatimes.com/education/news/gujarat-tat-hs-result-2026-released-at-sebexam-org-direct-link-to-download-here/articleshow/131785335.cms",
+      "published": "2026-06-17T08:48:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785351,imgsize-327017.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/gujarat-tat-hs-result-2026-released-at-sebexam-org-direct-link-to-download-here/articleshow/131785335.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131785335.cms\" /></a>The Gujarat State Examination Board has announced the TAT-HS 2025 Preliminary Examination results after completing a transparent evaluation process that included OMR sheet publication and answer key objections. Of the 1.65 lakh registered candidates, 1.47 lakh appeared for the test.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Richard Ayoade involved in a car crash in South East London",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/richard-ayoade-involved-but-unhurt-in-dramatic-south-east-london-car-crash-everyone-froze-at-the-sound-of-twisted-metal/articleshow/131760111.cms",
-      "published": "2026-06-16T10:49:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131760248,imgsize-74414.cms",
+      "title": "'House of the Dragon Season 3' early reviews",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-early-reviews-the-series-is-hailed-as-best-so-far/articleshow/131786956.cms",
+      "published": "2026-06-17T10:40:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786997,imgsize-224660.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "Simran, Silambarasan TR and Shaam meet Tamil Nadu CM Vijay",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/simran-silambarasan-tr-and-shaam-meet-tamil-nadu-cm-vijay-extend-heartfelt-wishes-with-reunion-pics-and-posts/articleshow/131760097.cms",
-      "published": "2026-06-16T10:41:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131760120,imgsize-127822.cms",
+      "title": "Shammy Thilakan joins 'Chiyaan 63'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shammy-thilakan-joins-chiyaan-63-vikram-reunites-with-dhruvam-co-star-after-three-decades/articleshow/131786245.cms",
+      "published": "2026-06-17T09:54:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131786267,imgsize-78996.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "Shakira and Manuel Garcia-Rulfo spark dating buzz- PICS",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shakira-and-manuel-garcia-rulfo-spark-dating-buzz-singer-spotted-leaving-la-hotspot-with-jurassic-world-star-pics/articleshow/131785358.cms",
+      "published": "2026-06-17T09:28:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785466,imgsize-167634.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Emma Heming provides a health update about Bruce Willis",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruce-willis-health-update-emma-heming-clarifies-he-remembers-everything-and-has-a-rare-form-of-dementia/articleshow/131760023.cms",
-      "published": "2026-06-16T10:34:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131760023,imgsize-1522510.cms",
+      "title": "Jelly Roll says weight loss changed everything",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-says-300lbs-weight-loss-made-him-a-whole-different-human-im-a-better-father-im-more-present-with-my-children/articleshow/131785420.cms",
+      "published": "2026-06-17T09:01:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-131785420,imgsize-124888.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Entertainment",
-      "title": "Arjun Sarja's 'Blast' OTT release date confirmed",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/blast-ott-release-date-confirmed-when-and-where-to-watch-arjun-sarjas-blockbuster-action-drama/articleshow/131759179.cms",
-      "published": "2026-06-16T09:55:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-131759218,imgsize-252260.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     }
   ]
 }
