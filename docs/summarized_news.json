@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-12T04:12:52",
+  "generated_at": "2026-07-13T04:15:22",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Ship catches fire off Oman hours after US strike; British crew escapes on lifeboat",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/container-ship-catches-fire-off-oman-hours-after-us-strike-british-crew-escapes-on-lifeboat/articleshow/132340306.cms",
-      "published": "Sun, 12 Jul 2026 09:15:36 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132340384,imgsize-51968.cms",
+      "title": "'Smoke was everywhere': How Bangkok's pub inferno killed 27 - 10 points",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/smoke-was-everywhere-how-bangkoks-deadly-pub-fire-unfolded-27-killed-10-key-points/articleshow/132354613.cms",
+      "published": "Mon, 13 Jul 2026 07:44:52 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132355134,imgsize-12355055.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.17
     },
     {
       "category": "Top Stories",
-      "title": "No change: Conductor tells Karnataka transport minister to get off bus",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/no-change-conductor-tells-karnataka-transport-minister-to-get-off-bus/articleshow/132336820.cms",
-      "published": "Sun, 12 Jul 2026 00:09:01 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132339852,imgsize-716930.cms",
-      "summary": "Transport minister Byrathi Suresh experienced commuter problems firsthand. A bus conductor asked him to exit for lacking exact change.",
+      "title": "Entry to 136-yr-old Kolkata airport mosque stopped indefinitely",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/entry-to-airport-mosque-stopped-indefinitely/articleshow/132351179.cms",
+      "published": "Sun, 12 Jul 2026 23:59:36 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132355155,imgsize-32096.cms",
+      "summary": "Tamaghna Banerjee, a reporter from Kolkata, covers crime, aviation, human rights and politics. He has a keen interest in human interest and rural reporting.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.25
     },
     {
       "category": "Top Stories",
-      "title": "9 dead in Pune's Moshi building collapse; waste plant operator chief blames heavy rainfall",
-      "url": "https://timesofindia.indiatimes.com/city/pune/death-toll-in-moshi-cave-in-rises-to-8-one-still-missing/articleshow/132337056.cms",
-      "published": "Sun, 12 Jul 2026 01:01:13 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132339782,imgsize-225523.cms",
-      "summary": "Seven more bodies were recovered from the collapsed building at the Moshi waste-to-energy plant. This recovery brought the total death toll from the incident to eight people.",
+      "title": "Rohit Sharma undertakes match-simulation in nets ahead of ODI series opener",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-eng-rohit-sharma-undertakes-match-simulation-in-nets-ahead-of-odi-series-opener/articleshow/132354818.cms",
+      "published": "Mon, 13 Jul 2026 08:15:57 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132355018,imgsize-481480.cms",
+      "summary": "Rohit Sharma put in an extensive match-simulation batting session during India's training at Edgbaston ahead of the first ODI against England, while Virat Kohli sharpened his game against both pace and spin before sharing valuable insights with young pacer Gurnoor Brar as preparations gathered momentum..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.16
     },
     {
       "category": "Top Stories",
-      "title": "FIFA World Cup: England in semis as Bellingham\u2019s double sinks Norway amid VAR fury",
-      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-norway-fifa-world-cup-qf-match-result-jude-bellinghams-brace-propels-england-into-world-cup-semifinals-after-extra-time-win/articleshow/132339602.cms",
-      "published": "Sun, 12 Jul 2026 06:11:51 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
+      "title": "Jeff Bezos' ex-wife MacKenzie Scott donates to US youth mental health non-profit",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-makes-latest-donation-to-a-us-non-profit-mobilising-youth-and-young-adults-to-change-culture-around-/articleshow/132342327.cms",
+      "published": "Sun, 12 Jul 2026 13:07:14 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132342323,imgsize-23104.cms",
+      "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.2
     },
     {
       "category": "India",
-      "title": "Canada gives share of bridge profits to US to get Trump nod",
-      "url": "https://timesofindia.indiatimes.com/world/us/canada-gives-share-of-bridge-profits-to-us-to-get-trump-nod/articleshow/132339859.cms",
-      "published": "2026-07-12T07:26:29+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132339867,imgsize-112138.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132339859.cms\" />The Gordie Howe International Bridge will open on July 27 connecting Detroit and Windsor. Canada agreed to share net toll profits with the United States after construction costs.",
+      "title": "Quote of the day by Michael Jordan: \"I can accept failure, everyone fails at something. But\u2026\" - the life lesson that proves regret often lasts longer than failure",
+      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-michael-jordan-i-can-accept-failure-everyone-fails-at-something-but-the-life-lesson-that-proves-regret-often-lasts-longer-than-failure/articleshow/132355297.cms",
+      "published": "2026-07-13T08:43:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355436,imgsize-81706.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.2
     },
     {
       "category": "India",
-      "title": "Bangladesh bars media from publishing Hasina statements",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-bars-media-from-publishing-hasina-statements/articleshow/132339829.cms",
-      "published": "2026-07-12T07:19:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132339837,imgsize-669816.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132339829.cms\" />Bangladesh's government has ordered all media to stop broadcasting Sheikh Hasina's statements. This directive follows a court ban on publishing content from the former prime minister.",
+      "title": "Europe death toll tops 10,000 during late-June heatwave; scientists blame human-caused climate change",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-death-toll-tops-10000-during-late-june-heatwave-scientists-blame-human-caused-climate-change/articleshow/132354821.cms",
+      "published": "2026-07-13T08:31:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355283,imgsize-182815.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.19
     },
     {
       "category": "India",
-      "title": "Russians urged to work from home amid fuel crisis",
-      "url": "https://timesofindia.indiatimes.com/world/europe/russians-urged-to-work-from-home-amid-fuel-crisis/articleshow/132339820.cms",
-      "published": "2026-07-12T07:16:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132339824,imgsize-181914.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132339820.cms\" />Russia's Novosibirsk region is urging remote work and reduced car travel. This comes amid a deepening fuel crisis affecting many Russian areas.",
+      "title": "'Smoke was everywhere': How Bangkok's deadly pub fire unfolded; 27 killed \u2013 10 key points",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/smoke-was-everywhere-how-bangkoks-deadly-pub-fire-unfolded-27-killed-10-key-points/articleshow/132354613.cms",
+      "published": "2026-07-13T07:44:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355134,imgsize-12355055.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 15.2
     },
     {
       "category": "India",
-      "title": "Martha Lillard, last US polio patient using iron lung, dies",
-      "url": "https://timesofindia.indiatimes.com/world/us/martha-lillard-last-us-polio-patient-using-iron-lung-dies/articleshow/132339812.cms",
-      "published": "2026-07-12T07:13:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132339814,imgsize-1124975.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132339812.cms\" />",
+      "title": "Zelenskyy ousts Ukrainian PM as part of broader cabinet reshuffle",
+      "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-ousts-ukrainian-pm-as-part-of-broader-cabinet-reshuffle/articleshow/132354519.cms",
+      "published": "2026-07-13T07:26:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132354538,imgsize-66318.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132354519.cms\" />Ukrainian Prime Minister Yulia Svyrydenko has stepped down from her position. President Zelenskyy announced fresh government changes and a new role for the former premier.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.2
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.23
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "Business",
-      "title": "Age-related discrimination could wipe out $500 billion in OECD productivity: Report",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/age-related-discrimination-could-wipe-out-500-billion-in-oecd-productivity-report/articleshow/132328955.cms",
-      "published": "2026-07-11T17:01:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132329752,imgsize-565313.cms",
-      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Business",
-      "title": "How trains running at 160 kmph aim to transform Delhi-NCR and cities around it",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/namo-bharat-rrts-how-trains-running-at-160-kmph-aim-to-transform-delhi-ncr-and-cities-around-it-delhi-meerut-karnal-panipat-bawal-gurgaon/articleshow/132328329.cms",
-      "published": "2026-07-11T16:03:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132328463,imgsize-777327.cms",
-      "summary": "Smriti Jain is a business and economy journalist with over 16 years of reporting and editing experience. She writes extensively on the Indian & global economy, infrastructure, stock markets, personal finance, and Indian Railways.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "NSE Indices launches Nifty500 Ahimsa Index: From 'ethical' filters to screening, how the benchmark works",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nse-indices-launches-nifty500-ahimsa-index-from-criteria-to-screening-how-the-ethical-benchmark-works/articleshow/132326935.cms",
-      "published": "2026-07-11T13:42:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132327063,imgsize-689472.cms",
+      "title": "Chaos returns to Middle East: Oil prices jump 4% as US-Iran exchange strikes",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/chaos-returns-to-middle-east-oil-prices-jump-4-as-us-iran-exchange-strikes-on-july-13-2026/articleshow/132354601.cms",
+      "published": "2026-07-13T07:35:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132354614,imgsize-1771002.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Sebi clears IPOs of Zetwerk, Rentomojo",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-clears-ipos-of-zetwerk-rentomojo/articleshow/132323005.cms",
-      "published": "2026-07-11T06:14:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132323005,imgsize-1415912.cms",
+      "title": "Auto lenders bet on embedded finance",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/auto-lenders-bet-on-embedded-finance/articleshow/132354412.cms",
+      "published": "2026-07-13T07:05:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132354418,imgsize-151586.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.17
+    },
+    {
+      "category": "Business",
+      "title": "After two years, pharma volumes pick up pace",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/after-two-years-pharma-volumes-pick-up-pace/articleshow/132354395.cms",
+      "published": "2026-07-13T07:03:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132354401,imgsize-118080.cms",
+      "summary": "A business journalist with around two decades of experience tracking key consumer-focussed sectors like consumer durables, retail, consumer goods, aviation, automobiles and advertising, as well as economic ministries of the Union government. Now, writes primarily on pharmaceuticals and healthcare, and on issues of consumer interest.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Business",
+      "title": "Government weighs cybersecurity framework for IoT devices",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/government-weighs-cybersecurity-framework-for-iot-devices/articleshow/132354357.cms",
+      "published": "2026-07-13T06:56:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132354374,imgsize-157302.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.2
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.2
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "DU UG Admissions 2026: Over 1.9 lakh students register as university gears up for first seat allotment on July 16",
-      "url": "https://timesofindia.indiatimes.com/education/news/du-ug-admissions-2026-over-1-9-lakh-students-register-as-university-gears-up-for-first-seat-allotment-on-july-16/articleshow/132340125.cms",
-      "published": "2026-07-12T08:28:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340121,imgsize-136222.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-ug-admissions-2026-over-1-9-lakh-students-register-as-university-gears-up-for-first-seat-allotment-on-july-16/articleshow/132340125.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132340125.cms\" /></a>Delhi University has recorded over 1.9 lakh registrations for undergraduate admissions through the Common Seat Allocation System (CSAS), with more than 1.64 lakh candidates completing preference submission. The first seat allotment list will be released on July 16, while a one-time correction window and a new virtual wallet system aim to streamline the admission and fee payment process..",
+      "title": "BSEB issues D.El.Ed. institute list, sets July 15 deadline for error correction through email",
+      "url": "https://timesofindia.indiatimes.com/education/news/bseb-issues-d-el-ed-institute-list-sets-july-15-deadline-for-error-correction-through-email/articleshow/132355817.cms",
+      "published": "2026-07-13T09:15:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355816,imgsize-36562.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bseb-issues-d-el-ed-institute-list-sets-july-15-deadline-for-error-correction-through-email/articleshow/132355817.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132355817.cms\" /></a>Bihar School Examination Board (BSEB) has published the 2026 list of recognised and affiliated D.El.Ed. institutions and directed colleges to verify their details.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.19
+    },
+    {
+      "category": "Education",
+      "title": "UP Co-operative Bank admit card shortly as UPCISB prepares for July 20 recruitment examinations; check details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-co-operative-bank-admit-card-shortly-as-upcisb-prepares-for-july-20-recruitment-examinations-check-details-here/articleshow/132355760.cms",
+      "published": "2026-07-13T09:06:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355756,imgsize-132077.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-co-operative-bank-admit-card-shortly-as-upcisb-prepares-for-july-20-recruitment-examinations-check-details-here/articleshow/132355760.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132355760.cms\" /></a>The UP Co-operative Institutional Service Board is expected to release the UP Co-operative Bank Admit Card 2026 shortly before the recruitment examinations scheduled from July 20 to July 22. Candidates will be able to download the hall ticket from the official website using their registration details.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.19
+    },
+    {
+      "category": "Education",
+      "title": "MTET 2026 hall ticket released ahead of July 24 Meghalaya teacher eligibility examination; download here",
+      "url": "https://timesofindia.indiatimes.com/education/news/mtet-2026-hall-ticket-released-ahead-of-july-24-meghalaya-teacher-eligibility-examination-download-here/articleshow/132355522.cms",
+      "published": "2026-07-13T08:51:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355527,imgsize-72401.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mtet-2026-hall-ticket-released-ahead-of-july-24-meghalaya-teacher-eligibility-examination-download-here/articleshow/132355522.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132355522.cms\" /></a>The Directorate of Educational Research and Training, Meghalaya, has released the MTET 2026 admit card for candidates appearing in the teacher eligibility examination on July 24. The hall ticket can be downloaded using the registration number and password through the official portal.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Education",
+      "title": "WBJEE Counselling 2026 Round 2 registration begins today; seat allotment on July 21: Check details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/wbjee-counselling-2026-round-2-registration-begins-today-seat-allotment-on-july-21-check-details-here/articleshow/132355316.cms",
+      "published": "2026-07-13T08:38:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355375,imgsize-68708.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/wbjee-counselling-2026-round-2-registration-begins-today-seat-allotment-on-july-21-check-details-here/articleshow/132355316.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132355316.cms\" /></a>The West Bengal Joint Entrance Examinations Board has opened Round 2 registration and choice filling for WBJEE Counselling 2026 from July 13 to July 17. The Round 2 seat allotment result will be announced on July 21, with admissions and document verification scheduled through July 23.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.26
+    },
+    {
+      "category": "Entertainment",
+      "title": "CM Chandrababu Naidu visits Pawan Kalyan in hospital",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/cm-chandrababu-naidu-visits-pawan-kalyan-in-hospital-after-surgery-says-actor-politician-is-recovering-well/articleshow/132355902.cms",
+      "published": "2026-07-13T09:25:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355936,imgsize-364238.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
-      "category": "Education",
-      "title": "AIBE 21 result 2026 likely to be released soon at allindiabarexamination.com: Check steps to download scorecards here",
-      "url": "https://timesofindia.indiatimes.com/education/news/aibe-21-result-2026-likely-to-be-released-soon-at-allindiabarexamination-com-check-steps-to-download-scorecards-here/articleshow/132340011.cms",
-      "published": "2026-07-12T08:03:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340022,imgsize-173977.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/aibe-21-result-2026-likely-to-be-released-soon-at-allindiabarexamination-com-check-steps-to-download-scorecards-here/articleshow/132340011.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132340011.cms\" /></a>The Bar Council of India is expected to declare the AIBE XXI Result 2026 soon on the official website. Candidates will be able to check and download their scorecards using their roll number and date of birth.",
+      "category": "Entertainment",
+      "title": "Dhanush's 'Asuran' writer Poomani passes away at 79",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sahitya-akademi-award-winner-and-asuran-writer-poomani-passes-away-at-79/articleshow/132355837.cms",
+      "published": "2026-07-13T09:17:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355846,imgsize-252542.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
+    },
+    {
+      "category": "Entertainment",
+      "title": "Jaafar Jackson's 'Michael' crosses USD 1 billion globally",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/michael-jaafar-jackson-starrer-becomes-the-first-biopic-to-hit-usd-1-billion-worldwide/articleshow/132355742.cms",
+      "published": "2026-07-13T09:10:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355761,imgsize-100500.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.16
     },
     {
-      "category": "Education",
-      "title": "NMC approves 50 more MBBS seats at GMC Srinagar, intake rises to 250 from 2026-27",
-      "url": "https://timesofindia.indiatimes.com/education/news/nmc-approves-50-more-mbbs-seats-at-gmc-srinagar-intake-rises-to-250-from-2026-27/articleshow/132333153.cms",
-      "published": "2026-07-11T20:40:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132333190,imgsize-600003.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/nmc-approves-50-more-mbbs-seats-at-gmc-srinagar-intake-rises-to-250-from-2026-27/articleshow/132333153.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132333153.cms\" /></a>Government Medical College Srinagar will add fifty new MBBS seats. This significant increase will take the annual intake to two hundred fifty students.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Education",
-      "title": "DU PG admissions 2026: Round 3 minimum allocation scores released at admission.uod.ac.in; check PDF here",
-      "url": "https://timesofindia.indiatimes.com/education/news/du-pg-admissions-2026-round-3-minimum-allocation-scores-released-at-admission-uod-ac-in-check-pdf-here/articleshow/132332436.cms",
-      "published": "2026-07-11T19:55:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132332556,imgsize-1283610.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-pg-admissions-2026-round-3-minimum-allocation-scores-released-at-admission-uod-ac-in-check-pdf-here/articleshow/132332436.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132332436.cms\" /></a>The University of Delhi has released Postgraduate Round 3 minimum allocation scores for the 2026-27 academic session. Candidates can check these scores on the official DU admission portal for specific courses and colleges.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
       "category": "Entertainment",
-      "title": "All about Tini Stoessel, Rodrigo De Paul's pop star fianc\u00e9e",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/who-is-tini-stoessel-all-about-argentine-soccer-star-rodrigo-de-pauls-pop-star-fiance/articleshow/132340360.cms",
-      "published": "2026-07-12T09:17:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340392,imgsize-192708.cms",
+      "title": "Salman Khan sports a cowboy look with a turquoise stone pendant - Watch",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-wins-the-internet-with-his-new-cowboy-avatar-rocks-a-turquoise-pendant-matching-his-famous-bracelet-watch/articleshow/132355342.cms",
+      "published": "2026-07-13T08:37:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132355461,imgsize-348298.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Jennifer Nettles on Taylor Swift and Travis Kelce's wedding",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jennifer-nettles-on-witnessing-taylor-swift-and-travis-kelces-wedding-to-be-even-a-small-part-of-their-story-for-me-was-super-special/articleshow/132340122.cms",
-      "published": "2026-07-12T08:36:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340135,imgsize-119594.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Mohanlal-Krishand film in the works",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-krishand-film-in-the-works-maniyanpilla-raju-says-the-film-will-be-a-commercial-entertainer-like-chotta-mumbai/articleshow/132340096.cms",
-      "published": "2026-07-12T08:25:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340109,imgsize-79014.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "PM Modi pays tribute to veteran singer S. Janaki",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pm-modi-pays-tribute-to-veteran-singer-s-janaki-says-her-passing-is-an-irreparable-loss-to-music/articleshow/132340097.cms",
-      "published": "2026-07-12T08:24:29+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132340102,imgsize-125368.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.17
     }
   ]
 }
