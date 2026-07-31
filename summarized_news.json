@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-30T03:47:24",
+  "generated_at": "2026-07-31T04:06:42",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "E20 may harm rubber parts of vehicles manufactured between 2005-16: Nitin Gadkari",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-may-harm-bs-iii-vehicle-rubber-parts-says-nitin-gadkari/articleshow/132724625.cms",
-      "published": "Thu, 30 Jul 2026 07:02:48 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132724648,imgsize-1124973.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Top Stories",
-      "title": "Mumbai man, suffering stroke, kept at police station for hours over 'drunk driving'",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/stroke-hit-man-73-held-for-hrs-for-drunk-driving-in-icu/articleshow/132719183.cms",
-      "published": "Wed, 29 Jul 2026 23:16:35 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132725516,imgsize-124507.cms",
-      "summary": "A 73-year-old man suffered a stroke while driving his car last week. Police detained him for five hours on suspicion of drunk driving.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Let someone else do PM's tasks': CJP's Dipke says 'Modi good as influencer'",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/students-are-not-terrorists-can-change-govt-tomorrow-dipke-warns-centre-of-youth-anger/articleshow/132717961.cms",
-      "published": "Wed, 29 Jul 2026 22:28:11 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132724676,imgsize-115259.cms",
-      "summary": "Abhijeet Dipke returned to Chhatrapati Sambhajinagar after a student protest at Jantar Mantar. He warned the central government about continued student anger and potential future actions.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Embarrassing': Former hockey captain slams India's blue jersey being replaced by saffron",
-      "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/embarrassing-ex-olympian-and-hockey-captain-slams-indias-blue-jersey-being-replaced-by-saffron/articleshow/132725012.cms",
-      "published": "Thu, 30 Jul 2026 07:56:15 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132725116,imgsize-93438.cms",
-      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "India",
-      "title": "Candace Owens drops unseen Charlie Kirk video, Alex Jones claims assassination story is \u2018100% dead\u2019",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-drops-unseen-charlie-kirk-video-alex-jones-claims-assassination-story-is-100-dead/articleshow/132723156.cms",
-      "published": "2026-07-30T03:43:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132722948,imgsize-596057.cms",
-      "summary": "Sumit Roy is a passionate WWE content writer with a keen eye for storytelling and an in-depth understanding of the wrestling world. His dedication to the sport and his ability to capture the excitement and drama of WWE events make him an invaluable asset to the wrestling community.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "India",
-      "title": "Shared beds, shrinking budgets: China\u2019s young workers feel economic squeeze",
-      "url": "https://timesofindia.indiatimes.com/world/china/shared-beds-shrinking-budgets-chinas-young-workers-feel-economic-squeeze/articleshow/132725239.cms",
-      "published": "2026-07-30T08:03:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725266,imgsize-41414.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132725239.cms\" />Young Chinese workers are sharing beds to reduce living expenses. This practice highlights growing financial pressures and job insecurity among them.",
+      "title": "Spain deploys military after thousands of Moroccan migrants cross border illegally; 9 killed",
+      "url": "https://timesofindia.indiatimes.com/world/europe/spain-migrant-crisis-military-deployed-as-thousands-cross-border-9-killed/articleshow/132753919.cms",
+      "published": "Fri, 31 Jul 2026 08:27:18 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132754065,imgsize-11962783.cms",
+      "summary": "Trisha Mahajan is a journalist with The Times of India digital, with keen interest in covering business and corporate affairs. She also reports on key national and world developments and global news trends.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
-      "category": "India",
-      "title": "US court convicts Salman Rushdie attacker of providing 'material support' to Hezbollah",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-court-convicts-salman-rushdie-attacker-of-providing-material-support-to-hezbollah/articleshow/132724970.cms",
-      "published": "2026-07-30T07:43:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725006,imgsize-845498.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "category": "Top Stories",
+      "title": "Meta India head, social media users booked over PM Modi posts",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-cybercrime-police-book-meta-india-head-social-media-users-over-pm-narendra-modi-posts/articleshow/132753932.cms",
+      "published": "Fri, 31 Jul 2026 08:13:18 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132755062,imgsize-148619.cms",
+      "summary": "He has been reporting crime, courts, politics, transport, and civic issues for 18 years. Currently working for The Times of India as an Assistant Editor in Hyderabad.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
+    },
+    {
+      "category": "Top Stories",
+      "title": "5 killed in Bhiwandi building collapse; several feared trapped",
+      "url": "https://timesofindia.indiatimes.com/city/thane/4-storey-building-partially-collapses-near-mumbai-several-feared-trapped/articleshow/132753223.cms",
+      "published": "Fri, 31 Jul 2026 07:06:00 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132754657,imgsize-1149702.cms",
+      "summary": "A residential building collapsed in Bhiwandi, killing at least five people. Several individuals are feared trapped inside the debris after the structure fell.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
+    },
+    {
+      "category": "Top Stories",
+      "title": "Who is Seema Kaliramna? The mother and PhD scholar who won CWG bronze",
+      "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/who-is-seema-kaliramna-the-mother-and-phd-scholar-who-won-commonwealth-games-2026-bronze/articleshow/132754224.cms",
+      "published": "Fri, 31 Jul 2026 08:46:23 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132754533,imgsize-68543.cms",
+      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
     },
     {
       "category": "India",
-      "title": "Need to address some irritations in Bangladesh-India relations: Dhaka",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/need-to-address-some-irritations-in-bangladesh-india-relations-dhaka/articleshow/132724828.cms",
-      "published": "2026-07-30T07:29:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132724873,imgsize-54618.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132724828.cms\" />Bangladesh foreign minister Khalilur Rahman met with the Indian envoy in Dhaka. He highlighted the need to resolve existing irritations in bilateral relations.",
+      "title": "Spain migrant crisis: Military deployed as thousands cross border; 9 killed",
+      "url": "https://timesofindia.indiatimes.com/world/europe/spain-migrant-crisis-military-deployed-as-thousands-cross-border-9-killed/articleshow/132753919.cms",
+      "published": "2026-07-31T08:27:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754065,imgsize-11962783.cms",
+      "summary": "Trisha Mahajan is a journalist with The Times of India digital, with keen interest in covering business and corporate affairs. She also reports on key national and world developments and global news trends.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.04
+    },
+    {
+      "category": "India",
+      "title": "10 climbers, including Nirmal Purja, missing after avalanche on Broad Peak in PoK's Gilgit-Baltistan",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/10-climbers-including-nirmal-purja-missing-after-avalanche-on-broad-peak-in-poks-gilgit-baltistan/articleshow/132753373.cms",
+      "published": "2026-07-31T07:18:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754155,imgsize-200871.cms",
+      "summary": "Kanchan Yadav is a writer at The Times of India, where she covers business, politics, international affairs and social issues. Her reporting also focuses on policy, governance and economic developments, with a close lens on how decisions in corridors of power affect everyday lives and community well-being.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "India",
+      "title": "Russian strikes across Ukraine kill 10; missiles hit Poland too",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russian-strikes-across-ukraine-kill-10-missiles-hit-poland-too/articleshow/132753209.cms",
+      "published": "2026-07-31T07:02:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132753237,imgsize-168544.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132753209.cms\" />Russian missile and drone attacks killed at least ten civilians, including children, and injured over fifty. Nato scrambled warplanes after a Russian missile briefly crossed into Poland's western airspace.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "India",
+      "title": "xAI sues US state over law banning 'nudification' tech",
+      "url": "https://timesofindia.indiatimes.com/world/us/xai-sues-us-state-over-law-banning-nudification-tech/articleshow/132753187.cms",
+      "published": "2026-07-31T06:55:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132753193,imgsize-61778.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132753187.cms\" />Elon Musk's xAI company has sued Minnesota over its new law. This law bans AI nudification technology on websites and applications.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.3
+      "time_sec": 15.06
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Business",
-      "title": "Asian stocks trade mixed after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-trade-mixed-after-fed-holds-rates-kospi-rallies-4-shenzhen-slips-300-points/articleshow/132725397.cms",
-      "published": "2026-07-30T08:23:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725753,imgsize-113436.cms",
-      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Business",
-      "title": "Mahindra arm, SML combine to be 4th largest CV player",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/mahindra-arm-sml-combine-to-be-4th-largest-cv-player/articleshow/132725119.cms",
-      "published": "2026-07-30T07:56:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725145,imgsize-9840.cms",
-      "summary": "A business management graduate, Aabhas turned to journalism before you could say MBA. It has been almost 15 years and there has been no looking back.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
-    },
-    {
-      "category": "Business",
-      "title": "'GenAI to reshape workforce, GCCs to cushion job impact'",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/genai-to-reshape-workforce-gccs-to-cushion-job-impact/articleshow/132725049.cms",
-      "published": "2026-07-30T07:47:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725053,imgsize-112660.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "IPL's business value crosses $20 billion, RCB top brand: Report",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/ipls-business-value-crosses-20-billion-rcb-top-brand-report/articleshow/132725010.cms",
-      "published": "2026-07-30T07:45:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725038,imgsize-148220.cms",
+      "title": "Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/seeking-job-in-us-trump-weighs-100000-work-permit-fee-from-foreign-graduates/articleshow/132753768.cms",
+      "published": "2026-07-31T09:05:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754923,imgsize-104101.cms",
+      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Business",
+      "title": "Mileage drop due to E20? 2-6%, says 1 minister, 3-5%, says another",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/mileage-drop-due-to-e20-2-6-says-1-minister-3-5-says-another/articleshow/132752992.cms",
+      "published": "2026-07-31T06:11:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132752998,imgsize-45228.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "AI labs proving why IT companies still matter: Infosys CEO Salil Parekh",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-labs-proving-why-it-companies-still-matter-infosys-ceo-salil-parekh/articleshow/132752593.cms",
+      "published": "2026-07-31T05:18:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132752600,imgsize-62904.cms",
+      "summary": "Shilpa Phadnis is an Editor (IT) and Business Journalist with over 15 years of experience covering IT, business, and startups, capturing the city\u00e2\u0080\u0099s dynamic entrepreneurial ecosystem, GCCs, and new-age firms. Read More Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Business",
+      "title": "Formal retail credit access doubles over past decade",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/formal-retail-credit-access-doubles-over-past-decade/articleshow/132752534.cms",
+      "published": "2026-07-31T04:56:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132752550,imgsize-47284.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "UPTET 2026 result expected soon at upessc.up.gov.in; past pass trends indicate balanced outcome",
-      "url": "https://timesofindia.indiatimes.com/education/news/uptet-2026-result-expected-soon-at-upessc-up-gov-in-past-pass-trends-indicate-balanced-outcome/articleshow/132726068.cms",
-      "published": "2026-07-30T08:58:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132726126,imgsize-125448.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/uptet-2026-result-expected-soon-at-upessc-up-gov-in-past-pass-trends-indicate-balanced-outcome/articleshow/132726068.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132726068.cms\" /></a>UPTET 2026 results are expected soon for nearly 17.7 lakh candidates who appeared for the Uttar Pradesh Teacher Eligibility Test held from July 2 to July 4. The examination recorded an 88.77 per cent attendance rate, with over 19.9 lakh registrations.",
+      "title": "NEET PG 2026 selective edit window opens today; correct application images by August 10",
+      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-2026-selective-edit-window-opens-today-correct-application-images-by-august-10/articleshow/132754296.cms",
+      "published": "2026-07-31T08:38:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754307,imgsize-29416.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/neet-pg-2026-selective-edit-window-opens-today-correct-application-images-by-august-10/articleshow/132754296.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132754296.cms\" /></a>NBEMS has activated the NEET PG 2026 selective edit window from July 31, allowing notified candidates to rectify errors in uploaded photographs, signatures, and thumb impressions until August 10. After the correction process, the test city intimation slip will be issued on August 11, followed by the admit card on August 27, ahead of the examination on August 30..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "Three Azim Premji University students selected for EnviroChamp Fellowship 2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/three-azim-premji-university-students-selected-for-envirochamp-fellowship-2026/articleshow/132726009.cms",
-      "published": "2026-07-30T08:47:39+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132726001,imgsize-161064.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/three-azim-premji-university-students-selected-for-envirochamp-fellowship-2026/articleshow/132726009.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132726009.cms\" /></a>Three students from Azim Premji University have been selected among 10 fellows nationwide for the 2026 Avery Dennison Foundation EnviroChamp Fellowship, which supports young women pursuing environmental sustainability. The fellows will receive a USD 1,500 scholarship, mentorship and professional development opportunities.",
+      "title": "After surviving Hurricane Irma, this 16-year-old created a programme that teaches students what schools didn't",
+      "url": "https://timesofindia.indiatimes.com/education/news/after-surviving-hurricane-irma-this-16-year-old-created-a-programme-that-teaches-students-what-schools-didnt/articleshow/132753942.cms",
+      "published": "2026-07-31T08:16:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132753957,imgsize-160128.cms",
+      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "DASA, CSAB Special Counselling 2026 registration begins; Fee payment ends August 3",
-      "url": "https://timesofindia.indiatimes.com/education/news/dasa-csab-special-counselling-2026-registration-begins-fee-payment-ends-august-3/articleshow/132725874.cms",
-      "published": "2026-07-30T08:39:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725893,imgsize-224831.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/dasa-csab-special-counselling-2026-registration-begins-fee-payment-ends-august-3/articleshow/132725874.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132725874.cms\" /></a>The Ministry of Education has commenced registration for DASA (UG) and CSAB Special Counselling 2026 to fill vacant engineering seats after JoSAA rounds. Candidates can complete registration and fee payment until August 3, while the first special round seat allotment will be announced on August 6.",
+      "title": "SPPU Summer Session 2026 results declared for MBA, BBA and M.Sc. courses unipune.ac.in; scorecards available here",
+      "url": "https://timesofindia.indiatimes.com/education/news/sppu-summer-session-2026-results-declared-for-mba-bba-and-m-sc-courses-unipune-ac-in-scorecards-available-here/articleshow/132753631.cms",
+      "published": "2026-07-31T07:54:03+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132753719,imgsize-251483.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sppu-summer-session-2026-results-declared-for-mba-bba-and-m-sc-courses-unipune-ac-in-scorecards-available-here/articleshow/132753631.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132753631.cms\" /></a>SPPU results: Savitribai Phule Pune University has announced another major batch of Summer Session 2026 results for MBA, M.Sc. Physics, M.Sc.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "PSEB Supplementary result 2026 expected any time; Punjab Board Class 10, 12 compartment scores awaited at pseb.ac.in",
-      "url": "https://timesofindia.indiatimes.com/education/news/pseb-supplementary-result-2026-expected-any-time-punjab-board-class-10-12-compartment-scores-awaited-at-pseb-ac-in/articleshow/132725550.cms",
-      "published": "2026-07-30T08:22:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725574,imgsize-84548.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/pseb-supplementary-result-2026-expected-any-time-punjab-board-class-10-12-compartment-scores-awaited-at-pseb-ac-in/articleshow/132725550.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132725550.cms\" /></a>The Punjab School Education Board is expected to declare the PSEB Class 10 and Class 12 supplementary results soon. Students who appeared for the July 2026 compartment examinations will be able to check and download their provisional marksheets from pseb.ac.in using their roll number.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Ramayana' trailer: Ranbir's Rama finds perfect nemesis in Yash's Ravana",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-ranbir-kapoors-lord-rama-finds-the-perfect-nemesis-in-yashs-menacing-ravana-in-a-visually-breathtaking-epic-watch/articleshow/132721831.cms",
-      "published": "2026-07-30T04:22:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132722058,imgsize-594450.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Spider-Man: Brand New Day Movie Review and Release Live Updates",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-movie-review-release-live-update-tom-holland-zendaya-sadie-sink-mark-ruffalo-spider-man-brand-new-day-review-and-box-office-collection/liveblog/132724454.cms",
-      "published": "2026-07-30T06:24:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132724454,imgsize-477450.cms",
-      "summary": "Tom Holland revealed that he had an \"amazing moment\" with Zendaya on the sets of 'Spiderman: Brand New Day' when they mutually acknowledged that a scene they were filming just wasn't working. After discussion, they suggested the makers to re-write the scene.",
+      "title": "AP EAMCET counselling 2026 phase 1 schedule revised; Registration deadline extended to August 1, seat allotment on August 9",
+      "url": "https://timesofindia.indiatimes.com/education/news/ap-eamcet-counselling-2026-phase-1-schedule-revised-registration-deadline-extended-to-august-1-seat-allotment-on-august-9/articleshow/132753655.cms",
+      "published": "2026-07-31T07:53:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132753730,imgsize-8494.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ap-eamcet-counselling-2026-phase-1-schedule-revised-registration-deadline-extended-to-august-1-seat-allotment-on-august-9/articleshow/132753655.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132753655.cms\" /></a>The Andhra Pradesh State Council of Higher Education (APSCHE) has extended the AP EAMCET 2026 Phase 1 counselling registration deadline to August 1, giving eligible candidates more time to complete the admission process. The revised schedule sets August 9 for Round 1 seat allotment, while reporting to allotted colleges will take place from August 10 to 15..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Kirti Kulhari loses Rs 2.4L to cyber fraud; files complaint",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kirti-kulhari-loses-rs-2-4-lakh-to-cyber-fraud-actress-files-a-complaint-with-mumbai-police/articleshow/132725392.cms",
-      "published": "2026-07-30T08:17:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725481,imgsize-496059.cms",
+      "title": "'Ramayana' actress Sai Pallavi\u2019s skincare tips",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sai-pallavis-skincare-routine-healthy-diet-natural-products-and-simple-habits-behind-the-ramayana-actress-makeup-free-glow/articleshow/132753979.cms",
+      "published": "2026-07-31T09:08:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754963,imgsize-1093482.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Entertainment",
-      "title": "Jared Leto's former colleague reveals his 'horrible' behaviour",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/no-soul-behind-his-eyes-jared-letos-former-colleague-reveals-his-horrible-and-uncomfortable-behaviour-during-thirty-seconds-to-mars-tour/articleshow/132725445.cms",
-      "published": "2026-07-30T08:40:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132725400,imgsize-211225.cms",
+      "title": "Quote of the day by Tom Cruise",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-cruise-you-have-to-just-live-life-and-dont-be-afraid-to-be-afraid-when-the-digger-lead-proved-fear-should-never-stop-you/articleshow/132754526.cms",
+      "published": "2026-07-31T09:05:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754768,imgsize-116166.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "Lara Dutta's Kaikeyi look in 'Ramayana' trailer sparks debate",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-duttas-kaikeyi-look-in-ramayana-trailer-sparks-debate-is-this-treta-yuga-or-2026/articleshow/132753598.cms",
+      "published": "2026-07-31T08:32:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754187,imgsize-296407.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132753598.cms\" />Nitesh Tiwari's Ramayana trailer is igniting vibrant conversations across social media. Lara Dutta's take on Queen Kaikeyi is drawing mixed reactions, with some viewers criticizing her contemporary attire and hairstyle.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "Vismaya Mohanlal reveals how Muay Thai changed her life",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-was-not-fit-at-all-thudakkam-actor-vismaya-mohanlal-reveals-how-muay-thai-changed-her-life/articleshow/132753977.cms",
+      "published": "2026-07-31T08:25:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132754015,imgsize-570438.cms",
+      "summary": "A post shared by Vismaya Mohanlal (@mayamohanlal) The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
     }
   ]
 }
