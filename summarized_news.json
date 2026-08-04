@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-03T04:12:13",
+  "generated_at": "2026-08-04T03:53:21",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "No case against Noida teen who 'abused' PM Modi: Delhi Police",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-to-take-no-action-against-noida-teen-who-abused-pm-modi/articleshow/132816347.cms",
-      "published": "Mon, 03 Aug 2026 08:17:57 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132817778,imgsize-111827.cms",
-      "summary": "Delhi Police will not file a case against a 15-year-old girl. She apologized for repeating abusive remarks against Prime Minister Narendra Modi.",
+      "title": "Indian agents killed over 30 LeT operatives in Pak since 2020, claims Lashkar leader",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/indian-agents-killed-over-30-let-operatives-in-pakistan-since-2020-claims-lashkar-leader/articleshow/132844598.cms",
+      "published": "Tue, 04 Aug 2026 08:22:03 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Being hounded despite apology\u2019: Noida teen in PM abuse FIR forced to change homes",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/being-hounded-despite-apology-noida-teen-in-pm-abuse-fir-forced-to-change-homes-thrice-amid-threats/articleshow/132843862.cms",
+      "published": "Tue, 04 Aug 2026 07:02:48 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132843859,imgsize-99712.cms",
+      "summary": "Anjali Singh is a city reporter at The Times of India based in Gurgaon, where she primarily covers education, social welfare, labour , sports and condominium developments, among other topics. With a keen interest in photography, art and music, Anjali brings a creative perspective to her reporting.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
       "category": "Top Stories",
-      "title": "'Double tap': How terrorists are trapping Pakistan's security personnel",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/double-tap-double-tap-how-terrorists-are-trapping-paks-security-forces-with-a-deadly-tactic/articleshow/132817969.cms",
-      "published": "Mon, 03 Aug 2026 09:21:29 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132817995,imgsize-1488400.cms",
+      "title": "WhatsApp puts multiple accounts under review, temporarily blocks access for users",
+      "url": "https://timesofindia.indiatimes.com/india/whatsapp-puts-multiple-accounts-under-review-temporarily-blocks-access-for-users/articleshow/132845199.cms",
+      "published": "Tue, 04 Aug 2026 08:34:38 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132845225,imgsize-1531726.cms",
       "summary": "A digital news desk journalist at The Times of India with over two years of experience. Closely tracks foreign affairs and international politics.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "'I'm not looking to kill people': Trump on halting Iran strikes",
-      "url": "https://timesofindia.indiatimes.com/world/us/well-see-how-it-goes-trump-says-iran-talks-to-begin-monday-after-halting-planned-strikes/articleshow/132816028.cms",
-      "published": "Mon, 03 Aug 2026 06:17:22 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132816034,imgsize-915333.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Top Stories",
-      "title": "'I gave up': Tejaswin's confession after turning heartbreak into historic bronze",
-      "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-gave-up-tejaswin-shankars-emotional-confession-after-turning-cwg-heartbreak-into-historic-bronze/articleshow/132817373.cms",
-      "published": "Mon, 03 Aug 2026 08:32:47 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-132817372,imgsize-144854.cms",
-      "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
-    },
-    {
-      "category": "India",
-      "title": "New Evidence In D4vd Case: Prosecutors cite texts and forensics at hearing; defense contests proof",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/d4vd-murder-case-takes-shocking-turn-as-court-reveals-streamers-alleged-secret-relationship-with-teen-before-celeste-rivas-hernandezs-death/articleshow/132815625.cms",
-      "published": "2026-08-03T05:52:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132815625,imgsize-116972.cms",
-      "summary": "Barsha Dutta has been covering the NFL since 2024, bringing a fresh and engaging perspective to the game. With Masters in Literature, she blends passion with insight, making football stories both relatable and exciting for readers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "India",
-      "title": "Fans Split Over Self-Mural: Clavicular penthouse photo sparks debate; critics see dictator narcissism, others defend art",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/this-dude-has-got-to-be-a-psychopath-fans-mock-clavicular-after-massive-penthouse-mural-sparks-dictator-comparisons/articleshow/132815931.cms",
-      "published": "2026-08-03T06:12:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132815931,imgsize-75950.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132815931.cms\" />Clavicular sparked a social media storm after a photo of a massive self-portrait mural inside his penthouse went viral. Many fans mocked the artwork, comparing it to a dictator-style portrait, while others defended it as an impressive artistic choice.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "India",
-      "title": "Charlie Kirk Assassination Case: Candace Owens questions FBI timeline; casts doubt on evidence",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/utter-disaster-of-a-non-existent-case-candace-owens-raises-fresh-questions-about-fbi-timeline-in-charlie-kirk-assassination-case/articleshow/132815612.cms",
-      "published": "2026-08-03T05:31:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132815612,imgsize-97869.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132815612.cms\" />Candace Owens has questioned the FBI's response timeline in the Charlie Kirk murder investigation, asking why agents arrived at Utah Valley University so quickly. She also challenged key parts of the prosecution's case against Tyler Robinson, including the evidence presented and the official account of the shooting, while continuing to raise doubts about the federal investigation..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
+      "category": "Top Stories",
+      "title": "CWG para champions complain against IOA staff, seek action over 'misconduct'",
+      "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-para-champions-complain-against-ioa-staff-seek-action-over-alleged-misconduct-disrespectful-behaviour/articleshow/132843957.cms",
+      "published": "Tue, 04 Aug 2026 07:18:34 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-132843981,imgsize-143930.cms",
+      "summary": "After the recent success of Dilip Gavit and Mohammed Basil, Indian para athletes and coaches have come forward with formal complaints against a member of the IOA media committee. The allegations detail instances of rude behaviour directed at the para athletes, leading to a heated confrontation that spiraled into a brief physical clash.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
       "category": "India",
-      "title": "Quote of the day by Cicero: 'If we are not ashamed to think it, we should not be ashamed to say it'",
-      "url": "https://timesofindia.indiatimes.com/world/europe/quote-of-the-day-by-cicero-if-we-are-not-ashamed-to-think-it-we-should-not-be-ashamed-to-say-it-and-the-slow-psychological-toll-of-hiding-what-you-really-believe/articleshow/132813255.cms",
-      "published": "2026-08-03T01:47:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132813666,imgsize-578891.cms",
+      "title": "Parody Quotes Spur Debate: X screenshots of Clavicular go viral; fans split over his influence",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/ill-probably-end-up-ruling-the-entire-planet-clavicular-sparks-frenzy-after-claiming-hesone-of-the-most-influential-people-in-the-world/articleshow/132843328.cms",
+      "published": "2026-08-04T05:52:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132843328,imgsize-75950.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132843328.cms\" />A parody account on X went viral after sharing quotes attributed to Clavicular, claiming he believes he is among the world's most influential people and on a \"once in a generation\" rise. The post also included ambitious remarks about changing culture and even ruling beyond the planet.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "India",
+      "title": "Asmongold Slams Candace Owens: streamer says she\u2019s \u2018totally cooked\u2019; viral clip fuels backlash debate",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/shes-always-been-retarded-streamers-asmongold-tears-into-candace-owens-over-charlie-kirk-claims-says-shes-totally-cooked-after-conspiracy-theories/articleshow/132843387.cms",
+      "published": "2026-08-04T06:12:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132843387,imgsize-90687.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132843387.cms\" />Asmongold strongly criticised Candace Owens over her Charlie Kirk conspiracy claims, arguing she has severely damaged her credibility and alienated mainstream audiences. He claimed there was little chance of repairing her public image and suggested her remaining supporters would continue demanding more extreme claims.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "Quote of the day by Paulo Coelho: 'If you're brave enough to say goodbye, life will reward you with a new hello'",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/quote-of-the-day-by-paulo-coelho-if-youre-brave-enough-to-say-goodbye-life-will-reward-you-with-a-new-hello/articleshow/132841116.cms",
+      "published": "2026-08-04T02:14:11+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132841128,imgsize-89656.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.16
+    },
+    {
+      "category": "India",
+      "title": "Quote of the day by Marco Rubio: 'God has blessed me in many ways but none more important than my wife Jeanette'",
+      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-marco-rubio-god-has-blessed-me-in-many-ways-but-none-more-important-than-my-wife-jeanette/articleshow/132841078.cms",
+      "published": "2026-08-04T01:48:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132841087,imgsize-37988.cms",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Stock market today: BSE Sensex jumps over 500 points, NSE Nifty50 above 24,550",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-03-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132816952.cms",
-      "published": "2026-08-03T08:05:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132816952,imgsize-2601641.cms",
-      "summary": "Benchmark indices open August on a firm note, extending the positive momentum seen in the previous session. BSE Sensex climbed 551.13 points, or 0.71 per cent, to trade at 78,645.77, while NSE Nifty 50 gained 168.45 points, or 0.69 per cent, to 24,552.05 in early trade.",
+      "title": "Trump slams Exxon Mobil, Chevron for 'making too much money'; asks to give it back",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-slams-exxon-mobil-chevron-for-making-too-much-money-asks-to-give-it-back-to-consumers/articleshow/132844679.cms",
+      "published": "2026-08-04T08:41:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132845240,imgsize-62770.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Business",
+      "title": "Top stocks to buy today: Stock market recommendations for August 4, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-04-2026-honasa-consumer-gland-pharma-bata-india-siemens-stocks-to-buy-today/articleshow/132845575.cms",
+      "published": "2026-08-04T08:59:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132845619,imgsize-699981.cms",
+      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Top stocks to buy: Stock recommendations for this week - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-03-2026-week-rr-kable-kfin-technologies-stocks-to-buy-today/articleshow/132816713.cms",
-      "published": "2026-08-03T07:51:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132816720,imgsize-779261.cms",
-      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
+      "title": "Stock Market Today Live Updates: Where are NSE Nifty50 and BSE Sensex headed?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-04-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132845472.cms",
+      "published": "2026-08-04T08:48:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132845472,imgsize-2343443.cms",
+      "summary": "Indian equity markets are expected to open on a flat to mildly negative note, with Gift Nifty trading around 24,650, down by 14 points, indicating subdued opening cues for domestic indices. Global markets remain cautiously positive as investors continue to assess the latest U.S.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
-      "published": "2026-08-03T07:33:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132816367,imgsize-39284.cms",
+      "title": "Oil rebounds from three-week low as Hormuz tensions keep supply fears alive",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-rebounds-from-three-week-low-as-hormuz-tensions-keep-supply-fears-alive/articleshow/132844008.cms",
+      "published": "2026-08-04T07:31:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844036,imgsize-45528.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
-    },
-    {
-      "category": "Business",
-      "title": "RBI expected to hold rates on Aug 5",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-expected-to-hold-rates-on-aug-5/articleshow/132815697.cms",
-      "published": "2026-08-03T04:55:16+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132815695,imgsize-967448.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "CLAT 2027 applications begin today at consortiumofnlus.ac.in; five-year registration trend shows rising competition for NLU seats",
-      "url": "https://timesofindia.indiatimes.com/education/news/clat-2027-applications-begin-today-at-consortiumofnlus-ac-in-five-year-registration-trend-shows-rising-competition-for-nlu-seats/articleshow/132817820.cms",
-      "published": "2026-08-03T09:09:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817814,imgsize-132832.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/clat-2027-applications-begin-today-at-consortiumofnlus-ac-in-five-year-registration-trend-shows-rising-competition-for-nlu-seats/articleshow/132817820.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132817820.cms\" /></a>The Consortium of National Law Universities will begin CLAT 2027 registrations today, August 3, at 10.00 am IST. Candidates can apply for undergraduate and postgraduate law programmes until October 31, while the entrance examination is scheduled for December 6.",
+      "title": "From a rented garage to a global biotech giant: How Kiran Mazumdar-Shaw built Biocon after being told women couldn't brew beer",
+      "url": "https://timesofindia.indiatimes.com/education/news/she-started-with-rs-10000-and-a-rented-garage-after-career-rejection-then-built-biocon-into-a-global-biotech-leader/articleshow/132826354.cms",
+      "published": "2026-08-04T08:52:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132826358,imgsize-78516.cms",
+      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.11
     },
     {
       "category": "Education",
-      "title": "UPSC CMS 2026 answer key awaited at upsc.gov.in after August 2 exam; check marking scheme and next recruitment stages",
-      "url": "https://timesofindia.indiatimes.com/education/news/upsc-cms-2026-answer-key-awaited-at-upsc-gov-in-after-august-2-exam-check-marking-scheme-and-next-recruitment-stages/articleshow/132817646.cms",
-      "published": "2026-08-03T08:56:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817633,imgsize-1641271.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/upsc-cms-2026-answer-key-awaited-at-upsc-gov-in-after-august-2-exam-check-marking-scheme-and-next-recruitment-stages/articleshow/132817646.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132817646.cms\" /></a>UPSC CMS answer key 2026: The UPSC Combined Medical Services Examination 2026 answer key will be released only after the recruitment process concludes, with the official upload expected in January 2027. The written examination was conducted on August 2, 2026, in two computer-based sessions.",
+      "title": "UPSSSC Exam Calendar 2026 out: Check recruitment exam, PET and interview schedule for all major posts",
+      "url": "https://timesofindia.indiatimes.com/education/news/upsssc-exam-calendar-2026-out-check-recruitment-exam-pet-and-interview-schedule-for-all-major-posts/articleshow/132845336.cms",
+      "published": "2026-08-04T08:42:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132845309,imgsize-246254.cms",
+      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "KSP CPC answer key 2026 to be released shortly at ksp-recruitment.in; know objection process and next important dates",
-      "url": "https://timesofindia.indiatimes.com/education/news/ksp-cpc-answer-key-to-be-released-shortly-after-august-2-exam-know-objection-process-and-next-important-dates/articleshow/132817420.cms",
-      "published": "2026-08-03T08:37:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817436,imgsize-190631.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ksp-cpc-answer-key-to-be-released-shortly-after-august-2-exam-know-objection-process-and-next-important-dates/articleshow/132817420.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132817420.cms\" /></a>The Karnataka State Police is expected to release the provisional answer key for the Civil Police Constable (RPC and NHK) written examination conducted on August 2, 2026, within the coming days. Candidates will be able to raise objections during the prescribed window before the final answer key is published later in August.",
+      "title": "World Scholar's Cup 2026: Greenwood High students win 215 medals, qualify 16 teams for Yale University tournament",
+      "url": "https://timesofindia.indiatimes.com/education/news/world-scholars-cup-2026-greenwood-high-students-win-215-medals-qualify-16-teams-for-yale-university-tournament/articleshow/132844842.cms",
+      "published": "2026-08-04T08:19:03+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844875,imgsize-214007.cms",
+      "summary": "Sanjay Sharma is a seasoned journalist with over two decades of experience in the media industry. Currently serving as Assistant Editor - Education at TimesofIndia.com, he specializes in education-related content, including board results, job notifications, and studying abroad.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.12
     },
     {
       "category": "Education",
-      "title": "MHT CET CAP Round 1 allotment 2026 released at cetcell.mahacet.org; candidates must complete seat acceptance by August 5",
-      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-cap-round-1-allotment-2026-released-at-cetcell-mahacet-org-candidates-must-complete-seat-acceptance-by-august-5/articleshow/132816886.cms",
-      "published": "2026-08-03T08:04:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132816875,imgsize-143320.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mht-cet-cap-round-1-allotment-2026-released-at-cetcell-mahacet-org-candidates-must-complete-seat-acceptance-by-august-5/articleshow/132816886.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132816886.cms\" /></a>The State Common Entrance Test Cell, Maharashtra has released the provisional CAP Round 1 allotment list for engineering and management admissions. Candidates must complete seat acceptance, fee payment and institute reporting between August 3 and August 5, 2026, according to their allotment status.",
+      "title": "SSC MTS 2025 and CBIC Havaldar Result 2026 declared at ssc.gov.in; 8,071 shortlisted for PET and PST: Direct link",
+      "url": "https://timesofindia.indiatimes.com/education/news/ssc-mts-2025-and-cbic-havaldar-result-2026-declared-at-ssc-gov-in-8071-shortlisted-for-pet-and-pst-direct-link/articleshow/132844590.cms",
+      "published": "2026-08-04T08:06:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844560,imgsize-156992.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ssc-mts-2025-and-cbic-havaldar-result-2026-declared-at-ssc-gov-in-8071-shortlisted-for-pet-and-pst-direct-link/articleshow/132844590.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132844590.cms\" /></a>SSC MTS Result 2026: The Staff Selection Commission has declared the SSC MTS 2025 and CBIC Havaldar Result 2026 for the Computer Based Examination conducted earlier this year. More than 8.04 lakh candidates appeared, while 8,071 candidates have been shortlisted for the Havaldar PET/PST.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "Vismaya Mohanlal recalls Himalayan trip with Pranav",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/appuchettan-never-plans-his-trips-vismaya-mohanlal-recalls-himalayan-trip-with-pranav/articleshow/132817748.cms",
-      "published": "2026-08-03T09:04:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817772,imgsize-221509.cms",
+      "title": "Did you know Ranbir was shooed away by Natalie Portman? Quentin Tarantino showed him the finger",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-ramayana-actor-ranbir-kapoor-was-shooed-away-by-natalie-portman-quentin-tarantino-showed-me-the-finger-i-waited-three-hours-to-see-al-pacino/articleshow/132844205.cms",
+      "published": "2026-08-04T07:55:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844341,imgsize-163644.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "Katy and Justin share a passionate kiss on beach date - PICS",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-share-a-passionate-kiss-on-beach-date-as-they-mark-a-year-of-dating-pics/articleshow/132816819.cms",
-      "published": "2026-08-03T09:01:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817727,imgsize-394668.cms",
+      "title": "'Trainspotting: The Musical' UK tour announces cancellation",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/trainspotting-the-musical-uk-tour-announces-cancellation-due-to-poor-ticket-sales-current-economic-climate-has-resulted/articleshow/132845192.cms",
+      "published": "2026-08-04T08:32:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132845183,imgsize-324927.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.2
+      "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "Phil Collins recalls near-death experience in 2024 due to alcohol addiction",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/phil-collins-recalls-near-death-experience-in-2024-due-to-alcohol-addiction-people-were-coming-to-say-goodbye/articleshow/132817480.cms",
-      "published": "2026-08-03T08:45:23+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817582,imgsize-229973.cms",
+      "title": "Sunny says Dharmendra referred to Pak as Mousi; faces FLAK",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-faces-backlash-after-opening-up-about-dharmendra-referring-to-pakistan-as-mousi-ahead-of-batwara-1947/articleshow/132844032.cms",
+      "published": "2026-08-04T08:16:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844032,imgsize-556982.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "'Kattalan' OTT release: Where to stream",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kattalan-ott-release-antony-vargheses-action-thriller-to-stream-on-this-ott-platform/articleshow/132817182.cms",
-      "published": "2026-08-03T08:22:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-132817218,imgsize-408254.cms",
+      "title": "Nina Lopez-Corrado explains \u2018House of the Dragon 3\u2019 episode seven",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-3-finale-director-explains-new-updates-ahead-of-last-episode/articleshow/132844646.cms",
+      "published": "2026-08-04T08:11:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-132844699,imgsize-67903.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.07
     }
   ]
 }
