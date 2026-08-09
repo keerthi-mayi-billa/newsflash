@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-08T02:34:37",
+  "generated_at": "2026-08-09T02:41:39",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "How WhatsApp clue, Mygate trail help CBI crack NEET paper leak",
-      "url": "https://timesofindia.indiatimes.com/india/whatsapp-clue-mygate-trail-help-cbi-crack-neet-paper-leak/articleshow/133042276.cms",
-      "published": "Sat, 08 Aug 2026 03:36:43 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133042289,imgsize-160432.cms",
-      "summary": "A WhatsApp conversation triggered the CBI's probe into the NEET-UG examination scam. Subject matter experts colluded by memorizing exam questions and distributing them to students for a fee.",
+      "title": "\u2018Gen Z is a force that can\u2019t be ignored\u2019: Dharmendra Pradhan days after resignation",
+      "url": "https://timesofindia.indiatimes.com/india/gen-z-is-a-force-that-cant-be-ignored-dharmendra-pradhan/articleshow/133061131.cms",
+      "published": "Sun, 09 Aug 2026 05:48:47 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133061132,imgsize-79414.cms",
+      "summary": "Former Union Education Minister Dharmendra Pradhan acknowledged the immense potential of Gen Z, stating that grasping their hopes and dreams is essential for national advancement. He noted that the eagerness of young people surpasses any governmental duties, a point he shared with Prime Minister Narendra Modi, who subsequently reached out to the youth.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.09
     },
     {
       "category": "Top Stories",
-      "title": "'Why should entire city suffer?': Delhi HC on plea for protest at Jantar Mantar",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/hc-questions-why-jantar-mantar-kept-as-protest-site/articleshow/133040973.cms",
-      "published": "Sat, 08 Aug 2026 00:12:22 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133044993,imgsize-166602.cms",
-      "summary": "Concerns were voiced by the Delhi High Court regarding Jantar Mantar as a protest site, questioning why the city should endure interruptions from protests. A Dalit Christian group has sought permission to hold a peaceful demonstration on August 10, while the police have been tasked to provide clarity on the request by Saturday.",
+      "title": "Government spending on education below Unesco's 15% standard",
+      "url": "https://timesofindia.indiatimes.com/india/govt-spending-on-education-below-unescos-15-standard/articleshow/133059254.cms",
+      "published": "Sun, 09 Aug 2026 03:16:40 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133059255,imgsize-184768.cms",
+      "summary": "Manash Pratim Gohain is a seasoned journalist with over two decades at The Times of India, where he has built a rich body of work spanning education policy, politics, and governance. Renowned for his incisive coverage of the National Education Policy (NEP) 2020, accreditation reforms, and skilling initiatives, he has also reported on student politics, urban policy, and social movements.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.07
     },
     {
       "category": "Top Stories",
-      "title": "27 Arunachal border locations get standard names to snub China's renaming attempts",
-      "url": "https://timesofindia.indiatimes.com/india/govt-maps-27-arunachal-border-locations-with-standard-names/articleshow/133043102.cms",
-      "published": "Sat, 08 Aug 2026 03:45:25 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133043380,imgsize-322538.cms",
-      "summary": "Prabin Kalita is a journalist at The Times of India and is currently the Chief of Bureau (northeast). He has been reporting in mainstream Indian national media since 2001.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Top Stories",
-      "title": "Pant's midnight plea to Uttarakhand CM: 'Please help me in land acquisition'",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pants-midnight-plea-to-uttarakhand-cm-please-help-me-in-land-acquisition-as-star-seeks-to-build-home-in-state/articleshow/133044879.cms",
-      "published": "Sat, 08 Aug 2026 06:59:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133044904,imgsize-134447.cms",
+      "title": "Pakistan cricketers face ban after playing in \u2018unsanctioned\u2019 Zambia T20 league",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketers-face-two-year-pcb-ban-after-playing-in-unsanctioned-zambia-t20-league/articleshow/133061347.cms",
+      "published": "Sun, 09 Aug 2026 07:12:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133061357,imgsize-70932.cms",
       "summary": "At TOI Sports Desk, reporters work around the clock to bring you comprehensive updates from the world of sports. Expect nuanced match reports, previews, and reviews, along with statistics-based technical analysis, the latest social media trends, and expert insights across cricket, football, tennis, badminton, hockey, motorsports, wrestling, boxing, shooting, athletics, and more.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.05
+    },
+    {
+      "category": "Top Stories",
+      "title": "Four killed in helicopter crash in Brazil's Rio de Janeiro",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/four-killed-in-helicopter-crash-in-rio-de-janeiro/articleshow/133061331.cms",
+      "published": "Sun, 09 Aug 2026 07:07:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133061342,imgsize-255180.cms",
+      "summary": "Ayush Pandey is a journalist at The Times of India, covering breaking news, politics, defence, and major legal and policy developments across India and the world. His reporting focuses on elections, national security, and institutional affairs, tracking the decisions and conflicts that shape public life.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Sanchez vs Meloni: Spain imposes Italy border checks as Ceuta migrant row escalates",
-      "url": "https://timesofindia.indiatimes.com/world/europe/sanchez-vs-meloni-spain-imposes-italy-border-checks-as-ceuta-migrant-row-escalates/articleshow/133045024.cms",
-      "published": "2026-08-08T07:32:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133045046,imgsize-1103360.cms",
+      "title": "Colombia rocked by car bomb blast a day after new President takes charge",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/colombia-rocked-by-car-bomb-blast-a-day-after-new-president-abelardo-de-la-espriella-takes-charge/articleshow/133061382.cms",
+      "published": "2026-08-09T07:28:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133061402,imgsize-1077369.cms",
       "summary": "Abhishek Mishra is a Digital Content Producer at The Times of India, working with the news desk. He writes with a keen eye on foreign policy, defence developments, and the shifting currents of geopolitics-and yes, Indian politics always finds a way onto his radar too.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.2
+      "time_sec": 15.07
     },
     {
       "category": "India",
-      "title": "Quote by Thomas Aquinas: 'Better to illuminate than merely to shine, to deliver to others...'",
-      "url": "https://timesofindia.indiatimes.com/world/europe/quote-of-the-day-by-thomas-aquinas-better-to-illuminate-than-merely-to-shine-to-deliver-to-others-and-the-case-for-sharing-what-you-know-before-it-dies-with-you/articleshow/133041766.cms",
-      "published": "2026-08-08T01:59:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133041979,imgsize-930058.cms",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
+      "title": "Dozens of Nigerians freed after six months in jihadi captivity",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/dozens-of-nigerians-freed-after-six-months-in-jihadi-captivity/articleshow/133061302.cms",
+      "published": "2026-08-09T06:58:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133061319,imgsize-202668.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133061302.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Quote of the day by Ernest Hemingway: 'Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut' and a funny lesson on self-discipline",
-      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-ernest-hemingway-always-do-sober-what-you-said-youd-do-drunk-that-will-teach-you-to-keep-your-mouth-shut-and-a-funny-lesson-on-self-discipline/articleshow/133041960.cms",
-      "published": "2026-08-08T01:47:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133041965,imgsize-30532.cms",
+      "title": "Kash Patel plans Russia trip in October; Kremlin-friendly newspaper warns he better not come empty-handed if he has a favor to ask",
+      "url": "https://timesofindia.indiatimes.com/world/us/kash-patel-plans-russia-trip-in-october-kremlin-friendly-newspaper-warns-he-better-not-come-empty-handed-if-he-has-a-favor-to-ask/articleshow/133059149.cms",
+      "published": "2026-08-09T02:13:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133059150,imgsize-72488.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Quote of the day by Warren Buffett: 'The most important thing to do if you find yourself in a hole is to stop digging' and a useful business lesson",
-      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-warren-buffett-the-most-important-thing-to-do-if-you-find-yourself-in-a-hole-is-to-stop-digging-and-a-useful-business-lesson/articleshow/133041910.cms",
-      "published": "2026-08-08T01:29:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133041919,imgsize-53904.cms",
+      "title": "Quote of the day on love: 'Find what you love and let it kill you'",
+      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-on-love-find-what-you-love-and-let-it-kill-you/articleshow/133059066.cms",
+      "published": "2026-08-09T01:35:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133059089,imgsize-211482.cms",
       "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.16
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "\u2018UPI infra mostly shared, costs can\u2019t be singled out\u2019",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/upi-infra-mostly-shared-costs-cant-be-singled-out/articleshow/133045128.cms",
-      "published": "2026-08-08T07:44:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133045195,imgsize-115770.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Business",
-      "title": "After years, government looks to revamp investment treaty",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/after-years-government-looks-to-revamp-investment-treaty/articleshow/133045136.cms",
-      "published": "2026-08-08T07:43:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133045185,imgsize-374338.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Business",
-      "title": "Onion, oil or chicken: What made your thali costlier in July",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/onion-oil-or-chicken-what-made-your-thali-costlier-in-july/articleshow/133037992.cms",
-      "published": "2026-08-07T21:40:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133038104,imgsize-272744.cms",
+      "title": "Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/berkshire-hathaway-q2-earnings-profit-rises-16-to-12-98-billion-as-buybacks-accelerate/articleshow/133055378.cms",
+      "published": "2026-08-08T21:29:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "More hirings than firings: Nomura report tests \u2018ground zero\u2019; says AI creating more jobs in India than cuts",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/more-hirings-than-firings-nomura-report-tests-ground-zero-says-ai-creating-more-jobs-in-india-than-cuts/articleshow/133036953.cms",
-      "published": "2026-08-07T21:11:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133037696,imgsize-791289.cms",
+      "title": "Kavach: What makes Indian Railways indigenous world-class tech special",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/kavach-what-makes-indian-railways-indigenous-world-class-tech-special/articleshow/133054349.cms",
+      "published": "2026-08-08T19:52:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133054454,imgsize-948230.cms",
       "summary": "Smriti Jain is a business and economy journalist with over 16 years of reporting and editing experience. She writes extensively on the Indian & global economy, infrastructure, stock markets, personal finance, and Indian Railways.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/why-nbfc-gold-loans-are-growing-nearly-70-despite-tighter-rbi-regulations/articleshow/133051443.cms",
+      "published": "2026-08-08T16:59:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133051583,imgsize-65226.cms",
+      "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/100-tariffs-on-india-soon-us-senate-clears-russia-sanctions-bill-10-things-to-know/articleshow/133046387.cms",
+      "published": "2026-08-08T10:08:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133046546,imgsize-662283.cms",
+      "summary": "Kanchan Yadav is a writer at The Times of India, where she covers business, politics, international affairs and social issues. Her reporting also focuses on policy, governance and economic developments, with a close lens on how decisions in corridors of power affect everyday lives and community well-being.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.22
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.07
     },
     {
       "category": "Education",
-      "title": "India has 86,360 postgraduate medical seats; Centre approves plan to add 5,000 more by 2028-29",
-      "url": "https://timesofindia.indiatimes.com/education/news/india-has-86360-postgraduate-medical-seats-centre-approves-plan-to-add-5000-more-by-2028-29/articleshow/133036662.cms",
-      "published": "2026-08-07T20:01:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133036683,imgsize-258614.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/india-has-86360-postgraduate-medical-seats-centre-approves-plan-to-add-5000-more-by-2028-29/articleshow/133036662.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133036662.cms\" /></a>The Centre has informed Parliament that India now has 86,360 postgraduate medical seats and plans to add 5,000 more by 2028-29 under a revamped infrastructure scheme. The expansion, backed by higher funding and updated regulatory norms, aims to strengthen specialist medical training, improve healthcare capacity and address the country's growing demand for qualified doctors..",
+      "title": "NEET PG 2026 exam city intimation slip to be released soon at nbe.edu.in: Check steps to download here",
+      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-2026-exam-city-intimation-slip-to-be-released-soon-at-nbe-edu-in-check-steps-to-download-here/articleshow/133054702.cms",
+      "published": "2026-08-08T20:21:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133054758,imgsize-29416.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/neet-pg-2026-exam-city-intimation-slip-to-be-released-soon-at-nbe-edu-in-check-steps-to-download-here/articleshow/133054702.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133054702.cms\" /></a>The NBEMS will soon release the NEET PG 2026 exam city intimation slip on August 11. Candidates can download this slip from the official NBEMS website for their examination city.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "Effort recession is here: Why Gen Z is no longer glorifying overwork, and what it means for the future of work",
-      "url": "https://timesofindia.indiatimes.com/education/news/effort-recession-is-here-why-gen-z-is-no-longer-glorifying-overwork-and-what-it-means-for-the-future-of-work/articleshow/133036388.cms",
-      "published": "2026-08-07T19:49:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133036388,imgsize-100020.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/effort-recession-is-here-why-gen-z-is-no-longer-glorifying-overwork-and-what-it-means-for-the-future-of-work/articleshow/133036388.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133036388.cms\" /></a>A new workplace trend called the \"effort recession\" suggests Gen Z is redefining commitment rather than abandoning it. As AI reshapes productivity and burnout concerns grow, younger employees are prioritising meaningful work, flexibility and wellbeing over long hours.",
+      "title": "DU UG admissions 2026: 3rd merit list out, accept allotted seats by August 11",
+      "url": "https://timesofindia.indiatimes.com/education/news/du-3rd-merit-list-2026-released-for-ug-admissions-accept-allotted-seats-by-august-11/articleshow/133053282.cms",
+      "published": "2026-08-08T18:33:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133053390,imgsize-2112185.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-3rd-merit-list-2026-released-for-ug-admissions-accept-allotted-seats-by-august-11/articleshow/133053282.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133053282.cms\" /></a>The University of Delhi has released its third merit list for undergraduate admissions today. Candidates can check the official website for their names and allotted seats.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "Education",
+      "title": "SSC JHT PST admit card 2026 out at sscer.org: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ssc-jht-pst-admit-card-2026-out-at-sscer-org-direct-link-to-download-hall-ticket-here/articleshow/133051965.cms",
+      "published": "2026-08-08T17:20:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133052034,imgsize-21612.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ssc-jht-pst-admit-card-2026-out-at-sscer-org-direct-link-to-download-hall-ticket-here/articleshow/133051965.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133051965.cms\" /></a>The Staff Selection Commission has issued the admit cards for the upcoming Physical Standard Test. Candidates can easily access their call letters through the official SSC regional website.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.19
+    },
+    {
+      "category": "Education",
+      "title": "JNVST Class 6 admissions 2027: NVS extends registration deadline till August 10, check details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/jnvst-class-6-admissions-2027-nvs-extends-registration-deadline-till-august-10-check-details-here/articleshow/133051134.cms",
+      "published": "2026-08-08T16:36:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133051211,imgsize-55198.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jnvst-class-6-admissions-2027-nvs-extends-registration-deadline-till-august-10-check-details-here/articleshow/133051134.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133051134.cms\" /></a>The Navodaya Vidyalaya Samiti has announced an extension for Class 6 admission applications, now due by August 10, 2026. Interested students can apply via the official website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
-      "category": "Education",
-      "title": "In 1981, Harvard rejected Paul Devlin; he spotted a grammatical error, rejected the rejection and had his response published in The New York Times",
-      "url": "https://timesofindia.indiatimes.com/education/news/in-1981-harvard-rejected-paul-devlin-he-spotted-a-grammatical-error-rejected-the-rejection-and-had-his-response-published-in-the-new-york-times/articleshow/133034384.cms",
-      "published": "2026-08-07T19:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133034954,imgsize-70398.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/in-1981-harvard-rejected-paul-devlin-he-spotted-a-grammatical-error-rejected-the-rejection-and-had-his-response-published-in-the-new-york-times/articleshow/133034384.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133034384.cms\" /></a>In 1981, high school student Paul Devlin responded to Harvard University's rejection letter by rejecting its rejection instead. Inspired by a grammatical error in Harvard's letter, his witty reply was published byThe New York Times.",
+      "category": "Entertainment",
+      "title": "'Toxic' actor Nayanthara recalls first meeting Yash",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/am-i-entering-rocky-bhais-kingdom-toxic-actor-nayanthara-recalls-first-meeting-yash/articleshow/133061365.cms",
+      "published": "2026-08-09T07:20:11+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133061375,imgsize-163882.cms",
+      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "\u2018Don\u2019t chase the dream blindly\u2019: Indian man in Paris offers a reality check on life abroad",
-      "url": "https://timesofindia.indiatimes.com/education/news/dont-chase-the-dream-blindly-indian-man-in-paris-offers-a-reality-check-on-life-abroad/articleshow/133034971.cms",
-      "published": "2026-08-07T18:42:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133034971,imgsize-108324.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/dont-chase-the-dream-blindly-indian-man-in-paris-offers-a-reality-check-on-life-abroad/articleshow/133034971.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133034971.cms\" /></a>An Indian living in Paris has sparked an important conversation by urging young Indians to look beyond the glamour of life abroad. Through a viral video, he highlights the financial burdens, emotional struggles, cultural adjustments and relentless hard work behind overseas success, reminding aspiring migrants that informed decisions matter more than chasing idealised dreams..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "'Bharat Bhhagya Viddhaata' OTT release: When, where to watch",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bharat-bhhagya-viddhaata-ott-release-heres-when-and-where-to-watch-kangana-ranauts-film-online/articleshow/133045030.cms",
-      "published": "2026-08-08T07:42:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133045163,imgsize-559922.cms",
+      "title": "Perez Hilton\u2019s health remains \u2018serious but stable\u2019 after self-harm live stream",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/perez-hiltons-health-remains-serious-but-stable-after-experiencing-blood-loss-due-to-self-harm-at-miami-home-during-live-stream/articleshow/133061344.cms",
+      "published": "2026-08-09T07:12:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133061354,imgsize-211183.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Nick-Joe prove they are 'Desi boys'; dine at Indian restaurant",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-and-joe-jonas-cant-get-enough-of-indian-food-devour-onion-bhajia-pista-lamb-chop-murgh-makhani-and-more-watch/articleshow/133044881.cms",
-      "published": "2026-08-08T07:25:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133044966,imgsize-369931.cms",
+      "title": "Kiara on 'Toxic': 'There will be Kiara before and after this'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-says-yash-and-geetu-mohandas-manifested-her-as-nadia-in-toxic-there-will-be-a-kiara-before-and-after-this-film/articleshow/133061268.cms",
+      "published": "2026-08-09T06:55:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133061296,imgsize-389665.cms",
       "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "'Korean Kanakaraju' opens with Rs 3.95 crore",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/korean-kanakaraju-box-office-collections-day-1-varun-tejs-film-opens-with-rs-3-95-crore-india-gross-reaches-rs-4-50-crore/articleshow/133044981.cms",
-      "published": "2026-08-08T07:18:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133044987,imgsize-462188.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
+      "title": "Musafir Cafe fame Vedika on the show's success, what to expect from Season 2",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/never-identified-with-how-i-look-was-called-toothpick-in-school-vedika-pinto-on-musafir-cafe-her-character-sudha-being-called-red-flag-her-journey-and-more/articleshow/133049783.cms",
+      "published": "2026-08-08T16:37:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133051218,imgsize-478605.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133049783.cms\" />Post the humungous success of 'Musafir Cafe', Vedica Pinto gets into a candid chat with Etimes talking about the response to the show co-starring Vikrant Massey, Mahima Makwana, the perceptions about her character Sudha, growing up as an underconfident child, her journey so far from being the 'Liggi' girl to Anurag Kashyap's 'Nishanchi', her aspirations and more. Read on...",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Entertainment",
-      "title": "Jed Wallace files request for Blake Lively\u2019s deposition",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-faces-new-deposition-request-in-legal-battle-for-usd-800000-in-attorney-fees-from-justin-baldoni/articleshow/133044868.cms",
-      "published": "2026-08-08T06:56:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133044895,imgsize-365690.cms",
-      "summary": "The TOI Entertainment Desk is a dynamic and dedicated team of journalists, working tirelessly to bring the pulse of the entertainment world straight to the readers of The Times of India. No red carpet goes unrolled, no stage goes dark - our team spans the globe, bringing you the latest scoops and insider insights from Bollywood to Hollywood, and every entertainment hotspot in between.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.11
     }
   ]
 }
