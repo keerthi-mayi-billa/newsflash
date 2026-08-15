@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-14T03:11:53",
+  "generated_at": "2026-08-15T02:02:22",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Uttarakhand: 7 dead after water, debris enter under-construction tunnel in Chamoli",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/six-workers-dead-2-missing-after-water-debris-enter-under-construction-tunnel-in-uttarakhand/articleshow/133223387.cms",
-      "published": "Fri, 14 Aug 2026 00:40:15 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133223391,imgsize-140348.cms",
+      "title": "7.7 magnitude earthquake strikes off Indonesia coast",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/strong-7-4-magnitude-earthquake-hits-indonesia/articleshow/133253276.cms",
+      "published": "Sat, 15 Aug 2026 04:10:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133253324,imgsize-458112.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "US sends new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
-      "published": "Fri, 14 Aug 2026 00:46:41 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133223383,imgsize-176140.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "'A moment that tore apart several lives': PM Modi on Partition Horrors Remembrance Day",
-      "url": "https://timesofindia.indiatimes.com/india/a-moment-that-tore-apart-several-lives-pm-modi-on-partition-horrors-remembrance-day/articleshow/133227567.cms",
-      "published": "Fri, 14 Aug 2026 08:19:48 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133227695,imgsize-178438.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Intrigue around the Galle pitch but India likely to opt for the safe route",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-galle-test-pitch-report-playing-xi-weather-update-fast-bowlers-spinners/articleshow/133227192.cms",
-      "published": "Fri, 14 Aug 2026 07:44:04 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133227232,imgsize-195635.cms",
-      "summary": "Galle may not offer the raging turner many expected, with the pitch looking set to reward batting early before spin comes into play. India, meanwhile, appear inclined towards the safer three-spinner combination, prioritising batting depth and variety..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "India",
-      "title": "Owens Reframes Kirk Assassination: Owens says grief fuels spiritual mission; video blends faith and audience engagement",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-says-she-feels-charlie-kirk-is-fighting-alongside-her-as-she-opens-up-about-his-assassination/articleshow/133226534.cms",
-      "published": "2026-08-14T05:32:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226541,imgsize-97869.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133226534.cms\" />Candace Owens has opened up about how her feelings changed following Charlie Kirk\u2019s assassination. She said she has moved beyond the initial trauma and no longer feels haunted, instead believing Kirk is spiritually \u201cfighting alongside\u201d her.",
+      "title": "Nalsar students stand firm on demand against CJI as chief guest",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/nalsar-students-stand-firm-on-demand-against-cji-as-chief-guest/articleshow/133250249.cms",
+      "published": "Sat, 15 Aug 2026 00:00:14 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133253732,imgsize-175776.cms",
+      "summary": "NALSAR students are firm on their demand for Chief Justice of India Surya Kant not attending the convocation. Alumni and members of the Cockroach Janta Party support the students' stance on the invitation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
-      "category": "India",
-      "title": "Amazon AI Opt-Out Backlash: Twitch auto-enables training on streams; creators must change privacy settings",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-faces-furious-streamer-backlash-as-amazon-ai-training-opt-out-appears-enabled-by-default/articleshow/133226553.cms",
-      "published": "2026-08-14T05:19:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226554,imgsize-53592.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133226553.cms\" />Twitch is facing criticism over a new setting that allows Amazon to use streamer content for generative AI training by default. Streamers can opt out through their privacy settings.",
+      "category": "Top Stories",
+      "title": "Lord's to Lahore: A look at India's milestone Tests before the 600th at Galle",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-play-600th-test-at-galle-what-happened-in-1st-100th-200th-300th-400th-and-500th-tests/articleshow/133251542.cms",
+      "published": "Sat, 15 Aug 2026 05:00:00 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133253114,imgsize-1255513.cms",
+      "summary": "The men-in-Blue, led by Shubman Gill, are set to become only the third team after England and Australia to reach the milestone, that too on the day when the nation is celebrating its 80th Independence Day from the colonial rule...",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
-      "category": "India",
-      "title": "Old Graduation Clip Resurfaces: Clavicular\u2019s virtual ceremony goes viral; fans see quieter past",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/claviculars-old-graduation-video-sparks-massive-reaction-as-fans-discover-the-streamers-life-before-fame/articleshow/133226558.cms",
-      "published": "2026-08-14T05:52:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226566,imgsize-75950.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133226558.cms\" />A resurfaced video from Clavicular\u2019s COVID-era middle school graduation has gone viral, giving fans a wholesome glimpse of the streamer before his rise to internet fame. The footage shows his name being announced during a virtual ceremony while his parents celebrate from home.",
+      "category": "Top Stories",
+      "title": "Michigan shooting: 5 killed, 1 critically injured, gunman found dead after manhunt",
+      "url": "https://timesofindia.indiatimes.com/world/us/michigan-shooting-5-killed-1-critically-injured-suspected-gunman-found-dead-after-manhunt/articleshow/133253784.cms",
+      "published": "Sat, 15 Aug 2026 07:01:40 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133253812,imgsize-93110.cms",
+      "summary": "Five people died in a northern Michigan shooting on Friday. The suspected gunman was later found dead after a large search.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Paranormal Creator\u2019s Fatal Crash: Jiang Xiaorou dies after July accident; family urges fans to stop speculation",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-was-jiang-xiaorou-the-haunting-story-of-the-chinese-tiktoker-whose-death-brought-her-most-controversial-video-back/articleshow/133226573.cms",
-      "published": "2026-08-14T06:10:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226629,imgsize-99309.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133226573.cms\" />Jiang Xiaorou, a 24-year-old Chinese paranormal content creator, died on August 10 after suffering severe injuries in a July 15 traffic accident. Known for challenging superstition, she had more than 1.28 million Douyin followers.",
+      "title": "Michigan shooting: 5 killed, 1 critically injured, gunman found dead after manhunt",
+      "url": "https://timesofindia.indiatimes.com/world/us/michigan-shooting-5-killed-1-critically-injured-suspected-gunman-found-dead-after-manhunt/articleshow/133253784.cms",
+      "published": "2026-08-15T07:01:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133253812,imgsize-93110.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133253784.cms\" />Five people died in a northern Michigan shooting on Friday. The suspected gunman was later found dead after a large search.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.07
+    },
+    {
+      "category": "India",
+      "title": "A Cape Cod couple moved into their newly built dream home in March 2025",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-cape-cod-couple-moved-into-their-newly-built-dream-home-in-march-2025-one-month-later-massachusetts-said-it-would-seize-it-for-a-new-bridge/articleshow/133251393.cms",
+      "published": "2026-08-15T02:15:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133251483,imgsize-1187142.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133251393.cms\" />In Massachusetts, a newly built residence was taken by state officials for a bridge project, much to the dismay of the Hendel couple who relocated there only a month prior. This eminent domain decision affects thirteen properties in Round Hill as the state prepares for Sagamore Bridge's replacement, causing distress over disrupted retirement plans and unsettled financial futures..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "India",
+      "title": "A Welsh family lost Menna Owen at 18 after a cardiac arrest; her heart and lungs were...",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-welsh-family-lost-menna-owen-at-18-after-a-seizure-triggered-cardiac-arrest-her-heart-and-lungs-were-donated-to-two-recipients-both-doing-well-a-year-later/articleshow/133251353.cms",
+      "published": "2026-08-15T01:31:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133251359,imgsize-682550.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133251353.cms\" />In recent times, there has been a notable drop in family consent rates for organ donation in the UK, resulting in an unprecedented number of patients on transplant waiting lists. To combat this issue, NHS Blood and Transplant has initiated a campaign aimed at boosting registration among potential donors.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "India",
+      "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-is-racing-to-eradicate-a-crayfish-that-can-reproduce-without-mating-in-the-czech-republic-two-newly-detected-populations-are-being-targeted-before-they-spread/articleshow/133248632.cms",
+      "published": "2026-08-15T00:52:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133251168,imgsize-703626.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133248632.cms\" />European conservationists are launching a campaign to eradicate new populations of marbled crayfish, notorious for their rapid reproduction and the deadly diseases they carry. Funded by the European Union, these swift action initiatives aim to tackle invasive species promptly, mitigating the risk of extensive environmental and economic harm while safeguarding native ecosystems from foreign invaders..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -125,43 +125,43 @@
     },
     {
       "category": "Business",
-      "title": "Precious metals price today: Gold slips after two-month high; silver also declines",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133227563.cms",
-      "published": "2026-08-14T08:10:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227563,imgsize-113253.cms",
-      "summary": "Spot gold fell 0.5% to $4,330.37 per ounce by 0103 GMT on Friday as investors locked in profits after bullion climbed to its highest level since June 5 in the previous session. US gold futures for December delivery also declined 0.8% to $4,386.80..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices today: Crude edges higher as US-Iran tensions revive supply concerns",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-14-august-2026-crude-edges-higher-as-us-iran-tensions-revive-supply-concerns/articleshow/133227220.cms",
-      "published": "2026-08-14T07:46:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227280,imgsize-54702.cms",
+      "title": "India's big chip ambition: Can it become the world's next semiconductor hub?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-big-chip-ambition-can-it-become-the-worlds-next-semiconductor-hub/articleshow/133242009.cms",
+      "published": "2026-08-14T18:59:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133242069,imgsize-899143.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "Exports grow at fastest pace in four years",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/exports-grow-at-fastest-pace-in-four-years/articleshow/133226899.cms",
-      "published": "2026-08-14T06:58:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226951,imgsize-305218.cms",
+      "title": "Trump admin accuses over 40 nations including India of helping China evade tariffs - what it means",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trump-admin-accuses-over-40-nations-including-india-of-helping-china-evade-tariffs-what-it-means/articleshow/133245956.cms",
+      "published": "2026-08-14T21:16:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133246200,imgsize-346590.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Business",
+      "title": "US stock market today: Wall Street drifts near record highs; economic data in focus",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-14-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133244412.cms",
+      "published": "2026-08-14T19:51:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133244534,imgsize-370312.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Business",
-      "title": "Commission caps may hit low-value life covers",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/commission-caps-may-hit-low-value-life-covers/articleshow/133226896.cms",
-      "published": "2026-08-14T06:53:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226937,imgsize-13358.cms",
+      "title": "India's forex reserves climb to $707 billion, rise $14.1 billion in a week",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-climb-to-707-billion-rise-14-1-billion-in-a-week/articleshow/133241847.cms",
+      "published": "2026-08-14T18:24:05+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133242005,imgsize-104150.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "MP Board Class 10, 12 timetable 2027 released at mpbse.nic.in: Check complete schedule here",
-      "url": "https://timesofindia.indiatimes.com/education/news/mp-board-class-10-12-timetable-2027-released-at-mpbse-nic-in-check-complete-schedule-here/articleshow/133206303.cms",
-      "published": "2026-08-14T08:10:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227542,imgsize-23398.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mp-board-class-10-12-timetable-2027-released-at-mpbse-nic-in-check-complete-schedule-here/articleshow/133206303.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133206303.cms\" /></a>The Madhya Pradesh Board of Secondary Education has announced the 2027 examination schedule. Class 10 exams will commence on February 24 and conclude on March 18.",
+      "title": "Meet Anusha Arora, the 15-year-old Washington student who built an AI music therapy platform using finger sensors and won $50,000",
+      "url": "https://timesofindia.indiatimes.com/education/news/meet-anusha-arora-the-15-year-old-washington-student-who-built-an-ai-music-therapy-platform-using-finger-sensors-and-won-50000/articleshow/133251355.cms",
+      "published": "2026-08-15T01:40:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133251355,imgsize-92818.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/meet-anusha-arora-the-15-year-old-washington-student-who-built-an-ai-music-therapy-platform-using-finger-sensors-and-won-50000/articleshow/133251355.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133251355.cms\" /></a>Anusha Arora, a 15-year-old student from Bellevue, Washington, has won $50,000 at Regeneron ISEF 2026 for Harmony, an AI-powered music therapy platform. Using finger sensors and 11 AI programmes, the device detects emotions and generates personalised music and visuals.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "Meet Jimmy Chilimigras, the Mississippi teen who finished high school at 12, became a CPA at 15 and graduated in the top 2% at 18",
-      "url": "https://timesofindia.indiatimes.com/education/news/meet-jimmy-chilimigras-the-mississippi-teen-who-finished-high-school-at-12-became-a-cpa-at-15-and-graduated-in-the-top-2-at-18/articleshow/133216393.cms",
-      "published": "2026-08-13T20:38:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133217084,imgsize-1145019.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/meet-jimmy-chilimigras-the-mississippi-teen-who-finished-high-school-at-12-became-a-cpa-at-15-and-graduated-in-the-top-2-at-18/articleshow/133216393.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133216393.cms\" /></a>At just 18 years old, James Chilimigras has achieved remarkable academic milestones, having graduated from Loyola University New Orleans College of Law, where he ranked in the top two percent of his class while earning five certificates. Displaying an exceptional intellect, he completed both his bachelor's and master\u2019s degrees by the age of 15 and became the youngest Certified Public Accountant in history..",
+      "title": "UP Board exam result 2026 likely to be declared soon: Check complete details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-board-exam-result-2026-likely-to-be-declared-soon-check-complete-details-here/articleshow/133245835.cms",
+      "published": "2026-08-14T20:57:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133245835,imgsize-23398.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-board-exam-result-2026-likely-to-be-declared-soon-check-complete-details-here/articleshow/133245835.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133245835.cms\" /></a>UPMSP is likely to declare the UP Board Class 10 and 12 compartment results 2026 by late August. The supplementary exams were held on July 28 for students seeking another chance to clear failed subjects.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "AIAPGET 2026 city intimation slip released at exams.nta.nic.in: Direct link to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/aiapget-2026-city-intimation-slip-released-at-exams-nta-nic-in-direct-link-to-download-here/articleshow/133215643.cms",
-      "published": "2026-08-13T19:54:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133215643,imgsize-98562.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/aiapget-2026-city-intimation-slip-released-at-exams-nta-nic-in-direct-link-to-download-here/articleshow/133215643.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133215643.cms\" /></a>The NTA has released the AIAPGET 2026 city intimation slip, informing candidates about their allotted examination city ahead of the entrance test scheduled for August 22. Applicants can access the slip through the official website using their login credentials.",
+      "title": "When will UGC NET 2026 provisional answer key be released? Here's what we know so far",
+      "url": "https://timesofindia.indiatimes.com/education/news/when-will-ugc-net-2026-provisional-answer-key-be-released-heres-what-we-know-so-far/articleshow/133242782.cms",
+      "published": "2026-08-14T18:50:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133242782,imgsize-9580.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/when-will-ugc-net-2026-provisional-answer-key-be-released-heres-what-we-know-so-far/articleshow/133242782.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133242782.cms\" /></a>The UGC NET June 2026 provisional answer key is expected to be released soon, possibly on August 17 or by the end of next week. Candidates are awaiting the key and objection schedule as the delay has raised concerns over upcoming PhD admissions and JRF-related opportunities.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "IP University UG admission 2026: CUET application deadline extended till August 18, chec complete details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/ip-university-ug-admission-2026-cuet-application-deadline-extended-till-august-18/articleshow/133214992.cms",
-      "published": "2026-08-13T19:37:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133214992,imgsize-75636.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ip-university-ug-admission-2026-cuet-application-deadline-extended-till-august-18/articleshow/133214992.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133214992.cms\" /></a>IP University has extended the deadline for CUET UG 2026-based undergraduate admissions for the 2026-27 academic session. Eligible candidates can now submit their applications until August 18, giving applicants additional time to complete registration, upload documents and fulfil other admission requirements before the revised deadline.",
+      "title": "BPSC exam calendar 2026 released: Check detailed examination schedule and complete details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/bpsc-exam-calendar-2026-released-check-detailed-examination-schedule-and-complete-details-here/articleshow/133242402.cms",
+      "published": "2026-08-14T18:39:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133242402,imgsize-49402.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bpsc-exam-calendar-2026-released-check-detailed-examination-schedule-and-complete-details-here/articleshow/133242402.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133242402.cms\" /></a>The Bihar Public Service Commission (BPSC) has released its 2026 examination calendar, outlining tentative dates for several recruitment tests and results. The 72nd Integrated CCE preliminary exam is scheduled for October 25 for 1,189 vacancies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "Batwara 1947 and Awarapan 2 Movie Review, Release Live Updates",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-and-awarapan-2-movie-review-and-release-live-updates-sunny-deol-preity-zinta-shabana-azmi-emraan-hashmi-disha-patani-batwara-1947-and-awarapan-2-review-and-box-office-collection/liveblog/133226877.cms",
-      "published": "2026-08-14T06:42:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133226877,imgsize-1015005.cms",
-      "summary": "Surely #AWARAPAN2 is going to win in this race...#Batwara1947 is just not having any buzz\u2026No one is seemingly interested in Batwaara, & if they could have included the song of Jannat \u2013 Lambi Judaai \u2013 in AWARAPAN...then Awarapan would have been even more successful Nearly two decades ago, Emraan Hashmi\u2019s 'Awarapan' and Sunny Deol\u2019s 'Apne' went head-to-head at the box office, with the latter emerging victorious in terms of collections. Both movies were released on June 29, 2007.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Ramayana' China listing reveals RUNTIME of Ranbir-Yash starrer",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-china-listing-reveals-runtime-ranbir-kapoor-and-yash-starrer-to-be-166-minutes-long/articleshow/133227277.cms",
-      "published": "2026-08-14T07:49:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227291,imgsize-401431.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133227277.cms\" />Nitesh Tiwari's Ramayana film runtime is reportedly 166 minutes, according to a Chinese database. This epic film, starring Ranbir Kapoor, is scheduled for a November 2026 release.",
+      "title": "'Thudakkam' BO day 8: Vismaya's film records 30.6% growth",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thudakkam-box-office-collection-day-8-vismaya-mohanlal-film-records-30-6-growth-india-net-reaches-rs-1-11-cr/articleshow/133253815.cms",
+      "published": "2026-08-15T07:04:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133253827,imgsize-169518.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133253815.cms\" />Thudakkam's box office performance experienced a noteworthy boost on its second Friday, amassing over Rs 1.11 crore net on day eight. This impressive showing signals a strong beginning for its second weekend.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "Samantha Ruth Prabhu jokes about wardrobe not fitting",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/holiday-with-2-sets-of-clothes-it-is-mom-to-be-samantha-ruth-prabhu-shares-new-holiday-look/articleshow/133227141.cms",
-      "published": "2026-08-14T07:32:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227169,imgsize-225936.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133227141.cms\" />Samantha Ruth Prabhu recently delighted fans with a casual holiday look, humorously noting her fashion mishaps. In addition, she launched a chic maroon suit set for her fashion label.",
+      "title": "'Spider-Man' CRASHES amid 'Awarapan 2' box office takeover",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-16-tom-holland-starrer-crashes-on-third-friday-amid-emraan-hashmi-starrer-awarapan-2-takeover/articleshow/133253631.cms",
+      "published": "2026-08-15T07:00:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133253786,imgsize-496281.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133253631.cms\" />Spider-Man: Brand New Day saw a sharp collection decline on its sixteenth day. The film's India net collection reached approximately Rs 447.30 crore after its second week.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "South Indian cinema embraces style over substance",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/from-dc-to-athiradi-south-indian-cinema-embraces-style-over-substance/articleshow/133226998.cms",
-      "published": "2026-08-14T07:07:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133227011,imgsize-496539.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133226998.cms\" />South Indian cinema continues its focus on visual impact and theatrical entertainment. Movies like Kaattalan, Athiradi, DC, and Blast showcase this style-driven approach.",
+      "title": "Robbie Williams reveals he has autism",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/robbie-williams-says-he-has-a-little-bit-of-autism-anad-uses-creativity-to-cope-its-best-to-train-my-brain-to-do-something-better-/articleshow/133253719.cms",
+      "published": "2026-08-15T06:44:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133253734,imgsize-151916.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133253719.cms\" />Robbie Williams opened up to fans, revealing his autism diagnosis and discussing the creative coping mechanisms he employs against intrusive thoughts. He also touched on his ADHD diagnosis and its implications on his life.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "'DC' vs 'GDN' BO day 8",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-vs-gdn-box-office-collections-day-8-lokesh-kanagaraj-film-earns-rs-2-86-cr-india-net-worldwide-gross-reaches-rs-70-23-cr/articleshow/133253700.cms",
+      "published": "2026-08-15T06:40:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133253714,imgsize-313904.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133253700.cms\" />DC's box office earnings saw a decline on its eighth day of release. The film collected Rs 2.86 crore net in India, showing a significant drop.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     }
   ]
 }
