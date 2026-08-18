@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-08-17T02:06:54",
+  "generated_at": "2026-08-18T02:02:57",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Never accepted Nalsar invitation, so no question of going: CJI",
-      "url": "https://timesofindia.indiatimes.com/india/never-accepted-nalsar-invitation-so-no-question-of-going-cji/articleshow/133284013.cms",
-      "published": "Mon, 17 Aug 2026 05:04:27 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133284025,imgsize-72806.cms",
+      "title": "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
+      "url": "https://timesofindia.indiatimes.com/india/everyone-had-valid-photo-id-trump-recalls-talk-with-cec-gyanesh-kumar-praises-indias-election-system/articleshow/133308662.cms",
+      "published": "Tue, 18 Aug 2026 04:57:21 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133309266,imgsize-914962.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Trump orders cut in US-South Korea drills after Seoul rejects Iran denuclearisation push",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-orders-substantial-cut-in-military-drills-with-south-korea-after-it-stayed-out-of-iran-war/articleshow/133284118.cms",
-      "published": "Mon, 17 Aug 2026 05:40:35 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133284156,imgsize-69669.cms",
+      "title": "Identity of 'Dimagi Naxal Party' founder remains a mystery",
+      "url": "https://timesofindia.indiatimes.com/india/identity-of-dimagi-naxal-party-founder-remains-a-mystery/articleshow/133308937.cms",
+      "published": "Tue, 18 Aug 2026 06:54:27 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133309131,imgsize-100443.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Indonesia hit by 5.7 magnitude quake days after deadly 7.7 tremor",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-hit-by-5-7-magnitude-quake-days-after-deadly-7-7-tremor/articleshow/133284571.cms",
-      "published": "Mon, 17 Aug 2026 07:07:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133284577,imgsize-1068449.cms",
+      "title": "\u2018Huge victory for Jharkhand\u2019: Mahto ends hunger strike after Soren govt accepts demands",
+      "url": "https://timesofindia.indiatimes.com/india/huge-victory-for-jharkhand-student-leader-mahto-ends-16-day-hunger-strike-after-soren-govt-accepts-demands/articleshow/133306400.cms",
+      "published": "Tue, 18 Aug 2026 02:38:01 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133306411,imgsize-82195.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Ronaldo drops bombshell retirement hint, reveals plans for life after football",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-drops-bombshell-retirement-hint-this-is-probably-my-last-year-reveals-plans-after-football/articleshow/133278732.cms",
-      "published": "Sun, 16 Aug 2026 22:26:57 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133278782,imgsize-69390.cms",
-      "summary": "Cristiano Ronaldo has suggested the 2026-27 season could be the final year of his playing career, saying he wants to leave a \u201cspectacular legacy\u201d. The 41-year-old remains contracted to Al Nassr until June 2027 and has begun planning life after football, including spending more time with family, travelling and playing padel..",
+      "title": "74% big-turn deliveries: Manav Suthar out-turns Jadeja, Kuldeep in Galle",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-out-turns-ravindra-jadeja-kuldeep-yadav-with-74-big-turn-deliveries-in-galle/articleshow/133309017.cms",
+      "published": "Tue, 18 Aug 2026 06:31:46 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133309032,imgsize-27258.cms",
+      "summary": "Manav Suthar played an important role in keeping the Sri Lankan batters under pressure. He also produced the highest percentage of deliveries with a large turn in the match so far.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Indonesia hit by 5.7 magnitude quake days after deadly 7.7 tremor",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-hit-by-5-7-magnitude-quake-days-after-deadly-7-7-tremor/articleshow/133284571.cms",
-      "published": "2026-08-17T07:07:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284577,imgsize-1068449.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133284571.cms\" />",
+      "title": "Only talks can resolve issues, hope Bangladesh PM visits India soon: Trivedi",
+      "url": "https://timesofindia.indiatimes.com/india/only-talks-can-resolve-issues-hope-bangladesh-pm-visits-india-soon-trivedi/articleshow/133309194.cms",
+      "published": "2026-08-18T07:09:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133309229,imgsize-88246.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133309194.cms\" />Indian High Commissioner Dinesh Trivedi stressed dialogue for resolving bilateral issues between India and Bangladesh. He expressed hope that Prime Minister Tarique Rahman's visit to India should occur much sooner.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.07
     },
     {
       "category": "India",
-      "title": "In 1993, Chile adopted an Indigenous Law that enabled land restitution; by 2023...",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1993-chile-adopted-an-indigenous-law-that-enabled-land-restitution-by-2023-more-than-510000-acres-had-been-returned-to-mapuche-communities-but-native-forest-cover-had-barely-changed/articleshow/133281918.cms",
-      "published": "2026-08-17T02:12:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133281982,imgsize-1393675.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133281918.cms\" />Since 1993, over 510,000 acres have been returned to Mapuche communities in Chile under the Indigenous Law. A study revealed minimal changes in forest cover on the restituted lands.",
+      "title": "Meta goes to trial this week, which, if it loses, could change Insta &amp; FB forever",
+      "url": "https://timesofindia.indiatimes.com/world/us/meta-goes-to-trial-this-week-which-if-it-loses-could-change-insta-fb-forever/articleshow/133309246.cms",
+      "published": "2026-08-18T07:15:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133309259,imgsize-62772.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133309246.cms\" />Meta has been hit with a major lawsuit regarding child safety and the addictive nature of its platform. Various states are demanding significant financial compensation and operational reforms, arguing that Meta intentionally crafted features to be addictive for young users.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.07
     },
     {
       "category": "India",
-      "title": "In 1988, an English farmer stopped cultivating his entire 377-acre wheat farm",
-      "url": "https://timesofindia.indiatimes.com/world/uk/in-1988-an-english-farmer-stopped-cultivating-his-entire-377-acre-wheat-farm-35-years-later-it-became-one-of-central-englands-biggest-refuges-for-scrub-woodland-and-rare-wildlife/articleshow/133280872.cms",
-      "published": "2026-08-17T01:21:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133281860,imgsize-2123434.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133280872.cms\" />An abandoned wheat farm in England has been transformed into a thriving nature reserve after decades of neglect. Following a dedicated public campaign, \u00a31.5 million was raised to acquire the land, ensuring its protection for future generations.",
+      "title": "Streamer Pool Incident Debate: Sara Saffari confronts Rawdogmoon; $40,000 Rolex sparks X backlash",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-rawdogmoon-sara-saffari-furious-after-twitch-streamer-throws-her-into-pool-wearing-40k-rolex/articleshow/133308905.cms",
+      "published": "2026-08-18T05:51:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133308907,imgsize-764229.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133308905.cms\" />Sara Saffari confronted Twitch streamer Rawdogmoon after he threw her into a pool at Cinna\u2019s party while she was wearing a reported $40,000 Rolex. She appeared angry and questioned his decision.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.04
     },
     {
       "category": "India",
-      "title": "Petition for public inquiry into Jason Arday's media harassment gathers 31,000 signatures",
-      "url": "https://timesofindia.indiatimes.com/world/uk/petition-for-public-inquiry-into-jason-ardays-media-harassment-gathers-31000-signatures/articleshow/133280350.cms",
-      "published": "2026-08-16T23:25:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133280370,imgsize-770719.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133280350.cms\" />",
+      "title": "Indian-origin CEO says he starts checking his emails at 4.30 am; 'If you want to work eight-to five...'",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-ceo-says-he-starts-checking-his-emails-at-4-30-am-if-you-want-to-work-eight-to-five-/articleshow/133306333.cms",
+      "published": "2026-08-18T02:03:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133306337,imgsize-66136.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133306333.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/before-chandras-exit-he-and-noel-tata-separately-briefed-govt-on-rift-concerns/articleshow/133284282.cms",
-      "published": "2026-08-17T06:29:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284348,imgsize-105697.cms",
+      "title": "Today\u2019s Tata Sons AGM likely to be adjourned; board meets mid-Sept",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/todays-tata-sons-agm-likely-to-be-adjourned-board-meets-mid-sept/articleshow/133309079.cms",
+      "published": "2026-08-18T06:47:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133309090,imgsize-96300.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-buyers-again-pump-rs-16621-crore-into-indian-equities-in-august/articleshow/133278037.cms",
-      "published": "2026-08-16T21:08:39+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133278074,imgsize-56008.cms",
+      "title": "Weak soil, trapped water likely behind Lucknow-Kanpur Expressway failures: Initial probe",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/weak-soil-trapped-water-likely-behind-lucknow-kanpur-expressway-failures-initial-probe/articleshow/133303589.cms",
+      "published": "2026-08-17T23:19:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133303621,imgsize-153506.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Business",
+      "title": "Tata Power\u2019s digital command centre for real-time monitoring of renewable energy assets",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-powers-digital-command-centre-for-real-time-monitoring-of-renewable-energy-assets/articleshow/133303405.cms",
+      "published": "2026-08-17T23:15:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133303469,imgsize-58966.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Tata Power, IIT Bombay ink long-term clean energy research pact",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-power-iit-bombay-ink-long-term-clean-energy-research-pact/articleshow/133302442.cms",
+      "published": "2026-08-17T22:41:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133302473,imgsize-98046.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
-    },
-    {
-      "category": "Business",
-      "title": "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rs-6400-crore-ipo-rush-7-companies-set-to-tap-primary-market-next-week/articleshow/133277944.cms",
-      "published": "2026-08-16T21:02:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133277968,imgsize-111792.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Business",
-      "title": "Dalal Street outlook: Crude oil, Strait of Hormuz and Fed cues to drive stock market this week",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-crude-oil-strait-of-hormuz-and-fed-cues-to-drive-stock-market-this-week/articleshow/133274804.cms",
-      "published": "2026-08-16T17:31:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133274855,imgsize-401496.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "From writing code to growing mushrooms: How this BTech graduate left IT after 14 years to build a farming business earning over Rs 10 lakh a month",
-      "url": "https://timesofindia.indiatimes.com/education/news/from-writing-code-to-growing-mushrooms-how-this-btech-graduate-left-it-after-14-years-to-build-a-farming-business-earning-over-rs-10-lakh-a-month/articleshow/133271652.cms",
-      "published": "2026-08-16T17:54:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133271781,imgsize-93010.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/from-writing-code-to-growing-mushrooms-how-this-btech-graduate-left-it-after-14-years-to-build-a-farming-business-earning-over-rs-10-lakh-a-month/articleshow/133271652.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271652.cms\" /></a>After 14 years in the IT industry, BTech graduate Vikramdev Mohapatra left his corporate career to return to Nabarangpur, Odisha, and build a commercial mushroom farming business. His venture, Ganga Bhumi Mushrooms, produces 500\u2013600 kg of mushrooms daily and supplies markets in Brahmapur and Bhubaneswar.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "The history student who changed physics forever: The PhD thesis Albert Einstein said had \u2018lifted a corner of the great veil\u2019",
-      "url": "https://timesofindia.indiatimes.com/education/news/the-history-student-who-changed-physics-forever-the-phd-thesis-albert-einstein-said-had-lifted-a-corner-of-the-great-veil/articleshow/133271921.cms",
-      "published": "2026-08-16T16:07:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133272062,imgsize-73854.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/the-history-student-who-changed-physics-forever-the-phd-thesis-albert-einstein-said-had-lifted-a-corner-of-the-great-veil/articleshow/133271921.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271921.cms\" /></a>Louis de Broglie began as a history student before turning toward mathematics and physics, ultimately reshaping modern science. In his 1924 PhD thesis, he proposed that particles such as electrons possess wave-like properties, challenging established ideas about matter.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Education",
-      "title": "CSIR-NET answer key 2026 out: Check response sheet, Rs 200 challenge fee and deadline",
-      "url": "https://timesofindia.indiatimes.com/education/news/csir-net-answer-key-2026-out-check-response-sheet-rs-200-challenge-fee-and-deadline/articleshow/133271006.cms",
-      "published": "2026-08-16T12:22:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133271033,imgsize-110513.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/csir-net-answer-key-2026-out-check-response-sheet-rs-200-challenge-fee-and-deadline/articleshow/133271006.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271006.cms\" /></a>CSIR NET answer key 2026: NTA has released the Joint CSIR-UGC NET June 2026 provisional answer key and recorded responses on August 16. Candidates can challenge the key until August 18 at 11:00 PM by paying Rs 200 per question.",
+      "title": "IGNOU extends July 2026 admission deadline for ODL programmes till August 31",
+      "url": "https://timesofindia.indiatimes.com/education/news/ignou-extends-july-2026-admission-deadline-for-odl-programmes-till-august-31/articleshow/133296724.cms",
+      "published": "2026-08-17T17:46:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133296724,imgsize-110590.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ignou-extends-july-2026-admission-deadline-for-odl-programmes-till-august-31/articleshow/133296724.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133296724.cms\" /></a>IGNOU has extended the application deadline for its July 2026 Open and Distance Learning programmes to August 31. Eligible candidates can apply online through the university\u2019s admission portal by registering, selecting a programme, uploading the required documents and completing the fee payment.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "ITAT Private Secretary recruitment 2026: Apply by 11:59 PM today for 42 vacancies; direct link",
-      "url": "https://timesofindia.indiatimes.com/education/news/itat-private-secretary-recruitment-2026-apply-by-1159-pm-today-for-42-vacancies-direct-link/articleshow/133270522.cms",
-      "published": "2026-08-16T11:12:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133270527,imgsize-123353.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/itat-private-secretary-recruitment-2026-apply-by-1159-pm-today-for-42-vacancies-direct-link/articleshow/133270522.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133270522.cms\" /></a>ITAT recruitment 2026 application closes today, August 16, for 42 Senior Private Secretary and Private Secretary posts. The official recruitment portal confirms that online applications will remain open until 11:59 PM.",
+      "title": "CBSE begins phase-wise declaration of KVS, NVS Tier-II recruitment exam results; check posts covered in first phase",
+      "url": "https://timesofindia.indiatimes.com/education/news/cbse-begins-phase-wise-declaration-of-kvs-nvs-tier-ii-recruitment-exam-results-check-posts-covered-in-first-phase/articleshow/133295853.cms",
+      "published": "2026-08-17T17:22:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133295981,imgsize-106534.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cbse-begins-phase-wise-declaration-of-kvs-nvs-tier-ii-recruitment-exam-results-check-posts-covered-in-first-phase/articleshow/133295853.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133295853.cms\" /></a>CBSE has started the phase-wise release of results for the KVS and NVS Tier-II recruitment examination 2026. Results for PGT and TGT Computer Science, Stenographer Grade-I and Finance Officer are being announced first.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Education",
+      "title": "UP Board Class 10th, 12th Compartment result released at results.upmsp.edu.in: Direct link to download scorecards here",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-board-class-10th-12th-result-released-at-results-upmsp-edu-in-direct-link-to-download-scorecards-here/articleshow/133295112.cms",
+      "published": "2026-08-17T16:50:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133295112,imgsize-24058.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-board-class-10th-12th-result-released-at-results-upmsp-edu-in-direct-link-to-download-scorecards-here/articleshow/133295112.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133295112.cms\" /></a>The UPMSP has announced the 2026 compartment results for Class 10 and 12 students, providing clarity to candidates who appeared for the supplementary examination. Students can access their marksheets online using their roll number, school code and date of birth.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
-      "category": "Entertainment",
-      "title": "Aishwarya was not told about the BIG twist of her character in 'Khakee', reveals Rajkumar Santoshi",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-was-not-told-about-the-big-twist-of-her-character-in-khakee-reveals-rajkumar-santoshi-amitabh-bachchan-akshay-kumar-ajay-devgn-were-shocked/articleshow/133284632.cms",
-      "published": "2026-08-17T07:24:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284681,imgsize-116131.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133284632.cms\" />In a fascinating revelation, filmmaker Rajkumar Santoshi shared that he intentionally kept Aishwarya Rai in the dark about her character\u2019s complete development during the filming of Khakee. In a recent interview, he mentioned that key figures like Amitabh Bachchan and Ajay Devgn were informed mid-production.",
+      "category": "Education",
+      "title": "Hyderabad-born MIT astronomer Rohan Naidu helps uncover a possible \u2018black hole star\u2019 from the early universe",
+      "url": "https://timesofindia.indiatimes.com/education/news/hyderabad-born-mit-astronomer-rohan-naidu-helps-uncover-a-possible-black-hole-star-from-the-early-universe/articleshow/133294798.cms",
+      "published": "2026-08-17T16:38:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133294895,imgsize-1139117.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/hyderabad-born-mit-astronomer-rohan-naidu-helps-uncover-a-possible-black-hole-star-from-the-early-universe/articleshow/133294798.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133294798.cms\" /></a>Astronomers using the James Webb Space Telescope have identified an exceptionally bright, red object from the early universe that may be a previously unknown \u201cblack hole star\u201d. Led by Hyderabad-born MIT astronomer Rohan Naidu, the study suggests a massive black hole could be concealed within dense hydrogen, potentially explaining the mysterious \u201clittle red dots\u201d seen by JWST..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "Ryan Condal explains some of the major moments from \u2018House of the Dragon'",
-      "url": "https://timesofindia.indiatimes.com/web-series/news/english/ryan-condal-on-house-of-the-dragon-season-3-i-have-really-said-all-i-have-to-or-need-to-say-about-dragons/articleshow/133284451.cms",
-      "published": "2026-08-17T06:52:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284476,imgsize-136688.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133284451.cms\" />Showrunner Ryan Condal provided intriguing insights into the bloody finale of House of the Dragon Season 3, focusing on key character arcs and plot developments. He confirmed the fate of Vhagar and commended James Norton's outstanding performance.",
+      "title": "'Awarapan 2' box office collection day 4: Emraan's film crosses Rs 90 crore",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-4-the-emraan-hashmi-disha-patani-starrer-holds-well-on-monday-crosses-rs-90-crore-while-batwara-1947-sees-further-decline/articleshow/133308807.cms",
+      "published": "2026-08-18T05:35:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133308834,imgsize-321885.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133308807.cms\" />Awarapan 2 has kicked off with an outstanding box office performance, eclipsing the entire lifetime earnings of its predecessor. With an impressive collection of Rs 22 crore on its opening day and a substantial rise over the weekend, the film's total revenue soared to Rs 91 crore during its extended opening period..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Spider-Man' crosses Rs 560 crore; eyes Rs 600 crore mark in India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-19-tom-holland-starrer-crosses-rs-560-crore-mark-in-india-matches-batwara-1947-haul-on-monday/articleshow/133308680.cms",
+      "published": "2026-08-18T05:54:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133308920,imgsize-710495.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133308680.cms\" />Spider-Man: Brand New Day crossed Rs 560 crore gross in India on Monday. The film recorded a sharp decline in collections during its third week.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "'Awarapan 2' box office collection day 3: Emraan's film crosses Rs 80 cr on Sunday",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-3-the-emraan-hashmi-film-races-ahead-of-batwara-1947-with-a-huge-mark-on-sunday-inches-towards-rs-100-crore-becomes-the-8th-highest-grosser-of-hindi-cinema-in-2026/articleshow/133284029.cms",
-      "published": "2026-08-17T05:19:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284073,imgsize-179743.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133284029.cms\" />Awarapan 2 has made a remarkable impact, surpassing the lifetime earnings of its predecessor on its very first day. Thanks to the Independence Day weekend boost, it attracted impressive ticket sales.",
+      "title": "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-4-sunny-deol-preity-zintas-film-sees-72-percent-drop-on-monday-struggles-to-cross-rs-30-crore-while-awarapan-2-inches-towards-rs-100-crore/articleshow/133308901.cms",
+      "published": "2026-08-18T06:00:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133308926,imgsize-321464.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133308901.cms\" />Sunny Deol's film 'Batwara 1947' experienced a sharp box office decline on its first Monday. The Partition drama earned only two crore rupees on August seventeenth.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.04
     },
     {
       "category": "Entertainment",
-      "title": "'DC': Mahesh Babu calls it 'Original and outstanding'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-10-lokesh-kanagaraj-starrer-earns-rs-4-50-cr-as-mahesh-babu-calls-it-original-and-outstanding/articleshow/133284379.cms",
-      "published": "2026-08-17T06:40:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133284387,imgsize-312593.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133284379.cms\" />The film DC collected Rs 4.50 Cr net on its tenth day in India. Its India net collection has now reached Rs 54.76 Cr after ten days.",
+      "title": "Kim Kardashian shares loved-up photos with Lewis Hamilton",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-shares-loved-up-photos-with-lewis-hamilton-from-summer-getaway-somewhere-over-the-rainbow/articleshow/133308963.cms",
+      "published": "2026-08-18T07:03:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133308984,imgsize-482994.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133308963.cms\" />Kim Kardashian and Lewis Hamilton are openly sharing romantic photos online. The couple posted pictures from their recent summer getaway with their families.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.07
     }
   ]
 }
