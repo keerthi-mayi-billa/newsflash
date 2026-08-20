@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-19T02:04:18",
+  "generated_at": "2026-08-20T02:03:40",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Ex-SC judge to lead probe into police action on CJP Parliament march",
-      "url": "https://timesofindia.indiatimes.com/india/ex-sc-judge-to-lead-probe-into-police-action-on-cjp-parliament-march/articleshow/133334424.cms",
-      "published": "Wed, 19 Aug 2026 04:29:57 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133334428,imgsize-228704.cms",
+      "title": "Mehul Choksi\u2019s lawyer Vijay Aggarwal arrested in UK over sexual assault allegation",
+      "url": "https://timesofindia.indiatimes.com/world/uk/mehul-choksis-lawyer-vijay-aggarwal-arrested-in-london-and-in-prison-accused-of-sexual-assault/articleshow/133358801.cms",
+      "published": "Thu, 20 Aug 2026 02:40:06 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133358815,imgsize-106518.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
-      "url": "https://timesofindia.indiatimes.com/world/us/they-knew-us-states-accuse-meta-of-hiding-instagrams-impact-on-teenagers/articleshow/133334390.cms",
-      "published": "Wed, 19 Aug 2026 04:11:13 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133334394,imgsize-50508.cms",
+      "title": "'Economic D-Day': Trump warns countries supporting Iran of 'tremendous consequences'",
+      "url": "https://timesofindia.indiatimes.com/world/us/economic-d-day-trump-warns-countries-supporting-iran-of-tremendous-consequences/articleshow/133361308.cms",
+      "published": "Thu, 20 Aug 2026 05:59:08 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133361318,imgsize-73602.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Kejriwal attacks BJP after Satyendar Jain's arrest, calls it 'dictatorship'",
-      "url": "https://timesofindia.indiatimes.com/india/kejriwal-attacks-bjp-after-satyendar-jains-arrest-calls-it-dictatorship/articleshow/133327377.cms",
-      "published": "Tue, 18 Aug 2026 22:00:13 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133327977,imgsize-1848265.cms",
-      "summary": "",
+      "title": "Paternity test of child can be allowed in marital dispute: SC",
+      "url": "https://timesofindia.indiatimes.com/india/paternity-test-of-child-can-be-allowed-in-marital-dispute-sc/articleshow/133360955.cms",
+      "published": "Thu, 20 Aug 2026 04:36:03 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133360970,imgsize-171777.cms",
+      "summary": "If loyal, then why object: Court to woman",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "\u2018Ball was on the ground\u2019: Ex-cricketer baffled as Jurel catch sparks controversy",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
-      "published": "Wed, 19 Aug 2026 06:35:02 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133334738,imgsize-115308.cms",
-      "summary": "As the final day of the Galle Test match unfolds, India edges closer to victory with crucial wickets. A contentious catch by Dhruv Jurel has left the Sri Lankan team in uncertainty.",
+      "title": "Five minutes, 28 covers, 300 tyres: How Galle's 130-member groundstaff beat the rain",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/five-minutes-28-covers-300-tyres-how-galles-130-member-groundstaff-beat-the-rain/articleshow/133349352.cms",
+      "published": "Thu, 20 Aug 2026 06:00:00 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133349734,imgsize-122020.cms",
+      "summary": "We keep our eyes on the ocean. When clouds start building up, we know it's coming.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "India",
-      "title": "Man claims mother-in-law's US visa got 'revoked midflight' for 2-day overstay on previous visit, was sent back from Singapore",
-      "url": "https://timesofindia.indiatimes.com/world/us/man-claims-mother-in-laws-us-visa-got-revoked-midflight-for-2-day-overstay-on-previous-visit-was-sent-back-from-singapore/articleshow/133332101.cms",
-      "published": "2026-08-19T02:07:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133332111,imgsize-164932.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133332101.cms\" />",
+      "title": "Meet Audrey Zheng, the 17-year-old Pennsylvania student who developed a...",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-audrey-zheng-the-17-year-old-pennsylvania-student-who-developed-a-pancreatic-cancer-test-it-correctly-identified-87-of-patients-and-87-5-without-the-disease/articleshow/133358683.cms",
+      "published": "2026-08-20T01:56:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133358700,imgsize-563157.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133358683.cms\" />A talented high school student has pioneered a cutting-edge bioengineering method for the early detection of pancreatic cancer. By utilizing magnetic beads to isolate tumor-derived particles from blood samples, her clinical trials demonstrated remarkable accuracy.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "In 1961, British scientists stopped farming a 4-hectare barley field and left it alone; 60 years later...",
+      "url": "https://timesofindia.indiatimes.com/science/in-1961-british-scientists-stopped-farming-a-4-hectare-barley-field-and-left-it-alone-60-years-later-it-had-turned-itself-into-a-complex-native-woodland/articleshow/133358523.cms",
+      "published": "2026-08-20T01:37:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133358634,imgsize-852985.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133358523.cms\" />A groundbreaking six-decade study reveals that passive rewilding effectively fosters the development of lush native woodlands. Through protective thorny scrub, young trees thrived, shielded from herbivores, while wind and jays ingeniously spread seeds, outlining the woodlands\u2019 unique patterns.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "In 1963, a California builder made a house that rotates 320 degrees using two washing-machine motors",
+      "url": "https://timesofindia.indiatimes.com/real-estate/in-1963-a-california-builder-made-a-house-that-rotates-320-degrees-using-two-washing-machine-motors-63-years-later-it-is-on-the-market-for-the-first-time/articleshow/133354983.cms",
+      "published": "2026-08-20T00:43:04+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133358200,imgsize-1019892.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133354983.cms\" />A remarkable rotating house, built in 1963 by the imaginative Sam Harkleroad, is now available for sale, showcasing a one-of-a-kind design. Overlooking busy Highway 101, this property comprises seven homes, all presently leased, with a total price tag of $3.3 million.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "India",
+      "title": "Indian caregiver fatally stabbed in Israel, elderly couple\u2019s grandson indicted",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/indian-caregiver-fatally-stabbed-in-israel-elderly-couples-grandson-indicted/articleshow/133354364.cms",
+      "published": "2026-08-19T22:40:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133354686,imgsize-662735.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133354364.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "British student says he was denied entry to the US despite having valid visa only because he is Muslim: 'Felt as if I was kidnapped'",
-      "url": "https://timesofindia.indiatimes.com/world/us/british-student-says-he-was-denied-entry-to-the-us-despite-having-valid-visa-only-because-he-is-muslim-felt-as-if-i-was-kidnapped/articleshow/133331991.cms",
-      "published": "2026-08-19T01:36:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133332012,imgsize-147290.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133331991.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Chinese doctors claim first-ever successful double thigh replantation; factory worker starts walking again after losing both legs",
-      "url": "https://timesofindia.indiatimes.com/science/chinese-doctors-claim-first-ever-successful-double-thigh-replantation-factory-worker-starts-walking-again-after-losing-both-legs/articleshow/133331268.cms",
-      "published": "2026-08-19T00:29:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133331330,imgsize-48676.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133331268.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "A San Francisco man was digging in his backyard when his shovel hit something hard",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-man-was-digging-in-his-backyard-when-his-shovel-hit-something-hard-he-unearthed-a-150-pound-limestone-sculpture-and-nobody-knows-who-made-it/articleshow/133329337.cms",
-      "published": "2026-08-19T00:26:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133331249,imgsize-1800026.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133329337.cms\" />While digging in his San Francisco garden, a gardener stumbled upon an intriguing limestone sculpture. Despite consultations with around fifty experts, its origins remain shrouded in mystery.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "How long can the world &amp; India absorb the US-Iran war oil shock?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/how-long-can-the-world-india-absorb-the-us-iran-war-oil-shock/articleshow/133323569.cms",
-      "published": "2026-08-18T18:55:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133324016,imgsize-853612.cms",
+      "title": "US stock market today: Wall Street snaps 3-day slide as Treasury yields fall",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-19-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133351615.cms",
+      "published": "2026-08-19T20:22:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133351637,imgsize-533425.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.15
     },
     {
       "category": "Business",
-      "title": "What Trump\u2019s latest safeguard tariff move on quartz surface products means for India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/what-trumps-latest-safeguard-tariff-move-on-quartz-surface-products-means-for-india/articleshow/133325771.cms",
-      "published": "2026-08-18T21:20:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133326729,imgsize-895061.cms",
+      "title": "Received income tax notice under Section 143(3)? What is faceless assessment &amp; how you should respond",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/received-income-tax-notice-under-section-1433-what-is-faceless-assessment-how-you-should-respond/articleshow/133340405.cms",
+      "published": "2026-08-19T16:01:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133342364,imgsize-553642.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "US-Canada tariff clock ticks: Last-minute talks to avert Trump\u2019s 50% tariffs",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-clock-ticks-last-minute-talks-to-avert-trumps-50-tariffs/articleshow/133326129.cms",
-      "published": "2026-08-18T20:50:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133326140,imgsize-41386.cms",
+      "title": "\u2018Earning billions\u2019: How fuel exporters in India, US are benefitting amid war-led oil supply disruptions",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
+      "published": "2026-08-19T19:47:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133350998,imgsize-721655.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "US stock market today: Wall Street pulls back from record highs as AI-related stocks drop",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-18-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133325280.cms",
-      "published": "2026-08-18T19:59:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133325318,imgsize-755987.cms",
+      "title": "Trump tariffs fail to dent India's export dependence on US; share stays near 20%",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-fail-to-dent-indias-export-dependence-on-us-share-stays-near-20/articleshow/133341405.cms",
+      "published": "2026-08-19T15:58:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133341405,imgsize-131836.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "COMEDK UGET 2026 Round 3 seat allotment result declared: Check direct link to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/comedk-uget-2026-round-3-seat-allotment-result-declared-check-direct-link-to-download-here/articleshow/133322273.cms",
-      "published": "2026-08-18T17:53:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133322339,imgsize-32494.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/comedk-uget-2026-round-3-seat-allotment-result-declared-check-direct-link-to-download-here/articleshow/133322273.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133322273.cms\" /></a>The COMEDK UGET 2026 Round 3 seat allotment result has been announced for General Merit candidates. Aspirants can check their allotted college and engineering branch online using their login credentials.",
+      "title": "Mumbai University makes APAAR ID mandatory for 2026-27 exams; students may need it to download hall tickets",
+      "url": "https://timesofindia.indiatimes.com/education/news/mumbai-university-makes-apaar-id-mandatory-for-2026-27-exams-students-may-need-it-to-download-hall-tickets/articleshow/133348231.cms",
+      "published": "2026-08-19T17:52:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133348231,imgsize-159006.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mumbai-university-makes-apaar-id-mandatory-for-2026-27-exams-students-may-need-it-to-download-hall-tickets/articleshow/133348231.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133348231.cms\" /></a>The Bar Council of India has opened registration for AIBE XXII 2026, allowing eligible law graduates and candidates to apply online until October 27. The examination is scheduled for November 29, with admit cards expected from November 14.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.09
     },
     {
       "category": "Education",
-      "title": "BPSC TRE-4.0 2026: Recruitment announced for 32,388 Bihar teacher posts, applications from September 1",
-      "url": "https://timesofindia.indiatimes.com/education/news/bpsc-tre-4-0-2026-recruitment-announced-for-32388-bihar-teacher-posts-applications-from-september-1/articleshow/133321399.cms",
-      "published": "2026-08-18T17:21:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133321478,imgsize-97398.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bpsc-tre-4-0-2026-recruitment-announced-for-32388-bihar-teacher-posts-applications-from-september-1/articleshow/133321399.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133321399.cms\" /></a>BPSC has announced TRE-4.0, the fourth phase of Bihar\u2019s school teacher recruitment drive, with 32,388 vacancies under the Education Department. Online applications will open on September 1, 2026, while fee payment closes on September 29 and applications on September 30.",
+      "title": "AIBE 21 registration begins at allindiabarexamination.com: Direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/aibe-21-registration-begins-at-allindiabarexamination-com-direct-link-to-apply-here/articleshow/133347381.cms",
+      "published": "2026-08-19T17:23:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133347471,imgsize-18632.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/aibe-21-registration-begins-at-allindiabarexamination-com-direct-link-to-apply-here/articleshow/133347381.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133347381.cms\" /></a>The Bar Council of India has commenced registration for AIBE XXII, with eligible law graduates able to apply until October 27, 2026. The application fee can be paid until October 28, while corrections remain open until October 30.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "Maharashtra B. Arch second list offers admission to 728 new students; 893 secure preferred colleges statewide",
-      "url": "https://timesofindia.indiatimes.com/education/news/maharashtra-b-arch-second-list-offers-admission-to-728-new-students-893-secure-preferred-colleges-statewide/articleshow/133319510.cms",
-      "published": "2026-08-18T16:12:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133319548,imgsize-129216.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/maharashtra-b-arch-second-list-offers-admission-to-728-new-students-893-secure-preferred-colleges-statewide/articleshow/133319510.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133319510.cms\" /></a>Maharashtra State Common Entrance Test Cell has released the second B.Architecture admission list for 2026-27, offering admission opportunities to 728 new students from 2,007 candidates. A total of 893 students received one of their first three preferred colleges under Auto freeze.",
+      "title": "IIT Bombay introduces new e-PG Diploma in Computer Science and AI with Generative AI and LLM modules",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-bombay-introduces-new-e-pg-diploma-in-computer-science-and-ai-with-generative-ai-and-llm-modules/articleshow/133346257.cms",
+      "published": "2026-08-19T16:39:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133346338,imgsize-57772.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/iit-bombay-introduces-new-e-pg-diploma-in-computer-science-and-ai-with-generative-ai-and-llm-modules/articleshow/133346257.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133346257.cms\" /></a>IIT Bombay ePG Diploma 2026: IIT Bombay has launched an e-Postgraduate Diploma in Computer Science and Artificial Intelligence through its Educational Outreach initiative. The programme covers computer science, artificial intelligence and machine learning, including Generative AI, LLMs, AI Agents, RAG, computer vision and deep learning.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.11
     },
     {
       "category": "Education",
-      "title": "Puducherry schools holiday on August 21 and 22: Check the list and reason",
-      "url": "https://timesofindia.indiatimes.com/education/news/puducherry-schools-holiday-on-august-21-and-22-check-the-list-and-reason/articleshow/133319112.cms",
-      "published": "2026-08-18T16:00:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133319137,imgsize-55162.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/puducherry-schools-holiday-on-august-21-and-22-check-the-list-and-reason/articleshow/133319112.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133319112.cms\" /></a>The Education Department in Puducherry has announced holidays on August 21 and August 22 for 69 government and private schools selected as examination centres for the Integrated Graduate Level Examination. The examination will be conducted from August 21 to August 23.",
+      "title": "NEET UG Counselling 2026: MCC revises Round 1 result date to August 21; check details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/neet-ug-counselling-2026-mcc-revises-round-1-result-date-to-august-21-check-details-here/articleshow/133345509.cms",
+      "published": "2026-08-19T16:20:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133345650,imgsize-96240.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/neet-ug-counselling-2026-mcc-revises-round-1-result-date-to-august-21-check-details-here/articleshow/133345509.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133345509.cms\" /></a>The MCC has revised the NEET UG Counselling 2026 Round 1 schedule, with seat allotment processing on August 19-20 and results scheduled for August 21. Candidates allotted seats must report and join by August 31.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "'Awarapan 2' box office collection day 5: Emraan delivers the first Rs 100 crore solo lead film",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-5-emraan-hashmi-delivers-the-first-rs-100-crore-solo-lead-film-of-his-career-earns-122-percent-return-on-investment/articleshow/133334546.cms",
-      "published": "2026-08-19T05:37:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133334640,imgsize-279641.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133334546.cms\" />Emraan Hashmi's sequel 'Awarapan 2' has successfully hit the Rs 100 crore milestone in India, achieving this impressive feat just five days post-release. After a strong opening day with Rs 22 crore, the film experienced substantial growth over the weekend.",
+      "title": "'Awarapan 2' box office collection day 6: Emraan's film sees 16 percent drop on Wednesday",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-6-the-emraan-hashmi-starrer-sees-drop-on-wednesday-crosses-rs-150-crore-worldwide/articleshow/133361220.cms",
+      "published": "2026-08-20T05:39:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133361266,imgsize-194340.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133361220.cms\" />Awarapan 2 is proving to be a box office hit, amassing an impressive Rs 107.50 crore net across India by its sixth day. The film's take surged on Saturday, thanks to the holiday and extra screenings, though earnings saw a modest decline on Wednesday.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "12.5 percent growth on Day 5 over Monday: Sunny Deol's 'Batwara 1947' crosses Rs 30 crore",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/12-5-percent-growth-on-day-5-over-monday-sunny-deols-batwara-1947-crosses-rs-30-crore-in-5-days-recovers-only-24-percent-of-its-budget-awarapan-2-races-ahead-with-rs-100-crore-mark/articleshow/133334685.cms",
-      "published": "2026-08-19T06:04:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133334710,imgsize-286750.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133334685.cms\" />Batwara 1947's box office journey shows a sharp downward turn. The film collected approximately thirty crore rupees after five days.",
+      "title": "\u2018Batwara 1947\u2019 box office collection day 6: Sunny's film likely to suffer loss of Rs 80 cr",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-box-office-collection-day-6-the-sunny-deol-starrer-disappoints-may-suffer-a-loss-of-rs-80-crore-as-it-nets-only-rs-32-crore-by-the-end-of-six-days-awarapan-2-is-a-hit/articleshow/133361307.cms",
+      "published": "2026-08-20T06:01:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133361326,imgsize-191469.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133361307.cms\" />Sunny Deol's historical drama 'Batwara 1947' has disappointed at the box office. The film collected only around Rs 32 crore net in India.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "'Thudakkam' BO day 12: Movie earns Rs 49 lakhs",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thudakkam-box-office-collections-day-12-vismaya-mohanlals-debut-movie-earns-rs-49-lakhs-film-records-3-9-drop/articleshow/133335008.cms",
-      "published": "2026-08-19T07:00:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133335030,imgsize-414597.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133335008.cms\" />Vismaya Mohanlal's debut film 'Thudakkam' experienced a minor earnings decrease on its twelfth day. The movie has now accumulated over twenty-one crore rupees in domestic net collections.",
+      "title": "Ravi Mohan files defamation case against 'Bro Club' producer",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohan-files-defamation-case-against-bro-club-producer-shruthi-nallappa-over-alleged-defamatory-communications-to-streaming-giant-as-madras-high-court-issues-notice-report/articleshow/133361602.cms",
+      "published": "2026-08-20T07:04:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133361618,imgsize-279590.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133361602.cms\" />Actor Ravi Mohan has initiated legal proceedings against producer Shruthi Nallappa for defamation. The issue centers around unpaid dues connected to the film 'Bro Club.' Reports indicate that Nallappa reached out to Netflix and industry associations concerning these pending payments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "CCTV footage shows Hayden with boyfriend hours before death",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cctv-footage-shows-hayden-panettiere-with-brian-hickerson-and-his-brother-zach-hickerson-hours-before-death/articleshow/133334506.cms",
-      "published": "2026-08-19T06:26:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133334818,imgsize-321426.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133334506.cms\" />Police are seeking surveillance footage from an apartment complex. This footage could establish Hayden Panettiere's final hours before her death.",
+      "title": "After 'Ramayana', Ranbir to start 'Brahmastra 2' with Alia in April 2027",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ramayana-ranbir-kapoor-to-start-brahmastra-2-with-alia-bhatt-in-april-2027-as-ayan-mukerji-in-talks-with-deepika-padukone-for-sequel-report/articleshow/133361535.cms",
+      "published": "2026-08-20T06:56:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133361576,imgsize-130966.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133361535.cms\" />Director Ayan Mukerji and Ranbir Kapoor are gearing up for 'Brahmastra 2,' with the actor set to begin filming in April 2027 after wrapping 'Ramayana Part 2.' Alia Bhatt returns as Isha, while Deepika Padukone is reportedly in talks for a key role..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.18
     }
   ]
 }
