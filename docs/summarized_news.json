@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-21T02:13:20",
+  "generated_at": "2026-08-22T02:02:20",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Ex-Pak PM Imran Khan moved to private hospital from prison after SC order",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/ex-pak-pm-imran-khan-moved-to-private-hospital-from-prison-after-sc-order/articleshow/133389827.cms",
-      "published": "Fri, 21 Aug 2026 04:50:11 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133389834,imgsize-42354.cms",
+      "title": "Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sugar-output-may-dip-11-from-initial-estimate-government/articleshow/133413529.cms",
+      "published": "Sat, 22 Aug 2026 01:51:30 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133413533,imgsize-171138.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "Top Stories",
+      "title": "Canada gurdwara stabbing: 2 injured in Edmonton, suspect held day after prison release",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-gurdwara-stabbing-two-injured-in-edmonton-suspect-held-day-after-prison-release/articleshow/133415804.cms",
+      "published": "Sat, 22 Aug 2026 07:10:39 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133415835,imgsize-189028.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Rajya Sabha member's son in soup after Aston Martin crash kills woman in Hyderabad",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/andhra-pradesh-rajya-sabha-mps-son-in-soup-after-aston-martin-rams-kills-hyderabad-woman-no-arrest-yet/articleshow/133390585.cms",
-      "published": "Fri, 21 Aug 2026 06:59:42 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133390605,imgsize-113900.cms",
-      "summary": "Madhapur police booked Lingamaneni Sanjush, son of MP Lingamaneni Ramesh, for rash driving. His Aston Martin allegedly killed a 26-year-old mall employee near Inorbit Mall on August 16.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Top Stories",
-      "title": "US envoy in Ladakh, may meet Dalai Lama in first trip since Galwan clash",
-      "url": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-in-ladakh-goes-river-rafting-along-zanskar-indus-stretch/articleshow/133387083.cms",
-      "published": "Fri, 21 Aug 2026 00:48:01 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133387132,imgsize-154508.cms",
+      "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
+      "url": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
+      "published": "Sat, 22 Aug 2026 02:21:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133413600,imgsize-44148.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Joe Root scripts history, becomes first player to achieve this feat",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
-      "published": "Fri, 21 Aug 2026 06:20:21 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133390431,imgsize-71334.cms",
-      "summary": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop the WTC captaincy run charts.",
+      "title": "Headingley horror! Pakistan create unwanted Test record in crushing defeat",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/headingley-horror-pakistan-create-unwanted-test-record-in-crushing-england-defeat/articleshow/133415698.cms",
+      "published": "Sat, 22 Aug 2026 06:37:54 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133415703,imgsize-117370.cms",
+      "summary": "Pakistan achieved an unwanted Test record by losing their opening wicket for zero runs in both innings. This rare feat occurred for the seventh time in their Test match history.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.23
+      "time_sec": 15.04
     },
     {
       "category": "India",
-      "title": "Lindsay Clancy Trial: Candace Owens says she is \u2018obviously not guilty\u2019; closing arguments near",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/lindsay-clancy-is-obviously-not-guilty-candace-owens-blames-big-pharma-for-postpartum-psychosis-as-trial-nears-end/articleshow/133389789.cms",
-      "published": "2026-08-21T04:37:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133389790,imgsize-2106468.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133389789.cms\" />Candace Owens has called Lindsay Clancy \u201cobviously not guilty,\u201d blaming doctors and multiple psychiatric medicines for what she described as an induced psychosis. Clancy admits killing her three children but argues severe postpartum psychosis left her not criminally responsible.",
+      "title": "How a 'firm' shared, retracted fake poll numbers in US",
+      "url": "https://timesofindia.indiatimes.com/world/us/how-a-firm-shared-retracted-fake-poll-numbers-in-us/articleshow/133415378.cms",
+      "published": "2026-08-22T04:32:11+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415385,imgsize-74296.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415378.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Owens Rips TPUSA Narrative: Viral post fuels clash over Tyler Robinson case; influencers face scrutiny",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-calls-out-erika-kirk-and-tpusa-over-tyler-robinson-case-as-accusations-of-gaslighting-erupt/articleshow/133389793.cms",
-      "published": "2026-08-21T05:31:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133389805,imgsize-597895.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133389793.cms\" />Candace Owens is facing renewed attention after Grace Ashford shared a post accusing Erika Kirk and Turning Point USA of dismissing critics who question inconsistencies surrounding Tyler Robinson\u2019s case. Owens challenged statements about Charlie Kirk\u2019s final communications and argued that Robinson remains innocent until proven guilty.",
+      "title": "2 killed after small plane crashes in Croatia",
+      "url": "https://timesofindia.indiatimes.com/world/europe/2-killed-after-small-plane-crashes-in-croatia/articleshow/133415369.cms",
+      "published": "2026-08-22T04:21:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415373,imgsize-873676.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415369.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Influencer Faces Criminal Charges: US realtor arrested after fire probe; videos central to case",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-meliza-campos-sanchez-influencer-arrested-after-disturbing-videos-allegedly-show-kitchen-fire-and-hot-wax-incident-involving-children/articleshow/133389924.cms",
-      "published": "2026-08-21T05:52:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133389926,imgsize-48779.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133389924.cms\" />Meliza Campos-Sanchez, a 26-year-old influencer and realtor, is facing serious charges after authorities investigated an alleged kitchen fire and disturbing incidents involving her two young daughters. Police reportedly cited social media videos and evidence recovered from the home.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "TikTok Star Death Probe: French police investigate burned body of Sonia Bellina; suspect remains in custody",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/what-happened-to-sonia-bellina-29-year-old-tiktoks-burned-body-found-in-french-vineyard-as-two-men-are-arrested/articleshow/133389939.cms",
-      "published": "2026-08-21T06:10:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390009,imgsize-132214.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133389939.cms\" />Sonia Bellina, a 29-year-old TikTok creator with more than 260,000 followers, was found dead in a French vineyard after going missing on August 10. Her burned body was discovered two days later and identified through DNA.",
+      "title": "After a 1962 storm battered Fire Island, Robert Moses proposed a highway along the New York barrier",
+      "url": "https://timesofindia.indiatimes.com/world/us/after-a-1962-storm-battered-fire-island-robert-moses-proposed-a-highway-along-the-new-york-barrier-island-residents-fought-it-and-17-private-communities-now-sit-inside-a-national-seashore/articleshow/133413412.cms",
+      "published": "2026-08-22T02:05:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133413513,imgsize-312474.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133413412.cms\" />The fierce nor'easter of 1962 became a pivotal moment for Robert Moses as he sought to introduce a highway on Fire Island. Yet, the local populace and property owners stood firm against the initiative, worried for their environment and community\u2019s future.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
+    },
+    {
+      "category": "India",
+      "title": "Indian-American Silicon Valley investor says people fake degrees, 20-25% of those who come to US on H-1Bs are frauds",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-american-silicon-valley-investor-says-people-fake-degrees-20-25-of-those-who-come-to-us-on-h-1bs-are-frauds/articleshow/133413560.cms",
+      "published": "2026-08-22T02:05:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133413568,imgsize-35770.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133413560.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.07
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
-    },
-    {
-      "category": "Business",
-      "title": "Government makes it easier for exporters to get paid in rupee",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/government-makes-it-easier-for-exporters-to-get-paid-in-rupee/articleshow/133390326.cms",
-      "published": "2026-08-21T05:53:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390339,imgsize-965156.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Business",
-      "title": "Sensex CAS manipulated using large orders: Sebi",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-cas-manipulated-using-large-orders-sebi/articleshow/133390137.cms",
-      "published": "2026-08-21T05:35:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390167,imgsize-1016362.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Noel Tata kicks off hunt for next Tata Sons chief",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/informal-search-for-new-tata-sons-chief-begins/articleshow/133389987.cms",
-      "published": "2026-08-21T05:29:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390099,imgsize-36818.cms",
+      "title": "PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-meets-ceos-of-20-space-startups-ask-them-for-wider-applications-of-space-tech-to-improve-peoples-lives/articleshow/133413394.cms",
+      "published": "2026-08-22T01:19:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133413414,imgsize-84034.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Government to amend investment treaty to woo global players",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/government-to-amend-investment-treaty-to-woo-global-players/articleshow/133389908.cms",
-      "published": "2026-08-21T05:14:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133389917,imgsize-44902.cms",
+      "title": "Car buyers take fancy to mid-size SUV models",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/car-buyers-take-fancy-to-mid-size-suv-models/articleshow/133415322.cms",
+      "published": "2026-08-22T03:58:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415347,imgsize-130260.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Apple expected to expand manufacturing beyond iPhones: Govt",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/apple-expected-to-expand-mfg-beyond-iphones-govt/articleshow/133414076.cms",
+      "published": "2026-08-22T03:44:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415037,imgsize-102178.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Business",
+      "title": "PSBs losing share in high-value business: Report",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/psbs-losing-share-in-high-value-business-report/articleshow/133413839.cms",
+      "published": "2026-08-22T03:32:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133413849,imgsize-80346.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -205,83 +205,83 @@
     },
     {
       "category": "Education",
-      "title": "MIT engineers built a small room-temperature device that generates paired radio waves; a message encoded in one signal could be decoded only with its matching partner",
-      "url": "https://timesofindia.indiatimes.com/education/news/mit-engineers-built-a-small-room-temperature-device-that-generates-paired-radio-waves-a-message-encoded-in-one-signal-could-be-decoded-only-with-its-matching-partner/articleshow/133373802.cms",
-      "published": "2026-08-20T17:50:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133374009,imgsize-113216.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mit-engineers-built-a-small-room-temperature-device-that-generates-paired-radio-waves-a-message-encoded-in-one-signal-could-be-decoded-only-with-its-matching-partner/articleshow/133373802.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133373802.cms\" /></a>MIT researchers have demonstrated a room-temperature method for generating strongly correlated microwave signals using a magnetic film and microwave resonator, potentially overcoming a major limitation of existing quantum systems that require expensive cryogenic cooling. The technology could have applications in secure wireless communication, quantum radar and high-precision sensing.",
+      "title": "UPPSC GIC Lecturer admit card 2026 released at uppsc.up.nic.in: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/uppsc-gic-lecturer-admit-card-2026-released-at-uppsc-up-nic-in-direct-link-to-download-hall-ticket-here/articleshow/133404410.cms",
+      "published": "2026-08-21T18:05:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133404704,imgsize-323675.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/uppsc-gic-lecturer-admit-card-2026-released-at-uppsc-up-nic-in-direct-link-to-download-hall-ticket-here/articleshow/133404410.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133404410.cms\" /></a>The UPPSC has released the GIC Lecturer Main Examination 2025 admit cards. Candidates can download these from the official website using their OTP.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "Will sports become a fundamental right for children? Supreme Court hearing raises a bigger question about screen time",
-      "url": "https://timesofindia.indiatimes.com/education/news/will-sports-become-a-fundamental-right-for-children-supreme-court-hearing-raises-a-bigger-question-about-screen-time/articleshow/133375299.cms",
-      "published": "2026-08-20T16:46:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133375418,imgsize-150338.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/will-sports-become-a-fundamental-right-for-children-supreme-court-hearing-raises-a-bigger-question-about-screen-time/articleshow/133375299.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133375299.cms\" /></a>The Supreme Court is examining whether sports and physical literacy should be recognised as a fundamental right under Article 21A, amid concerns over children\u2019s growing screen dependence. In the PIL Kanishka Pandey vs Union of India &amp; Ors., recommendations include compulsory sports education and 90 minutes of daily physical activity in schools.",
+      "title": "IBPS Clerk recruitment 2026: Registration ends today for 11,403 posts at ibps.in;  direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ibps-clerk-recruitment-2026-registration-ends-today-for-11403-posts-at-ibps-in-direct-link-to-apply-here/articleshow/133403293.cms",
+      "published": "2026-08-21T17:54:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133404376,imgsize-716251.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ibps-clerk-recruitment-2026-registration-ends-today-for-11403-posts-at-ibps-in-direct-link-to-apply-here/articleshow/133403293.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133403293.cms\" /></a>The Institute of Banking Personnel Selection registration for IBPS Clerk 2026 closes today. Candidates can submit applications and fees until 11:59 pm tonight.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "His father earned just \u20b93,000 a month, he now earns \u20b91.5 crore at 24: IIT Bombay graduate Shashank Agarwal\u2019s inspiring journey",
-      "url": "https://timesofindia.indiatimes.com/education/news/his-father-earned-just-3000-a-month-he-now-earns-1-5-crore-at-24-iit-bombay-graduate-shashank-agarwals-inspiring-journey/articleshow/133375089.cms",
-      "published": "2026-08-20T16:35:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133375198,imgsize-80786.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/his-father-earned-just-3000-a-month-he-now-earns-1-5-crore-at-24-iit-bombay-graduate-shashank-agarwals-inspiring-journey/articleshow/133375089.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133375089.cms\" /></a>At 24, Shashank Agarwal has turned a challenging financial beginning into an extraordinary career milestone. After securing AIR 20 in JEE Advanced and graduating from IIT Bombay, he reportedly earns \u20b91.5 crore annually as an Analyst at Zanskar Corporation.",
+      "title": "UPTET result 2026: UPESSC to declare scores soon at upessc.up.gov.in; check steps to download here",
+      "url": "https://timesofindia.indiatimes.com/education/news/uptet-result-2026-upessc-to-declare-scores-soon-at-upessc-up-gov-in-check-steps-to-download-here/articleshow/133402941.cms",
+      "published": "2026-08-21T16:58:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
+      "summary": "The Uttar Pradesh Teacher Eligibility Test 2026 results are expected soon. Over 2.2 lakh candidates appeared for the examination conducted across Uttar Pradesh.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "From a village in Farrukhabad to IAF: How Ankit Kumar cleared SSB after 12 attempts to become a Flying Officer",
-      "url": "https://timesofindia.indiatimes.com/education/news/from-a-village-in-farrukhabad-to-iaf-how-ankit-kumar-cleared-ssb-after-12-attempts-to-become-a-flying-officer/articleshow/133367224.cms",
-      "published": "2026-08-20T16:21:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133367420,imgsize-145353.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/from-a-village-in-farrukhabad-to-iaf-how-ankit-kumar-cleared-ssb-after-12-attempts-to-become-a-flying-officer/articleshow/133367224.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133367224.cms\" /></a>Ankit Kumar\u2019s journey from Farrukhabad to becoming an Indian Air Force Flying Officer is a story of extraordinary persistence. The 24-year-old reportedly faced the SSB process 12 times before finally achieving his dream in 2026.",
+      "title": "SLAT 2027 registration begins at slat-test.org: Check eligibility, exam dates and application fee",
+      "url": "https://timesofindia.indiatimes.com/education/news/slat-2027-registration-begins-at-slat-test-org-check-eligibility-exam-dates-and-application-fee/articleshow/133402529.cms",
+      "published": "2026-08-21T16:47:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133402726,imgsize-1267243.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/slat-2027-registration-begins-at-slat-test-org-check-eligibility-exam-dates-and-application-fee/articleshow/133402529.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133402529.cms\" /></a>Symbiosis International University has opened registrations for the SLAT 2027 entrance examination. This exam is for admission to undergraduate law programs at its various campuses.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.02
+      "time_sec": 15.04
     },
     {
       "category": "Entertainment",
-      "title": "'Awarapan 2' box office collection Day 7: Emraan's film wraps up first week with solid Rs 113 cr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-7-emraan-hashmi-starrer-wraps-up-first-week-with-solid-rs-113-crore-is-a-hit-with-151-percent-roi/articleshow/133390145.cms",
-      "published": "2026-08-21T05:45:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390313,imgsize-163131.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133390145.cms\" />Emraan Hashmi's 'Awarapan 2' has emerged as a blockbuster sensation, raking in over 113 crore rupees in just one week. Leveraging the buzz of the Independence Day holiday, the film has maintained impressive momentum, heralding a remarkable resurgence for the actor.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Film producer Geo Kuttappan passes away",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mani-ratnams-unaroo-producer-geo-kuttappan-passes-away-at-90-funeral-to-be-held-in-edappally/articleshow/133390739.cms",
-      "published": "2026-08-21T07:22:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390758,imgsize-201638.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133390739.cms\" />Veteran Malayalam film producer and distributor Geo Kuttappan died at age ninety. He passed away in Kochi after suffering a heart attack early Wednesday morning.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Entertainment",
-      "title": "Hayden Panettiere's mother calls out 'toxic individual' in death case",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-hayden-panettieres-mother-lesley-vogel-hit-back-at-brian-hickerson-claims-estrangement-was-due-to-the-involvement-of-a-toxic-individual/articleshow/133390650.cms",
-      "published": "2026-08-21T07:11:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390659,imgsize-63734.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133390650.cms\" />Hayden Panettiere's mother spoke about their estrangement and a toxic individual. She believes this person contributed to her daughter's untimely death at thirty-six.",
+      "title": "People gather together for Jimmy Cricket\u2019s funeral procession",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jimmy-crickets-funeral-friends-fans-and-family-pay-tribute-by-wearing-his-iconic-bowtie-and-costume/articleshow/133415803.cms",
+      "published": "2026-08-22T07:07:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415813,imgsize-167261.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415803.cms\" />A heartfelt farewell unfolded as thousands of fans and family members flocked to comedian Jimmy Cricket's funeral procession. Attendees donned bow ties and elements of his memorable stage costume as a tribute.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "'DC' BO day 14: Lokesh Kanagaraj film earns Rs 1.23 crore",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-14-lokesh-kanagaraj-film-earns-rs-1-23-crore-records-25-5-drop-on-second-thursday/articleshow/133390567.cms",
-      "published": "2026-08-21T06:50:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133390576,imgsize-314975.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133390567.cms\" />The movie DC experienced a decline in theatrical earnings on its fourteenth day. Its India net collection on Day 14 was Rs 1.23 crore, a decrease from Wednesday.",
+      "title": "\u2018Batwara 1947\u2019 Day 8 Drop: India net slips to \u20b975 lakh; worldwide gross nears \u20b949.02cr",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collections-day-8-sunny-deol-starrer-earns-rs-75-lakhs-on-friday-worldwide-gross-reaches-rs-49-02-crore/articleshow/133415718.cms",
+      "published": "2026-08-22T06:45:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415727,imgsize-134142.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415718.cms\" />Batwara 1947 faced a significant box office slump on its second Friday, reporting earnings of less than one crore rupees for its eighth day. With worldwide gross nearing fifty crore, the film now transitions into its second weekend.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Khalifa' BO day 2: Prithviraj Sukumaran starrer earns Rs 2.30 crore",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-2-prithviraj-sukumaran-starrer-earns-rs-2-30-crore-drops-57/articleshow/133415712.cms",
+      "published": "2026-08-22T06:44:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415722,imgsize-378554.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415712.cms\" />Prithviraj Sukumaran's film Khalifa experienced a steep domestic earnings decline on its second day. The movie's India net collection dropped fifty-seven percent from its opening day figure.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Toxic' advance booking nears Rs 20 crore presales",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/toxic-advance-booking-report-yash-starrer-off-to-a-flying-start-at-the-box-office-opening-day-collections-headed-for-rs-20-crore-mark/articleshow/133415585.cms",
+      "published": "2026-08-22T06:40:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133415711,imgsize-315124.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415585.cms\" />Yash's film 'Toxic' shows strong advance booking numbers for its upcoming release. The Kannada version leads the advance sales, contributing significantly to the total.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.02
     }
   ]
 }
