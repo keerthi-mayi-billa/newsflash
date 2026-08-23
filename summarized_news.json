@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-08-22T02:02:20",
+  "generated_at": "2026-08-23T02:13:57",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sugar-output-may-dip-11-from-initial-estimate-government/articleshow/133413529.cms",
-      "published": "Sat, 22 Aug 2026 01:51:30 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133413533,imgsize-171138.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Top Stories",
-      "title": "Canada gurdwara stabbing: 2 injured in Edmonton, suspect held day after prison release",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-gurdwara-stabbing-two-injured-in-edmonton-suspect-held-day-after-prison-release/articleshow/133415804.cms",
-      "published": "Sat, 22 Aug 2026 07:10:39 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133415835,imgsize-189028.cms",
+      "title": "Big milestone: India\u2019s 1st 100% indigenous AK-203 \u2018Sher\u2019 made, test-fired in Amethi",
+      "url": "https://timesofindia.indiatimes.com/defence/big-milestone-indias-first-100-indigenous-ak-203-sher-assault-rifle-made-test-fired-at-amethi-factory/articleshow/133430940.cms",
+      "published": "Sun, 23 Aug 2026 01:44:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133430947,imgsize-49988.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
-      "url": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
-      "published": "Sat, 22 Aug 2026 02:21:20 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133413600,imgsize-44148.cms",
+      "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
+      "published": "Sun, 23 Aug 2026 04:19:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133432966,imgsize-765654.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Headingley horror! Pakistan create unwanted Test record in crushing defeat",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/headingley-horror-pakistan-create-unwanted-test-record-in-crushing-england-defeat/articleshow/133415698.cms",
-      "published": "Sat, 22 Aug 2026 06:37:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133415703,imgsize-117370.cms",
-      "summary": "Pakistan achieved an unwanted Test record by losing their opening wicket for zero runs in both innings. This rare feat occurred for the seventh time in their Test match history.",
+      "title": "Ganpati idol falls during procession in Mumbai; 2 dead, 5 injured",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-ganpati-idol-falls-during-procession-two-dead-five-injured/articleshow/133430250.cms",
+      "published": "Sun, 23 Aug 2026 00:17:07 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133433285,imgsize-198650.cms",
+      "summary": "Two individuals died and five others sustained injuries when a large Ganpati idol collapsed during its procession. The idol fell due to an apparent welding issue with its supporting frame, police officials stated.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
     },
     {
-      "category": "India",
-      "title": "How a 'firm' shared, retracted fake poll numbers in US",
-      "url": "https://timesofindia.indiatimes.com/world/us/how-a-firm-shared-retracted-fake-poll-numbers-in-us/articleshow/133415378.cms",
-      "published": "2026-08-22T04:32:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415385,imgsize-74296.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415378.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "2 killed after small plane crashes in Croatia",
-      "url": "https://timesofindia.indiatimes.com/world/europe/2-killed-after-small-plane-crashes-in-croatia/articleshow/133415369.cms",
-      "published": "2026-08-22T04:21:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415373,imgsize-873676.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415369.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "After a 1962 storm battered Fire Island, Robert Moses proposed a highway along the New York barrier",
-      "url": "https://timesofindia.indiatimes.com/world/us/after-a-1962-storm-battered-fire-island-robert-moses-proposed-a-highway-along-the-new-york-barrier-island-residents-fought-it-and-17-private-communities-now-sit-inside-a-national-seashore/articleshow/133413412.cms",
-      "published": "2026-08-22T02:05:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133413513,imgsize-312474.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133413412.cms\" />The fierce nor'easter of 1962 became a pivotal moment for Robert Moses as he sought to introduce a highway on Fire Island. Yet, the local populace and property owners stood firm against the initiative, worried for their environment and community\u2019s future.",
+      "category": "Top Stories",
+      "title": "From tape-ball to 'dream of Harman\u2019s wicket', Maryam follows her father\u2019s dream",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-tape-ball-cricket-to-dream-of-harmanpreets-wicket-maryam-bibi-follows-her-fathers-unfulfilled-dream/articleshow/133427056.cms",
+      "published": "Sat, 22 Aug 2026 21:15:16 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133427137,imgsize-1111153.cms",
+      "summary": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India. Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "India",
-      "title": "Indian-American Silicon Valley investor says people fake degrees, 20-25% of those who come to US on H-1Bs are frauds",
-      "url": "https://timesofindia.indiatimes.com/world/us/indian-american-silicon-valley-investor-says-people-fake-degrees-20-25-of-those-who-come-to-us-on-h-1bs-are-frauds/articleshow/133413560.cms",
-      "published": "2026-08-22T02:05:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133413568,imgsize-35770.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133413560.cms\" />",
+      "title": "Speculation Over Possible Lawsuit: Gaines predicts TPUSA may sue; talk remains hypothetical",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/erika-and-tpusa-are-watching-every-single-one-of-her-shows-candace-owens-could-face-costly-legal-battle-as-erika-kirk-and-turning-point-usa-reportedly-prepare-for-potential-lawsuit/articleshow/133433004.cms",
+      "published": "2026-08-23T05:31:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133433009,imgsize-1006854.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133433004.cms\" />Candace Owens could face a costly legal battle as speculation grows over potential action from Erika Kirk and Turning Point USA. The claims stem from allegations that Owens\u2019 broadcasts may be documented for possible defamation proceedings.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "India",
+      "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
+      "published": "2026-08-23T04:19:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133432966,imgsize-765654.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133432963.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Sweden probes cyber networks after girl dies in school sword attack",
+      "url": "https://timesofindia.indiatimes.com/world/europe/sweden-probes-cyber-networks-after-girl-dies-in-school-sword-attack/articleshow/133431047.cms",
+      "published": "2026-08-23T02:54:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133431051,imgsize-124016.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133431047.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Slow boat to Amsterdam ships cargo using sail power",
+      "url": "https://timesofindia.indiatimes.com/world/europe/slow-boat-to-amsterdam-ships-cargo-using-sail-power/articleshow/133431031.cms",
+      "published": "2026-08-23T02:45:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133431036,imgsize-37436.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133431031.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -125,43 +125,43 @@
     },
     {
       "category": "Business",
-      "title": "PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-meets-ceos-of-20-space-startups-ask-them-for-wider-applications-of-space-tech-to-improve-peoples-lives/articleshow/133413394.cms",
-      "published": "2026-08-22T01:19:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133413414,imgsize-84034.cms",
+      "title": "Luxury sales plunge in China as tax push hits rich shoppers",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers/articleshow/133431041.cms",
+      "published": "2026-08-23T02:50:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133431043,imgsize-153192.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Car buyers take fancy to mid-size SUV models",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/car-buyers-take-fancy-to-mid-size-suv-models/articleshow/133415322.cms",
-      "published": "2026-08-22T03:58:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415347,imgsize-130260.cms",
+      "title": "Collections under RBI's dollar swap scheme exceed $72.8 billion",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/collections-under-rbis-dollar-swap-scheme-exceed-72-8-billion/articleshow/133431023.cms",
+      "published": "2026-08-23T02:35:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133431022,imgsize-141222.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Apple expected to expand manufacturing beyond iPhones: Govt",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/apple-expected-to-expand-mfg-beyond-iphones-govt/articleshow/133414076.cms",
-      "published": "2026-08-22T03:44:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415037,imgsize-102178.cms",
+      "title": "Amrit Bharat 3.0: AC coaches with Vande Bharat-style features for common man soon. Why it matters",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/amrit-bharat-3-0-ac-coaches-with-vande-bharat-style-features-for-common-man-soon-why-it-matters/articleshow/133425509.cms",
+      "published": "2026-08-22T19:24:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133425572,imgsize-617206.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.18
     },
     {
       "category": "Business",
-      "title": "PSBs losing share in high-value business: Report",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/psbs-losing-share-in-high-value-business-report/articleshow/133413839.cms",
-      "published": "2026-08-22T03:32:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133413849,imgsize-80346.cms",
+      "title": "NBFCs stay on growth track as asset quality remains stable: Report",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/nbfcs-stay-on-growth-track-as-asset-quality-remains-stable-report/articleshow/133421416.cms",
+      "published": "2026-08-22T15:16:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133421476,imgsize-170176.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Education",
+      "title": "Indian Army Terrier Cyber Quest 2026 hackathon registration begins: Check who can apply and key details",
+      "url": "https://timesofindia.indiatimes.com/education/news/indian-army-terrier-cyber-quest-2026-hackathon-registration-begins-check-who-can-apply-and-key-details/articleshow/133423847.cms",
+      "published": "2026-08-22T18:47:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133425178,imgsize-1160743.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/indian-army-terrier-cyber-quest-2026-hackathon-registration-begins-check-who-can-apply-and-key-details/articleshow/133423847.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133423847.cms\" /></a>The Indian Army has opened registrations for Terrier Cyber Quest 2026, a national competition. This event focuses on cybersecurity, artificial intelligence, and digital awareness for participants.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Education",
+      "title": "NTA needs reform, not replacement, says former UGC chairman",
+      "url": "https://timesofindia.indiatimes.com/education/news/nta-needs-reform-not-replacement-says-former-ugc-chairman/articleshow/133423459.cms",
+      "published": "2026-08-22T17:29:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133423772,imgsize-70110.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/nta-needs-reform-not-replacement-says-former-ugc-chairman/articleshow/133423459.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133423459.cms\" /></a>Former UGC Chairman Mamidala Jagadesh Kumar stated NTA needs structural strengthening. He views exam security as an end-to-end challenge given the scale.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "Education",
+      "title": "Four MIT dropouts, all under 27, built Cursor and sold it to SpaceX for $60 billion: How a failed idea became an AI giant",
+      "url": "https://timesofindia.indiatimes.com/education/news/four-mit-dropouts-all-under-27-built-cursor-and-sold-it-to-spacex-for-60-billion-how-a-failed-idea-became-an-ai-giant/articleshow/133422791.cms",
+      "published": "2026-08-22T16:43:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133422899,imgsize-119444.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/four-mit-dropouts-all-under-27-built-cursor-and-sold-it-to-spacex-for-60-billion-how-a-failed-idea-became-an-ai-giant/articleshow/133422791.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133422791.cms\" /></a>Four young MIT dropouts turned a failed early idea into Anysphere, the company behind AI coding tool Cursor. After initially exploring an AI copilot for mechanical engineers, founders Michael Truell, Aman Sanger, Sualeh Asif and Arvid Lunnemark pivoted to AI-powered software development.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "UPPSC GIC Lecturer admit card 2026 released at uppsc.up.nic.in: Direct link to download hall ticket here",
-      "url": "https://timesofindia.indiatimes.com/education/news/uppsc-gic-lecturer-admit-card-2026-released-at-uppsc-up-nic-in-direct-link-to-download-hall-ticket-here/articleshow/133404410.cms",
-      "published": "2026-08-21T18:05:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133404704,imgsize-323675.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/uppsc-gic-lecturer-admit-card-2026-released-at-uppsc-up-nic-in-direct-link-to-download-hall-ticket-here/articleshow/133404410.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133404410.cms\" /></a>The UPPSC has released the GIC Lecturer Main Examination 2025 admit cards. Candidates can download these from the official website using their OTP.",
+      "title": "At 7, he entered Guinness records; at 16, built a satellite: How a 20-year-old from Jammu raised $4.3 million for a space startup",
+      "url": "https://timesofindia.indiatimes.com/education/news/at-7-he-entered-guinness-records-at-16-built-a-satellite-how-a-20-year-old-from-jammu-raised-4-3-million-for-a-space-startup/articleshow/133422476.cms",
+      "published": "2026-08-22T16:30:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133422648,imgsize-49815.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/at-7-he-entered-guinness-records-at-16-built-a-satellite-how-a-20-year-old-from-jammu-raised-4-3-million-for-a-space-startup/articleshow/133422476.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133422476.cms\" /></a>Jammu-born entrepreneur Onkar Singh Batra began building technology at seven, wrote a book at 12 and founded a company at 13. At 16, he built InQube, an open-source satellite, which exposed him to communication gaps faced by satellites in low Earth orbit.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
     },
     {
-      "category": "Education",
-      "title": "IBPS Clerk recruitment 2026: Registration ends today for 11,403 posts at ibps.in;  direct link to apply here",
-      "url": "https://timesofindia.indiatimes.com/education/news/ibps-clerk-recruitment-2026-registration-ends-today-for-11403-posts-at-ibps-in-direct-link-to-apply-here/articleshow/133403293.cms",
-      "published": "2026-08-21T17:54:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133404376,imgsize-716251.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ibps-clerk-recruitment-2026-registration-ends-today-for-11403-posts-at-ibps-in-direct-link-to-apply-here/articleshow/133403293.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133403293.cms\" /></a>The Institute of Banking Personnel Selection registration for IBPS Clerk 2026 closes today. Candidates can submit applications and fees until 11:59 pm tonight.",
+      "category": "Entertainment",
+      "title": "'Anbe Diana' OTT release: When and where to watch",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anbe-diana-ott-release-confirmed-when-and-where-to-watch-pari-elavazhagan-ramya-ranganathans-film-online/articleshow/133433317.cms",
+      "published": "2026-08-23T07:18:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133433336,imgsize-545544.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133433317.cms\" />Anbe Diana will premiere on August 28, 2026. This romantic comedy follows a relationship between different cultural backgrounds.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.07
     },
     {
-      "category": "Education",
-      "title": "UPTET result 2026: UPESSC to declare scores soon at upessc.up.gov.in; check steps to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/uptet-result-2026-upessc-to-declare-scores-soon-at-upessc-up-gov-in-check-steps-to-download-here/articleshow/133402941.cms",
-      "published": "2026-08-21T16:58:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "summary": "The Uttar Pradesh Teacher Eligibility Test 2026 results are expected soon. Over 2.2 lakh candidates appeared for the examination conducted across Uttar Pradesh.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
-    },
-    {
-      "category": "Education",
-      "title": "SLAT 2027 registration begins at slat-test.org: Check eligibility, exam dates and application fee",
-      "url": "https://timesofindia.indiatimes.com/education/news/slat-2027-registration-begins-at-slat-test-org-check-eligibility-exam-dates-and-application-fee/articleshow/133402529.cms",
-      "published": "2026-08-21T16:47:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133402726,imgsize-1267243.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/slat-2027-registration-begins-at-slat-test-org-check-eligibility-exam-dates-and-application-fee/articleshow/133402529.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133402529.cms\" /></a>Symbiosis International University has opened registrations for the SLAT 2027 entrance examination. This exam is for admission to undergraduate law programs at its various campuses.",
+      "category": "Entertainment",
+      "title": "'Spider-Man' grosses over Rs 575 crore in India on Day 24",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/spider-man-brand-new-day-box-office-collection-day-24-tom-holland-and-zendaya-starrer-grosses-over-rs-575-crore-in-india-crosses-usd-2-06-billion-worldwide/articleshow/133433254.cms",
+      "published": "2026-08-23T07:04:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133433261,imgsize-510092.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133433254.cms\" />Spider-Man: Brand New Day is making waves at Indian box offices, having surpassed four hundred crore rupees in net earnings. As it approaches the five hundred crore milestone domestically, the film continues to shine globally, with total earnings exceeding two billion US dollars.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.04
     },
     {
       "category": "Entertainment",
-      "title": "People gather together for Jimmy Cricket\u2019s funeral procession",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jimmy-crickets-funeral-friends-fans-and-family-pay-tribute-by-wearing-his-iconic-bowtie-and-costume/articleshow/133415803.cms",
-      "published": "2026-08-22T07:07:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415813,imgsize-167261.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415803.cms\" />A heartfelt farewell unfolded as thousands of fans and family members flocked to comedian Jimmy Cricket's funeral procession. Attendees donned bow ties and elements of his memorable stage costume as a tribute.",
+      "title": "Yash and Dil Raju to team up for Telugu movie?",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-dil-raju-to-team-up-for-telugu-movie-producer-hints-at-possible-collaboration-video/articleshow/133433227.cms",
+      "published": "2026-08-23T06:43:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133433234,imgsize-194529.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133433227.cms\" />Kannada superstar Yash is rumored to be teaming up with renowned Telugu producer Dil Raju for an exciting new project. Raju has shown great eagerness to collaborate with Yash, who is currently managing a packed schedule.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "\u2018Batwara 1947\u2019 Day 8 Drop: India net slips to \u20b975 lakh; worldwide gross nears \u20b949.02cr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collections-day-8-sunny-deol-starrer-earns-rs-75-lakhs-on-friday-worldwide-gross-reaches-rs-49-02-crore/articleshow/133415718.cms",
-      "published": "2026-08-22T06:45:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415727,imgsize-134142.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415718.cms\" />Batwara 1947 faced a significant box office slump on its second Friday, reporting earnings of less than one crore rupees for its eighth day. With worldwide gross nearing fifty crore, the film now transitions into its second weekend.",
+      "title": "'Irumudi' BO day 2: India net for Ravi Teja's film reaches Rs 31.40 Cr",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-2-ravi-tejas-film-records-5-2-growth-india-net-reaches-rs-31-40-cr/articleshow/133433161.cms",
+      "published": "2026-08-23T06:16:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133433168,imgsize-398252.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133433161.cms\" />Ravi Teja's latest action drama, 'Irumudi', witnessed a positive trend in its box office collections on the second day of release, with earnings surpassing Rs 31 crore in domestic markets. The total worldwide gross now stands at Rs 47.45 crore, showcasing significant contributions from the Telugu version.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Khalifa' BO day 2: Prithviraj Sukumaran starrer earns Rs 2.30 crore",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-2-prithviraj-sukumaran-starrer-earns-rs-2-30-crore-drops-57/articleshow/133415712.cms",
-      "published": "2026-08-22T06:44:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415722,imgsize-378554.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415712.cms\" />Prithviraj Sukumaran's film Khalifa experienced a steep domestic earnings decline on its second day. The movie's India net collection dropped fifty-seven percent from its opening day figure.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Toxic' advance booking nears Rs 20 crore presales",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/toxic-advance-booking-report-yash-starrer-off-to-a-flying-start-at-the-box-office-opening-day-collections-headed-for-rs-20-crore-mark/articleshow/133415585.cms",
-      "published": "2026-08-22T06:40:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133415711,imgsize-315124.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133415585.cms\" />Yash's film 'Toxic' shows strong advance booking numbers for its upcoming release. The Kannada version leads the advance sales, contributing significantly to the total.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.02
+      "time_sec": 15.04
     }
   ]
 }
