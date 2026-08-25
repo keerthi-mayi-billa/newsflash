@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-08-24T02:12:36",
+  "generated_at": "2026-08-25T02:04:10",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'Killed Nijjar for drug trafficking': Goldy Brar in leaked audio",
-      "url": "https://timesofindia.indiatimes.com/india/killed-nijjar-for-drug-trafficking-goldy-brar-in-leaked-audio/articleshow/133447346.cms",
-      "published": "Mon, 24 Aug 2026 03:44:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133448270,imgsize-484739.cms",
-      "summary": "Using youth for drugs, P 6",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "2 Delhi MLAs among several injured after car jumps divider, slams into SUV",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/2-mlas-among-several-injured-after-car-breaches-divider-slams-into-suv-at-delhis-ito/articleshow/133449075.cms",
-      "published": "Mon, 24 Aug 2026 07:03:47 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133449158,imgsize-84406.cms",
-      "summary": "An out-of-control car crashed through a divider at Delhi's ITO on Sunday evening. The vehicle then collided head-on with an SUV carrying two Members of the Legislative Assembly.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Top Stories",
-      "title": "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-invited-to-join-mecca-pact-by-saudi-arabia-turkey-pakistan-report/articleshow/133446770.cms",
-      "published": "Mon, 24 Aug 2026 03:24:43 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133446772,imgsize-86022.cms",
+      "title": "Unusual rise in Turkish military flights to Pak surprises Indian defence circles",
+      "url": "https://timesofindia.indiatimes.com/india/repeated-trips-of-turkish-military-transport-planes-to-pak-between-aug-19-21-raise-eyebrows-in-india/articleshow/133478914.cms",
+      "published": "Tue, 25 Aug 2026 02:04:23 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133478946,imgsize-52592.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "\u2018If you can\u2019t take it back, don\u2019t say it\u2019: Jadeja\u2019s blunt message to Jaiswal",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/if-you-cant-take-it-back-dont-say-it-ajay-jadejas-blunt-message-to-yashasvi-jaiswal-after-asitha-fernando-spat/articleshow/133449070.cms",
-      "published": "Mon, 24 Aug 2026 07:04:17 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133449118,imgsize-155287.cms",
-      "summary": "Yashasvi Jaiswal has come under fire for his altercation with Sri Lanka's Asitha Fernando. Former cricketer Ajay Jadeja cautioned Jaiswal about the potential repercussions of his aggressive behaviour.",
+      "title": "Trump admin set to revoke up to 2 lakh visas in historic crackdown",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admin-set-to-revoke-up-to-2-lakh-visas-in-historic-crackdown/articleshow/133479031.cms",
+      "published": "Tue, 25 Aug 2026 02:14:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133479089,imgsize-37362.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.09
+    },
+    {
+      "category": "Top Stories",
+      "title": "Donald Trump's volatility may have made India decline G7 presser",
+      "url": "https://timesofindia.indiatimes.com/india/donald-trumps-volatility-may-have-made-india-decline-g7-presser/articleshow/133478272.cms",
+      "published": "Tue, 25 Aug 2026 01:26:09 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133478290,imgsize-105844.cms",
+      "summary": "'Standard Practice For Such Visits Communicated'",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Does anyone actually care?' Sreejesh's scathing attack after India\u2019s WC exit",
+      "url": "https://timesofindia.indiatimes.com/sports/hockey/does-anyone-actually-care-sreejesh-launches-scathing-attack-after-indias-world-cup-exit/articleshow/133485861.cms",
+      "published": "Tue, 25 Aug 2026 06:33:35 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133485937,imgsize-99832.cms",
+      "summary": "P.R. Sreejesh, the former goalkeeper, has raised serious concerns about the Indian hockey management's strategies following the failures of both the men's and women's teams.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
     },
     {
       "category": "India",
-      "title": "A businessman bought a 23,000-acre Scottish sporting estate and spent two decades rewilding it",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-businessman-bought-a-23000-acre-scottish-sporting-estate-and-spent-two-decades-rewilding-it-one-million-native-trees-later-red-squirrels-have-been-reintroduced/articleshow/133446238.cms",
-      "published": "2026-08-24T01:37:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133446440,imgsize-2147469.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133446238.cms\" />An ambitious English businessman has reimagined a historic Scottish hunting estate as a lush wilderness reserve. His initiative, which includes the planting of over one million native trees, has revived populations of red squirrels in the glens.",
+      "title": "From Gen Z wave to heat in 150 days: Balen faces street anger, parliament pressure and party unease",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/from-gen-z-wave-to-heat-in-150-days-nepal-pm-balen-faces-street-anger-parliament-pressure-and-party-unease/articleshow/133485397.cms",
+      "published": "2026-08-25T06:06:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133485467,imgsize-69474.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133485397.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "In 2019, Florida began sinking mermaid-shaped reef sculptures; the project now has more than...",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2019-florida-began-sinking-mermaid-shaped-reef-sculptures-the-project-now-has-more-than-300-habitat-and-art-modules-in-south-florida/articleshow/133445988.cms",
-      "published": "2026-08-24T00:50:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133446105,imgsize-1296528.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133445988.cms\" />A remarkable endeavor has come to fruition with over 300 artistically crafted reef modules now anchored in the depths off South Florida. This seven-year journey melds art with conservation, creating artificial habitats from sustainable concrete that nurture marine species.",
+      "title": "US universities pausing CPT program after new ICE memo: Indian students in a fix",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-universities-pausing-cpt-program-after-new-ice-memo-indian-students-in-a-fix/articleshow/133479035.cms",
+      "published": "2026-08-25T02:13:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133479055,imgsize-147290.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133479035.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "A British couple bought a derelict 85-foot, seven-storey Victorian water tower at auction",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-british-couple-bought-a-derelict-85-foot-seven-storey-victorian-water-tower-at-auction-after-years-of-painstaking-work-the-former-asylum-water-supply-became-their-family-home/articleshow/133445009.cms",
-      "published": "2026-08-24T00:32:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133445967,imgsize-338758.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133445009.cms\" />In Kennington, a neglected Victorian water tower dating back to 1877 has been transformed into a stunning family residence. This Grade II-listed landmark, originally built for an asylum, underwent a lavish restoration by a British couple.",
+      "title": "'Happy birthday wheelchair': Disabled New Jersey woman shocked seeing hurtful message on cake; restaurant says it was a reference for where the cake was to be served",
+      "url": "https://timesofindia.indiatimes.com/world/us/happy-birthday-wheelchair-disabled-new-jersey-woman-shocked-seeing-hurtful-message-on-cake-restaurant-says-it-was-a-reference-for-where-the-cake-was-to-be-served/articleshow/133478252.cms",
+      "published": "2026-08-25T01:25:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133478287,imgsize-89412.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133478252.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Wash rice twice, not 7 times: Drought-hit England targets faith, cultural habits",
-      "url": "https://timesofindia.indiatimes.com/world/uk/wash-rice-twice-not-7-times-drought-hit-england-targets-faith-cultural-habits/articleshow/133445641.cms",
-      "published": "2026-08-24T00:15:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133445695,imgsize-177454.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133445641.cms\" />",
+      "title": "In 1998, Justin Trudeau's younger brother was swept away in an avalanche in BC. His body was never found",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1998-justin-trudeaus-younger-brother-was-swept-away-in-an-avalanche-in-bc-his-body-was-never-found/articleshow/133477602.cms",
+      "published": "2026-08-25T00:34:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133477686,imgsize-152916.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133477602.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.24
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Oil prices slip over $1 as US weighs \u2018D-Day\u2019 Iran sanctions; Strait of Hormuz shipping risks in focus",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-over-1-as-us-weighs-d-day-iran-sanctions-strait-of-hormuz-shipping-risks-in-focus/articleshow/133449231.cms",
-      "published": "2026-08-24T07:29:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133449300,imgsize-136132.cms",
+      "title": "Meiji Seika to push new vaccine with SII in India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/meiji-seika-to-push-new-vaccine-with-sii-in-india/articleshow/133484455.cms",
+      "published": "2026-08-25T05:39:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133485009,imgsize-53824.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Shriram bullish on CV growth despite recent price hikes",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/shriram-bullish-on-cv-growth-despite-recent-price-hikes/articleshow/133448742.cms",
-      "published": "2026-08-24T05:41:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133448741,imgsize-69632.cms",
+      "title": "Government eyes 3000 crore by selling 6% in Hindustan Copper",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/government-eyes-3000-crore-by-selling-6-in-hindustan-copper/articleshow/133484262.cms",
+      "published": "2026-08-25T05:09:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133484296,imgsize-137738.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "India eyes enhancing trade pact with Chile",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/india-eyes-enhancing-trade-pact-with-chile/articleshow/133448719.cms",
-      "published": "2026-08-24T05:36:51+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133448728,imgsize-174636.cms",
+      "title": "Government looks to add more AI partners for digital projects",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/government-looks-to-add-more-ai-partners-for-digital-projects/articleshow/133484117.cms",
+      "published": "2026-08-25T05:02:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133484161,imgsize-168594.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Weakness in currency can create negative loop: HSBC",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/weakness-in-currency-can-create-negative-loop-hsbc/articleshow/133448623.cms",
-      "published": "2026-08-24T05:25:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133448639,imgsize-60700.cms",
+      "title": "Labour survey 2026 likely to track digital, platform workers",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/labour-survey-2026-likely-to-track-digital-platform-workers/articleshow/133483578.cms",
+      "published": "2026-08-25T04:55:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133484058,imgsize-101560.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.02
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "Maharashtra CET 2026: CET Cell issues rules for institutional-level admissions to vacant seats",
-      "url": "https://timesofindia.indiatimes.com/education/news/maharashtra-cet-2026-cet-cell-issues-rules-for-institutional-level-admissions-to-vacant-seats/articleshow/133441228.cms",
-      "published": "2026-08-23T19:57:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133441312,imgsize-988523.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/maharashtra-cet-2026-cet-cell-issues-rules-for-institutional-level-admissions-to-vacant-seats/articleshow/133441228.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133441228.cms\" /></a>Colleges can now fill vacant seats after all Centralised Admission Process rounds conclude. Institutional-level admissions must strictly follow inter-se merit of eligible candidates.",
+      "title": "RRB NTPC UG CBT 1 result 2026 out: Check steps to download scorecards and other details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/rrb-ntpc-ug-cbt-1-result-2026-out-check-steps-to-download-scorecards-and-other-details-here/articleshow/133472130.cms",
+      "published": "2026-08-24T21:05:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133472213,imgsize-306184.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rrb-ntpc-ug-cbt-1-result-2026-out-check-steps-to-download-scorecards-and-other-details-here/articleshow/133472130.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133472130.cms\" /></a>The Railway Recruitment Board has announced the RRB NTPC Undergraduate CBT 1 result 2026, allowing candidates to check their qualification status and cut-off details. Those shortlisted will advance to CBT 2, scheduled for September 17, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "DU CSAS UG 2026: Spot Round 1 vacant seats released; apply by August 24",
-      "url": "https://timesofindia.indiatimes.com/education/news/du-csas-ug-2026-spot-round-1-vacant-seats-released-apply-by-august-24/articleshow/133440060.cms",
-      "published": "2026-08-23T18:23:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133440155,imgsize-172628.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-csas-ug-2026-spot-round-1-vacant-seats-released-apply-by-august-24/articleshow/133440060.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133440060.cms\" /></a>Delhi University has released its vacant seat list for the CSAS UG 2026-27 spot round. Eligible applicants can apply for these available seats through their official admission portal.",
+      "title": "Education Minister Pralhad Joshi reviews CBSE functioning, stresses efficiency and transparency",
+      "url": "https://timesofindia.indiatimes.com/education/news/education-minister-pralhad-joshi-reviews-cbse-functioning-stresses-efficiency-and-transparency/articleshow/133471618.cms",
+      "published": "2026-08-24T20:31:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133471618,imgsize-76670.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/education-minister-pralhad-joshi-reviews-cbse-functioning-stresses-efficiency-and-transparency/articleshow/133471618.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133471618.cms\" /></a>The Education Minister Pralhad Joshi reviewed the functioning of CBSE with senior education officials, focusing on academic, examination and administrative systems. The meeting stressed the need for greater efficiency, transparency and stronger support for students and teachers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.02
     },
     {
       "category": "Education",
-      "title": "DU UG admissions 2026: 9 more colleges added for Class 12 marks-based admission; check courses and complete list",
-      "url": "https://timesofindia.indiatimes.com/education/news/du-ug-admissions-2026-9-more-colleges-added-for-class-12-marks-based-admission-check-courses-and-complete-list/articleshow/133439790.cms",
-      "published": "2026-08-23T18:04:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133439881,imgsize-341738.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-ug-admissions-2026-9-more-colleges-added-for-class-12-marks-based-admission-check-courses-and-complete-list/articleshow/133439790.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133439790.cms\" /></a>Delhi University has expanded its Class 12 marks-based undergraduate admissions to thirty-five colleges. This admission route will not require candidates to take the Common University Entrance Test.",
+      "title": "Gurugram schools to switch to online classes on August 25 amid heavy rain, waterlogging concerns",
+      "url": "https://timesofindia.indiatimes.com/education/news/gurugram-schools-to-switch-to-online-classes-on-august-25-amid-heavy-rain-waterlogging-concerns/articleshow/133470444.cms",
+      "published": "2026-08-24T19:47:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133470444,imgsize-398948.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/gurugram-schools-to-switch-to-online-classes-on-august-25-amid-heavy-rain-waterlogging-concerns/articleshow/133470444.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133470444.cms\" /></a>Gurugram schools will shift to online classes on August 25 as heavy rainfall raises concerns over waterlogging and traffic disruption across the district. Authorities have advised schools and institutions to minimise physical movement, while offices have been asked to facilitate work from home.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "NEET PG 2026 admit card to be released tomorrow: Check steps to download hall ticket here",
-      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-2026-admit-card-to-be-released-tomorrow-check-steps-to-download-hall-ticket-here/articleshow/133438517.cms",
-      "published": "2026-08-23T16:44:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133438621,imgsize-363792.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/neet-pg-2026-admit-card-to-be-released-tomorrow-check-steps-to-download-hall-ticket-here/articleshow/133438517.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133438517.cms\" /></a>The NEET PG 2026 admit card will be released tomorrow, August 24, by NBEMS. Candidates can download their hall tickets from the official NBEMS website after registration.",
+      "title": "Who is Kaziah Liz Mejo? Meet the 19-year-old law student from Kerala who won Miss Universe India 2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/who-is-kaziah-liz-mejo-meet-the-19-year-old-law-student-from-kerala-who-won-miss-universe-india-2026/articleshow/133469036.cms",
+      "published": "2026-08-24T19:22:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133469036,imgsize-1452033.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/who-is-kaziah-liz-mejo-meet-the-19-year-old-law-student-from-kerala-who-won-miss-universe-india-2026/articleshow/133469036.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133469036.cms\" /></a>Kaziah Liz Mejo, a 19-year-old law student and model from Kerala, has won the Miss Universe India 2026 crown in Jaipur. The Mavelikkara native, who grew up in Abu Dhabi, has a strong background in academics, classical dance, music and acting.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "'Awarapan 2' box office collection day 10: Emraan Hashmi's film nears Rs 140 crore",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-10-emraan-hashmis-film-nears-rs-140-crore-net-in-india-after-an-impressive-second-weekend-declared-a-big-hit/articleshow/133448757.cms",
-      "published": "2026-08-24T05:47:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133448766,imgsize-226812.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133448757.cms\" />Awarapan 2 is enjoying an impressive box office journey, surpassing the Rs 136 crore net mark in India. The film made a strong opening with Rs 22 crore and achieved a remarkable first-week collection of Rs 113.50 crore.",
+      "title": "\u2018Awarapan 2\u2019 box office collection day 11: Emraan Hashmi starrer passes second Monday test",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-11-the-emraan-hashmi-starrer-passes-the-second-monday-test-misses-rs-140-cr-net-in-india-by-a-hair-earns-202-percent-profit/articleshow/133484798.cms",
+      "published": "2026-08-25T05:42:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133485055,imgsize-221996.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133484798.cms\" />Awarapan 2 stands out as a blockbuster hit in Bollywood for 2026, inching closer to the Rs 150 crore milestone within India. In just ten days, it has outperformed the profit margins of Murder.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "'Batwara 1947' box office collection day 10: The film struggles to touch Rs 40 cr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-10-sunny-deol-preity-zintas-film-struggles-to-touch-rs-40-crore-after-the-second-weekend-while-awarapan-2-inches-towards-rs-140-crore/articleshow/133448827.cms",
-      "published": "2026-08-24T06:08:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133448832,imgsize-350121.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133448827.cms\" />Batwara 1947's performance at the box office has been underwhelming following its release. Despite a promising start on Saturday, the film's earnings plummeted as the weekdays progressed, with only a minor boost seen on Tuesday.",
+      "title": "Russ Abbot opens up on fame, love and more",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/russ-abbot-shares-details-of-his-journey-from-leaving-school-at-16-to-being-married-for-60-years-so-we-started-in-the-caravan/articleshow/133486284.cms",
+      "published": "2026-08-25T06:59:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133486414,imgsize-144990.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133486284.cms\" />In a heartfelt discussion, veteran entertainer Russ Abbot shared insights from his storied life and career, including his transition from school to the music scene. He celebrated his long-lasting marriage to Trish, spanning six decades, and shared how their humble origins influenced their approach to fame.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
-      "title": "Ram Charan at Hyderabad after Chiranjeevi's birthday celebrations",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-arrives-in-hyderabad-after-chiranjeevis-birthday-celebrations-actors-bandaged-hand-grabs-attention/articleshow/133449082.cms",
-      "published": "2026-08-24T07:02:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133449093,imgsize-242291.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133449082.cms\" />Ram Charan returned to Hyderabad after celebrating his father Chiranjeevi's birthday. He was seen with a bandage on his right hand following recent wrist surgery.",
+      "title": "'The Gentlemen' renewed for Season 3 as S2 trailer releases- WATCH",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-gentlemen-starring-theo-james-and-kaya-scodelario-renewed-for-season-3-amid-buzz-about-meghan-markles-casting-trailer-for-season-2-drops-online-watch/articleshow/133485668.cms",
+      "published": "2026-08-25T06:51:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133486302,imgsize-587156.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133485668.cms\" />Netflix confirmed the crime drama The Gentlemen has been renewed for a third season. The trailer for the second season also dropped online ahead of its September premiere.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
-      "title": "Brad Pitt may have started drinking because of Ch\u00e2teau Miraval",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-drinking-after-7-years-of-sobriety-is-possibly-linked-to-chteau-miraval-it-is-a-big-part-of-his-decision/articleshow/133449022.cms",
-      "published": "2026-08-24T06:50:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133449048,imgsize-101768.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133449022.cms\" />It seems Brad Pitt has resumed drinking after a seven-year hiatus, with his Ch\u00e2teau Miraval wine venture possibly influencing this decision. He reassures that he is drinking moderately and remains conscious of his limits.",
+      "title": "'Batwara 1947' box office collection day 11",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-box-office-collection-day-11-the-sunny-deol-starrer-nears-end-of-its-box-office-run-with-just-rs-35-lakhs-on-second-monday-struggles-to-touch-rs-40-crore-india-net/articleshow/133485347.cms",
+      "published": "2026-08-25T06:05:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133485449,imgsize-241267.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133485347.cms\" />The cinematic battle of 1947 continues to disappoint at the box office, lying stagnant after its second Monday. In stark contrast, the much-anticipated Awarapan 2 is soaring past all expectations, raking in over one hundred thirty-six crore net in India.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.07
     }
   ]
 }
