@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-27T10:10:51",
+  "generated_at": "2026-08-28T11:42:44",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'OMG, OMG!' Villagers run for life as flash flood chases them after swallowing bridge",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/omg-omg-villagers-run-for-life-as-flash-flood-chases-them-after-engulfing-bridge-watch-video/articleshow/133556615.cms",
-      "published": "Thu, 27 Aug 2026 12:14:57 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133560998,imgsize-7206658.cms",
+      "title": "Nepal floods: How recent reports warned of this disaster months ago",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-how-two-reports-warned-of-this-disaster-months-ago/articleshow/133587912.cms",
+      "published": "Fri, 28 Aug 2026 14:59:42 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133588162,imgsize-326556.cms",
+      "summary": "Recent floods in Nepal and Tibet followed ICIMOD's warnings about melting glaciers. These reports highlighted doubled ice loss rates and increased flood risks across the region.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Top Stories",
+      "title": "Tagore's thread of unity to booming trade - how Rakhi became Rs 25k cr business",
+      "url": "https://timesofindia.indiatimes.com/india/from-tagores-thread-of-unity-to-rs-25k-crore-trade-how-raksha-bandhan-became-one-big-business/articleshow/133589280.cms",
+      "published": "Fri, 28 Aug 2026 16:11:51 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133589413,imgsize-2582272.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "US debt tops $40tn: Who does Uncle Sam owe? No, it\u2019s not China",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-debt-crosses-40tn-but-who-does-uncle-sam-owe-money-to/articleshow/133561385.cms",
-      "published": "Thu, 27 Aug 2026 14:19:35 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133562612,imgsize-1253258.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "\u2018Absolutely ridiculous\u2019: SA all-rounder slams CA\u2019s decision on Anaya Bangar",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/absolutely-ridiculous-marizanne-kapp-slams-cricket-australias-decision-on-anaya-bangar/articleshow/133588743.cms",
+      "published": "Fri, 28 Aug 2026 15:32:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133588972,imgsize-92963.cms",
+      "summary": "Cricket Australia has cleared Anaya Bangar for a return to competitive women's cricket. She can play community cricket until March 2027, meeting policy requirements.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.05
     },
     {
       "category": "Top Stories",
-      "title": "\u2018Living in jail at home for 6 yrs, no social life, no job\u2019: Hathras rape victim\u2019s family",
-      "url": "https://timesofindia.indiatimes.com/city/agra/living-in-jail-at-home-for-6-yrs-no-social-life-no-job-hathras-rape-victims-family/articleshow/133545779.cms",
-      "published": "Wed, 26 Aug 2026 21:32:17 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "summary": "The Hathras victim's family lives under constant security, feeling like they are under house arrest. They have faced severe financial distress and isolation for six years.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Top Stories",
-      "title": "Moody\u2019s economist Mark Zandi warns: \u2018We got a problem\u2019",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/moodys-chief-economist-mark-zandi-warns-never-in-the-35-years-has-there-ever-been-a-time-when-all-things-are-screaming-to-tell-you-/articleshow/133561665.cms",
-      "published": "Thu, 27 Aug 2026 13:31:27 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133561684,imgsize-43284.cms",
-      "summary": "Mark Zandi, chief economist at Moody's Analytics, foresees a looming economic crisis as the U.S. surpasses a 100% debt-to-GDP ratio.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "India",
-      "title": "Influencer shot dead in Mexico while livestreaming: Suspect arrested in cartel-hit Sinaloa",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/influencer-shot-dead-in-mexico-while-livestreaming-suspect-arrested-in-cartel-hit-sinaloa/articleshow/133563527.cms",
-      "published": "2026-08-27T15:07:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133563705,imgsize-44064.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133563527.cms\" />",
+      "title": "'Regulations should be tightened': Annamalai slams Yash's film 'Toxic'",
+      "url": "https://timesofindia.indiatimes.com/india/regulations-should-be-tightened-k-annamalai-slams-censor-board-over-yashs-film-toxic/articleshow/133589113.cms",
+      "published": "Fri, 28 Aug 2026 16:01:05 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133589354,imgsize-77227.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Wyoming pizza shop gets fake $300 order, donates 18 pizzas to hospital",
-      "url": "https://timesofindia.indiatimes.com/world/us/wyoming-pizza-shop-gets-fake-300-order-for-18-pizzas-owner-donates-entire-batch-to-hospital-as-former-employee-volunteers-to-deliver-them-to-emergency-room/articleshow/133563459.cms",
-      "published": "2026-08-27T15:00:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133563570,imgsize-1038226.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133563459.cms\" />",
+      "title": "Relocated turtle nests produced fewer hatchlings, smaller young and a heavily female-biased sex ratio",
+      "url": "https://timesofindia.indiatimes.com/science/conservationists-move-threatened-sea-turtle-nests-to-safer-sand-to-save-eggs-from-heat-and-tides-a-2-year-study-found-lower-hatching-success-smaller-hatchlings-and-just-8-males-in-one-season/articleshow/133586540.cms",
+      "published": "2026-08-28T16:54:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133586700,imgsize-2378991.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133586540.cms\" />Relocating vulnerable sea turtle nests can lead to unexpected negative consequences. When nests are moved to warmer areas, the sex ratio of hatchlings skews heavily towards females.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "German tourist returns stolen skull to Vienna cathedral after 60 years with a final confession",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-young-german-tourist-stole-a-human-skull-from-viennas-cathedral-catacombs-and-kept-it-for-about-60-years-near-the-end-of-his-life-he-mailed-it-back-with-a-confession/articleshow/133589357.cms",
+      "published": "2026-08-28T16:54:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133589514,imgsize-1776089.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133589357.cms\" />A human skull that was stolen from the catacombs of St. Stephen's Cathedral in Vienna has been returned to its rightful place.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
+    },
+    {
+      "category": "India",
+      "title": "Indian-origin US couple on group pilgrimage to Mount Kailash goes missing after Nepal-Tibet floods",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-us-couple-on-group-pilgrimage-to-mount-kailash-goes-missing-after-nepal-tibet-floods/articleshow/133589120.cms",
+      "published": "2026-08-28T15:52:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133589131,imgsize-88802.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133589120.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "'The Toilet Kid': 9-year-old Washington boy tests toilet flushes, builds backyard station",
-      "url": "https://timesofindia.indiatimes.com/world/us/the-toilet-kid-9-year-old-washington-boy-collects-toilet-seats-tests-their-flushes-and-has-turned-his-backyard-into-a-giant-toilet-testing-station/articleshow/133562102.cms",
-      "published": "2026-08-27T14:02:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133562351,imgsize-1330484.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133562102.cms\" />",
+      "title": "Meet Reyha Raghavaraju, the 16-year-old baker bringing birthday joy to families in need",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-reyha-raghavaraju-the-16-year-old-georgia-student-who-turned-her-love-of-baking-into-birthday-celebrations-for-more-than-136-families-in-need-across-metro-atlanta/articleshow/133585662.cms",
+      "published": "2026-08-28T16:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133585971,imgsize-927777.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133585662.cms\" />Reyha Raghavaraju launched Birthday Bundles after witnessing a child's uncelebrated birthday. This compassionate program offers homemade cakes and gifts to families in need.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Japan\u2019s Yayoi Kusama, global polka-dot art icon, dies at 97",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/japans-yayoi-kusama-global-polka-dot-art-icon-dies-at-97/articleshow/133555497.cms",
-      "published": "2026-08-27T10:32:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133556898,imgsize-90924.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133555497.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "MBA degree is paying more than engineering: Top 10 B-schools offer Rs 27.4 lakh average, while the salary premium of MBAs over engineering is set to rise from 52% to 59%",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/mba-degree-is-paying-more-than-engineering-top-10-b-schools-offer-rs-27-4-lakh-average-while-the-salary-premium-of-mbas-over-engineering-is-set-to-rise-from-52-to-59/articleshow/133560807.cms",
-      "published": "2026-08-27T14:32:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133561208,imgsize-640014.cms",
+      "title": "Govt achieves 78% of FY27 disinvestment, asset monetisation target in 5 months",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/government-achieves-78-of-fy27-disinvestment-asset-monetisation-target-in-5-months/articleshow/133589501.cms",
+      "published": "2026-08-28T16:20:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133589564,imgsize-46464.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "Taxpayers alert! Weak rupee may push foreign assets above Rs 1 cr, raising tax bill",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/weaker-rupee-may-push-foreign-assets-above-fast-ds-rs-1-crore-limit-taxpayers-could-lose-the-disclosure-window-which-allows-lower-60-tax-outgo-and-face-a-steeper-income-tax-bill/articleshow/133560231.cms",
-      "published": "2026-08-27T12:40:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133560387,imgsize-622672.cms",
+      "title": "Top stocks to buy today: Stock market recommendations for August 28, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-28-2026-siemens-laurus-labs-bhel-stocks-to-buy-today/articleshow/133583373.cms",
+      "published": "2026-08-28T10:14:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133583390,imgsize-674339.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "Gold, silver price prediction: Will gold hit Rs 1.7 lakh/10 gms soon? Check outlook on August 27, 2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-august-27-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/133543737.cms",
-      "published": "2026-08-27T11:16:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133543869,imgsize-702877.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Sensex opens 200 points higher, Nifty hovers around 24,000 ahead of Fed chair\u2019s address",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-28-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133582507.cms",
+      "published": "2026-08-28T09:20:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133582507,imgsize-1170828.cms",
+      "summary": "Brent crude oil prices eased 0.36% but remained elevated at around $88 per barrel, keeping energy costs and inflation concerns on investors' radar. Gold was trading at Rs 1,59,400 per 10 grams for 24-carat gold, while silver surged to Rs 2,43,366 per kg.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.03
     },
     {
       "category": "Business",
-      "title": "Oil prices extend losses as Hormuz reopening hopes ease supply fears",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-extend-losses-as-hormuz-reopening-hopes-ease-supply-fears/articleshow/133555285.cms",
-      "published": "2026-08-27T09:29:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133555391,imgsize-96890.cms",
+      "title": "On F&amp;O expiry day, sensex sees wild swings during Closing Auction Session",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/on-fo-expiry-day-sensex-sees-wild-swings-during-closing-auction-session/articleshow/133578425.cms",
+      "published": "2026-08-28T04:11:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133578425,imgsize-147386.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "School holiday August 28, 2026: Check state-wise closure updates amid rain and Raksha Bandhan",
-      "url": "https://timesofindia.indiatimes.com/education/news/school-holiday-august-28-2026-check-state-wise-closure-updates-amid-rain-and-raksha-bandhan/articleshow/133563227.cms",
-      "published": "2026-08-27T14:49:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133563359,imgsize-285586.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/school-holiday-august-28-2026-check-state-wise-closure-updates-amid-rain-and-raksha-bandhan/articleshow/133563227.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133563227.cms\" /></a>School holiday August 28: Schools across India are not uniformly closed on August 28, 2026. The day coincides with Raksha Bandhan, while the IMD has forecast heavy or very heavy rainfall in several regions.",
+      "title": "Punjab NEET UG counselling 2026: BFUHS announces Round 1 seat allotment for 2,410 seats",
+      "url": "https://timesofindia.indiatimes.com/education/news/punjab-neet-ug-counselling-2026-bfuhs-announces-round-1-seat-allotment-for-2410-seats/articleshow/133588030.cms",
+      "published": "2026-08-28T14:49:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133588059,imgsize-42182.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/punjab-neet-ug-counselling-2026-bfuhs-announces-round-1-seat-allotment-for-2410-seats/articleshow/133588030.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133588030.cms\" /></a>Punjab NEET UG counselling 2026 Round 1 allotment result has been released by BFUHS, Faridkot, with 2,410 seats assigned to candidates. Students can access the allotment PDF on the university\u2019s official website and verify their allotted college, course, quota and category.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.03
     },
     {
       "category": "Education",
-      "title": "RRB NTPC Graduate CBT 2 Result 2026 declared for CEN 06/2025; download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/rrb-ntpc-graduate-cbt-2-result-2026-declared-for-cen-06/2025-download-here/articleshow/133563066.cms",
-      "published": "2026-08-27T14:42:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133563200,imgsize-306184.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rrb-ntpc-graduate-cbt-2-result-2026-declared-for-cen-06/2025-download-here/articleshow/133563066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133563066.cms\" /></a>RRB NTPC Graduate CBT 2 Result 2026: RRB has declared the NTPC Graduate CBT 2 Result 2026 under CEN 06/2025 on August 27 at 5 pm. The CBT-2 examination was held on July 10 for recruitment to 5,810 graduate-level vacancies.",
+      "title": "UP Board asks schools to create APAAR IDs for Classes 9 to 12 students, link academic records",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-board-asks-schools-to-create-apaar-ids-for-classes-9-to-12-students-link-academic-records/articleshow/133587359.cms",
+      "published": "2026-08-28T14:11:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133587359,imgsize-195356.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-board-asks-schools-to-create-apaar-ids-for-classes-9-to-12-students-link-academic-records/articleshow/133587359.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133587359.cms\" /></a>The Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) has asked schools to facilitate APAAR ID creation for students of Classes 9 to 12 and record the IDs during registration and examination processes. The 12-digit digital identity will help preserve marksheets, transfer certificates and other academic records digitally.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.07
     },
     {
       "category": "Education",
-      "title": "\u20b923 lakh salary, just \u20b915,000 expenses: Why this 27-year-old PSU employee says government jobs beat private careers",
-      "url": "https://timesofindia.indiatimes.com/education/news/23-lakh-salary-just-15000-expenses-why-this-27-year-old-psu-employee-says-government-jobs-beat-private-careers/articleshow/133561048.cms",
-      "published": "2026-08-27T13:25:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133561281,imgsize-107166.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/23-lakh-salary-just-15000-expenses-why-this-27-year-old-psu-employee-says-government-jobs-beat-private-careers/articleshow/133561048.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133561048.cms\" /></a>A 27-year-old PSU employee\u2019s Reddit post has reignited India\u2019s enduring fascination with government jobs, claiming his \u20b923 lakh package and extensive workplace benefits allow him to save nearly his entire salary. Yet his low-cost life comes with remote postings, limited social opportunities and professional monotony, raising a larger question: does financial security alone guarantee a fulfilling career and life?.",
+      "title": "MHT CET Pharmacy provisional merit list 2026 released at ph2026.mahacet.org; check rank, details and next steps",
+      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-pharmacy-provisional-merit-list-2026-released-at-ph2026-mahacet-org-check-rank-details-and-next-steps/articleshow/133587050.cms",
+      "published": "2026-08-28T13:38:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133587146,imgsize-147746.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mht-cet-pharmacy-provisional-merit-list-2026-released-at-ph2026-mahacet-org-check-rank-details-and-next-steps/articleshow/133587050.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133587050.cms\" /></a>The Maharashtra CET Cell has released the MHT CET Pharmacy provisional merit list 2026 for BPharma and Pharma D admissions through the CAP process. Candidates can check their provisional merit status online using their application credentials.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "SBI Clerk recruitment 2026: Registration for 1,538 backlog vacancies ends today; direct link to apply here",
-      "url": "https://timesofindia.indiatimes.com/education/news/sbi-clerk-recruitment-2026-registration-for-1538-backlog-vacancies-ends-today-direct-link-to-apply-here/articleshow/133560275.cms",
-      "published": "2026-08-27T13:05:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133560814,imgsize-601628.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sbi-clerk-recruitment-2026-registration-for-1538-backlog-vacancies-ends-today-direct-link-to-apply-here/articleshow/133560275.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133560275.cms\" /></a>The State Bank of India's registration for 1,538 Junior Associates closes today. This special recruitment drive targets backlog vacancies for reserved categories.",
+      "title": "PNB LBO Admit Card 2026 released for 545 posts, check direct link here",
+      "url": "https://timesofindia.indiatimes.com/education/news/pnb-lbo-admit-card-2026-released-for-545-posts-check-direct-link-here/articleshow/133586844.cms",
+      "published": "2026-08-28T13:29:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133587001,imgsize-75835.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/pnb-lbo-admit-card-2026-released-for-545-posts-check-direct-link-here/articleshow/133586844.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133586844.cms\" /></a>PNB LBO Admit Card 2026: Punjab National Bank has released the PNB LBO Admit Card 2026 for its recruitment drive for 545 Local Bank Officer posts. The admit card was issued on August 28, while the written examination is scheduled for September 6, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "'Not BJP's puppet': Kangana opens up on politics",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-opens-up-on-politics-career-and-being-hugely-desirable-had-an-identity-for-20-years-as-actor-bjp-might-not-be-there-tomorrow/articleshow/133564247.cms",
-      "published": "2026-08-27T15:27:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133564314,imgsize-265433.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133564247.cms\" />Kangana Ranaut insists she's \"not a puppet\" of the BJP, admitting the party may not always support her. She reflected on her identity beyond politics, future plans, and being called a \"hugely desirable actress\" by directors.",
+      "title": "'Toxic' BO Day 3 [LIVE]: Yash and Kiara Advani film crosses Rs 148 crore India net",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/toxic-box-office-collection-day-3-live-yash-nayanthara-kiara-advani-film-aims-crossing-rs-150-crore-india-net-after-minting-rs-142-crore-in-2-days-and-worldwide-gross-crosses-rs-190-crore/articleshow/133587017.cms",
+      "published": "2026-08-28T13:37:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133587029,imgsize-109315.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133587017.cms\" />Yash's pan-India spectacle 'Toxic: A Fairy Tale for Grown-Ups' shattered box office records on its opening day, comfortably outpace Ranveer Singh's Dhurandhar, netting a phenomenal Rs. 101.10 crore and Rs.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "'Toxic' box office collection day 1: Yash's second Rs 100 crore opening after 'KGF chapter' 2",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/toxic-box-office-collection-day-1-the-film-rewrites-history-yash-delivers-second-rs-100-crore-opening-after-kgf-chapter-2/articleshow/133553241.cms",
-      "published": "2026-08-27T05:30:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133553248,imgsize-367388.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133553241.cms\" />Yash's latest film 'Toxic' has made an impressive debut, smashing the Rs 100 crore milestone on its opening day in India. This remarkable achievement underscores Yash's growing clout at the box office, a trend he previously set with 'K.G.F: Chapter 2'.",
+      "title": "Akshay on playing an unapologetically evil in Haiwaan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-playing-an-unapologetically-evil-villain-in-haiwaan-saif-ali-khan-is-the-hero-i-create-trouble-for-him/articleshow/133590085.cms",
+      "published": "2026-08-28T16:45:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133590138,imgsize-221403.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133590085.cms\" />Akshay Kumar opens up about playing a villain in Priyadarshan's 'Haiwaan', calling it a \"huge relief\" as villains get more interesting arcs than heroes. He reunites with Saif Ali Khan after two decades, this time as adversaries.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Who was Ankit Baliyan?",
-      "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/music/who-was-ankit-baliyan-haryanvi-singer-and-youtuber-shot-dead-outside-gym-in-shamli-32-year-old-artist-killed-in-attack-know-his-music-career-popular-songs-family-seeks-justice/articleshow/133562364.cms",
-      "published": "2026-08-27T15:21:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133563986,imgsize-235964.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133562364.cms\" />Haryanvi singer Ankit Baliyan was shot dead outside a Shamli gym on August 26, 2026. Assailants on motorcycles reportedly fired approximately eighteen rounds at the popular artist.",
+      "title": "Upendra praises Yash\u2019s \u2018Toxic\u2019 as \u2018An entirely new experience\u2019",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/upendra-praises-yashs-toxic-a-fairy-tale-for-grown-ups-calls-the-gangster-action-drama-a-new-world-and-an-entirely-new-experience/articleshow/133590009.cms",
+      "published": "2026-08-28T16:40:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133590055,imgsize-214559.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133590009.cms\" />Acclaimed actor Upendra has shared his admiration for Yash's film 'Toxic', praising its creative approach. This enthusiastic review, however, has ignited a mixed response from the audience.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Ashwath Marimuthu praises Rajinikanth and gives major update on \u2018Dharman\u2019",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-have-never-met-anyone-as-sweet-as-him-ashwath-marimuthu-opens-up-on-working-with-rajinikanth-and-gives-major-update-on-dharman/articleshow/133563999.cms",
-      "published": "2026-08-27T15:18:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133564029,imgsize-143063.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133563999.cms\" />In an exciting collaboration, director Ashwath Marimuthu is helming superstar Rajinikanth in the film 'Dharman'. The production is moving ahead seamlessly, with completion anticipated by October.",
+      "title": "'Toxic' day 2 box office: Yash's film sees drop, earns Rs 36 crore on Thursday",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/toxic-day-2-box-office-collection-yash-kiara-advani-nayanthara-starrer-sees-64-percent-drop-on-thursday-collects-rs-36-crore-lags-behind-dhurandhar-2/articleshow/133580765.cms",
+      "published": "2026-08-28T05:59:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133580780,imgsize-257790.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133580765.cms\" />Yash's latest release 'Toxic' made an impressive debut, raking in over one hundred crore rupees on its opening day. However, Thursday saw a dip in earnings, generating only thirty-six point four zero crore net.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.03
     }
   ]
 }
