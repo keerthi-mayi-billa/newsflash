@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-29T07:21:11",
+  "generated_at": "2026-08-30T05:43:51",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/social-media-influencer-manjeet-kaur-dies-after-being-abducted-from-chandigarh-tied-to-tree-and-set-on-fire/articleshow/133605101.cms",
-      "published": "Sat, 29 Aug 2026 11:30:15 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133606507,imgsize-121051.cms",
-      "summary": "Manjeet Kaur died after suffering severe burn injuries from an alleged abduction and attack. She was reportedly taken to a forested area and set on fire near Morinda.",
+      "title": "Tea break &amp; an alert driver: How Kailash pilgrims narrowly escaped Nepal floods",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/tea-break-visa-delay-saved-pilgrim-group-from-nepal-flood-fury/articleshow/133615807.cms",
+      "published": "Sat, 29 Aug 2026 22:03:27 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133622113,imgsize-235596.cms",
+      "summary": "Twenty-eight pilgrims from three Indian states safely returned home after escaping Nepal's devastating flash floods. A brief tea break and a ten-minute delay proved crucial in saving their lives.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Top Stories",
-      "title": "A Pocso case. A man in coma. A murdered model: Delhi gym trainer's trail of violence",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/a-pocso-case-a-man-in-coma-a-murdered-model-delhi-gym-trainer-imrans-trail-of-violence-across-8-years/articleshow/133604273.cms",
-      "published": "Sat, 29 Aug 2026 10:30:39 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133604513,imgsize-103615.cms",
-      "summary": "In a chilling revelation, Mohammad Imran, charged in the murder of Muskan, carries a record of alarming criminal behavior. He faced a POCSO allegation in 2018 involving the harassment of a young minor and was later implicated in an assault case that rendered the victim comatose in 2021.",
+      "title": "Influencer who died after being \u2018tied to tree, burnt alive\u2019 was 7 weeks pregnant",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjabi-influencer-manjeet-kaur-who-was-tied-to-tree-and-burnt-alive-was-7-weeks-pregnant-autopsy/articleshow/133622970.cms",
+      "published": "Sun, 30 Aug 2026 10:04:50 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133623069,imgsize-90842.cms",
+      "summary": "A social media influencer died after suffering severe burn injuries. She was allegedly abducted and set on fire near Morinda.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Top Stories",
-      "title": "\u2018How can this happen?\u2019: Sky opens up on shock India snub after T20 WC triumph",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-can-this-happen-suryakumar-yadav-opens-up-on-shock-india-snub-after-t20-world-cup-triumph/articleshow/133604293.cms",
-      "published": "Sat, 29 Aug 2026 10:28:52 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133604371,imgsize-93080.cms",
-      "summary": "Suryakumar Yadav expressed surprise after losing his T20 captaincy role. He had led India to T20 World Cup and Asia Cup victories.",
+      "title": "4 days under debris, still alive: How a 97-year-old woman survived Nepal floods",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/4-days-under-debris-still-alive-how-a-97-year-old-woman-survived-nepal-floods/articleshow/133623429.cms",
+      "published": "Sun, 30 Aug 2026 10:41:35 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133623594,imgsize-187480.cms",
+      "summary": "In an inspiring tale of survival, a 97-year-old woman managed to endure four harrowing days trapped in rubble after the catastrophic flash floods in Nepal. Rescue teams are still combing through the obliterated regions for additional survivors.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Top Stories",
+      "title": "\u2018Aise bhi log hote hain life me\u2019: Surya reveals Samson\u2019s response after being dropped",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aise-bhi-log-hote-hain-life-mein-suryakumar-reveals-sanju-samsons-incredible-response-after-being-dropped/articleshow/133622838.cms",
+      "published": "Sun, 30 Aug 2026 09:36:58 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133622882,imgsize-100590.cms",
+      "summary": "Suryakumar Yadav spotlighted the encouraging response from Sanju Samson after he was left out of the 2026 World Cup roster. Samson's commitment to prepare as if he were part of the squad gave the team a considerable confidence boost.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.04
     },
     {
-      "category": "Top Stories",
-      "title": "Nepal floods: Morgues overflow along 200km river trail as grief crosses border",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/morgues-overflow-along-200km-river-trail-as-grief-crosses-border/articleshow/133603849.cms",
-      "published": "Sat, 29 Aug 2026 10:07:04 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133605214,imgsize-145636.cms",
-      "summary": "Morgues in Nepal are overflowing with bodies from a recent flash flood. Authorities are converting buildings into temporary mortuaries as district facilities are full.",
+      "category": "India",
+      "title": "4.9-magnitude earthquake hits Afghanistan near Hindu Kush",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/4-9-magnitude-earthquake-hits-afghanistan-near-hindu-kush/articleshow/133623211.cms",
+      "published": "2026-08-30T10:14:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133623276,imgsize-1973021.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133623211.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Kick streamer Neon reacts to viral GTA 6 character resembling him after Rockstar\u2019s Netflix showcase",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-neon-reacts-to-viral-gta-6-character-resembling-him-after-rockstars-netflix-showcase/articleshow/133619359.cms",
+      "published": "2026-08-30T01:20:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133619388,imgsize-1304079.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133619359.cms\" />The recent gameplay reveal for GTA 6 has sparked considerable buzz online, especially among gaming enthusiasts. A side mission featured a character reminiscent of Kick streamer Neon, who shared his thrill at possibly inspiring the game's development.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "Is the viral video really Kai Cenat being assaulted by police? Here\u2019s the truth",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/is-the-viral-video-really-kai-cenat-being-assaulted-by-police-heres-the-truth/articleshow/133619517.cms",
+      "published": "2026-08-30T02:15:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133619522,imgsize-1229008.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133619517.cms\" />A misidentified viral video showing a police altercation has led many to erroneously believe that streamer Kai Cenat is involved. The clip, which actually depicts a traffic stop in Arkansas, features a man who resisted an officer's commands.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "Kim Jong UN shakes up North Korea\u2019s military, dismisses defence minister No Kwang Chol",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-shakes-up-north-koreas-military-dismisses-defence-minister-no-kwang-chol/articleshow/133622383.cms",
+      "published": "2026-08-30T08:42:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133622460,imgsize-1355998.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622383.cms\" />North Korea has shaken up its military hierarchy by removing the defense minister, a move approved by Kim Jong Un in a recent leadership meeting. This change mirrors advancements at the nation's weapons research center, which has introduced new combat weapon systems.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.03
-    },
-    {
-      "category": "India",
-      "title": "In 2002, Alabama architecture students stacked 72,000 worn carpet tiles into the walls of a family home",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2002-alabama-architecture-students-stacked-72000-worn-carpet-tiles-into-the-walls-of-a-family-home-rural-studio-has-now-built-more-than-200-projects/articleshow/133605691.cms",
-      "published": "2026-08-29T11:49:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133605818,imgsize-167947.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133605691.cms\" />Students at Rural Studio have transformed donated carpet tiles into the innovative Lucy Carpet House, providing a vital home and prayer space for the Harris family. This initiative is part of a broader effort that has resulted in over 200 projects within Hale County, enabling students to gain hands-on experience while tackling the challenges of affordable housing in rural communities..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "A former Illinois school is now a $1.35M accessible park with an inclusive playground and splash pad",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-former-illinois-elementary-school-closed-in-2014-its-site-has-now-become-a-1-35-million-fully-accessible-park-with-an-inclusive-playground-walking-paths-and-a-new-splash-pad/articleshow/133604573.cms",
-      "published": "2026-08-29T10:44:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133604657,imgsize-2023428.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133604573.cms\" />On August 26, Galesburg proudly unveiled Cooke Park, a fully accessible neighborhood space built on the site of the former Cooke Elementary School. This ambitious $1.352 million project features an inclusive playground and splash pad, showcasing the community's dedication to inclusivity.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "India",
-      "title": "No escape for Trump in hush money case as US judge blocks bid to shift federal court",
-      "url": "https://timesofindia.indiatimes.com/world/us/no-escape-for-trump-in-hush-money-case-as-us-judge-blocks-bid-to-shift-federal-court/articleshow/133603393.cms",
-      "published": "2026-08-29T10:14:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133604155,imgsize-52934.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "India",
-      "title": "Rakshabandhan in NYC: Zohran Mamdani celebrates with South Asian seniors",
-      "url": "https://timesofindia.indiatimes.com/world/us/raksha-bandhan-in-nyc-zohran-mamdani-celebrates-with-south-asian-seniors/articleshow/133604327.cms",
-      "published": "2026-08-29T10:41:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133604609,imgsize-2290752.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133604327.cms\" />During a heartfelt celebration of Rakshabandhan at India Home, NYC mayor Zohran Mamdani emphasized the festival's profound themes of protection, support, and unity. Drawing parallels to the rakhi's significance, he reaffirmed his dedication to ensuring the welfare of all New Yorkers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -125,40 +125,40 @@
     },
     {
       "category": "Business",
-      "title": "Inflation data 'concerning': Fed chair Warsh signals rates may need to rise",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/inflation-data-concerning-fed-chair-warsh-signals-rates-may-need-to-rise/articleshow/133603111.cms",
-      "published": "2026-08-29T09:16:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133603181,imgsize-55906.cms",
+      "title": "Bank holidays in September 2026: When and where will banks remain closed? Check state-wise list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-in-september-2026-when-and-where-will-banks-remain-closed-check-state-wise-list/articleshow/133622532.cms",
+      "published": "2026-08-30T09:30:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133622794,imgsize-164784.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Business",
+      "title": "US-Venezuela energy pact: What we know about Trump\u2019s \u2018biggest oil deal in world history\u2019",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-venezuela-deal-what-we-know-about-trumps-biggest-oil-deal-in-world-history/articleshow/133622205.cms",
+      "published": "2026-08-30T08:10:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133622232,imgsize-90486.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "CNG price hike: Compressed natural gas gets costlier; check city-wise rates",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/cng-price-hike-compressed-natural-gas-gets-costlier-check-city-wise-rates/articleshow/133602347.cms",
-      "published": "2026-08-29T07:54:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133602386,imgsize-100480.cms",
+      "title": "Union, Canara Bank to appeal NCLT's Chandra order",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/union-canara-bank-to-appeal-nclts-chandra-order/articleshow/133619544.cms",
+      "published": "2026-08-30T02:35:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133619548,imgsize-60858.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "TVS Motor appoints Peyman Kargar as CEO",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tvs-motor-appoints-peyman-kargar-as-ceo/articleshow/133601900.cms",
-      "published": "2026-08-29T05:39:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133601908,imgsize-35702.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "Meta India, SE Asia VP Devanathan joins OpenAI",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/meta-india-se-asia-vp-devanathan-joins-openai/articleshow/133601890.cms",
-      "published": "2026-08-29T05:36:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133601899,imgsize-39820.cms",
+      "title": "Passed over in 2020, Bharucha likely to succeed Jagadishan",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/passed-over-in-2020-bharucha-likely-to-succeed-jagadishan/articleshow/133621620.cms",
+      "published": "2026-08-30T04:51:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133621629,imgsize-58094.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Education",
-      "title": "CSIR-NET June 2026 result to be released shortly, final answer key also awaited: Check steps to download",
-      "url": "https://timesofindia.indiatimes.com/education/news/csir-net-june-2026-result-to-be-released-shortly-final-answer-key-also-awaited-check-steps-to-download/articleshow/133606139.cms",
-      "published": "2026-08-29T12:19:23+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133606214,imgsize-517624.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/csir-net-june-2026-result-to-be-released-shortly-final-answer-key-also-awaited-check-steps-to-download/articleshow/133606139.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133606139.cms\" /></a>The National Testing Agency will soon release the CSIR-UGC NET June 2026 results. Candidates can check their scores on the official csirnet.nta.nic.in website.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
-    },
-    {
-      "category": "Education",
-      "title": "PSEB Class 10 supplementary result 2026 declared at pseb.ac.in: Direct link to download scorecards here",
-      "url": "https://timesofindia.indiatimes.com/education/news/pseb-class-10-supplementary-result-2026-declared-at-pseb-ac-in-direct-link-to-download-scorecards-here/articleshow/133605043.cms",
-      "published": "2026-08-29T11:17:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133605043,imgsize-4898.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/pseb-class-10-supplementary-result-2026-declared-at-pseb-ac-in-direct-link-to-download-scorecards-here/articleshow/133605043.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133605043.cms\" /></a>The Punjab School Education Board (PSEB) has announced the Class 10 supplementary result 2026 for students who appeared in the July examination. Candidates can now access their scorecards online through the official PSEB website using their examination details.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "Bihar Board marksheets to replace \u2018fail\u2019 with \u2018eligible for skills\u2019 to protect students\u2019 morale",
-      "url": "https://timesofindia.indiatimes.com/education/news/bihar-board-marksheets-to-replace-fail-with-eligible-for-skills-to-protect-students-morale/articleshow/133604341.cms",
-      "published": "2026-08-29T10:31:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133604536,imgsize-159030.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bihar-board-marksheets-to-replace-fail-with-eligible-for-skills-to-protect-students-morale/articleshow/133604341.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133604341.cms\" /></a>Bihar plans to replace the word \u201cfail\u201d on Class 10 and 12 marksheets with \u201cKaushal ke liye patra\u201d to avoid negatively labelling students. The Education Department will also introduce month-long special classes for Matric supplementary candidates.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
-    },
-    {
-      "category": "Education",
-      "title": "India Post GDS Recruitment 2026: Check circle-wise vacancies for 23,757 posts here",
-      "url": "https://timesofindia.indiatimes.com/education/news/india-post-gds-recruitment-2026-check-circle-wise-vacancies-for-23757-posts-here/articleshow/133588610.cms",
-      "published": "2026-08-29T09:30:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133588690,imgsize-158265.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/india-post-gds-recruitment-2026-check-circle-wise-vacancies-for-23757-posts-here/articleshow/133588610.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133588610.cms\" /></a>India Post GDS Recruitment 2026: India Post has announced 23,757 Gramin Dak Sevak vacancies under the July 2026 engagement schedule. Maharashtra has the highest listed circle-wise vacancy count with 2,297 posts, followed by Tamil Nadu with 2,118 and Uttar Pradesh with 1,691.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
-      "category": "Entertainment",
-      "title": "Soori thanks filmmaker Vetri Maaran at 'Mandaadi' Chennai audio launch event",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/whatever-i-achieve-the-reason-is-vetri-maaran-soori-thanks-filmmaker-at-mandaadi-chennai-audio-launch-event-reveals-title-meaning-and-gruelling-two-month-sea-shoot/articleshow/133604787.cms",
-      "published": "2026-08-29T11:57:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133604788,imgsize-117963.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133604787.cms\" />In a recent event, actor Soori shared insights into the challenges faced during the intense sea shoot for the film 'Mandaadi.' He expressed gratitude towards director Vetri Maaran for his unwavering support, which has significantly impacted his career. The team endured perilous conditions while capturing scenes over two months.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Entertainment",
-      "title": "Shelley Fabares passes away at 82",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shelley-fabares-passes-away-at-82-coach-and-the-donna-reed-show-stars-family-confirms-pneumonia-and-liver-transplant-journey/articleshow/133605900.cms",
-      "published": "2026-08-29T11:54:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133605922,imgsize-268735.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133605900.cms\" />Actress Shelley Fabares, known for 'The Donna Reed Show' and 'Coach', has passed away. Her family confirmed her death was due to pneumonia following a brief illness.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Entertainment",
-      "title": "When Manisha Koirala revealed if actresses can really be friends",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-manisha-koirala-revealed-if-actresses-can-really-be-friends-i-dont-understand-this-high-level-of-insecurities/articleshow/133605649.cms",
-      "published": "2026-08-29T11:44:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133605706,imgsize-421163.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133605649.cms\" />During a recent chat show, Manisha Koirala opened up about the complexities of friendships among actresses. She highlighted that while insecurity can hinder genuine connections, male actors appear to bond with greater ease.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Samay mocks Sharon Verma's Bihari roots on 'Latent 2'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-mocks-sharon-vermas-bihari-roots-on-indias-got-latent-season-2-gets-sharp-reply-i-left-my-state-by-choice/articleshow/133605208.cms",
-      "published": "2026-08-29T11:28:23+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133605296,imgsize-439761.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133605208.cms\" />In a hilarious back-and-forth, comedian Sharon Verma fired back at Samay Raina after he teased her about her Bihari roots. With brilliant timing, she playfully brought up Raina's Kashmiri background and his fondness for getting 'stoned', turning the tables with laughter erupting from both the panel and audience.",
+      "category": "Education",
+      "title": "SBI recruitment 2026: Registration underway for Trade Finance Officer posts; check eligibility, direct link to apply",
+      "url": "https://timesofindia.indiatimes.com/education/news/sbi-recruitment-2026-registration-underway-for-trade-finance-officer-posts-check-eligibility-direct-link-to-apply/articleshow/133614122.cms",
+      "published": "2026-08-29T21:06:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133614962,imgsize-119377.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sbi-recruitment-2026-registration-underway-for-trade-finance-officer-posts-check-eligibility-direct-link-to-apply/articleshow/133614122.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133614122.cms\" /></a>State Bank of India invites applications for Trade Finance Officer roles. Online applications are open until September 19, 2026, for 35 vacancies.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
+    },
+    {
+      "category": "Education",
+      "title": "Joint CSIR-UGC NET June 2026 result declared at csirnet.nta.nic.in: Direct link to download scorecards here",
+      "url": "https://timesofindia.indiatimes.com/education/news/joint-csir-ugc-net-june-2026-result-declared-at-csirnet-nta-nic-in-direct-link-to-download-scorecards-here/articleshow/133612728.cms",
+      "published": "2026-08-29T19:55:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133614064,imgsize-13488.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/joint-csir-ugc-net-june-2026-result-declared-at-csirnet-nta-nic-in-direct-link-to-download-scorecards-here/articleshow/133612728.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133612728.cms\" /></a>The National Testing Agency has declared the Joint CSIR-UGC NET June 2026 examination scores. Candidates can now check and download their scorecards from the official website.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
+    },
+    {
+      "category": "Education",
+      "title": "Karnataka PG MDS 2026: KEA activates verification slip download link for Clause A, Y candidates",
+      "url": "https://timesofindia.indiatimes.com/education/news/karnataka-pg-mds-2026-kea-activates-verification-slip-download-link-for-clause-a-y-candidates/articleshow/133612967.cms",
+      "published": "2026-08-29T19:10:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133613097,imgsize-10232.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/karnataka-pg-mds-2026-kea-activates-verification-slip-download-link-for-clause-a-y-candidates/articleshow/133612967.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133612967.cms\" /></a>The Karnataka Examinations Authority (KEA) has enabled candidates under Clause A and Clause Y to download their verification slips for Karnataka PG MDS 2026. Eligible candidates can access the slips online after completing registration and fee payment.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Education",
+      "title": "AIAPGET 2026 re-exam admit card released for 49 candidates: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/aiapget-2026-re-exam-admit-card-released-for-49-candidates-direct-link-to-download-hall-ticket-here/articleshow/133612550.cms",
+      "published": "2026-08-29T18:41:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133612684,imgsize-515884.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/aiapget-2026-re-exam-admit-card-released-for-49-candidates-direct-link-to-download-hall-ticket-here/articleshow/133612550.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133612550.cms\" /></a>The National Testing Agency has released AIAPGET 2026 re-examination admit cards. These hall tickets are for 49 candidates affected by a power failure in Jaipur.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "\u2018Avengers: Endgame: Encore\u2019 scores 77 million views in the first 24 hours",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-endgame-encore-trailer-launches-big-sets-viewership-record-with-77-million-views/articleshow/133623585.cms",
+      "published": "2026-08-30T10:43:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133623618,imgsize-47640.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133623585.cms\" />In an impressive feat, the Avengers: Endgame: Encore trailer accumulated seventy-seven million views on its first day, demonstrating intense fan enthusiasm for the impending Doomsday release. The Encore version is set to appear in theaters worldwide on September twenty-fifth, and fans will be treated to an exclusive look at the Avengers: Doomsday, which is scheduled for worldwide release on December eighteenth, showcasing a new antagonist..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "Nimisha opens up about 14 kg weight-loss transformation",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/no-proper-sleep-crazy-mood-swings-nimisha-sajayan-opens-up-about-14-kg-weight-loss-transformation-for-babita-singh-reporting/articleshow/133623317.cms",
+      "published": "2026-08-30T10:18:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133623333,imgsize-316376.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133623317.cms\" />To prepare for her character in 'Babita Singh Reporting', actress Nimisha Sajayan put on fourteen kilograms, but the challenge of shedding that weight afterwards was immense. She faced exhaustion, mood fluctuations, and frustration during the journey.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "Harry Styles mentions Taylor Swift during a recent concert",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-gives-a-shoutout-to-ex-taylor-swift-a-month-after-her-wedding-to-travis-kelce-and-they-also-do-weddings/articleshow/133623203.cms",
+      "published": "2026-08-30T10:14:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133623282,imgsize-259500.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133623203.cms\" />During a recent concert at Madison Square Garden, Harry Styles made a subtle nod to Taylor Swift's wedding with NFL star Travis Kelce. Their past romance inspired Swift's famous track 'Style.' Though Styles received an invitation, he couldn't attend due to prior commitments, while his fianc\u00e9e, Zo\u00eb Kravitz, represented him at the wedding..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "'No hidden meaning': Did RGV take dig at Yash's 'Toxic' again?",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/did-ram-gopal-varma-take-a-dig-at-yashs-toxic-again-says-there-is-no-hidden-meaning-in-what-i-said-i-promise/articleshow/133622877.cms",
+      "published": "2026-08-30T09:58:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133623022,imgsize-991716.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133622877.cms\" />Filmmaker Ram Gopal Varma's recent social media posts have drawn attention from internet users. Many interpret his remarks as indirect criticisms of Yash's film 'Toxic'.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
     }
   ]
 }
