@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-08-31T05:58:45",
+  "generated_at": "2026-09-01T05:31:26",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "16-year-old girl gang-raped inside moving bus during 47-km ride to Delhi",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/16-year-old-up-girl-gang-raped-inside-moving-bus-during-47-km-ride-to-delhis-kashmere-gate/articleshow/133641447.cms",
-      "published": "Mon, 31 Aug 2026 09:56:37 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133641537,imgsize-158104.cms",
-      "summary": "A 16-year-old student was allegedly gang-raped inside a moving sleeper bus. She had boarded the vehicle seeking help while stranded in heavy rain.",
+      "title": "Chenab river water level rises in J&amp;K\u2019s Reasi as Salal Dam opens 4 gates",
+      "url": "https://timesofindia.indiatimes.com/city/jammu/chenab-river-water-level-rises-in-jks-reasi-as-salal-dam-opens-4-gates/articleshow/133668193.cms",
+      "published": "Tue, 01 Sep 2026 10:01:08 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133668652,imgsize-1247771.cms",
+      "summary": "The Chenab river's water level rose in Reasi district on Tuesday. Authorities opened four gates of the Salal Dam to manage increased reservoir inflow.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Top Stories",
+      "title": "100-year-old Hindu temple demolished in Pakistan\u2019s Punjab",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/100-year-old-hindu-temple-demolished-in-pakistans-punjab/articleshow/133667007.cms",
+      "published": "Tue, 01 Sep 2026 09:09:21 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133667204,imgsize-275554.cms",
+      "summary": "A historic Hindu temple in Pakistan's Punjab province was demolished on August 21. Minority groups allege religious zealots targeted the site for adjacent madrassa land.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Top Stories",
+      "title": "Hardik Pandya's comeback plans hit a fresh roadblock",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandyas-comeback-plans-hit-a-fresh-roadblock/articleshow/133667119.cms",
+      "published": "Tue, 01 Sep 2026 09:23:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133667196,imgsize-36080.cms",
+      "summary": "Hardik Pandya\u2019s return to international cricket is set to face another setback due to a leg niggle, casting doubts on his participation in the upcoming T20I series against Afghanistan. He remains under observation by the medical team at BCCI CoE..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Distinct cash shortfall': Rs 7.4 crore in PNB vault swapped with fake notes in UP",
+      "url": "https://timesofindia.indiatimes.com/city/agra/rs-7-4-cr-in-pnb-vault-swapped-with-fake-notes/articleshow/133660104.cms",
+      "published": "Mon, 31 Aug 2026 23:13:07 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133666064,imgsize-89364.cms",
+      "summary": "Authorities are reeling after discovering that \u20b97.4 crore in actual cash was exchanged for phony currency at a Saharanpur PNB vault. An FIR has been filed against involved bank staff and private citizens.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
-      "category": "Top Stories",
-      "title": "'Country Babur came from': Owaisi takes dig at PM Modi's Uzbek honour",
-      "url": "https://timesofindia.indiatimes.com/india/country-babur-came-from-owaisi-takes-dig-at-pm-modis-uzbek-honour/articleshow/133642859.cms",
-      "published": "Mon, 31 Aug 2026 10:57:09 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133642889,imgsize-83590.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Babar Azam confronted over Pakistan\u2019s alleged protest after Imran Khan interview",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-confronted-over-pakistans-alleged-lords-protest-after-imran-khan-interview/articleshow/133640441.cms",
-      "published": "Mon, 31 Aug 2026 08:47:56 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133640535,imgsize-57184.cms",
-      "summary": "Pakistan captain Babar Azam firmly dismissed rumors regarding a potential protest by the team at Lord's. He emphasized his ignorance about any talks of the players refusing to come back after lunch.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Top Stories",
-      "title": "\u2018Beaten, eyes swollen, vomiting, dizzy\u2019: Father on 3-year-old\u2019s ordeal in school",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/beaten-eyes-swollen-vomiting-dizzy-father-recalls-3-year-olds-ordeal-at-delhi-playschool/articleshow/133640697.cms",
-      "published": "Mon, 31 Aug 2026 09:35:46 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133641169,imgsize-83712.cms",
-      "summary": "A horrifying incident has unfolded at a Delhi playschool where a three-year-old boy reportedly endured physical and sexual abuse. Disturbing CCTV footage captures the child being restrained to a chair amid mistreatment.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
       "category": "India",
-      "title": "Meet the Texas students transforming toxic Martian soil for future astronauts",
-      "url": "https://timesofindia.indiatimes.com/science/meet-varshini-gandreddy-dhiti-koyya-and-raaga-bukkaraju-texas-students-turning-toxic-martian-soil-into-fertile-ground-for-astronauts/articleshow/133609355.cms",
-      "published": "2026-08-31T10:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133609601,imgsize-235906.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133609355.cms\" />",
+      "title": "Oklahoma man found at 92 pounds after addiction graduates with 4.0 GPA",
+      "url": "https://timesofindia.indiatimes.com/world/us/oklahoma-man-found-beneath-a-flyover-at-92-pounds-after-20-years-of-addiction-goes-from-homelessness-to-graduating-with-a-4-0-gpa-and-two-degrees/articleshow/133668632.cms",
+      "published": "2026-09-01T10:42:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133668969,imgsize-1595291.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133668632.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Meet the students who built DiveGuard, a low-cost underwater messaging system",
-      "url": "https://timesofindia.indiatimes.com/science/meet-hao-ting-lyu-qing-ying-cao-bai-xuan-ye-yuanhao-zhang-and-jia-an-pan-chinese-students-who-built-a-low-cost-underwater-messaging-system-for-divers/articleshow/133630176.cms",
-      "published": "2026-08-31T07:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133630311,imgsize-1136885.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133630176.cms\" />A group of Chinese students has created DiveGuard, an affordable system designed for underwater communication. By utilizing acoustic signals, this innovative technology allows divers to send concise text messages, thereby enhancing safety and teamwork in aquatic environments.",
+      "title": "Brazil\u2019s humpback whales make stunning comeback; population surges from just 2,000 to nearly 35,000",
+      "url": "https://timesofindia.indiatimes.com/science/once-hunted-to-near-extinction-brazils-humpback-whales-make-a-stunning-comeback-population-surges-from-just-2000-to-nearly-35000-in-two-decades/articleshow/133644223.cms",
+      "published": "2026-09-01T10:25:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133644846,imgsize-125159.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133644223.cms\" />Brazil\u2019s humpback whale population has recovered from about 2,000 to nearly 35,000 after commercial whaling pushed the species close to extinction. Protection measures and a global whaling ban helped the whales return to Brazil\u2019s waters.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.13
     },
     {
       "category": "India",
-      "title": "How 3,000 giant tortoises are rebuilding Espa\u00f1ola after near extinction",
-      "url": "https://timesofindia.indiatimes.com/science/in-the-1970s-just-14-giant-tortoises-remained-on-espaola-now-3000-are-restoring-vegetation-and-bringing-albatrosses-back-to-nesting-grounds/articleshow/133630102.cms",
-      "published": "2026-08-31T00:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133630244,imgsize-2505120.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133630102.cms\" />",
+      "title": "A man bought 51,000 acres of degraded land in Florida; decades later, it is the largest private restoration project east of the Mississippi",
+      "url": "https://timesofindia.indiatimes.com/science/a-man-bought-51000-acres-of-degraded-land-in-florida-decades-later-it-became-the-largest-private-restoration-project-east-of-the-mississippi/articleshow/133645561.cms",
+      "published": "2026-09-01T10:25:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133645600,imgsize-2412885.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133645561.cms\" />Advocating for biodiversity, E.O. Wilson suggests that dedicating half of Earth to nature is crucial for preventing a sixth mass extinction.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Centuries-old plaque on eight people\u2019s teeth preserved a surprisingly detailed menu of what they ate in Osaka",
-      "url": "https://timesofindia.indiatimes.com/science/researchers-analysing-hardened-plaque-from-eight-people-buried-in-edo-era-osaka-detected-38-dietary-proteins-including-luxury-red-sea-bream-and-cold-water-fish-imported-through-japans-shipping-networks/articleshow/133641273.cms",
-      "published": "2026-08-31T09:44:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133641300,imgsize-1743594.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133641273.cms\" />Dental plaque analysis revealed diverse diets for Edo-period Osaka commoners. Researchers found proteins from 17 food types, including luxury red sea bream.",
+      "title": "Lindsay Clancy Trial: Matt Walsh slams jury delay; warns of \u2018dire\u2019 implications",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/the-verdict-shouldnt-even-take-17-minutes-youtuber-matt-walsh-calls-lindsay-clancy-jury-delay-a-total-travesty-as-deliberations-continue/articleshow/133665115.cms",
+      "published": "2026-09-01T05:02:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133665117,imgsize-1717962.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133665115.cms\" />Matt Walsh has strongly criticized the delay in the Lindsay Clancy trial, saying the jury should have reached a verdict much faster. Clancy is accused of killing her three children in 2023.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Business",
-      "title": "Rupee falls 13 paise to 95.56 as crude rises, Fed hike bets strengthen dollar",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-13-paise-to-95-56-as-crude-rises-fed-hike-bets-strengthen-dollar/articleshow/133641539.cms",
-      "published": "2026-08-31T10:03:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133641675,imgsize-112472.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Business",
-      "title": "Top stocks to buy: Stock recommendations for August 31, 2026 week - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-31-2026-week-titan-lt-finance-stocks-to-buy-today/articleshow/133640384.cms",
-      "published": "2026-08-31T08:38:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133640433,imgsize-665959.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Oil prices jump over 2% after US-Iran direct conflict re-ignites after a month of pause",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-jump-over-2-after-us-iran-direct-conflict-re-ignites-after-a-month-of-pause/articleshow/133639626.cms",
-      "published": "2026-08-31T07:43:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133639684,imgsize-123006.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Stock Market Live Updates Today: Markets open flat: Sensex down 19 points, Nifty at 24,078",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-1-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133666862.cms",
+      "published": "2026-09-01T08:40:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133666862,imgsize-59750.cms",
+      "summary": "The S&P/TSX Composite Index fell 0.8% to 36,270.48 on August 31, its lowest close since August 6, as investors took profits ahead of a seasonally weak September. Despite the decline, the index gained nearly 3% in August, marking its fifth consecutive monthly advance.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "\u2018Losing $60 billion a year\u2019: Trump slams Canada as \u2018worst' trade 'abuser', urges firms to move to US",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/losing-60-billion-a-year-trump-slams-canada-as-worst-trade-abuser-urges-firms-to-move-to-us/articleshow/133639427.cms",
-      "published": "2026-08-31T07:15:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133639518,imgsize-159854.cms",
+      "title": "Commercial LPG prices raised by Rs 9.5 for every 19kg cylinder; ATF rates also hiked",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/commercial-lpg-prices-raised-by-rs-2-for-every-5kg-cylinder-atf-rates-also-hiked/articleshow/133667240.cms",
+      "published": "2026-09-01T09:30:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133667467,imgsize-206860.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.11
+    },
+    {
+      "category": "Business",
+      "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-01-2026-indusind-bank-computer-age-management-services-cams-dixon-technologies-patanjali-foods-to-buy-or-sell-today/articleshow/133655625.cms",
+      "published": "2026-09-01T08:51:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133655692,imgsize-682168.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Business",
+      "title": "Soota\u2019s Happiest Minds to merge with ITC Infotech",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sootas-happiest-minds-to-merge-with-itc-infotech/articleshow/133665941.cms",
+      "published": "2026-09-01T07:48:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133666122,imgsize-282697.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.17
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "RVUNL Recruitment 2026: Last date today to apply for 2,005 posts; apply here",
-      "url": "https://timesofindia.indiatimes.com/education/news/rvunl-recruitment-2026-last-date-today-to-apply-for-2005-posts/articleshow/133642876.cms",
-      "published": "2026-08-31T11:09:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133643095,imgsize-121567.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rvunl-recruitment-2026-last-date-today-to-apply-for-2005-posts/articleshow/133642876.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642876.cms\" /></a>RVUNL Recruitment 2026: RVUNL will close online applications for its 2026 recruitment drive today, August 31, 2026, at 11:59 PM. The recruitment covers 2,005 posts, including 727 Junior Engineer-I Electrical, 110 Mechanical, 32 Civil, 371 Junior Accountant and 765 Junior Assistant/Commercial Assistant-II vacancies.",
+      "title": "IBPS RRB 2026 registration begins for over 13,000 Group A Officers, Group B Office Assistant posts; direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ibps-rrb-2026-registration-begins-for-over-13000-group-a-officers-group-b-office-assistant-posts-direct-link-to-apply-here/articleshow/133668141.cms",
+      "published": "2026-09-01T10:23:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133668711,imgsize-719411.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ibps-rrb-2026-registration-begins-for-over-13000-group-a-officers-group-b-office-assistant-posts-direct-link-to-apply-here/articleshow/133668141.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133668141.cms\" /></a>IBPS has begun registrations for Regional Rural Banks recruitment across India. Applications are open for Office Assistants and various Officer Scale positions.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.16
     },
     {
       "category": "Education",
-      "title": "SBI Clerk Recruitment 2026: Last date to apply today for 9,124 posts; check direct link here",
-      "url": "https://timesofindia.indiatimes.com/education/news/sbi-clerk-recruitment-2026-last-date-to-apply-today-for-9124-posts-check-direct-link-here/articleshow/133642745.cms",
-      "published": "2026-08-31T10:52:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133642826,imgsize-96557.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sbi-clerk-recruitment-2026-last-date-to-apply-today-for-9124-posts-check-direct-link-here/articleshow/133642745.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642745.cms\" /></a>SBI Clerk Recruitment 2026: SBI will close applications for its Clerk Recruitment 2026 today, August 31, for 9,124 Junior Associate (Customer Support &amp; Sales) vacancies. The recruitment includes 7,680 regular and 1,444 backlog posts.",
+      "title": "IOB SO recruitment 2026: Indian Overseas Bank invites applications for 291 posts; apply by September 15",
+      "url": "https://timesofindia.indiatimes.com/education/news/iob-so-recruitment-2026-indian-overseas-bank-invites-applications-for-291-posts-apply-by-september-15/articleshow/133667219.cms",
+      "published": "2026-09-01T09:14:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133667239,imgsize-684816.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/iob-so-recruitment-2026-indian-overseas-bank-invites-applications-for-291-posts-apply-by-september-15/articleshow/133667219.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133667219.cms\" /></a>Indian Overseas Bank has announced recruitment for 291 officer positions across various scales. Applications are open online from August 29 to September 15, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Education",
-      "title": "September 2026 school holidays: Janmashtami, Ganesh Chaturthi and state-specific holiday dates",
-      "url": "https://timesofindia.indiatimes.com/education/news/september-2026-school-holidays-janmashtami-ganesh-chaturthi-and-state-specific-holiday-dates/articleshow/133641911.cms",
-      "published": "2026-08-31T10:14:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133641994,imgsize-312088.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/september-2026-school-holidays-janmashtami-ganesh-chaturthi-and-state-specific-holiday-dates/articleshow/133641911.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133641911.cms\" /></a>September school holidays 2026: September 2026 will have several school holidays linked to Janmashtami, Ganesh Chaturthi, Vishwakarma Puja, Anant Chaturdashi and regional religious and commemorative occasions. September 4 is the common festival holiday listed across the states covered, while additional dates vary by state.",
+      "title": "CTET 2026 September registration window closes today; CBSE yet to announce exam date: Direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/ctet-2026-september-registration-window-closes-today-cbse-yet-to-announce-exam-date-direct-link-to-apply-here/articleshow/133667168.cms",
+      "published": "2026-09-01T09:10:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133667211,imgsize-287309.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ctet-2026-september-registration-window-closes-today-cbse-yet-to-announce-exam-date-direct-link-to-apply-here/articleshow/133667168.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133667168.cms\" /></a>The CBSE CTET 2026 registration window closes today for aspiring teachers. Candidates can apply for eligibility to teach Classes 1 to 8.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "IBPS RRB CRP-XV Clerk 2026 registration begins September 1; check official notification PDF, dates and eligibility",
-      "url": "https://timesofindia.indiatimes.com/education/news/ibps-rrb-crp-xv-clerk-2026-registration-begins-september-1-check-official-notification-pdf-dates-and-eligibility/articleshow/133641411.cms",
-      "published": "2026-08-31T09:53:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133641492,imgsize-224909.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ibps-rrb-crp-xv-clerk-2026-registration-begins-september-1-check-official-notification-pdf-dates-and-eligibility/articleshow/133641411.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133641411.cms\" /></a>IBPS RRB Clerk 2026: IBPS RRB Clerk 2026 registration is expected to begin on September 1 for Office Assistant posts under CRP RRBs-XV. The application window is scheduled to close on September 21.",
+      "title": "J&amp;K MBBS, BDS interns launch indefinite strike over low stipend, seek hike to Rs 30,000",
+      "url": "https://timesofindia.indiatimes.com/education/news/jk-mbbs-bds-interns-launch-indefinite-strike-over-low-stipend-seek-hike-to-rs-30000/articleshow/133655992.cms",
+      "published": "2026-08-31T20:06:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133655992,imgsize-36496.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jk-mbbs-bds-interns-launch-indefinite-strike-over-low-stipend-seek-hike-to-rs-30000/articleshow/133655992.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133655992.cms\" /></a>MBBS and BDS interns in Jammu and Kashmir have begun an indefinite strike demanding a hike in their monthly stipend from Rs 12,300 to Rs 30,000. The interns cite rising living costs, extended hospital duties and disparities with other states.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "Naya Rivera\u2019s son to make film debut in 'The Burning Valley'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/naya-riveras-son-josey-to-make-acting-debut-lands-first-film-role-six-years-after-glee-stars-tragic-death-by-drowning/articleshow/133642926.cms",
-      "published": "2026-08-31T11:13:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133643213,imgsize-466898.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642926.cms\" />Josey Dorsey, son of the late Naya Rivera, has secured his first acting role. He will appear in the upcoming film 'The Burning Valley' with his father.",
+      "title": "Keerthy Suresh celebrates Onam with husband Antony Thattil; shares happy family pictures",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/keerthy-suresh-celebrates-onam-with-husband-antony-thattil-family-and-friends-shares-sweet-moment-with-nani-on-video-call/articleshow/133669054.cms",
+      "published": "2026-09-01T10:46:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133669119,imgsize-1955777.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133669054.cms\" />Keerthy Suresh celebrated Onam with her husband Antony Thattil and close family members. She shared pictures of the festivities, including her pet dog Nyke.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Suniel Shetty: 'Gore is what I don't like about films today'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/blood-and-gore-are-things-i-dont-like-about-films-today-suniel-shetty-slams-bollywoods-hypermasculine-violence-says-no-point-competing-with-kids-half-your-age/articleshow/133642914.cms",
-      "published": "2026-08-31T11:03:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133643006,imgsize-226817.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642914.cms\" />At 65, Suniel Shetty has undergone a significant shift in his career's focus, choosing inner contentment over monetary ambitions. Embracing his age, he champions the importance of age-appropriate roles to maintain his relevance in the ever-changing Bollywood landscape.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
-    },
-    {
-      "category": "Entertainment",
-      "title": "Priyadarshan reveals Saif Ali Khan almost starred in 'Garam Masala'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-director-priyadarshan-reveals-saif-ali-khan-almost-starred-in-garam-masala-recalls-wanting-to-meet-tiger-pataudi/articleshow/133642630.cms",
-      "published": "2026-08-31T10:44:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133642677,imgsize-142930.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642630.cms\" />Filmmaker Priyadarshan revealed Saif Ali Khan almost starred in 'Garam Masala' but the script was delayed. Priyadarshan's initial meeting with Saif focused on his father, cricketer Mansur Ali Khan Pataudi.",
+      "title": "Lionel Messi RETIRES: Kareena Kapoor Khan REACTS",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lionel-messi-retires-from-argentina-duty-kareena-kapoor-khan-reacts-with-heart-emojis-indrajith-sukumaran-shares-farewell-post/articleshow/133668755.cms",
+      "published": "2026-09-01T10:32:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133668907,imgsize-364768.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133668755.cms\" />Football legend Lionel Messi has announced his retirement from international football. This decision has prompted emotional tributes from fans and celebrities worldwide.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Manasi Parekh reaches Mumbai after Nepal - Tibet floods",
-      "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/felt-like-winning-a-war-manasi-parekh-reaches-mumbai-after-nepal-tibet-floods-recalls-four-hour-wait-in-nyalam-and-bumpiest-bus-ride-to-kathmandu/articleshow/133642797.cms",
-      "published": "2026-08-31T10:52:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133642838,imgsize-36682.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133642797.cms\" />Actor Manasi Parekh returned to Mumbai after a challenging journey through flood-affected areas. Her return trip from Tibet was disrupted by landslides and poor road conditions.",
+      "title": "'Hanuman Ansh': Visually impaired Suneel crooned film's viral song",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-how-visually-impaired-suneel-lodhis-voice-journeyed-from-bundelkhand-to-bollywood/articleshow/133668494.cms",
+      "published": "2026-09-01T10:14:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133668568,imgsize-742545.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133668494.cms\" />Suneel Lodhi, a visually impaired singer, has captured hearts across the nation with a viral Hanuman bhajan. His distinct and soulful voice not only garnered attention but also led him to an unexpected film role in the surprising box-office hit 'Hanuman Ansh'.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.11
+    },
+    {
+      "category": "Entertainment",
+      "title": "Rob and Michele Reiner\u2019s son Jake Reiner gets married",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-and-michele-reiners-son-jake-reiner-married-8-months-after-his-parents-passing/articleshow/133667684.cms",
+      "published": "2026-09-01T09:58:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133668244,imgsize-313181.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133667684.cms\" />In a poignant moment amid personal turmoil, Jake Reiner recently wedded Maria Gilfillan in a heartfelt private ceremony, mere months after the heartbreaking loss of his parents. Coupled with this joyous event is the distressing news of his brother Nick Reiner's arrest on murder charges.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
     }
   ]
 }
