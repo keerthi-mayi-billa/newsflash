@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-09-03T04:55:06",
+  "generated_at": "2026-09-04T04:57:24",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "US struck 60 targets as 40 vessels, 18mn barrels of oil crossed Hormuz in record day: Report",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/60-targets-18m-barrels-inside-the-us-militarys-record-strike-on-iran/articleshow/133723270.cms",
-      "published": "Thu, 03 Sep 2026 07:38:51 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133724426,imgsize-4244162.cms",
+      "title": "Estonia minister quits after \u20ac70-million Ukraine shell deal involving Indian firm",
+      "url": "https://timesofindia.indiatimes.com/world/europe/estonia-minister-quits-after-70-million-ukraine-shell-deal-involving-indian-firm/articleshow/133751096.cms",
+      "published": "Fri, 04 Sep 2026 09:19:52 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133751120,imgsize-939589.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "US reacts to PM Modi-Iran prez meet; issues warning to countries 'helping' Tehran",
-      "url": "https://timesofindia.indiatimes.com/india/us-reacts-to-pm-modi-iran-president-pezeshkian-meet-issues-warning-to-countries-helping-tehran/articleshow/133725177.cms",
-      "published": "Thu, 03 Sep 2026 10:08:58 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133725376,imgsize-68204.cms",
+      "title": "'Habibi, come to Iran': Tehran's Minesweeper dare for Uncle Sam over Hormuz",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/habibi-come-to-iran-tehran-mocks-uncle-sam-with-minesweeper-game-post-over-strait-of-hormuz/articleshow/133750259.cms",
+      "published": "Fri, 04 Sep 2026 09:08:09 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133750995,imgsize-85841.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "IAF commander who shot down Pak jet after Balakot strikes joins private airline",
-      "url": "https://timesofindia.indiatimes.com/india/iaf-commander-abhinandan-varthaman-who-shot-down-pak-jet-after-balakot-strikes-joins-private-airline/articleshow/133724433.cms",
-      "published": "Thu, 03 Sep 2026 09:19:44 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133724512,imgsize-404378.cms",
-      "summary": "",
+      "title": "Stadium erupts as match paused in Argentina to honour Lionel Messi - Watch",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/stadium-erupts-into-messiii-messiii-chant-as-match-paused-in-argentina-to-honour-lionel-messi-watch/articleshow/133751148.cms",
+      "published": "Fri, 04 Sep 2026 09:43:57 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133751431,imgsize-946128.cms",
+      "summary": "Fans across the stadium stood and applauded Messi, bringing the game to a halt for a brief moment.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Babar Azam, Mohsin Naqvi meet King Charles III amid England tour turmoil",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-presents-signed-pakistan-team-bat-to-king-charles-amid-england-tour-turmoil/articleshow/133724951.cms",
-      "published": "Thu, 03 Sep 2026 09:59:53 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133725109,imgsize-107849.cms",
-      "summary": "Babar, along with the Pakistan squad and Pakistan Cricket Board (PCB) chairman Mohsin Naqvi, visited Clarence House on September 2. During the meeting, Babar handed the King a bat signed by all the players as a gesture of goodwill and sportsmanship..",
+      "title": "\u2018Taken to a room, beaten\u2019: YouTubers allege assault at Saket station, cops deny",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/taken-to-a-room-beaten-youtubers-allege-assault-at-saket-station-cops-deny/articleshow/133749689.cms",
+      "published": "Fri, 04 Sep 2026 07:59:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133749752,imgsize-59840.cms",
+      "summary": "Two women YouTubers allege police personnel beat them at Saket police station. Police deny these allegations, stating the women obstructed a security route.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.08
     },
     {
       "category": "India",
-      "title": "A West Virginia high school built in 1923 has reopened 103 years later as a 40-room hotel",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-high-school-built-in-1923-has-reopened-103-years-later-as-a-40-room-hotel-with-its-old-classrooms-turned-into-guest-rooms-and-gathering-spaces/articleshow/133691070.cms",
-      "published": "2026-09-03T10:09:51+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133691114,imgsize-1948106.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133691070.cms\" />A historic high school in West Virginia, originally established in 1923, has been beautifully transformed into a 40-room boutique hotel. The once-abandoned classrooms now serve as cozy guest rooms and inviting lounges, offering visitors a unique stay.",
+      "title": "Third Phase Restoration: Hidden parquet floors emerge at Hopewell Museum; reopening set for December 2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/an-1877-new-jersey-house-has-served-as-a-museum-since-1924-after-102-years-a-1-5-million-restoration-is-reviving-its-hidden-19th-century-floors-and-preparing-it-to-reopen/articleshow/133751053.cms",
+      "published": "2026-09-04T10:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133751077,imgsize-1419986.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133751053.cms\" />The Hopewell Museum is embarking on a remarkable restoration project for its historic house. Careful attention is being given to preserve original elements such as the floors and windows while integrating modern systems to enhance protection of the museum's collections.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.12
     },
     {
       "category": "India",
-      "title": "UK mortgage approvals fall to lowest level since January 2024 as housing demand weakens",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/uk-mortgage-approvals-fall-to-lowest-level-since-january-2024-as-housing-demand-weakens/articleshow/133716313.cms",
-      "published": "2026-09-03T09:30:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133716356,imgsize-144700.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133716313.cms\" />In July, UK mortgage approvals for home purchases hit a new low, highlighting a weakened demand in the housing market amid rising borrowing costs. Additionally, net mortgage borrowing plummeted, falling below the six-month average.",
+      "title": "Michigan farmer protects his family\u2019s 131 acres from future housing development",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-michigan-farmer-bought-back-the-131-acres-his-family-had-lost-over-the-decades-in-2026-he-sold-the-development-rights-so-the-land-can-never-be-broken-up-for-housing/articleshow/133747546.cms",
+      "published": "2026-09-04T03:52:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133748302,imgsize-104841.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133747546.cms\" />Michigan farmer John Boyer bought back his family\u2019s 131 acres after the land changed hands over decades. In 2026, he sold its development rights to the Little Traverse Conservancy through a conservation easement, ensuring the property cannot be divided for housing or commercial development.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Ranch Shift Protects River: $8m deal secures 1,688-acre Park Ranch; wildlife corridor stays open",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-8-million-grant-helped-transfer-1688-california-acres-to-public-ownership-the-ranch-will-protect-1-6-miles-of-an-undammed-river-and-a-major-wildlife-corridor/articleshow/133724667.cms",
-      "published": "2026-09-03T09:50:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133724931,imgsize-1609152.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133724667.cms\" />A significant eight million dollar grant has facilitated the acquisition of one thousand six hundred eighty-eight acres of land for public use. This area safeguards a crucial wildlife corridor and an undammed river, enhancing conservation efforts for native fish habitats and seasonal wildlife migration.",
+      "title": "Texas \u2018Killing Fields\u2019: Man gets 20 years in teen\u2019s death, first conviction tied to 4 women found at one site",
+      "url": "https://timesofindia.indiatimes.com/world/us/texas-killing-fields-man-gets-20-years-in-teens-death-first-conviction-tied-to-4-women-found-at-one-site/articleshow/133751092.cms",
+      "published": "2026-09-04T09:20:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133751162,imgsize-63386.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133751092.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "After Google, Apple Maps updates 'Lake Ontario' to 'Lake America' for US users; Trump reacts",
-      "url": "https://timesofindia.indiatimes.com/world/us/after-google-apple-maps-changes-lake-ontario-name-to-lake-america-for-us-users-trump-calls-move-ratified-binding/articleshow/133723765.cms",
-      "published": "2026-09-03T09:07:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133724290,imgsize-96134.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133723765.cms\" />",
+      "title": "South African student transforms sugarcane and maize waste into bioplastic",
+      "url": "https://timesofindia.indiatimes.com/science/meet-onndinadaho-rasilwela-the-south-african-student-who-turned-sugarcane-and-maize-waste-into-biodegradable-plastic/articleshow/133746017.cms",
+      "published": "2026-09-04T07:20:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133746220,imgsize-64710.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133746017.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Trump\u2019s face debuts on US currency, $1 coins run \u2018out of stock\u2019 within hours",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-face-debuts-on-us-currency-1-coins-run-out-of-stock-within-hours/articleshow/133724401.cms",
-      "published": "2026-09-03T09:46:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133725025,imgsize-729176.cms",
+      "title": "Markets turn green after week of red; Sensex jumps 400 points, Nifty tops 23,900",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-4-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133750893.cms",
+      "published": "2026-09-04T08:58:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133750893,imgsize-59750.cms",
+      "summary": "US stocks ended higher on Thursday, with the S&P 500 gaining 1.1%, the Dow rising 1.2% and the Nasdaq climbing 1.4%. Microsoft, Meta and Apple advanced, while Nvidia gained 1.8% after announcing a $13 billion deal to acquire AI platform Hugging Face..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Business",
+      "title": "Top stocks to buy today: Stock market recommendations for September 4, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-04-2026-capri-global-capital-ltd-engineers-india-acme-solar-holdings-stocks-to-buy-today/articleshow/133749822.cms",
+      "published": "2026-09-04T08:00:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133749864,imgsize-619853.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Business",
+      "title": "Indian Railways set to get indigenous 280 kmph bullet trains by early 2027",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bullet-train-project-was-launched-in-2017-ten-years-later-indian-railways-is-set-to-roll-out-its-own-rs-866-87-crore-high-speed-280-kmph-trains-by-early-next-year/articleshow/133729526.cms",
+      "published": "2026-09-03T14:19:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133729557,imgsize-419414.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "Stock market today: BSE Sensex jumps over 260 points, Nifty50 nears 24,000",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-03-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133723589.cms",
-      "published": "2026-09-03T08:10:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133723589,imgsize-2119815.cms",
-      "summary": "Stock market today: Top recommendations by market experts Asian markets traded largely higher, with most major regional indices in positive territory. Hong Kong\u2019s Hang Seng Index gained 126.93 points, or 0.5%, to 25,438.14.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Business",
-      "title": "First Vande Bharat in 2019, sleeper version came in 2026; now 260 trains in works",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/in-2019-india-launched-its-first-vande-bharat-express-seven-years-later-came-the-sleeper-version-and-railways-now-plans-260-vande-sleeper-rakes-with-world-class-features/articleshow/133702275.cms",
-      "published": "2026-09-02T13:51:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133702508,imgsize-732834.cms",
+      "title": "Indians cash in idle gold: Rs 20 lakh for a home, Rs 80 lakh for US degree &amp; business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/a-couple-sold-gold-for-rs-20-lakh-to-buy-a-home-another-family-got-rs-80-lakh-for-a-us-degree-and-business-how-indians-are-unlocking-value-of-idle-gold-sitting-in-their-lockers/articleshow/133714204.cms",
+      "published": "2026-09-02T20:47:11+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133714373,imgsize-767635.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
-    },
-    {
-      "category": "Business",
-      "title": "Top stocks to buy today: Stock recommendations for September 3, 2026 - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-03-2026-bank-of-maharashtra-glenmark-pharma-tata-technologies-best-stocks-to-buy-today/articleshow/133723261.cms",
-      "published": "2026-09-03T09:05:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133723296,imgsize-720683.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.21
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.07
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.03
     },
     {
       "category": "Entertainment",
-      "title": "Theo denies Meghan's casting: 'Prince Harry is...'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-gentlemen-theo-james-reacts-to-meghan-markle-casting-buzz-says-prince-harry-is-playing-one-of-my-love-interests/articleshow/133724661.cms",
-      "published": "2026-09-03T09:52:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133725089,imgsize-529830.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133724661.cms\" />Theo James has dismissed rumors about Meghan Markle joining the Netflix series. He playfully suggested Prince Harry might appear in a future season.",
+      "title": "Mirzapur Movie Review and Release Live Updates",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-review-and-release-live-updates-pankaj-tripathi-ali-fazal-divyenndu-mirzapur-the-movie-review-and-box-office-collection/liveblog/133749311.cms",
+      "published": "2026-09-04T07:11:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133749311,imgsize-49942.cms",
+      "summary": "'Mirzapur: The Movie' is positioned as a standalone prequel. Its story is set between episodes 6 and 7 of Season 1, which premiered in 2018.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "Bhuvan Bam recalls police mistaking him for a pickpocket",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tune-jeb-maari-kisi-ki-bhuvan-bam-recalls-police-mistaking-him-for-a-pickpocket/articleshow/133724102.cms",
-      "published": "2026-09-03T08:48:02+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133724119,imgsize-190937.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133724102.cms\" />After two years of convincing, Bhuvan Bam finally inspired his parents to dive into the world of content creation. A shopping trip to Sarojini Nagar took an unexpected turn when his appearance led the police to mistake him for a thief.",
+      "title": "\u2018Dragon\u2019: Alia Bhatt and Shahid Kapoor to reportedly join Jr NTR starrer",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dragon-shahid-kapoor-and-alia-bhatt-to-join-jr-ntr-and-anil-kapoor-in-prashanth-neel-directorial-report/articleshow/133751552.cms",
+      "published": "2026-09-04T09:48:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133751663,imgsize-1100173.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133751552.cms\" />Alia Bhatt and Shahid Kapoor are reportedly joining Jr NTR and Anil Kapoor for Prashanth Neel's film. This project, titled 'Dragon', is an upcoming action thriller with a grand scale.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Katy Perry talks about her tour, splitting up with Orlando Bloom, and finding Justin Trudeau",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-gets-candid-about-orlando-bloom-split-following-concert-film-release-calls-justin-trudeau-the-love-of-her-life/articleshow/133724256.cms",
-      "published": "2026-09-03T08:59:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133724284,imgsize-88388.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133724256.cms\" />In a candid interview, Katy Perry reflected on her tumultuous Lifetimes Tour and her breakup with Orlando Bloom in April 2025. The pop star's journey took a surprising turn as she fell for Justin Trudeau, who supported her during the tour.",
+      "title": "INSIDE PICS: Taylor-Travis's USD 5.35 million mansion",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-taylor-swift-and-travis-kelces-usd-5-35-million-lakefront-ohio-mansion-boasting-of-8-bedrooms-and-11-bathrooms-pics/articleshow/133751408.cms",
+      "published": "2026-09-04T09:42:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133751529,imgsize-446541.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133751408.cms\" />NFL star Travis Kelce has purchased a historic lakefront mansion in Ohio. The sprawling property spans over 21,000 square feet and features eight bedrooms.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Travis Kelce and Taylor Swift\u2019s new Ohio neighbours cannot wait for a glimpse of the newlyweds",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-kelce-and-taylor-swifts-new-usd-5-35-million-ohio-home-future-neighbours-cant-wait-to-meet-the-newlyweds/articleshow/133724213.cms",
-      "published": "2026-09-03T08:55:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133724244,imgsize-102498.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133724213.cms\" />Travis Kelce and Taylor Swift are now proud owners of a stunning new residence in Ohio. Their new neighbors are buzzing with excitement as they anticipate the couple's arrival.",
+      "title": "Shweta Singh Kirti reacts to CBI probe in Disha Salian case",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/truth-may-be-troubled-but-it-can-never-be-defeated-shweta-singh-kirti-reacts-to-cbi-probe-in-disha-salian-case/articleshow/133751124.cms",
+      "published": "2026-09-04T09:21:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133751173,imgsize-241136.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133751124.cms\" />The Bombay High Court has ordered a CBI investigation into Disha Salian's death. Sushant Singh Rajput's sister Shweta Singh Kirti expressed renewed hope for clarity.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.08
     }
   ]
 }
