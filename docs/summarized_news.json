@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-09-05T04:51:00",
+  "generated_at": "2026-09-06T05:00:28",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "SC awards pension to Mumbai engineer who forged ST certificate",
-      "url": "https://timesofindia.indiatimes.com/india/sc-awards-pension-to-mumbai-engineer-who-forged-st-certificate/articleshow/133777541.cms",
-      "published": "Sat, 05 Sep 2026 01:39:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133777567,imgsize-944880.cms",
+      "title": "'Can\u2019t be reduced to residual R&amp;D boutique': Isro staff question space ceded to pvt players",
+      "url": "https://timesofindia.indiatimes.com/india/in-a-first-9-isro-staff-bodies-seek-written-clarity-on-private-sector-shift/articleshow/133801451.cms",
+      "published": "Sat, 05 Sep 2026 18:20:58 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133801925,imgsize-114802.cms",
+      "summary": "Say pvt participation can co-exist with Isro, but under a defined policy",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "\u2018Something much bigger\u2019: Trump planning major Middle East reset after Iran war",
+      "url": "https://timesofindia.indiatimes.com/world/us/something-much-bigger-trump-planning-major-middle-east-reset-after-iran-war/articleshow/133825281.cms",
+      "published": "Sun, 06 Sep 2026 09:43:27 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133825514,imgsize-74426.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Bengaluru woman 'abducted, assaulted, stripped' over loan dispute; 3 arrested",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/work-as-prostitute-if-you-cant-repay-bengaluru-woman-abducted-assaulted-stripped-over-loan-dispute/articleshow/133786394.cms",
-      "published": "Sat, 05 Sep 2026 09:14:29 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133786459,imgsize-74178.cms",
-      "summary": "A woman and her young son were abducted after a loan dispute escalated. They were confined and assaulted by four individuals over unpaid debts.",
+      "title": "'Don't stoop so low': Activist reacts to complaint over remarks on Hindu deities",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/dont-stoop-so-low-cjp-activist-reacts-to-complaint-over-objectionable-remarks-on-hindu-deities/articleshow/133822632.cms",
+      "published": "Sun, 06 Sep 2026 07:52:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133822823,imgsize-154204.cms",
+      "summary": "Two advocates filed police complaints against a CJP activist and her father. These complaints allege objectionable remarks were made about Hindu deities online.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.24
+      "time_sec": 15.17
     },
     {
       "category": "Top Stories",
-      "title": "Saharanpur: Illegal mosque inside DM office complex demolished under high security",
-      "url": "https://timesofindia.indiatimes.com/india/saharanpur-illegal-mosque-inside-dm-office-complex-demolished-under-high-security/articleshow/133787447.cms",
-      "published": "Sat, 05 Sep 2026 09:55:02 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133787531,imgsize-1078554.cms",
-      "summary": "",
+      "title": "Match fixing concerns? PCB takes Pakistan players\u2019 phones into custody",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/match-fixing-concerns-pcb-takes-pakistan-players-phones-into-custody-before-final-england-test/articleshow/133823611.cms",
+      "published": "Sun, 06 Sep 2026 08:27:13 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-133823670,imgsize-1401115.cms",
+      "summary": "In an unexpected move, Pakistan's cricket board has seized players' mobile phones ahead of a crucial Test match against England. While the rationale behind this decision remains undisclosed, it aligns with ICC regulations that prohibit phone usage in specific match zones to uphold integrity.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "India",
+      "title": "\u2018Something much bigger\u2019: Trump planning major Middle East reset after Iran war",
+      "url": "https://timesofindia.indiatimes.com/world/us/something-much-bigger-trump-planning-major-middle-east-reset-after-iran-war/articleshow/133825281.cms",
+      "published": "2026-09-06T09:43:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133825514,imgsize-74426.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133825281.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
-      "category": "Top Stories",
-      "title": "'Someone's just made something up': Pakiatan coach explodes over King Charles report",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unacceptable-journalism-pakistan-coach-denies-salman-ali-agha-refused-to-meet-king-charles/articleshow/133785698.cms",
-      "published": "Sat, 05 Sep 2026 08:55:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-133785959,imgsize-122167.cms",
-      "summary": "Hesson dismissed the report and said Salman had been informed well in advance that he would not be part of the Buckingham Palace visit.",
+      "category": "India",
+      "title": "Hurricane Lowell holds Category 4 strength as Hawaii braces for a close call",
+      "url": "https://timesofindia.indiatimes.com/world/us/hurricane-lowell-holds-category-4-strength-as-hawaii-braces-for-a-close-call/articleshow/133824778.cms",
+      "published": "2026-09-06T09:17:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133824838,imgsize-318898.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824778.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Trump eyes Pentagon leadership changes as frustration over Iran war grows: Report",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-eyes-pentagon-leadership-changes-as-frustration-over-iran-war-grows-report/articleshow/133787494.cms",
-      "published": "2026-09-05T10:00:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787587,imgsize-186501.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133787494.cms\" />In light of ongoing leadership transitions within the Army, several candidates have emerged as potential successors to the former US Army Secretary. President Trump has been appraised of various options amidst growing tensions from the Iran conflict, though White House and Pentagon sources have refuted rumors regarding a review of the Deputy Secretary of War role.",
+      "title": "China mudslide: One missing person found dead as death toll rises to two",
+      "url": "https://timesofindia.indiatimes.com/world/china/china-mudslide-one-missing-person-found-dead-as-death-toll-rises-to-two-10-remain-missing/articleshow/133824054.cms",
+      "published": "2026-09-06T08:53:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133824251,imgsize-261154.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824054.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "US warns of rising illnesses in Cuba amid worsening water, power crisis; embassy issues health alert",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/us-warns-of-rising-illnesses-in-cuba-amid-worsening-water-power-crisis-embassy-issues-health-alert/articleshow/133787305.cms",
-      "published": "2026-09-05T10:00:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787648,imgsize-37350.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133787305.cms\" />The US Embassy in Havana has raised alarms about rising intestinal illnesses in Cuba, attributing them to the deteriorating water and electricity systems on the island. Ongoing restrictions on fuel shipments from the US have intensified these power outages and sanitation issues.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "India",
-      "title": "US man duct-taped to seat after attacking passenger mid-flight, racial abuse",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-man-duct-taped-to-seat-after-attacking-passenger-mid-flight-hurling-racial-abuse/articleshow/133785615.cms",
-      "published": "2026-09-05T08:57:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133786198,imgsize-35344.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133785615.cms\" />An American Airlines flight traveling from Dallas to Newark had to make an unexpected stop in Baltimore due to a disruptive passenger. The individual reportedly attacked another traveler and directed racial insults toward a flight attendant.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "At least 10 killed in explosion at Bolivia military base; over 60 injured",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/people-killed-in-explosion-at-bolivia-military-base/articleshow/133783970.cms",
-      "published": "2026-09-05T07:17:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133786868,imgsize-12016902.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133783970.cms\" />",
+      "title": "Egyptian TV presenter Sarah Khalifa among 12 sentenced to death in drugs case",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/egyptian-tv-presenter-sarah-khalifa-among-12-sentenced-to-death-in-drugs-case/articleshow/133822368.cms",
+      "published": "2026-09-06T07:44:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133822819,imgsize-103900.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133822368.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Tesla\u2019s wheel-free Cybercabs face US safety probe just a day after launch",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/teslas-wheel-free-cybercabs-face-us-safety-probe-just-a-day-after-launch/articleshow/133787079.cms",
-      "published": "2026-09-05T09:48:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787389,imgsize-42378.cms",
+      "title": "Europe is moving its gold out of America; where is it headed",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/europe-is-moving-its-gold-out-of-america-where-is-it-headed/articleshow/133824849.cms",
+      "published": "2026-09-06T09:32:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133824884,imgsize-1791817.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Trump team quietly closed probe into businessman eyed by US to broker Venezuela oil deal",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-team-quietly-closed-probe-into-businessman-eyed-by-us-to-broker-venezuela-oil-deal/articleshow/133785557.cms",
-      "published": "2026-09-05T08:51:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133785943,imgsize-321439.cms",
+      "title": "Rs 41.69 lakh cash deposits, no ITR: He said wife, father paid expenses; ITAT rejects plea",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-man-had-rs-41-69-lakh-unexplained-cash-deposits-filed-no-itr-claimed-income-below-rs-5-lakh-and-said-his-wife-and-father-paid-his-expenses-why-itat-still-refused-relief/articleshow/133793996.cms",
+      "published": "2026-09-05T13:57:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133794024,imgsize-584669.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "'Don\u2019t want to lose our country\u2019: Trump to spend $500 m to help Republicans win midterms",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/dont-want-to-lose-our-country-trump-plans-to-spend-500-million-to-help-republicans-win-midterms/articleshow/133785413.cms",
-      "published": "2026-09-05T08:38:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133785600,imgsize-109520.cms",
+      "title": "Son loses gifted flat after neglecting parents; why he may still inherit it later",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/parents-gifted-their-son-a-flat-on-condition-he-care-for-them-after-he-neglected-them-bombay-hc-cancelled-the-gift-but-heres-why-he-may-still-inherit-it-later/articleshow/133795029.cms",
+      "published": "2026-09-05T19:40:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133804276,imgsize-593435.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Anthropic IPO: AI giant delays public offering, eyes mid-October market debut",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-ai-giant-delays-public-offering-eyes-2-trillion-valuation-mid-october-market-debut/articleshow/133783952.cms",
-      "published": "2026-09-05T07:59:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133784730,imgsize-34338.cms",
+      "title": "Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/global-food-prices-rise-1-9-says-un-body-highest-since-2022-amid-weather-war-disruptions/articleshow/133797409.cms",
+      "published": "2026-09-05T16:12:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133797622,imgsize-174436.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.2
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.14
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "'Mirzapur: The Movie' scores Rs 29 crore haul at box office",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-1-pankaj-tripathi-ali-fazal-and-ravi-kishan-starrer-grosses-29-crore-ranks-among-highest-opening-day-collections-of-2026/articleshow/133781813.cms",
-      "published": "2026-09-05T05:57:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133782663,imgsize-277791.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133781813.cms\" />Mirzapur: The Movie has achieved a significant opening day collection of Rs 24.75 crore net. This impressive debut places it as the fourth-highest opening day grosser for Hindi films in 2026.",
+      "title": "CM Vijay\u2019s look-alike takes Udupi by storm during Krishna Janmashtami",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-actor-and-cm-vijays-look-alike-takes-udupi-by-storm-during-krishna-janmashtami-viral-video-wins-attention/articleshow/133825539.cms",
+      "published": "2026-09-06T09:46:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133825587,imgsize-169703.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133825539.cms\" />In Udupi, Krishna Janmashtami transformed into a grand affair, drawing thousands of devotees to partake in the festivities. A doppelg\u00e4nger of Tamil actor Vijay stole the spotlight, capturing the fascination of onlookers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Sreeleela celebrates Krishna Ashtami with childhood Bharatanatyam video",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sreeleela-celebrates-krishna-ashtami-with-childhood-bharatanatyam-performance-says-happy-krishna-ashtami/articleshow/133787407.cms",
-      "published": "2026-09-05T09:52:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787493,imgsize-922522.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133787407.cms\" />Actress Sreeleela showcased a nostalgic Bharatanatyam performance from her childhood in celebration of Krishna Ashtami. Her passion for classical dance has been evident since her formative years.",
+      "title": "Karthi faces trolls ahead of \u2018Sardar 2\u2019 release",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karthi-faces-trolls-ahead-of-sardar-2-release-over-his-monica-bellucci-comparison-with-malavika-mohanan/articleshow/133825008.cms",
+      "published": "2026-09-06T09:27:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133825048,imgsize-193788.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133825008.cms\" />Actor Karthi's remarks about Malavika Mohanan's costume have ignited social media criticism. His comments, made during film promotions, drew flak for focusing on her appearance.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Dolly Parton\u2019s sister talks about how the family is dealing with everything",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-sister-reacts-to-insensitivity-from-strangers-after-the-jolene-singer-passed-away/articleshow/133787359.cms",
-      "published": "2026-09-05T09:48:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787463,imgsize-294091.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133787359.cms\" />Stella Parton has opened up about the profound grief her family is experiencing after the loss of Dolly Parton. She expressed her heartfelt appreciation for the support from close friends and family while highlighting the often harsh and thoughtless comments from outsiders.",
+      "title": "Gwen Stefani and Blake Shelton\u2019s 18-year-old dog Betty passes away",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/gwen-stefani-and-blake-sheltons-18-year-old-dog-betty-passes-away-she-made-us-all-smile/articleshow/133824612.cms",
+      "published": "2026-09-06T09:14:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133824735,imgsize-221460.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824612.cms\" />Gwen Stefani and Blake Shelton are mourning the loss of their beloved dog Betty, who was a cherished part of their family for eighteen years. In a heartfelt video tribute, the couple honored her memory, sparking an outpouring of love and support from fans online.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "Chiranjeevi\u2019s \u2018Kaaka\u2019 to begin new Hyderabad schedule soon",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kaaka-update-chiranjeevi-and-bobby-kolli-gear-up-for-a-lengthy-and-crucial-hyderabad-schedule/articleshow/133787301.cms",
-      "published": "2026-09-05T09:47:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133787345,imgsize-1252477.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133787301.cms\" />The highly anticipated action thriller Kaaka, featuring the legendary Chiranjeevi, is set to commence its next filming schedule in Hyderabad. This pivotal segment is expected to engage the primary cast alongside the Megastar.",
+      "title": "Igho Ubiribo passes away at 43",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/influencer-igho-ubiribo-passes-away-at-43-in-thailand-what-happened-to-the-wealthy-influencer/articleshow/133824491.cms",
+      "published": "2026-09-06T09:06:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-133824561,imgsize-366489.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133824491.cms\" />At the age of forty-three, British-Nigerian entrepreneur Igho Ubiribo's life was cut short in Thailand due to complications following a cosmetic penile enlargement operation. The coroner's report attributes his death to a pulmonary embolism.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.09
     }
   ]
 }
