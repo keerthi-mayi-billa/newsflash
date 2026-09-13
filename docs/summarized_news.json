@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-12T04:55:27",
+  "generated_at": "2026-09-13T05:11:50",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Russia &amp; Iran hit out at US 'aggression', pose a challenge for Brics host India",
-      "url": "https://timesofindia.indiatimes.com/india/russia-iran-hit-out-at-us-aggression-pose-a-challenge-for-summit-host-india/articleshow/134098108.cms",
-      "published": "Sat, 12 Sep 2026 05:16:53 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134107848,imgsize-104122.cms",
-      "summary": "Russia and Iran criticized Western sanctions and aggression at the BRICS Business Forum. Both nations called for strategies to enhance the group's resilience against external pressures.",
+      "title": "PM Modi positions Brics as an inclusive, not anti-west, forum",
+      "url": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms",
+      "published": "Sun, 13 Sep 2026 03:00:44 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134179214,imgsize-63644.cms",
+      "summary": "Prime Minister Modi opened the Brics summit, demanding urgent United Nations Security Council reforms. He stressed transforming global governance from privilege to partnership for developing nations.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.13
     },
     {
       "category": "Top Stories",
-      "title": "'Allow easy movement to professionals': Piyush Goyal urges Brics states",
-      "url": "https://timesofindia.indiatimes.com/india/goyal-pull-down-barriers-allow-easy-movement-to-professionals/articleshow/134097838.cms",
-      "published": "Sat, 12 Sep 2026 05:07:59 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134097878,imgsize-58072.cms",
-      "summary": "Piyush Goyal urged Brics nations to dismantle trade barriers and open markets. He also called for linking payment systems and trading in local currencies.",
+      "title": "WTC points table: Where does India stand after England's 3-0 whitewash of Pakistan?",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-test-championship-points-table-where-does-india-stand-after-englands-3-0-whitewash-of-pakistan/articleshow/134175339.cms",
+      "published": "Sun, 13 Sep 2026 09:12:33 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134175730,imgsize-126230.cms",
+      "summary": "Pakistan\u2019s tour ended on a disappointing note despite major changes before the final Test. The team made several changes to the playing squad and coaching staff ahead of the Edgbaston match, but the move did not change the outcome..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "China Southern to resume Guangzhou-Delhi flights ahead of Xi's India visit",
-      "url": "https://timesofindia.indiatimes.com/india/china-southern-to-resume-guangzhou-delhi-flights-after-6-years-ahead-of-xis-brics-visit/articleshow/134106521.cms",
-      "published": "Sat, 12 Sep 2026 09:20:53 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134106808,imgsize-37936.cms",
-      "summary": "The announcement came ahead of Chinese President Xi Jinping\u2019s visit to India for the Brics summit. The airline said the resumption would take its total operations across eight round-trip routes in South Asia to more than 100 flights a week.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Top Stories",
-      "title": "'India's very interested in what we do': Firouzja, youngest to beat Carlsen's record",
-      "url": "https://timesofindia.indiatimes.com/sports/chess/indian-people-always-very-interested-in-what-we-do-alireza-firouzja-youngest-to-beat-magnus-carlsens-2800-record-exclusive/articleshow/134105178.cms",
-      "published": "Sat, 12 Sep 2026 08:38:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134105269,imgsize-101236.cms",
-      "summary": "Alireza Firouzja discussed his ankle injury, recovery, and strong connection with Indian chess fans during an exclusive interview. He praised Indian crowds and tandoori chicken, assessed Gukesh-Sindarov\u2019s upcoming World Championship match as close, and reflected on the difficulty of reaching the Candidates.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "India",
-      "title": "Brazilian architect built a UFO-shaped house in 1974 and still lives there",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-brazilian-architect-built-a-ufo-shaped-house-in-1974-and-planned-to-live-there-temporarily-almost-50-years-later-he-is-still-living-inside-it/articleshow/134008377.cms",
-      "published": "2026-09-12T02:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134008377,imgsize-151564.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134008377.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Owens Message Fuels Debate: Viral post revives note to Charlie; Erika claims resurface",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/her-entire-life-she-has-been-chasing-power-candace-owens-makes-fresh-claims-about-erika-kirk-in-emotional-message-to-charlie-kirk/articleshow/134096415.cms",
-      "published": "2026-09-12T05:31:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134096428,imgsize-2461605.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134096415.cms\" />Candace Owens has reignited controversy surrounding Erika Kirk with an emotional message addressed to the late Charlie Kirk. In the lengthy remarks, Owens reflects on Charlie\u2019s views about love and marriage while making serious claims about his relationship with Erika.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "US diesel prices at record $6: American farmers feel the heat as harvest season begins",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-diesel-prices-at-record-6-american-farmers-feel-the-heat-as-harvest-season-begins/articleshow/134103442.cms",
-      "published": "2026-09-12T07:59:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134103669,imgsize-71176.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "India",
-      "title": "'Married brother to bring him into USA': DHS probing Ilhan Omar's family immigration history",
-      "url": "https://timesofindia.indiatimes.com/world/us/married-brother-to-bring-him-into-usa-dhs-probing-ilhan-omars-family-immigration-history/articleshow/134103109.cms",
-      "published": "2026-09-12T07:44:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134103241,imgsize-120328.cms",
+      "title": "Three years before 9/11, CIA warned Clinton that Bin Laden wanted to strike India",
+      "url": "https://timesofindia.indiatimes.com/india/three-years-before-9/11-cia-warned-clinton-that-bin-laden-wanted-to-strike-india/articleshow/134176092.cms",
+      "published": "Sun, 13 Sep 2026 09:28:30 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134176464,imgsize-67060.cms",
       "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
+    },
+    {
+      "category": "Top Stories",
+      "title": "India wrestling faces a new test after generations of Asian Games glory",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/grappling-with-legacy-india-wrestling-faces-a-new-test-after-generations-of-asian-games-glory/articleshow/134175484.cms",
+      "published": "Sun, 13 Sep 2026 09:09:09 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134175615,imgsize-206491.cms",
+      "summary": "From 1954 Manila to 2022 Hangzhou, generations of Indian wrestlers have built a proud Asian Games legacy. Now, heading to Aichi-Nagoya, Indian wrestling will strive to overcome pre-Games doping setbacks and mount an emphatic medal charge..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "India",
+      "title": "Three years before 9/11, CIA warned Clinton that Bin Laden wanted to strike India",
+      "url": "https://timesofindia.indiatimes.com/india/three-years-before-9/11-cia-warned-clinton-that-bin-laden-wanted-to-strike-india/articleshow/134176092.cms",
+      "published": "2026-09-13T09:28:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134176464,imgsize-67060.cms",
+      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "Two giant dams starved the Danube Delta of sediment for decades",
+      "url": "https://timesofindia.indiatimes.com/world/europe/two-giant-dams-changed-europes-second-longest-river-decades-later-scientists-found-the-danube-delta-was-being-starved-of-sediment/articleshow/134176427.cms",
+      "published": "2026-09-13T09:38:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134176876,imgsize-1492856.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134176427.cms\" />The Danube's sediment supply to its delta has significantly decreased due to upstream engineering works. Large dams like the Iron Gates trap sediment, altering the natural balance of the delta.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "Owens Slams Erika Kirk: Conservative firebrand alleges \u2018biggest betrayer\u2019; rift over Charlie\u2019s legacy",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/it-would-be-his-wife-candace-owens-accuses-erika-kirk-of-turning-against-charlie-kirks-legacy/articleshow/134163946.cms",
+      "published": "2026-09-13T05:31:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134164005,imgsize-2461605.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134163946.cms\" />Candace Owens has intensified her public feud with Erika Kirk, claiming Charlie Kirk was \u201cbetrayed\u201d and naming his wife as his \u201cbiggest betrayer.\u201d Owens said she initially expected Turning Point USA and Erika to help uncover answers after Charlie\u2019s death but later felt shut out. She also alleged that people connected to Erika targeted her.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "India",
+      "title": "Alleged Auto Theft Booking: US YouTuber reportedly in custody; online campaign backs Brandon\u2019s release",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/why-was-youtuber-brandon-buckingham-arrested-the-alleged-auto-theft-charge-and-latest-details-explained/articleshow/134164237.cms",
+      "published": "2026-09-13T05:52:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134164277,imgsize-34518.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134164237.cms\" />YouTuber Brandon Buckingham was reportedly arrested in Louisiana on an alleged \u201cTheft of Auto/Vehicle\u201d charge, according to a booking notice shared online. The Washington Parish Sheriff's Office was reportedly listed as the booking agency, with no bond set at the time.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "2 homebuyers paid Rs 1.16 crore, got no flats; RERA orders builder to refund with interest",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/two-homebuyers-booked-flats-for-rs-1-16-crore-in-2013-they-were-promised-possession-by-2014-years-later-they-still-had-no-homes-maharera-orders-builder-to-refund-money-with-interest/articleshow/134073992.cms",
-      "published": "2026-09-11T22:32:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134074404,imgsize-635729.cms",
+      "title": "India\u2019s gem exports rise 3.14% in August as studded gold jewellery shipments surge",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-gem-exports-rise-3-14-in-august-as-studded-gold-jewellery-shipments-surge/articleshow/134174181.cms",
+      "published": "2026-09-13T10:10:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134178154,imgsize-591403.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Ice cream to defence: How Canada\u2019s tariff war with US is boosting local businesses",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/ice-cream-to-defence-how-canadas-tariff-war-with-us-is-boosting-local-businesses/articleshow/134105619.cms",
-      "published": "2026-09-12T09:15:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134106507,imgsize-231814.cms",
+      "title": "Brics 2026: Piyush Goyal hails unanimous adoption of New Delhi Declaration",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/brics-2026-piyush-goyal-hails-unanimous-adoption-of-new-delhi-declaration/articleshow/134174075.cms",
+      "published": "2026-09-13T09:03:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134174702,imgsize-47346.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "US diesel prices at record $6: American farmers feel the heat as harvest season begins",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-diesel-prices-at-record-6-american-farmers-feel-the-heat-as-harvest-season-begins/articleshow/134103442.cms",
-      "published": "2026-09-12T07:59:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134103669,imgsize-71176.cms",
+      "title": "HDFC Bank sends names of 2 CEO candidates to RBI",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms",
+      "published": "2026-09-13T04:26:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134163912,imgsize-104948.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "Report: MSMEs need digital infra",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/report-msmes-need-digital-infra/articleshow/134097034.cms",
-      "published": "2026-09-12T04:45:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134097190,imgsize-51341.cms",
+      "title": "RBI rejects Tata Sons' bid to stay private, directs listing",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms",
+      "published": "2026-09-13T04:14:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134163539,imgsize-40552.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.31
     },
     {
       "category": "Entertainment",
-      "title": "'Haiwaan' scores Rs 3 crore opening amid 'Hanuman Ansh' wave",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/haiwaan-box-office-collection-day-1-akshay-kumar-saif-ali-khan-starrer-opens-at-rs-3-crore-amid-hanuman-ansh-and-mirzapur-the-movie-wave/articleshow/134097488.cms",
-      "published": "2026-09-12T05:13:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134098096,imgsize-158935.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134097488.cms\" />Haiwaan, starring Akshay Kumar and Saif Ali Khan, opened with a modest Rs 3 crore net collection. The film's opening day performance ranks among the lower openings for both leading actors.",
+      "title": "Brad Pitt and Ines De Ramon attend US Open women\u2019s final",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/us-open-womens-final-brad-pitt-and-ines-de-ramon-attend-the-tennis-match-between-aryna-sabalenka-and-elena-rybakina/articleshow/134176778.cms",
+      "published": "2026-09-13T09:36:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134176905,imgsize-59352.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134176778.cms\" />The US Open women's final match drew a star-studded crowd, featuring notable attendees such as Brad Pitt and Ines De Ramon. Paris Hilton and Amy Adams showcased their stylish flair, while Maria Sharapova made a long-awaited return after several years away.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "Sebastian Stan: 'The Batman 2' feels like 'The Godfather'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sebastian-stan-says-the-batman-part-ii-feels-like-making-the-godfather-part-ii-confident-film-with-robert-pattinson-scarlett-johansson-is-going-to-be-a-payoff/articleshow/134104914.cms",
-      "published": "2026-09-12T09:31:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134106600,imgsize-303917.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134104914.cms\" />Sebastian Stan may be joining The Batman: Part II as Harvey Dent. He compared the upcoming sequel to the acclaimed film The Godfather Part II.",
+      "title": "Dharmendra's first love was Hamida, long before Hema Malini",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendras-first-love-was-hamida-long-before-hema-malini-school-crush-moved-to-pakistan-after-partition/articleshow/134174573.cms",
+      "published": "2026-09-13T08:47:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134174729,imgsize-183853.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134174573.cms\" />Veteran actor Dharmendra revealed his first childhood crush on Hamida. She was his schoolteacher's daughter and older than him.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "Robert De Niro and Jane Rosenthal at the Tribeca Film Festival",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-de-niro-and-jane-rosenthal-discuss-tribeca-film-festival-inception-after-9/11-we-felt-we-had-to-do-something/articleshow/134107781.cms",
-      "published": "2026-09-12T09:48:29+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134107893,imgsize-50498.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134107781.cms\" />In the aftermath of the 9/11 tragedy, Robert De Niro and Jane Rosenthal launched the Tribeca Film Festival with a heartfelt mission to rejuvenate the downtown area and unite the community. With minimal resources and a strong sense of purpose, they managed to spark this monumental initiative within a mere three months, symbolizing the resilience and recovery of the neighborhood..",
+      "title": "Vijay flags off Le Mans race; Trisha Krishnan spotted",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/tamil-nadu-cm-vijay-flags-off-le-mans-race-at-silverstone-trisha-krishnan-spotted-ajith-kumars-team-finishes-38th-video/articleshow/134173305.cms",
+      "published": "2026-09-13T08:16:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134173421,imgsize-254732.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134173305.cms\" />Tamil Nadu Chief Minister Vijay attended Silverstone to support Ajith Kumar's racing event. Vijay waved the green flag, officially starting the Michelin Le Mans Cup race.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Kim Soo Hyun wins advertising lawsuit",
-      "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-soo-hyun-wins-latest-advertising-lawsuit-worth-577-million-krw-actor-to-keep-the-entire-amount-after-final-verdict/articleshow/134106115.cms",
-      "published": "2026-09-12T09:01:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134106199,imgsize-31132.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134106115.cms\" />Actor Kim Soo Hyun has emerged victorious in a high-stakes lawsuit against a watch brand, as the court dismissed the brand's demand for 577 million KRW in damages. This verdict clears the way for Soo Hyun to secure the full contract amount, countering the brand's attempt to terminate the agreement over controversies attributed to third-party accusations, as defended by his agency..",
+      "title": "Celine Dion starts her 26-day Paris residency on Saturday",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/celine-dion-returns-to-paris-residency-after-two-years-i-made-a-promise-to-come-back-so-here-i-am/articleshow/134173210.cms",
+      "published": "2026-09-13T08:14:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134173340,imgsize-32898.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134173210.cms\" />Celine Dion has made a triumphant return to live performance following a two-year break, launching her residency in Paris. Her emotional opening night saw her wiping away tears as she thanked fans for their steadfast support and understanding.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.09
     }
   ]
 }
