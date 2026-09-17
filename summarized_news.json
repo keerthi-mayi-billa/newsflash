@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-16T05:08:34",
+  "generated_at": "2026-09-17T05:10:40",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "After meeting PM Modi, schoolmate gets land back from BJP MLA",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms",
-      "published": "Wed, 16 Sep 2026 00:22:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134277446,imgsize-1079842.cms",
-      "summary": "BJP MLA Narendra Mehta has agreed to relinquish contested land and retract his complaint against Asgar Ali Vora, a senior schoolmate of Prime Minister Modi. This decision came after Vora approached the Prime Minister for assistance regarding the land issue.",
+      "title": "Asian Games 2026: Indian athletes land in Japan to a forgettable welcome",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indian-athletes-land-in-japan-to-a-forgettable-welcome/articleshow/134299877.cms",
+      "published": "Thu, 17 Sep 2026 08:07:52 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134300035,imgsize-195550.cms",
+      "summary": "Indian athletes in rowing and shooting faced a tumultuous start upon arrival, encountering major issues with their accommodation and registration. Several competitors were left without lodging, while others noticed their names were missing from the official list.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
+      "time_sec": 15.11
     },
     {
       "category": "Top Stories",
-      "title": "First-ever attack alert in Mecca sparks panic in Saudi; Muslim groups condemn Houthis",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/first-ever-attack-alert-in-mecca-sparks-panic-in-saudi-muslim-groups-condemn-houthis/articleshow/134277530.cms",
-      "published": "Wed, 16 Sep 2026 09:30:24 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134277564,imgsize-245536.cms",
+      "title": "'Committed to ensuring energy security': India reacts as 100% Trump tariff looms",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/committed-to-ensuring-energy-security-india-reacts-as-100-trump-tariff-looms/articleshow/134301911.cms",
+      "published": "Thu, 17 Sep 2026 10:18:09 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134301926,imgsize-831655.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "Operation Sohan: Two terrorists killed in joint op in J&amp;K's Udhampur",
+      "url": "https://timesofindia.indiatimes.com/india/operation-sohan-two-terrorists-killed-in-joint-operation-by-army-crpf-jk-police-in-udhampur/articleshow/134300026.cms",
+      "published": "Thu, 17 Sep 2026 08:20:08 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134300044,imgsize-371789.cms",
       "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.08
     },
     {
       "category": "Top Stories",
-      "title": "\u2018Killer bahu left out of will\u2019: What triggered Kanpur pharma trader\u2019s murder plot",
-      "url": "https://timesofindia.indiatimes.com/city/kanpur/killer-bahu-left-out-of-will-what-triggered-kanpur-pharma-traders-murder-plot/articleshow/134277247.cms",
-      "published": "Wed, 16 Sep 2026 09:23:00 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134277386,imgsize-123531.cms",
-      "summary": "Police are investigating a murder case involving a pharmaceutical trader's will. The will excluded the trader's daughter-in-law, Shalu, from property inheritance.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "Jos Buttler breaks Rohit Sharma's record, becomes second-highest T20I run-scorer",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-breaks-rohit-sharmas-record-becomes-second-highest-t20i-run-scorer/articleshow/134277571.cms",
-      "published": "Wed, 16 Sep 2026 09:39:36 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134277591,imgsize-129668.cms",
-      "summary": "Jos Buttler has now become the second-highest run-scorer in men's T20I cricket. He achieved this milestone during England's victory against Sri Lanka.",
+      "title": "100% tariffs loom: Will US sanctions bill make India stop buying crude from Russia?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/100-trump-tariffs-loom-russia-sanctions-bill-passed-in-us-will-it-make-india-stop-buying-crude-from-moscow/articleshow/134300254.cms",
+      "published": "Thu, 17 Sep 2026 08:31:23 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134300386,imgsize-519488.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Meet Austin Jin, 16, who built a CRISPR blood test for tuberculosis",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-austin-jin-the-16-year-old-great-neck-new-york-student-who-built-a-crispr-blood-test-to-detect-tuberculosis-and-drug-resistance-he-won-50000/articleshow/134262216.cms",
-      "published": "2026-09-16T10:10:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134262347,imgsize-572897.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134262216.cms\" />",
+      "title": "Restored California wetlands still released greenhouse gases, study finds",
+      "url": "https://timesofindia.indiatimes.com/world/us/california-restored-wetlands-to-store-carbon-years-later-scientists-found-some-were-still-releasing-greenhouse-gases/articleshow/134296557.cms",
+      "published": "2026-09-17T02:56:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134296567,imgsize-369534.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134296557.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "NYC agrees to $60M settlement with owners of 64 seized properties; Zohran Mamdani plans TPT revival",
-      "url": "https://timesofindia.indiatimes.com/world/us/new-york-city-agrees-to-60-million-settlement-with-owners-of-64-properties-seized-over-unpaid-taxes-and-debts-mayor-zohran-mamdani-plans-to-revive-controversial-tpt-program/articleshow/134275391.cms",
-      "published": "2026-09-16T04:13:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134275415,imgsize-176631.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134275391.cms\" />New York City has agreed to pay $60 million to owners of 64 properties seized under its Third Party Transfer program over unpaid taxes and other debts. The settlement follows a class-action lawsuit alleging owners were denied proper compensation.",
+      "title": "A former military bunker site became a survival community amid legal battles",
+      "url": "https://timesofindia.indiatimes.com/world/us/south-dakota-turned-575-old-military-bunkers-into-a-survival-community-but-residents-paying-up-to-55000-now-face-legal-disputes/articleshow/134293947.cms",
+      "published": "2026-09-16T23:33:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134294007,imgsize-213882.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134293947.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.2
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Built in 1976, Diane Keaton bought $6.6M Laguna home, transformed, sold for $7.9M, now listed for $10.3M",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1976-diane-keaton-bought-her-laguna-beach-home-for-6-6-million-in-2021-transformed-and-sold-it-for-7-9-million-a-year-later-her-final-renovation-project-now-hits-market-for-10-3-million/articleshow/134273048.cms",
-      "published": "2026-09-16T02:41:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134273096,imgsize-122613.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134273048.cms\" />Diane Keaton\u2019s Laguna Beach home, built in 1976, was purchased by the actress for $6.6 million in 2021 and transformed before being sold for $7.9 million a year later. Now, the four-bedroom oceanfront property is back on the market for $10.3 million, with Keaton\u2019s distinctive design touches and lighting still intact..",
+      "title": "US farmers are turning their land into Airbnb",
+      "url": "https://timesofindia.indiatimes.com/world/us/wisconsin-farmer-brit-thompson-turns-a-vintage-airstream-trailer-into-an-airbnb-now-the-rental-income-outpaces-beef-and-lamb-sales-i-can-make-100-an-hour-cleaning/articleshow/134292273.cms",
+      "published": "2026-09-17T09:56:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134292381,imgsize-354349.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134292273.cms\" />As farming challenges mount, many farmers are finding solace in agritourism. Brit Thompson has successfully transformed her Airstream trailer into a popular Airbnb rental, highlighting the trend's potential for financial stability.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.02
     },
     {
       "category": "India",
-      "title": "Meet Brooke Sumpter, 11, who learned to sew at 4 and designed an American Girl collection",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-brooke-sumpter-the-11-year-old-who-learned-to-sew-at-4-and-has-now-become-the-first-child-to-design-an-american-girl-fashion-collection/articleshow/134272795.cms",
-      "published": "2026-09-16T01:21:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134272803,imgsize-95203.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134272795.cms\" />Brooke Sumpter, an 11-year-old fashion designer, has made history by becoming the first child to design an American Girl fashion collection. She began learning to sew at just four and has now created the Cherry Blossom Couture Collection with Harlem\u2019s Fashion Row and Mattel, featuring stylish outfits for American Girl\u2019s 18-inch dolls..",
+      "title": "Britain\u2019s butterfly boom comes with a warning for next year",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/britain-sees-second-best-butterfly-season-in-16-years-people-counted-almost-1-4-million-common-butterflies-and-moths-painted-ladies-jumped-by-335-but-scientists-are-worried/articleshow/134293526.cms",
+      "published": "2026-09-17T09:54:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134293576,imgsize-283545.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134293526.cms\" />Britain experienced a significant butterfly boom during the record heat of summer 2026. Over 100,000 volunteers counted nearly 1.4 million butterflies and moths across the nation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.08
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.09
     },
     {
       "category": "Business",
-      "title": "Top stocks to buy today: Stock recommendations for September 16, 2026 - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-16-2026-pn-gadgil-jewellers-mankind-pharma-beml-best-stocks-to-buy-today/articleshow/134277458.cms",
-      "published": "2026-09-16T09:22:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134277478,imgsize-371894.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Global oil prices drop 1.2% as Saudi seeks alternate routes after pipeline attack",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/global-oil-prices-drop-1-2-as-saudi-seeks-alternate-routes-after-pipeline-attack/articleshow/134301058.cms",
+      "published": "2026-09-17T09:23:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134301140,imgsize-168908.cms",
+      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Oil prices today: Brent crude falls as US crude inventories rise despite Saudi supply concerns",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns/articleshow/134276899.cms",
-      "published": "2026-09-16T08:37:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134276994,imgsize-39804.cms",
+      "title": "Top stocks to buy today: Stock recommendations for September 17, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-17-2026-aegis-logistics-aarti-pharmalabs-just-dial-best-stocks-to-buy-today/articleshow/134300814.cms",
+      "published": "2026-09-17T08:57:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134300836,imgsize-674339.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Business",
-      "title": "PV dispatches up 37% ahead of festivals",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/pv-dispatches-up-37-ahead-of-festivals/articleshow/134276087.cms",
-      "published": "2026-09-16T07:18:15+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134276090,imgsize-75430.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Business",
-      "title": "Rising crude, G-sec yields, inflation risks sink sensex",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rising-crude-g-sec-yields-inflation-risks-sink-sensex/articleshow/134276072.cms",
-      "published": "2026-09-16T07:15:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134276078,imgsize-96536.cms",
+      "title": "100% Trump tariffs loom: Russia sanctions bill passed in US; will it make India stop buying crude from Moscow?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/100-trump-tariffs-loom-russia-sanctions-bill-passed-in-us-will-it-make-india-stop-buying-crude-from-moscow/articleshow/134300254.cms",
+      "published": "2026-09-17T08:31:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134300386,imgsize-519488.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
+    },
+    {
+      "category": "Business",
+      "title": "Kremer picked as World Bank's chief economist",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/kremer-picked-as-world-banks-chief-economist/articleshow/134300134.cms",
+      "published": "2026-09-17T08:16:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134300154,imgsize-37252.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.08
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "Haiwaan Day 5 Box Office: film stays at Rs 70 lakh in India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/haiwaan-box-office-collection-day-5-akshay-kumar-and-saif-ali-khans-film-fails-to-grow-remains-flat-at-rs-70-lakh-on-tuesday/articleshow/134278218.cms",
-      "published": "2026-09-16T10:14:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134278258,imgsize-154571.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134278218.cms\" />Haiwaan (Akshay Kumar, Saif Ali Khan), a remake of Priyadarshan's Oppam, released September 11 to mixed reviews and weak box office. Day 5 collections stayed flat at Rs 70 lakh net, taking India net to Rs 8.75 crore; worldwide gross is Rs 13.61 crore.",
+      "title": "Haiwaan Box Office: Saif\u2013Akshay film crashes to Rs 55 lakh on day 6",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-box-office-collection-day-6-saif-ali-khan-and-akshay-kumar-film-continues-to-slide-collects-rs-55-lakh-on-wednesday/articleshow/134301592.cms",
+      "published": "2026-09-17T09:57:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134301661,imgsize-390341.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134301592.cms\" />Priyadarshan's 'Haiwaan', starring Saif Ali Khan and Akshay Kumar, continues to falter at the box office, earning just Rs. 55 lakh on day six and totalling Rs.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "Ajith Kumar\u2019s \u2018Daredevil\u2019 first look echoes \u2018Mankatha\u2019 vibes",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ajith-kumars-daredevil-first-look-echoes-mankatha-vibes-adhik-ravichandrans-directorial-to-hit-floors-in-november/articleshow/134301554.cms",
+      "published": "2026-09-17T09:51:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134301560,imgsize-249109.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134301554.cms\" />The makers of 'Daredevil' have officially revealed Ajith Kumar's striking new look. Filming is set to kick off in November, right after he wraps up his racing commitments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Brian Hickerson shares a blunt response after being asked about Hayden Panettiere",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brian-hickerson-makes-a-blunt-statement-after-being-asked-about-hayden-panettiere-how-do-you-think-im-doing/articleshow/134301463.cms",
+      "published": "2026-09-17T09:48:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134301534,imgsize-172860.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134301463.cms\" />In a revealing moment, Brian Hickerson responded candidly to inquiries about Hayden Panettiere's untimely passing. He appeared in public with a black eye thought to be connected to a recent brawl at a local bar, which led to his arrest along with his brother Zach.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Ramayana' advances release date to 5 November",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-to-release-before-godzilla-minus-zero-in-overseas-markets-makers-advance-release-to-november-5/articleshow/134301395.cms",
+      "published": "2026-09-17T09:36:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134301401,imgsize-436341.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134301395.cms\" />Ramayana Part 1 advances its international release date to November 5. This strategic move ensures an undisputed release window abroad for the epic.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "\u2018I\u2019m not afraid to feel afraid\u2026\u2019: Tom Cruise talks about the fear of death",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/im-not-afraid-to-feel-afraid-tom-cruise-talks-about-the-fear-of-death-his-perspective-on-life-and-why-he-likes-standing-on-the-edge-of-a-cliff-physically-and-metaphorically/articleshow/134277909.cms",
-      "published": "2026-09-16T09:50:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134277945,imgsize-74124.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277909.cms\" />In a recent interview, Tom Cruise shared insights about his adventurous life and his remarkable stunts. He revealed his unique take on filmmaking, highlighting how he embraces fear as part of the thrill.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Entertainment",
-      "title": "Fans defend Katrina Kaif's postpartum appearance",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaifs-postpartum-appearance-sparks-debate-fans-call-out-insensitive-remarks/articleshow/134277014.cms",
-      "published": "2026-09-16T09:24:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134277502,imgsize-235797.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277014.cms\" />Katrina Kaif's recent public appearance has ignited social media discussions. Netizens debated her postpartum body, drawing varied reactions from fans.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Entertainment",
-      "title": "Fans get emotional as Suriya-Jyotika renew wedding vows after 20 years",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/fans-get-emotional-as-suriya-jyotika-renew-wedding-vows-after-20-years-call-their-celebration-timeless/articleshow/134277434.cms",
-      "published": "2026-09-16T09:19:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134277443,imgsize-157393.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134277434.cms\" />Suriya and Jyotika marked two decades of marital bliss with a heartfelt Christian vow renewal ceremony, surrounded by their beloved children and family members. This touching occasion captivated fans, who celebrated the couple's unwavering love and shared journey of growth.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
     }
   ]
 }
