@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-21T05:19:31",
+  "generated_at": "2026-09-22T05:18:36",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Why Trump\u2019s $24.3 billion Saudi F-35 deal is raising concerns in US, Israel",
-      "url": "https://timesofindia.indiatimes.com/defence/international/why-trumps-24-3-billion-saudi-f-35-deal-is-raising-concerns-in-us-israel/articleshow/134380191.cms",
-      "published": "Mon, 21 Sep 2026 10:24:53 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134380241,imgsize-134167.cms",
-      "summary": "Aryan Singh is a journalist with The Times of India, covering breaking news, defence and global conflicts. An alumnus of the IIMC, he tracks the people, weapons and geopolitics behind the headlines, with a focus on India\u00e2\u0080\u0099s national security, military affairs and conflicts shaping the world.",
+      "title": "IIT-B suicide case: While one group seeks accountability, another backs professor",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/iit-b-relieves-prof-as-dean-temporarily-apologises-for-remarks-on-student/articleshow/134396763.cms",
+      "published": "Tue, 22 Sep 2026 00:17:10 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134400181,imgsize-1408871.cms",
+      "summary": "Following the unfortunate death of a student, IIT-Bombay has placed its administrative dean on leave pending an investigation. The institution has retracted its previous statement about the circumstances surrounding the student's examination.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "Pakistan airstrike kills 3 in Afghanistan, Taliban warns of \u2018crushing response\u2019",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/pakistan-airstrikes-afghanistan-3-killed-several-injured-as-conflict-fears-grow/articleshow/134379327.cms",
-      "published": "Mon, 21 Sep 2026 09:32:19 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134379424,imgsize-212072.cms",
-      "summary": "Pakistan and Afghanistan were involved in their most serious military confrontation in years in February. The latest escalation comes days after the Taliban warned that it would defend Afghan territory against any Pakistani military action.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
-    },
-    {
-      "category": "Top Stories",
-      "title": "US tells citizens to leave Iran immediately, warns of travel disruptions",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-tells-citizens-to-leave-iran-immediately-warns-of-travel-disruptions/articleshow/134378207.cms",
-      "published": "Mon, 21 Sep 2026 08:00:51 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134378244,imgsize-594910.cms",
+      "title": "'Chhitputh ghatna': Bihar minister's outrageous remark on Jamui harassment video",
+      "url": "https://timesofindia.indiatimes.com/india/chhitputh-ghatna-hoti-rehti-hai-bihar-ministers-remarks-on-jamui-harassment-case-triggers-row/articleshow/134401676.cms",
+      "published": "Tue, 22 Sep 2026 09:46:10 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134402118,imgsize-68184.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "NSE IPO GMP today: On Day 3, grey market premium stands at 3% - all you need to know",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-gmp-today-on-day-3-grey-market-premium-stands-at-3-all-you-need-to-know/articleshow/134379446.cms",
-      "published": "Mon, 21 Sep 2026 09:39:14 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134379556,imgsize-608414.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Will shut Iranian flights from Wednesday: US new arm-twist move against Tehran",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-fuel-no-services-us-threatens-global-shutdown-of-iranian-airlines-from-wednesday/articleshow/134401733.cms",
+      "published": "Tue, 22 Sep 2026 09:27:40 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134401753,imgsize-70212.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "585kg waste gone in 4.5 hrs, Bittu Tabahi takes cleanliness mission to Delhi\u2019s Yamuna",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/585-kg-waste-gone-in-4-5-hours-bittu-tabahi-takes-his-cleanliness-mission-to-delhis-yamuna/articleshow/134400601.cms",
+      "published": "Tue, 22 Sep 2026 08:05:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134400708,imgsize-706164.cms",
+      "summary": "On September 20, Surendra Singh Choudhary, affectionately called Bittu Tabahi, spearheaded a remarkable cleanup initiative along the banks of the Yamuna river. In a dedicated four-hour effort, he and a team of volunteers successfully gathered an impressive 585 kilograms of litter.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Pakistan braces for protests as govt warns of $400 million daily loss",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms",
-      "published": "2026-09-21T09:27:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379380,imgsize-105956.cms",
+      "title": "Woman buys $15 flea-market necklace, later discovers it\u2019s an Alexander Calder work worth $267,750",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-woman-paid-just-15-for-an-unusual-necklace-at-a-brooklyn-flea-market-years-later-she-learned-it-was-an-alexander-calder-work-and-the-forgotten-piece-sold-at-christies-for-267750/articleshow/134389047.cms",
+      "published": "2026-09-22T10:31:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134389160,imgsize-24238.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134389047.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "17-year-old Texas student takes air-quality project to 60 schools",
+      "url": "https://timesofindia.indiatimes.com/world/us/west-dallas-had-too-few-air-quality-monitors-to-track-pollution-across-large-areas-a-plano-teen-built-an-ai-model-to-estimate-neighborhood-air-quality-later-reaching-60-schools-and-training-300-youth-ambassadors/articleshow/134360275.cms",
+      "published": "2026-09-22T10:07:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134360283,imgsize-702633.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134360275.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "How a Queen Elizabeth tree initiative became a nationwide 3 million tree tribute",
+      "url": "https://timesofindia.indiatimes.com/world/uk/in-2021-queen-elizabeth-began-a-tree-planting-initiative-by-2023-it-became-a-nationwide-memorial-with-three-million-trees/articleshow/134353584.cms",
+      "published": "2026-09-21T03:30:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134353747,imgsize-1199425.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134353584.cms\" />Queen Elizabeth II\u2019s Queen\u2019s Green Canopy began in 2021 as a tree-planting project marking her Platinum Jubilee. After her death in 2022, planting continued in her memory until March 2023.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "India",
+      "title": "South Korea proposes nuclear freeze with Kim Jong Un in exchange for sanctions relief: Report",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-proposes-nuclear-freeze-with-kim-jong-un-in-exchange-for-sanctions-relief-report/articleshow/134401776.cms",
+      "published": "2026-09-22T09:31:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134401847,imgsize-112248.cms",
       "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
-    },
-    {
-      "category": "India",
-      "title": "US, China launch 'AI dialogue' ahead of Trump-Xi summit amid race to control AI risks",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-china-launch-ai-dialogue-ahead-of-trump-xi-summit-amid-race-to-control-ai-risks/articleshow/134378233.cms",
-      "published": "2026-09-21T08:08:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134378368,imgsize-152494.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134378233.cms\" />US treasury secretary Scott Bessent announced the agreement after talks with Chinese vice-premier He Lifeng in New York on Sunday. The two sides also moved ahead with plans for a trade mechanism first discussed when Trump met Xi in Beijing.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "India",
-      "title": "Pokimane Pushes Back On Fans: Twitch star slams intrusive family questions; opens up about therapy",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/its-actually-kind-of-disrespectful-pokimane-calls-out-fans-for-crossing-the-line-with-personal-questions/articleshow/134377102.cms",
-      "published": "2026-09-21T05:52:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134377106,imgsize-667397.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134377102.cms\" />Pokimane called out viewers for asking when she plans to have children, describing such questions as invasive and disrespectful. She challenged societal expectations placed on women regarding marriage and motherhood while discussing fertility.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "India",
-      "title": "Putin-backed United Russia leads Duma polls at 57.5% as Ukraine war looms",
-      "url": "https://timesofindia.indiatimes.com/world/europe/putin-backed-united-russia-leads-duma-polls-with-57-5-as-ukraine-war-overshadows-vote/articleshow/134378089.cms",
-      "published": "2026-09-21T07:48:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134378163,imgsize-186326.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134378089.cms\" />The three-day parliamentary election ended on Sunday, with the final results expected by September 25. Early figures released by Russia's Central Election Commission showed United Russia well ahead of other parties.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.07
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "NSE IPO GMP today: On Day 3, grey market premium stands at 3% - all you need to know",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-gmp-today-on-day-3-grey-market-premium-stands-at-3-all-you-need-to-know/articleshow/134379446.cms",
-      "published": "2026-09-21T09:39:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379556,imgsize-608414.cms",
+      "title": "Stock market today: BSE Sensex opens 100 points higher, Nifty 50 trades above 24,400",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-22-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134401284.cms",
+      "published": "2026-09-22T08:45:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134401284,imgsize-2278582.cms",
+      "summary": "Stock market today: Top stocks to buy on September 22 Asian equities moved higher across several major markets, with investors tracking the decline in oil prices and expectations of diplomatic progress on the Iran war around the week's UN meeting. The Hang Seng rose 0.70% to 25,217.40, while Japan's Nikkei gained 1.38% to 65,018.95.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Business",
+      "title": "Top stocks to buy today: Stock market recommendations for September 22, 2026 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-22-2026-lic-housing-finance-supreme-industries-hitachi-energy-india-dr-reddys-laboratories-stocks-to-buy-today/articleshow/134392458.cms",
+      "published": "2026-09-22T08:41:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134392606,imgsize-716773.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Business",
+      "title": "'No burden for consumers': Sitharaman clarifies who will pay MDR on UPI transactions",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/no-burden-for-consumers-sitharaman-clarifies-who-will-pay-mdr-on-upi-transactions/articleshow/134400097.cms",
+      "published": "2026-09-22T08:26:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134400460,imgsize-51946.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Top stocks to buy: Stock recommendations for September 21, 2026 week - check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-21-2026-week-lenskart-happy-forgings-stocks-to-buy-today/articleshow/134379066.cms",
-      "published": "2026-09-21T09:00:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379087,imgsize-371894.cms",
+      "title": "Oil remains above $100 per barrel as traders await potential US-Iran talks",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-remains-above-100-per-barrel-as-traders-await-potential-us-iran-talks/articleshow/134400106.cms",
+      "published": "2026-09-22T07:20:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134400235,imgsize-178090.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices today: Brent crude eases as Saudi supply recovery offsets Houthi attacks, US-Iran tensions",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-eases-as-saudi-supply-recovery-offsets-houthi-attacks-us-iran-tensions/articleshow/134378182.cms",
-      "published": "2026-09-21T08:02:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134378221,imgsize-133550.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
-    },
-    {
-      "category": "Business",
-      "title": "Tata dispute: Lawyers Singhvi, Salve now on opposing sides",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms",
-      "published": "2026-09-21T03:36:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134375970,imgsize-75670.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Entertainment",
-      "title": "Vocalist Sargam Vaish accuses 'Vvan' team of using his song without consent",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vocalist-sargam-vaish-accuses-vvan-team-of-using-his-song-without-consent-vocalist-asks-makers-to-remove-it-warns-of-legal-action/articleshow/134379719.cms",
-      "published": "2026-09-21T09:56:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379799,imgsize-496065.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134379719.cms\" />Vocalist Sargam Vaish has accused the makers of Vvan: Force of the Forest of using his song. He claims his original music appeared in the trailer without any permission.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.32
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Mysaa' teaser OUT: Rashmika Mandanna fights underwater",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mysaa-teaser-rashmika-mandanna-fights-underwater-and-takes-on-opponents-with-a-sickle/articleshow/134379688.cms",
-      "published": "2026-09-21T09:50:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379707,imgsize-218010.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134379688.cms\" />Rashmika Mandanna unveils a fierce new avatar in the 'Mysaa' action thriller teaser. She portrays a Gond tribal woman facing personal struggles and becoming a fighter.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "The late Tom Parker\u2019s wife, Kelsey Parker, welcomes baby",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kelsey-parker-wife-of-the-late-singer-tom-parker-welcomes-baby-a-year-after-last-years-stillbirth/articleshow/134379418.cms",
-      "published": "2026-09-21T09:33:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379454,imgsize-106064.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134379418.cms\" />With hearts full of joy, Kelsey Parker, the widow of the late singer Tom Parker, has announced the birth of her baby boy, River, alongside her partner Will Lindsay. This beautiful moment comes after a painful stillbirth last year and follows their pregnancy reveal earlier in May.",
+      "title": "Prabhas\u2019 \u2018Fauzi\u2019 release postponed, makers promise a \u2018Baahubali\u2019-scale film",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/hanu-raghavapudis-war-action-drama-fauzi-release-postponed-producer-says-you-havent-seen-brother-prabhas-look-so-grand-since-baahubali/articleshow/134402049.cms",
+      "published": "2026-09-22T09:50:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134402179,imgsize-931855.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134402049.cms\" />The anticipated release of Prabhas's war-action spectacle, 'Fauzi,' has been delayed by the film's creators. While no new release date has been confirmed, the film is now projected for arrival in 2027.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "'I don't think witnessing one's wife's death is a blessing': Vinod",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vinod-kozhikode-recalls-wifes-death-i-dont-think-being-witness-to-your-wifes-death-is-a-blessing-says-he-always-wished-to-go-first/articleshow/134379276.cms",
-      "published": "2026-09-21T09:21:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134379304,imgsize-305505.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134379276.cms\" />Actor Vinod Kozhikode opened up about the heartbreaking final moments spent with his wife, sharing his profound sorrow. He vividly remembers noticing her irregular breathing before his morning walk.",
+      "title": "R Madhavan REACTS to son Vedaant's Asian Games performance",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavans-son-vedaant-madhavan-competes-in-first-asian-games-fails-to-qualify-for-mens-4x200m-freestyle-relay-final/articleshow/134401206.cms",
+      "published": "2026-09-22T08:42:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134401241,imgsize-81053.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401206.cms\" />Vedaant Madhavan debuted at the Asian Games in the freestyle relay event. The Indian team did not qualify for the final round.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Channing Tatum clarifies that he does not have a secret social media account",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/yo-i-truly-cant-believe-yall-channing-tatum-addresses-ongoing-rumors-of-him-having-a-burner-social-media-account/articleshow/134401331.cms",
+      "published": "2026-09-22T08:52:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134401367,imgsize-42854.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401331.cms\" />In a bold statement on his official Instagram, Channing Tatum has refuted claims about a clandestine social media account, dismissing them as ridiculous. These rumors gained traction after a mysterious profile made derogatory comments about Zo\u00eb Kravitz and Harry Styles.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Entertainment",
+      "title": "Shah Rukh Khan, Gauri get protective of Suhana after vermilion spreads on her face",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-and-gauri-khan-get-protective-towards-daughter-suhana-after-vermilion-spreads-on-her-face-during-ganesh-darshan-at-lalbaugcha-raja-watch/articleshow/134401213.cms",
+      "published": "2026-09-22T08:50:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134401332,imgsize-908827.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134401213.cms\" />Shah Rukh Khan and his family had a heartfelt visit to Lalbaugcha Raja last night, where they participated in the evening aarti and offered their prayers during Ganesh darshan. In a sweet moment, Gauri Khan tenderly wiped the vermilion from Suhana Khan's face with her dupatta, while Shah Rukh Khan attended to his daughter and cleaned his own face too.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
     }
   ]
 }
