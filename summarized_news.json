@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-24T05:13:03",
+  "generated_at": "2026-09-25T05:15:32",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge",
-      "url": "https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms",
-      "published": "Thu, 24 Sep 2026 02:27:44 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134445725,imgsize-130503.cms",
-      "summary": "'Drawbacks in appointment law give overwhelming power to executive'",
+      "title": "A STEM-humanities faultline in IITs may have been exposed by Sahil death",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/did-students-death-expose-a-stem-humanities-faultline-on-iit-campuses/articleshow/134468398.cms",
+      "published": "Thu, 24 Sep 2026 23:44:19 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134473392,imgsize-120406.cms",
+      "summary": "Sahil Wakode\u2019s death by suicide has sparked significant discussions about academic culture at IIT-B. The event has illustrated the divide between students in STEM and those in humanities.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Top Stories",
+      "title": "Bihar: After Jamui, Samastipur, another girl harassed in public at tourist site",
+      "url": "https://timesofindia.indiatimes.com/city/patna/bihar-shocker-after-jamui-samastipur-another-girl-harassed-in-public-at-tourist-site/articleshow/134473904.cms",
+      "published": "Fri, 25 Sep 2026 08:38:33 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134474078,imgsize-134146.cms",
+      "summary": "A video reportedly showing a minor girl being harassed in Banka has emerged online. Following this incident, police registered a case against six unidentified youths for their actions.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Top Stories",
+      "title": "Watch: UN delegates walk out as Netanyahu begins speech",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms",
+      "published": "Fri, 25 Sep 2026 02:41:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134469851,imgsize-45760.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Rahul Gandhi speaks to IIT-B student Sahil Wakode\u2019s parents",
-      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-speaks-to-iit-b-student-sahil-wakodes-parents-assures-all-help/articleshow/134451801.cms",
-      "published": "Thu, 24 Sep 2026 10:19:42 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134451816,imgsize-670008.cms",
-      "summary": "Rahul Gandhi held a video call with Sahil Wakode's parents to offer support after their son's death. Sahil, a second-year BTech student, was found dead shortly after an exam incident.",
+      "title": "Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities",
+      "url": "https://timesofindia.indiatimes.com/india/wangchuk-fears-encounter-after-accusing-govt-of-ladakh-atrocities/articleshow/134469652.cms",
+      "published": "Fri, 25 Sep 2026 01:31:36 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134469676,imgsize-92292.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Massachusetts restores cranberry bog to protect rare trout that moves between river and ocean",
+      "url": "https://timesofindia.indiatimes.com/science/nature/massachusetts-is-turning-a-retired-cranberry-bog-into-the-final-restored-link-along-red-brook-the-project-is-designed-to-protect-a-rare-brook-trout-that-moves-between-freshwater-and-the-ocean/articleshow/134459798.cms",
+      "published": "2026-09-25T10:04:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134460594,imgsize-243400.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134459798.cms\" />Massachusetts is restoring Century Bog, a former cranberry farm in Plymouth and Wareham, to complete protection of Red Brook from White Island Pond to Buttermilk Bay. The restored wetland and stream channel could benefit about 60 conservation-priority species, including \u201csalter\u201d brook trout that move between freshwater and saltwater estuaries..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "India",
+      "title": "Greg Norman bought an 8.3-acre Florida estate for $4.9M in 1991, then sold it 30 years later for $55.1M",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-1991-greg-norman-paid-4-9-million-for-an-8-3-acre-jupiter-island-estate-after-rebuilding-much-of-the-compound-he-sold-the-florida-property-30-years-later-for-55-1-million/articleshow/134433946.cms",
+      "published": "2026-09-25T10:03:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134434857,imgsize-276392.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134433946.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Why is Finland asking Musk to help Ukraine prepare for winter war against Russia?",
+      "url": "https://timesofindia.indiatimes.com/world/europe/why-is-finland-asking-musk-to-help-ukraine-prepare-for-winter-war-against-russia/articleshow/134474091.cms",
+      "published": "2026-09-25T09:07:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134474366,imgsize-49974.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134474091.cms\" />Russian ballistic missile strikes reached record levels this summer, putting further pressure on Ukraine's already limited air defence resources. Patriot systems are currently the only Ukrainian air defences capable of intercepting such missiles, but Kyiv's stocks of interceptor missiles are severely depleted.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "CJP Jantar Mantar protest: Woman's 'morphed' photo displayed alongside PM Modi; FIR",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-womans-morphed-photo-displayed-alongside-pm-modi-at-cjp-protest-fir-filed/articleshow/134472983.cms",
+      "published": "2026-09-25T07:33:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134473065,imgsize-268129.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134472983.cms\" />Riddhima Sharma, a 25-year-old woman, filed an FIR alleging her image was manipulated and used during a protest. She claimed unauthorized use of her photograph happened at a Jantar Mantar demonstration.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "After Jamui, another girl molested on camera in Bihar; 4 nabbed",
-      "url": "https://timesofindia.indiatimes.com/city/patna/after-jamui-another-girl-molested-on-camera-in-samastipur-4-nabbed/articleshow/134450762.cms",
-      "published": "Thu, 24 Sep 2026 09:24:10 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134450846,imgsize-122347.cms",
-      "summary": "Shreedhar Rathi is a Digital News Producer with The Times of India, based in New Delhi. His work focuses on politics, civic issues and public policy, with particular focus on Urban Development.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "Inside China\u2019s nuclear buildup: New activity spotted across 7 sites",
-      "url": "https://timesofindia.indiatimes.com/defence/international/inside-chinas-nuclear-buildup-new-activity-spotted-across-7-sites-claims-report/articleshow/134451673.cms",
-      "published": "Thu, 24 Sep 2026 10:15:06 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134451759,imgsize-145885.cms",
-      "summary": "Aryan Singh is a journalist with The Times of India, covering breaking news, defence and global conflicts. An alumnus of the IIMC, he tracks the people, weapons and geopolitics behind the headlines, with a focus on India\u00e2\u0080\u0099s national security, military affairs and conflicts shaping the world.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "India",
-      "title": "At 10, Michael Kearney became the world\u2019s youngest university graduate",
-      "url": "https://timesofindia.indiatimes.com/world/us/at-10-michael-kearney-became-the-worlds-youngest-university-graduate-he-had-entered-college-at-six/articleshow/134451941.cms",
-      "published": "2026-09-24T10:31:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134452015,imgsize-1259599.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134451941.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Simone Biles lists Texas home for $1.2M after moving into her dream mansion",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/while-simone-biles-and-jonathan-owens-built-their-texas-dream-mansion-biles-used-a-3998-sq-ft-home-as-a-temporary-base-with-the-custom-build-finished-the-1-acre-property-is-now-listed-for-1-2-million/articleshow/134450702.cms",
-      "published": "2026-09-24T09:16:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134450722,imgsize-115524.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134450702.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Arkansas mom secretly clears $67,676 in family debt in just 45 days",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-arkansas-mom-secretly-cleared-67676-60-in-family-debt-in-45-days-while-her-husband-had-no-idea-social-media-followers-helped-erase-their-mortgage-truck-loan-and-bakery-business-debt/articleshow/134436000.cms",
-      "published": "2026-09-24T09:55:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134436246,imgsize-738400.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134436000.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-man-in-canada-a-permanent-resident-jailed-for-sexually-assaulting-15-year-old-loses-bid-to-avoid-deportation/articleshow/134445644.cms",
-      "published": "2026-09-24T02:03:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134445676,imgsize-34020.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134445644.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.19
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex tumbles 550 points, Nifty50 slips below 23,300",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-24-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134450265.cms",
-      "published": "2026-09-24T08:37:15+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134450265,imgsize-148450.cms",
-      "summary": "Indian shares are set to open lower on Thursday after oil prices climbed above $100 a barrel in the previous session, following Iranian President Masoud Pezeshkian's comments at the UN General Assembly that Tehran would not surrender to US pressure. Iran and the United States remain divided over how to end their war, although diplomacy must continue, a senior Iranian official told Reuters on Wednesday.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices today: Brent crude edges lower as Iran keeps door open to diplomacy",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-eases-as-iran-keeps-door-open-to-diplomacy/articleshow/134449528.cms",
-      "published": "2026-09-24T08:09:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134449764,imgsize-105076.cms",
+      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-opens-over-100-points-up-nse-nifty50-trades-above-23000/articleshow/134474079.cms",
+      "published": "2026-09-25T09:21:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134474459,imgsize-147004.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "NSE IPO: Stock lists at Rs 1,800 versus issue price of Rs 1,785",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-listing-date-live-stock-price-debut-on-bse-gmp-national-stock-exchange-of-india-news/articleshow/134440416.cms",
-      "published": "2026-09-24T07:28:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134440516,imgsize-749258.cms",
+      "title": "Top stocks to buy today: Angel One recommends Godrej Agrovet, Caplin Point, Tilaknagar Industries",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-25-2026-godrej-agrovet-caplin-point-laboratories-tilaknagar-industries-stocks-to-buy-today/articleshow/134473586.cms",
+      "published": "2026-09-25T08:13:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134473601,imgsize-665624.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.18
     },
     {
       "category": "Business",
-      "title": "Airtel Money plans to list on LSE, looks to raise $800mn",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/airtel-money-plans-to-list-on-lse-looks-to-raise-800mn/articleshow/134448519.cms",
-      "published": "2026-09-24T04:49:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134448538,imgsize-132944.cms",
+      "title": "Oil slips 1% as traders hope for US-Iran truce amid fresh attacks on Saudi pipeline",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-1-as-traders-hope-for-us-iran-truce-amid-fresh-attacks-on-saudi-pipeline/articleshow/134472895.cms",
+      "published": "2026-09-25T07:39:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134473148,imgsize-75528.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.13
+    },
+    {
+      "category": "Business",
+      "title": "Banks to deploy excess liquidity over next few months: RBI DG",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/banks-to-deploy-excess-liquidity-over-next-few-months-rbi-dg/articleshow/134472733.cms",
+      "published": "2026-09-25T06:43:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134472732,imgsize-1856350.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.2
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.16
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.02
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "The Paradise Movie Review and Release Live Updates",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-movie-review-release-live-update-nani-sonali-kulkarni-raghav-juyal-the-paradise-review-and-box-office-collection/liveblog/134448910.cms",
-      "published": "2026-09-24T06:17:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134448910,imgsize-96094.cms",
-      "summary": "The initial social media responses to 'The Paradise' remain mixed. Some viewers have praised Nani, the visuals, performances and emotional sequences.",
+      "title": "Divya files Rs 1 crore defamation suit against Bayilvan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/divya-sathyaraj-files-rs-1-crore-defamation-suit-against-bayilvan-ranganathan-seeks-12-interest-on-damages/articleshow/134475467.cms",
+      "published": "2026-09-25T10:18:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134475495,imgsize-296669.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134475467.cms\" />Divya Sathyaraj initiated legal action against Bayilvan Ranganathan for making defamatory remarks following her YouTube interview. The Madras High Court has granted her interim protection and restrained Ranganathan from making further statements.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "'Endgame: Encore' advance bookings cross Rs 13 crore in India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-encore-advance-booking-report-re-release-of-marvel-blockbuster-crosses-rs-13-crore-in-india-to-top-us-box-office-on-opening-weekend/articleshow/134451119.cms",
-      "published": "2026-09-24T09:42:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134451139,imgsize-863482.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134451119.cms\" />Avengers Endgame: Encore is set to re-release on Friday, September 25, amidst strong advance bookings in India. The film has recorded an estimated Rs 13.23 crore in advance sales, with Rs 5.05 crore grossed on opening day.",
+      "title": "When Rajinikanth walked through crocodile-infested lake with Bear Grylls",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-you-know-rajinikanth-once-walked-through-crocodile-infested-lake-with-bear-grylls-adventurer-called-him-a-legend/articleshow/134475141.cms",
+      "published": "2026-09-25T10:01:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134475198,imgsize-754671.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134475141.cms\" />Legendary actor Rajinikanth participated in a dangerous challenge alongside British adventurer Bear Grylls. They walked through a crocodile-infested lake while filming for 'Into The Wild With Bear Grylls'.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "Sam Smith and Normani\u2019s plea to drop the \u2018Dancing with a Stranger\u2019 lawsuit rejected",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/judge-dismisses-sam-smith-and-normanis-plea-to-drop-the-dancing-with-a-stranger-lawsuit/articleshow/134451359.cms",
-      "published": "2026-09-24T09:55:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134451412,imgsize-42158.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134451359.cms\" />The hit collaboration between Sam Smith and Normani, 'Dancing with a Stranger', is entangled in a renewed legal battle as the previous dismissal of a lawsuit has been overturned. A federal judge has decided that the case merits a jury trial to examine the aspects of originality in the song\u2019s composition.",
+      "title": "When Vijay recalled Alphonse Puthren's story for Jason Sanjay",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/when-vijay-recalled-alphonse-puthrens-story-for-jason-sanjay-says-thought-it-was-for-me/articleshow/134474349.cms",
+      "published": "2026-09-25T09:05:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134474357,imgsize-339947.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134474349.cms\" />Jason Sanjay, the son of superstar C Joseph Vijay, is on the verge of his directorial debut with 'Sigma'. Featuring Sundeep Kishan in the lead, the film is set to hit theaters on October 2.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "Hayley Williams talks about her ex, Chad Gilbert",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/hayley-williams-remembers-ex-partner-chad-gilbert-after-his-passing-his-influence-and-attitude-guided-the-genre-forward/articleshow/134450680.cms",
-      "published": "2026-09-24T09:14:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134450711,imgsize-152187.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134450680.cms\" />In a heartfelt tribute, Hayley Williams reminisced about her almost decade-long relationship with Chad Gilbert, who recently succumbed to brain cancer. Williams conveyed deep appreciation for the musical journey they embarked on together and the cultural influence he had on her life.",
+      "title": "Sharwanand\u2019s \u2018George Krish\u2019 teaser introduces his contrasting religious avatars",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sharwanands-george-krish-teaser-out-actor-seen-in-two-different-religious-avatars-manasa-varanasi-plays-female-lead/articleshow/134474291.cms",
+      "published": "2026-09-25T08:59:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134474312,imgsize-1720961.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134474291.cms\" />Telugu actor Sharwanand is set to collaborate with director Srinu Vaitla for the film 'George Krish'. The film will be a fun-filled family entertainer and is scheduled for release on January 14, 2027.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.13
     }
   ]
 }
