@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-26T05:21:05",
+  "generated_at": "2026-09-27T05:36:03",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "\u2018Trump Strait\u2019: US President renames Hormuz after rejecting 7-day ceasefire offer",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-strait-us-president-shares-new-map-of-hormuz-after-rejecting-7-day-ceasefire-offer/articleshow/134496440.cms",
-      "published": "Sat, 26 Sep 2026 09:00:01 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134496485,imgsize-654471.cms",
-      "summary": "Donald Trump stirred controversy by renaming the Strait of Hormuz to 'Trump Strait' in response to Iran's rejected offer. Iran\u2019s foreign minister warned that normal maritime traffic could be restored in seven days if the US accedes to certain demands.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "70-year-old gang-raped, murdered after objecting to men drinking near her home",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/70-yr-old-gang-raped-murdered-after-objecting-to-liquor-near-home-2-held/articleshow/134492100.cms",
-      "published": "Sat, 26 Sep 2026 01:23:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134496772,imgsize-1501274.cms",
-      "summary": "In Lucknow's Mohanlalganj area, a 70-year-old woman was gang-raped and killed by two men. The assault occurred after she objected to their alcohol consumption near her home.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Top Stories",
-      "title": "US planning military action in Cuba? Officials weigh 'possible' military action",
-      "url": "https://timesofindia.indiatimes.com/defence/international/us-planning-military-action-in-cuba-army-reserve-checks-readiness-of-key-units-reports/articleshow/134497218.cms",
-      "published": "Sat, 26 Sep 2026 10:07:42 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134497275,imgsize-129128.cms",
-      "summary": "Aryan Singh is a journalist with The Times of India, covering breaking news, defence and global conflicts. An alumnus of the IIMC, he tracks the people, weapons and geopolitics behind the headlines, with a focus on India\u00e2\u0080\u0099s national security, military affairs and conflicts shaping the world.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "3 BJP allies say EC must clear air, can't lose people's trust",
-      "url": "https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms",
-      "published": "Sat, 26 Sep 2026 04:38:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134495099,imgsize-109542.cms",
+      "title": "LPU campus tense over unverified rape claim - what we know so far",
+      "url": "https://timesofindia.indiatimes.com/india/property-damaged-highway-blocked-lpu-campus-tense-over-unverified-rape-claim-top-developments/articleshow/134514777.cms",
+      "published": "Sun, 27 Sep 2026 10:25:57 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134514809,imgsize-110236.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
-      "category": "India",
-      "title": "Chuck Leavell turned inherited Georgia land into a 4,000-acre forest estate",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1981-chuck-leavell-and-his-wife-inherited-georgia-land-decades-later-charlane-grown-into-a-4000-acre-estate-with-70-forest-cover/articleshow/134497013.cms",
-      "published": "2026-09-26T10:15:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134497224,imgsize-1228252.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134497013.cms\" />",
+      "category": "Top Stories",
+      "title": "\u2018Ma, they punched me\u2019: Student\u2019s last call to family; how horror unfolded at homestay",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/ma-they-punched-me-in-the-chest-students-last-call-before-death-at-guwahati-homestay-accused-claims-she-hanged-herself/articleshow/134514085.cms",
+      "published": "Sun, 27 Sep 2026 08:49:11 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134514268,imgsize-90041.cms",
+      "summary": "Nimisha Thakuria, a 22-year-old Gauhati University student, made a frantic phone call stating she could not breathe. After her family lost contact, she was found critically injured at a homestay on the outskirts of Guwahati.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.07
     },
     {
-      "category": "India",
-      "title": "A $50 Hamptons barn-sale painting later sold for C$290,000 at auction",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2024-allen-treibitz-paid-50-for-a-painting-at-a-hamptons-barn-sale-months-later-it-was-authenticated-as-emily-carrs-1912-masset-q-c-i-and-sold-at-a-toronto-auction-for-c290000/articleshow/134435029.cms",
-      "published": "2026-09-26T10:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134435104,imgsize-738245.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134435029.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Michigan CEO who posted AI photo of family members wearing \u2018Lake America\u2019 sweatshirts loses job; she says it was just for fun, not a political message",
-      "url": "https://timesofindia.indiatimes.com/world/us/michigan-ceo-who-posted-ai-photo-of-family-members-wearing-lake-america-sweatshirts-loses-job-she-says-it-was-just-for-fun-not-a-political-message/articleshow/134492190.cms",
-      "published": "2026-09-26T01:57:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134492196,imgsize-56814.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134492190.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "In 2024, Iowa farmer Evie Haupt earned $35,000 yearly from 3 turbines, cutting debt to $67,000",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-75-year-old-iowa-farmer-evie-haupt-said-three-wind-turbines-on-her-160-acres-were-bringing-in-about-35000-a-year-while-using-under-3-acres-and-had-helped-reduce-350000-in-farm-debt-to-67000/articleshow/134492075.cms",
-      "published": "2026-09-26T01:48:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134492172,imgsize-798748.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134492075.cms\" />Evie Haupt, an Iowa farmer, has notably increased her revenue by leasing land for wind turbines. This extra income has been instrumental in alleviating her farm debts following her husband's passing.",
+      "category": "Top Stories",
+      "title": "Former Keralam chief secretary Jiji Thomson alleges Gyanesh Kumar suggested BJP ticket",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/former-keralam-chief-secretary-jiji-thomson-alleges-gyanesh-kumar-suggested-bjp-ticket/articleshow/134506924.cms",
+      "published": "Sat, 26 Sep 2026 20:45:59 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134514180,imgsize-114401.cms",
+      "summary": "Jiji Thomson, a former chief secretary, revealed that Gyanesh Kumar suggested he join the BJP. The proposal occurred during a flight to New Delhi in 2016.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
+    },
+    {
+      "category": "Top Stories",
+      "title": "OpenAI, Anthropic CEOs summoned by Australia Senate over AI agent breach",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/openai-anthropic-ceos-summoned-by-australia-senate-over-ai-agent-breach/articleshow/134514749.cms",
+      "published": "Sun, 27 Sep 2026 10:26:22 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134514824,imgsize-59522.cms",
+      "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have received written requests to appear at a public hearing in Canberra on Thursday, according to a spokesperson for Senator Sarah Hanson-Young, the Australian Greens lawmaker chairing the inquiry. Neither company immediately responded to requests for comment outside business hours.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "US deports LGBTQ migrants to nations where they fear persecution, rights groups say",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-deports-lgbtq-migrants-to-nations-where-they-fear-persecution-rights-groups-say/articleshow/134514565.cms",
+      "published": "2026-09-27T09:49:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134514593,imgsize-271792.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134514565.cms\" />The US department of homeland security has defended the arrangements, saying migrants receive due process and that third-country agreements are lawful. A federal appeals court this month upheld a ruling that found aspects of the administration's third-country deportation policy unlawful.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "Winds, floods, 20-foot waves: What\u2019s behind the nor\u2019easter battering US East Coast",
+      "url": "https://timesofindia.indiatimes.com/world/us/winds-floods-20-foot-waves-whats-behind-the-noreaster-battering-the-us-east-coast/articleshow/134514071.cms",
+      "published": "2026-09-27T08:53:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134514318,imgsize-14724814.cms",
+      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "India",
+      "title": "Germany's AfD, that pulled off stunner in polls, backs probe into Nord pipelines",
+      "url": "https://timesofindia.indiatimes.com/world/europe/afd-party-that-pulled-off-stunner-in-german-polls-backs-probe-into-nord-pipelines/articleshow/134513575.cms",
+      "published": "2026-09-27T07:53:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134513603,imgsize-75260.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134513575.cms\" />AfD co-chairman Tino Chrupalla said the party wanted the attacks to be investigated at the international, national and European levels and for those responsible to be held accountable. The party has previously called for a parliamentary inquiry into the blasts.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "India",
+      "title": "What do the latest US visa wait times reveal: Hyderabad, Mumbai near a year for B1/B2 appointments; Delhi at 10 months",
+      "url": "https://timesofindia.indiatimes.com/world/us/what-do-the-latest-us-visa-wait-times-reveal-hyderabad-mumbai-near-a-year-for-b1/b2-appointments-delhi-at-10-months/articleshow/134510034.cms",
+      "published": "2026-09-27T01:49:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134510050,imgsize-100430.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134510034.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slide-2-as-us-iran-seek-path-out-of-war-saudi-supply-fears-persist/articleshow/134495671.cms",
-      "published": "2026-09-26T07:45:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134495723,imgsize-46238.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Self-listing of bourses feasible, says NSE chief",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/self-listing-of-bourses-feasible-says-nse-chief/articleshow/134492279.cms",
-      "published": "2026-09-26T02:53:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134492287,imgsize-57602.cms",
+      "title": "Mehli Mistry to leave Tata Med Centre Trust, his 6th such exit",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/mehli-mistry-to-leave-tata-med-centre-trust-his-6th-such-exit/articleshow/134513458.cms",
+      "published": "2026-09-27T07:20:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134513477,imgsize-65707.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.23
+      "time_sec": 15.04
     },
     {
       "category": "Business",
-      "title": "Indian economy doing well amid global headwinds, says RBI",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/indian-economy-doing-well-amid-global-headwinds-says-rbi/articleshow/134492276.cms",
-      "published": "2026-09-26T02:50:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134492282,imgsize-45568.cms",
+      "title": "Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails \u201cnew era\u201d",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gift-nifty-breaks-the-23-billion-mark-as-trading-activity-hits-a-fresh-high/articleshow/134502922.cms",
+      "published": "2026-09-26T16:43:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134503225,imgsize-189182.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Business",
-      "title": "Ties with US in 'uneasy equilibrium': CEA",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/ties-with-us-in-uneasy-equilibrium-cea/articleshow/134492263.cms",
-      "published": "2026-09-26T02:45:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134492273,imgsize-88156.cms",
+      "title": "FII Flows To Stay Subdued: Bernstein sees flat to modest inflows; rupee and valuations weigh",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/why-fiis-may-not-return-to-indian-stocks-even-after-ai-boom-fades/articleshow/134502445.cms",
+      "published": "2026-09-26T16:17:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134502618,imgsize-120668.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
+    },
+    {
+      "category": "Business",
+      "title": "Big dollar inflows, little boost for rupee: Why currency may stay near Rs 96 near term",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/big-dollar-inflows-little-boost-for-rupee-why-the-currency-may-stay-near-rs-96-in-near-term/articleshow/134502447.cms",
+      "published": "2026-09-26T16:02:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134502530,imgsize-241074.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.21
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.04
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Entertainment",
+      "title": "Vishal suffers back injury during Purushan climax shoot in Goa",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishal-suffers-back-injury-during-purushan-climax-shoot-in-goa-im-sorry-i-cannot-attend-the-nadigar-sangam-general-body-meeting/articleshow/134515036.cms",
+      "published": "2026-09-27T10:44:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134515045,imgsize-114691.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134515036.cms\" />During an action shoot for 'Purushan' in Goa, actor Vishal suffered a back injury that requires immediate medical attention. Doctors have prescribed a recovery period of three weeks, leading to his disappointment as he will miss the important Nadigar Sangam general body meeting.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "Entertainment",
+      "title": "Mohanlal's organic garden at his Elamakkara home",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/a-look-inside-mohanlals-organic-garden-at-his-elamakkara-home-actor-grows-bitter-gourd-tomatoes-okra-and-more-video/articleshow/134514769.cms",
+      "published": "2026-09-27T10:20:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134514782,imgsize-378746.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134514769.cms\" />Mohanlal, the renowned actor, has nurturing an organic vegetable garden at his Elamakkara home in Kochi for years. During the 2021 lockdown, he engaged fans by sharing videos of his gardening endeavors, showcasing that even small spaces can yield fresh produce with methods like grow bags.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Why Swades actress Gayatri Oberoi walked away from Bollywood",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-swades-actress-gayatri-oberoi-walked-away-from-bollywood-after-one-film-and-chose-a-life-with-husband-vikas-oberoi-and-their-two-sons/articleshow/134497517.cms",
-      "published": "2026-09-26T10:25:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134497535,imgsize-363320.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134497517.cms\" />Gayatri Oberoi gained recognition for her role as Gita in the film Swades, alongside Shah Rukh Khan. After achieving success, she decided to step away from the film industry to focus on her marriage and family.",
+      "title": "Laura Bailey and Ian Alexander join \u2018The Last of Us\u2019 season 3 cast",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-last-of-us-season-3-cast-updates-voiceover-stars-laura-bailey-and-ian-alexander-from-the-game-join-the-ott-show/articleshow/134514728.cms",
+      "published": "2026-09-27T10:14:05+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134514750,imgsize-303405.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134514728.cms\" />In an exciting twist for 'The Last of Us' live-action series, Laura Bailey and Ian Alexander, famed for their voice work in the video game, have entered the cast. Bailey will embody Elizabeth, a formidable Seraphites leader, while Alexander takes on the role of Paco.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Ashley Park recalls cancer battle at 15: \u2018I wouldn\u2019t be here today\u2019 without life-saving blood donors",
-      "url": "https://timesofindia.indiatimes.com/web-series/news/english/at-15-emily-in-paris-star-ashley-park-was-diagnosed-with-cancer-recalling-her-health-battle-she-says-i-wouldnt-be-here-today-without-life-saving-blood-donors/articleshow/134497271.cms",
-      "published": "2026-09-26T10:11:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134497352,imgsize-88575.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134497271.cms\" />Ashley Park, now 35, recalls her isolation during leukaemia treatment and the critical role of blood donors. She emphasizes the importance of acknowledging anonymous donors who contributed to her survival.",
+      "title": "'Nikhila Vimal': 'Coming with ten cameras is difficult for me'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/coming-with-ten-cameras-is-difficult-for-me-nikhila-vimal-explains-sudden-media-encounters-that-is-my-problem-not-yours/articleshow/134514443.cms",
+      "published": "2026-09-27T09:24:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134514454,imgsize-268020.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134514443.cms\" />Nikhila Vimal has shared her discomfort regarding unexpected camera interactions while promoting her film 'Dhoomakethu'. She clarified that her reactions are based on her personal feelings and not directed at journalists.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 20.09
-    },
-    {
-      "category": "Entertainment",
-      "title": "MrBeast in India for 'Ramayana' promotions?",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrbeast-in-india-for-ramayana-promotions-ranbir-kapoor-sai-pallavi-nitesh-tiwari-set-for-special-interaction/articleshow/134496376.cms",
-      "published": "2026-09-26T09:52:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134497092,imgsize-351854.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134496376.cms\" />MrBeast recently visited Agra with his wife and team, which excited his Indian fans. He could be promoting the film 'Ramayana' at a special event on September 26.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Entertainment",
-      "title": "Prince Harry Takes a Leap for a Promise, Then Calls Meghan Markle",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-jumps-off-a-plane-in-canada-to-fulfil-a-promise-makes-a-sweet-call-to-meghan-markle-after-the-adventurous-experience/articleshow/134495574.cms",
-      "published": "2026-09-26T07:12:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134495587,imgsize-831729.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134495574.cms\" />Prince Harry made headlines by bravely jumping out of a plane in Canada for a charity event honoring veteran Ed Marshall, who is 102 years old. Though Marshall couldn't join due to his age, his grandson Bailey filled in for him.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.08
     }
   ]
 }
