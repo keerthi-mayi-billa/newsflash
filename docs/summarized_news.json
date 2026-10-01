@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-30T05:52:43",
+  "generated_at": "2026-10-01T06:23:23",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Another Bihar shocker: After Jamui, Banka, minors abused, assaulted near Gaya hill",
-      "url": "https://timesofindia.indiatimes.com/city/patna/another-bihar-shocker-after-jamui-samastipur-minors-abused-assaulted-near-gaya-hill/articleshow/134580926.cms",
-      "published": "Wed, 30 Sep 2026 09:42:46 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "summary": "Two minors were allegedly assaulted by youths in Mahuadih village near Sherghati police station on Monday. Following the incident, arrests were made after a video surfaced on social media, prompting police investigation.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Top Stories",
-      "title": "\u2018Rs 1 crore ransom\u2019: 3 Gujarat residents heading to US kidnapped in Ethiopia",
-      "url": "https://timesofindia.indiatimes.com/india/rs-1-crore-ransom-3-gujarat-residents-heading-to-us-kidnapped-in-ethiopia/articleshow/134582601.cms",
-      "published": "Wed, 30 Sep 2026 10:57:48 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134582640,imgsize-20064.cms",
+      "title": "'Prevented another 9/11': PM Modi heaps praise on flydubai pilot Captain Machchhar",
+      "url": "https://timesofindia.indiatimes.com/india/prevented-another-9/11-pm-modi-heaps-praise-on-flydubai-pilot-captain-machchhar/articleshow/134608685.cms",
+      "published": "Thu, 01 Oct 2026 10:36:53 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134608772,imgsize-57172.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'Dr Strange in books, Sholay's Thakur in reality': Iran mocks UN",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/dr-strange-in-books-sholays-thakur-in-reality-iran-mocks-un-over-inability-to-stop-wars/articleshow/134581009.cms",
-      "published": "Wed, 30 Sep 2026 09:57:12 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134581125,imgsize-52534.cms",
+      "title": "How Captain Smit Machchhar\u2019s quick thinking helped save 174 lives",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/inside-flydubai-flight-fz1073-how-captain-machchhars-quick-thinking-to-open-cockpit-door-helped-save-174-lives/articleshow/134608575.cms",
+      "published": "Thu, 01 Oct 2026 10:26:57 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134609713,imgsize-151626.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Google CEO 'agrees' that tech firms need to innovate responsibly",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-agrees-to-the-call-that-technology-companies-need-to-innovate-responsibly-says-as-i-shared-today-/articleshow/134581734.cms",
-      "published": "Wed, 30 Sep 2026 10:08:46 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134581751,imgsize-728362.cms",
-      "summary": "In a pivotal move towards responsible AI governance, Google CEO Sundar Pichai, alongside other tech leaders and the US President, endorsed the White House Accord on Super Intelligence. This initiative seeks to promote the safe advancement and implementation of cutting-edge AI technologies.",
+      "title": "Afghanistan says civilians killed in Pak airstrikes; Islamabad says militant hideouts hit",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-6-injured-in-pakistani-airstrikes-in-afghanistans-helmand/articleshow/134607226.cms",
+      "published": "Thu, 01 Oct 2026 08:53:38 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134607273,imgsize-108900.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "Rainfall 4th lowest since 2001: Monsoon deficit at 13%, officially a drought year",
+      "url": "https://timesofindia.indiatimes.com/india/monsoon-deficit-at-13-officially-a-drought-year/articleshow/134602606.cms",
+      "published": "Thu, 01 Oct 2026 03:36:51 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134603333,imgsize-67568.cms",
+      "summary": "Winter Rains Expected To Be Better",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Kai Cenat Threatens Lawsuit: streamer rejects Reggie\u2019s allegations; RaKai denies claims",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/im-calling-the-cops-kai-cenat-threatens-to-sue-reggie-after-serious-allegations-involving-rakai/articleshow/134609636.cms",
+      "published": "2026-10-01T11:21:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134609714,imgsize-54292.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134609636.cms\" />Kai Cenat has threatened legal action against streamer Reggie following serious allegations involving RaKai. Reggie made the claims during an Instagram livestream, prompting Kai to challenge him to present any evidence to authorities.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "India",
-      "title": "Swedish flea-market Buddha bought for SEK 20 sells for SEK 2.44M after 40 years",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-the-1980s-a-swedish-flea-market-buyer-paid-just-over-sek-20-for-a-small-buddha-statue-four-decades-later-experts-traced-it-to-the-ming-dynasty-and-it-sold-for-sek-2-44-million-at-auction/articleshow/134581276.cms",
-      "published": "2026-09-30T11:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134581320,imgsize-640723.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134581276.cms\" />A small Buddha statue purchased for over SEK 20 at a Uppsala flea market turned out to be a rare artifact from the Ming dynasty's Yongle period. After resting in obscurity for years, it astonishingly sold for SEK 2,437,500 at auction.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
-    },
-    {
-      "category": "India",
-      "title": "Ted Turner bought 113,000 Montana acres where wolves, bears and bison now roam",
-      "url": "https://timesofindia.indiatimes.com/world/us/cnn-founder-ted-turner-bought-113000-acres-in-montana-in-1989-decades-later-wolves-bears-and-bison-roam-the-former-cattle-ranch/articleshow/134581730.cms",
-      "published": "2026-09-30T10:30:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134582023,imgsize-2239509.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134581730.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Student protests rock France, over 400 detained: Why are schools protesting",
-      "url": "https://timesofindia.indiatimes.com/world/europe/student-protests-rock-france-with-over-400-detained-why-are-schools-protesting-explained/articleshow/134581586.cms",
-      "published": "2026-09-30T10:11:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134581794,imgsize-148466.cms",
-      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
+      "title": "South Carolina family permanently protects 2,000-acre farm from development in historic deal",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-south-carolina-family-raised-cattle-and-horses-on-its-farm-for-generations-in-2025-it-permanently-protected-2000-acres-from-development-in-the-largest-such-deal-in-laurens-countys-history/articleshow/134608402.cms",
+      "published": "2026-10-01T11:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134608508,imgsize-136886.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134608402.cms\" />A family in South Carolina has successfully established a conservation easement to safeguard 2,000 acres of Creekland Farms from future development. Nestled in the rapidly expanding Laurens County, this agreement not only preserves the land's agricultural and recreational uses but also links it to the neighboring Sumter National Forest.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Iran mocks UN with \u2018Dr Strange-Thakur\u2019 meme over \u2018inability\u2019 to resolve global conflicts",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/dr-strange-in-books-sholays-thakur-in-reality-iran-mocks-un-over-inability-to-stop-wars/articleshow/134581009.cms",
-      "published": "2026-09-30T09:57:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134581125,imgsize-52534.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134581009.cms\" />",
+      "title": "Meet the seventh-grader who found psyllium could remove 93.3% of microplastics in 60 minutes",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-isabella-garry-the-eden-prairie-seventh-grader-who-tested-plant-based-gels-in-simulated-stomach-fluid-and-found-psyllium-could-remove-up-to-93-3-of-microplastics-within-60-minutes/articleshow/134563106.cms",
+      "published": "2026-10-01T11:02:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134563149,imgsize-52473.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134563106.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "Cornell rape case: Transcript reveals rape claim police never shared with DA",
+      "url": "https://timesofindia.indiatimes.com/world/us/rape-case-rocks-cornell-new-transcript-reveals-victim-informed-police-fresh-spotlight-on-das-decision-not-to-charge/articleshow/134608087.cms",
+      "published": "2026-10-01T10:22:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134608559,imgsize-253956.cms",
+      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Economy Showing Strength: Das says India stays robust on demand; warns Global South on risks",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/economy-showing-strength-amid-challenges-das/articleshow/134581934.cms",
-      "published": "2026-09-30T10:24:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134581972,imgsize-55020.cms",
+      "title": "Gold price prediction: Where are gold and silver headed on October 1, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-october-01-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/134609716.cms",
+      "published": "2026-10-01T11:25:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134609745,imgsize-566455.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Rupee slips to 95.97: Currency hovers near 96 amid oil demand, FPI outflows",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-under-pressure-currency-slips-to-95-97-against-us-dollar/articleshow/134581656.cms",
-      "published": "2026-09-30T10:13:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134581808,imgsize-98258.cms",
+      "title": "Scotch whisky gets cheaper in India after trade deal with US; check new prices",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/scotch-whisky-gets-cheaper-in-india-after-uk-trade-pact-johnnie-walker-black-label-prices-falls-to-rs-3800-from-rs-4250-jb-to-rs-1700-from-rs-2300-as-tariff-drops-from-150-to-75/articleshow/134590266.cms",
+      "published": "2026-10-01T11:03:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134590630,imgsize-383885.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.08
     },
     {
       "category": "Business",
-      "title": "Son claims share in mother\u2019s house, cites Rs 2.1 lakh given; couple ordered to vacate",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/son-claimed-share-in-mothers-delhi-house-saying-he-paid-rs-1-5-lakh-for-land-and-rs-60000-for-construction-delhi-high-court-rejects-claim-orders-him-and-wife-to-vacate/articleshow/134568518.cms",
-      "published": "2026-09-30T09:57:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134570597,imgsize-453596.cms",
+      "title": "Senior citizen wrongly paid tax on Rs 25.42 lakh bond interest; ITAT orders Rs 9.91 lakh refund",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/senior-citizen-invested-rs-3-crore-in-tax-free-bonds-but-mistakenly-paid-tax-on-rs-25-42-lakh-interest-earnings-why-itat-delhi-ordered-rs-9-91-lakh-refund/articleshow/134595737.cms",
+      "published": "2026-10-01T02:55:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134596201,imgsize-298244.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Business",
+      "title": "Piyush Goyal gets a \u2018trade minister for life\u2019 tag from US trade chief at G20",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-gets-a-trade-minister-for-life-tag-from-us-trade-chief-at-g20/articleshow/134607379.cms",
+      "published": "2026-10-01T09:28:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134607644,imgsize-980154.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "CJ Desai to lead Meta\u2019s enterprise AI business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/cj-desai-to-lead-metas-enterprise-ai-business/articleshow/134580904.cms",
-      "published": "2026-09-30T09:30:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134580920,imgsize-42244.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.09
     },
     {
       "category": "Education",
@@ -215,43 +215,43 @@
     },
     {
       "category": "Entertainment",
-      "title": "Pralay: Kalyani Priyadarshan shifts to Mumbai, trains for Ranveer Singh starrer",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pralay-kalyani-priyadarshan-shifts-to-mumbai-for-ranveer-singh-starrer-undergoes-intense-action-training-follows-special-diet-ahead-of-bollywood-debut-in-jai-mehtas-zombie-thriller/articleshow/134582067.cms",
-      "published": "2026-09-30T10:56:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134582596,imgsize-66599.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134582067.cms\" />Kalyani Priyadarshan, who has always called Chennai and Kochi home, has made Mumbai her base for much of this year as she gears up for her Hindi film debut in 'Pralay' opposite Ranveer Singh. As per mid-day, the actor has rented an apartment in Juhu to focus entirely on the zombie thriller, undergoing rigorous action training and a specialised diet ahead of the film's next shooting schedule later this year..",
+      "title": "'Baththa' X review: Vijay's performance wins praise",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/baththa-twitter-review-vijay-sethupathis-performance-wins-praise-sai-abhyankkars-music-stands-out-netizens-call-it-a-superb-fun-plus-emotional-show/articleshow/134609787.cms",
+      "published": "2026-10-01T11:33:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134609913,imgsize-432563.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134609787.cms\" />Vijay Sethupathi's 'Baththa' has been praised for standout performances, especially by Vijay and young talent Sabari. With direction by Balaji Tharaneetharan, the film captures the deep connection between a gangster and an innocent boy.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Entertainment",
+      "title": "Rihanna's house shooter indicted for 'attempted murder'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rihannas-house-shooter-indicted-on-on-14-felony-counts-including-attempted-murder/articleshow/134609813.cms",
+      "published": "2026-10-01T11:33:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134609909,imgsize-58182.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134609813.cms\" />Ivanna Lisette Ortiz has been indicted on multiple felony counts, including attempted murder, related to a shooting incident. The incident occurred in March when Ortiz fired a rifle at the home of Rihanna and A$AP Rocky.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Ananya Panday\u2019s Bandra apartment is a dream home by Gauri Khan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-pandays-first-mumbai-home-is-a-girly-dream-designed-by-gauri-khan-1100-sq-ft-bandra-apartment-with-pink-accents-plenty-of-natural-light-airy-living-room-plants-and-balcony/articleshow/134589678.cms",
+      "published": "2026-10-01T05:50:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134590125,imgsize-113289.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134589678.cms\" />Actor Ananya Panday has opened up about her first home, a light-filled 1,100-square-foot apartment in Bandra, Mumbai, designed by family friend and interior designer Gauri Khan. As per Architectural Digest, the space is defined by a soft, controlled palette of pinks, beiges and creams, plenty of natural light and indoor plants, reflecting both Panday's personality and an important milestone of independence in her growing career..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "Radhikka Madan calls out quick judgments on women when relationships fail",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/lust-stories-3-actress-radhikka-madan-says-we-judge-women-very-quickly-when-relationships-fail-calls-out-pressure-on-women-to-make-or-break-the-house-so-the-boy-has-no-part-at-all/articleshow/134609525.cms",
+      "published": "2026-10-01T11:24:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134609703,imgsize-84956.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134609525.cms\" />Radhikka Madan has opened up about her role as Sailee in 'Lust Stories 3', revealing why she was drawn to Shakun Batra\u2019s script and the character\u2019s flaws. In an interview with Mid-Day, the actor discussed women\u2019s desire, the scrutiny women face when relationships fall apart and the changing portrayal of female characters in cinema.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
-    },
-    {
-      "category": "Entertainment",
-      "title": "Shanoo post sparks debate: Casting director\u2019s \u2018talent\u2019 note divides actors",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-shanoo-sharmas-next-big-trend-post-a-response-to-anjali-anand-fans-speculate/articleshow/134582440.cms",
-      "published": "2026-09-30T10:50:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134582504,imgsize-158655.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134582440.cms\" />Casting director Shanoo Sharma's Instagram post, \"I hope the next big trend is talent,\" has sparked speculation, coming days after Anjali Anand claimed Sharma once told her to lose weight. Bhumi Pednekar and Ridhima Pandit reacted, with Pandit arguing connections and visibility matter more in Bollywood, fuelling a wider online debate..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Entertainment",
-      "title": "Aishwarya Rai Bachchan tells paps to get together for a group photo",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-warms-hearts-after-returning-from-paris-fashion-week-invites-paparazzi-to-take-group-pics/articleshow/134582380.cms",
-      "published": "2026-09-30T10:45:23+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134582405,imgsize-296661.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134582380.cms\" />Aishwarya Rai Bachchan made a stunning return from Paris Fashion Week, flaunting her vibrant new burgundy locks. Excited fans and paparazzi were treated to her warm interactions as she signed autographs, even taking a moment to gather for a cheerful group photo.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Entertainment",
-      "title": "Rajinikanth surprises fans by arriving at \u2018Dharmam\u2019 shoot in an auto-rickshaw",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/superstar-rajinikanth-arrives-at-dharmam-shoot-in-an-auto-rickshaw-fans-cheer-thalaiva/articleshow/134582175.cms",
-      "published": "2026-09-30T10:42:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134582353,imgsize-993234.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134582175.cms\" />Rajinikanth has successfully wrapped up filming in Mysuru for his highly anticipated project 'Dharmam', directed by Ashwath Marimuthu. Videos capturing the superstar arriving via auto-rickshaw have made waves across social media, with fans flocking to show their support.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
     }
   ]
 }
