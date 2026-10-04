@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-03T05:38:39",
+  "generated_at": "2026-10-04T06:14:34",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'Go to Pakistan': Dipke on those doing Hindu-Muslim 'divisive' politics",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/go-to-pakistan-cjps-abhijeet-dipke-on-those-doing-hindu-muslim-divisive-politics/articleshow/134650773.cms",
-      "published": "Sat, 03 Oct 2026 07:59:13 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134650816,imgsize-277367.cms",
-      "summary": "Abhijeet Dipke led a large protest in Mumbai demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Thousands of supporters gathered at Shivaji Park, despite police denying permission for the event.",
+      "title": "From historic golf gold to tennis medal miss: India\u2019s biggest hits &amp; flops at Asian Games",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-biggest-hits-and-flops-from-historic-golf-gold-to-tennis-medal-drought/articleshow/134669287.cms",
+      "published": "Sun, 04 Oct 2026 09:35:04 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134669422,imgsize-139946.cms",
+      "summary": "India finished fourth at the 2026 Asian Games with 85 medals, including 21 golds, below its Hangzhou record of 106. Archery, hockey, cricket, boxing and wrestling delivered major successes, while athletics topped the overall medal count with 24.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Top Stories",
+      "title": "FIR lodged after 3 women journalists allege sexual harassment at Delhi protest",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-protest-row-3-women-journalists-allege-sexual-harassment-complaints-sent-to-crime-branch/articleshow/134669493.cms",
+      "published": "Sun, 04 Oct 2026 10:12:27 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134669726,imgsize-216302.cms",
+      "summary": "On October 3, three female journalists reported instances of sexual harassment to the Delhi Police during a protest. These cases were referred to the Crime Branch for further inquiry.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Top Stories",
+      "title": "Delhi hit-and-run: Couple in 70s flung into air after SUV hits them",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/couple-in-70s-hit-by-suv-driver-held-after-fleeing-spot/articleshow/134664538.cms",
+      "published": "Sat, 03 Oct 2026 23:45:16 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134670123,imgsize-10651787.cms",
+      "summary": "A couple in their late seventies found themselves in a critical situation when an SUV struck them from behind in Kirti Nagar. The driver, Navleen Kaur, reportedly checked on the injured pair before fleeing the scene.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Top Stories",
+      "title": "One casualty every 23 minutes: Civilians fatalities mount as Ukraine war intensifies",
+      "url": "https://timesofindia.indiatimes.com/world/europe/one-casualty-every-23-minutes-civilians-fatalities-mount-as-ukraine-war-intensifies/articleshow/134670231.cms",
+      "published": "Sun, 04 Oct 2026 11:15:44 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134670250,imgsize-227322.cms",
+      "summary": "In the first eight months of 2026, the situation in Ukraine has become increasingly dire, with civilian casualties and injuries rising sharply. Reports indicate that nearly 2,500 civilians have been impacted by missile strikes and aerial attacks, targeting both densely inhabited regions and critical infrastructure.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
-      "category": "Top Stories",
-      "title": "Security lapse Israel overlooked? Over 12 Omani pilots flew to Tel Aviv despite ban",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/security-lapse-israel-overlooked-over-12-omani-pilots-flew-to-tel-aviv-despite-ban/articleshow/134651203.cms",
-      "published": "Sat, 03 Oct 2026 09:09:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134651377,imgsize-115734.cms",
-      "summary": "Israeli passengers, the captain and other pilots on board intervened, allowing the plane to make an emergency landing in Saudi Arabia. Most of the passengers were Israeli and were later flown from Saudi Arabia to Israel.",
+      "category": "India",
+      "title": "NSW planted bitou bush to stabilise dunes; it now threatens native ecosystems across 46% of coast",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/from-1946-nsw-planted-south-african-bitou-bush-to-stabilise-coastal-sand-dunes-decades-later-it-had-spread-along-46-of-the-states-coastline-and-threatened-native-ecosystems/articleshow/134656149.cms",
+      "published": "2026-10-04T10:55:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134656235,imgsize-2242157.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134656149.cms\" />Bitou bush was intentionally planted along the New South Wales coast to stabilize sand dunes. This plant has since spread extensively, covering 46% of the coastline and threatening native vegetation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Top Stories",
-      "title": "Watch: Hindu temple in US attacked with bricks, windows shattered",
-      "url": "https://timesofindia.indiatimes.com/world/us/watch-hindu-temple-attacked-with-bricks-in-us-windows-shattered/articleshow/134651599.cms",
-      "published": "Sat, 03 Oct 2026 09:51:57 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134651856,imgsize-7775253.cms",
-      "summary": "An attack on the Shree Swaminarayan Vadtal Dham Hindu Mandir in Richmond Heights occurred while devotees were present. The incident involved bricks being thrown at the temple, resulting in shattered windows.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Top Stories",
-      "title": "China tells families of AI executives to get permission before travelling abroad",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinese-government-to-families-of-ceos-ctos-and-other-top-executives-working-in-ai-companies-you-need-permission-to-travel-to-/articleshow/134644229.cms",
-      "published": "Fri, 02 Oct 2026 22:50:05 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134644338,imgsize-2058457.cms",
-      "summary": "China is implementing expanded travel restrictions on senior professionals in the AI and semiconductor sectors. Family members, including spouses and children, may now require government approval for overseas travel.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
     },
     {
       "category": "India",
-      "title": "How an Omani flagged for extremism ended up piloting a Tel Aviv-bound flydubai jet",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/the-vetting-gap-how-an-omani-flagged-for-extremism-ended-up-piloting-a-tel-aviv-bound-flydubai-jet/articleshow/134652110.cms",
-      "published": "2026-10-03T10:25:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134652207,imgsize-90708.cms",
-      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
+      "title": "Sydney shopper\u2019s A$4 cup turns out to be worth A$75,640",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-sydney-shopper-bought-a-carved-cup-for-a4-at-a-thrift-shop-experts-identified-it-as-a-centuries-old-chinese-rhinoceros-horn-cup-and-was-auctioned-for-a75640-in-2013/articleshow/134656341.cms",
+      "published": "2026-10-04T10:55:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134656401,imgsize-239921.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134656341.cms\" />A shopper discovered a unique Chinese libation cup at a thrift shop in Sydney, Australia. They bought the cup for A$4 despite its significant chip.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Hindu temple hit with bricks in US; Hindu groups demand swift action",
-      "url": "https://timesofindia.indiatimes.com/world/us/watch-hindu-temple-attacked-with-bricks-in-us-windows-shattered/articleshow/134651599.cms",
-      "published": "2026-10-03T09:51:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651856,imgsize-7775253.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134651599.cms\" />An attack on the Shree Swaminarayan Vadtal Dham Hindu Mandir in Richmond Heights occurred while devotees were present. The incident involved bricks being thrown at the temple, resulting in shattered windows.",
+      "title": "US Marine arrested in Japan over murder, robbery of local woman",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/us-marine-arrested-in-japan-over-murder-robbery-of-local-woman/articleshow/134669676.cms",
+      "published": "2026-10-04T10:15:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134669752,imgsize-62178.cms",
+      "summary": "Prisha Patnaik is a journalist with The Times of India, writing across geopolitics, international affairs, culture, history and internet culture. With over two years of experience in social media and digital content, she is interested in how news, politics and culture are shaped for digital audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.05
     },
     {
       "category": "India",
-      "title": "Streamer Details Alleged Abuse: Lyndi alleges domestic and sexual assault; denies blackmailing RatedEpicz",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-lyndi-twitch-streamer-opens-up-about-alleged-abuse-in-past-relationship/articleshow/134650143.cms",
-      "published": "2026-10-03T05:03:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134650146,imgsize-774240.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134650143.cms\" />Twitch streamer Lindsay \u201cLyndi\u201d has opened up about what she says was domestic and sexual abuse during a past relationship with Neil \u201cRatedEpicz\u201d. She also denied blackmail claims and said she accepts responsibility for her own hurtful actions.",
+      "title": "Trump leaks senator\u2019s number after row over clock-change bill: What\u2019s the dispute",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-leaks-senators-number-after-row-over-clock-change-bill-whats-the-dispute/articleshow/134669077.cms",
+      "published": "2026-10-04T08:52:03+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134669181,imgsize-70060.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134669077.cms\" />Under the current system, Americans move their clocks one hour forward in March and one hour back in November. Moving the clock forward means sunrise and sunset appear one hour later on the clock.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "India",
-      "title": "\u2018She\u2019s under siege on social media\u2019: Cornell sexual assault victim's identity under threat",
-      "url": "https://timesofindia.indiatimes.com/world/us/shes-under-siege-on-social-media-cornell-sexual-assault-victims-identity-under-threat/articleshow/134650987.cms",
-      "published": "2026-10-03T08:47:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651278,imgsize-227982.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134650987.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Business",
-      "title": "UPI transactions rise 27% to 145 billion in H1 FY27 ahead of new MDR",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/upi-transactions-rise-27-to-145-billion-in-h1-fy27-ahead-of-new-mdr/articleshow/134651885.cms",
-      "published": "2026-10-03T10:04:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651906,imgsize-57782.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Business",
-      "title": "G7\u2019s 100-million-barrel diesel fix: What happens after the emergency release",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/g7s-100-million-barrel-diesel-fix-what-happens-after-the-emergency-release/articleshow/134651312.cms",
-      "published": "2026-10-03T09:11:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651379,imgsize-39802.cms",
+      "title": "Hydro generation falls short, strains power supply during non-solar hours in Sept",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hydro-generation-falls-short-strains-power-supply-during-non-solar-hours-in-sept/articleshow/134663011.cms",
+      "published": "2026-10-03T22:52:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134663823,imgsize-119518.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Irdai plan to help check mis-selling, raise returns",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-plan-to-help-check-mis-selling-raise-returns/articleshow/134650814.cms",
-      "published": "2026-10-03T08:00:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134650837,imgsize-23016.cms",
+      "title": "Third edition of Green Energy Corridor to add 51,126 ckm transmission lines, 50 GWh BESS",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/third-edition-of-green-energy-corridor-to-add-51126-ckm-transmission-lines-50-gwh-bess/articleshow/134663120.cms",
+      "published": "2026-10-03T22:18:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134663212,imgsize-87496.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "Sea of red for most asset classes",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sea-of-red-for-most-asset-classes/articleshow/134650694.cms",
-      "published": "2026-10-03T07:52:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134650740,imgsize-122644.cms",
+      "title": "Bulk diesel price up Rs 14.6/litre as crude surge squeezes oil cos' margins",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bulk-diesel-price-up-rs-14-6/litre-as-crude-surge-squeezes-oil-cos-margins/articleshow/134663012.cms",
+      "published": "2026-10-03T22:10:15+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134663049,imgsize-82936.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
+    },
+    {
+      "category": "Business",
+      "title": "How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
+      "published": "2026-10-03T22:01:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134662106,imgsize-275259.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.08
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "Sonali Kulkarni celebrates \u2018The Paradise\u2019 success as Nani\u2019s film crosses Rs 100 crore in India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-sonali-kulkarni-celebrates-nani-starrer-crossing-rs-100-crore-in-india-says-super-happy/articleshow/134652528.cms",
-      "published": "2026-10-03T10:46:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134652581,imgsize-156920.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134652528.cms\" />Nani and Srikanth Odela's action thriller 'The Paradise' has reached a remarkable milestone, grossing Rs 100 crore in India. To celebrate, actress Sonali Kulkarni cut a cake, expressing her gratitude to the audience.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Entertainment",
-      "title": "Arjun Das talks Don 3: Actor says villain role is off",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-das-confirms-he-was-in-talks-with-farhan-akhtar-for-don-3-it-was-supposed-to-happen-but-now-its-not/articleshow/134652300.cms",
-      "published": "2026-10-03T10:30:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134652320,imgsize-344826.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134652300.cms\" />Arjun Das has confirmed that Farhan Akhtar approached him for 'Don 3', saying they met and discussed the film, but it isn't happening now. He hopes to work with Farhan soon and has a Hindi film in post-production.",
+      "title": "Hanuman Ansh BO: Day 58 earns Rs 2.10 crore",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-58-vishal-chaturvedi-and-shobhinaw-satyaas-film-holds-strong-in-eighth-weekend-despite-drishyam-3-crosses-rs-321-crore-india-net-and-rs-419-crore-worldwide/articleshow/134670249.cms",
+      "published": "2026-10-04T11:16:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134670261,imgsize-213582.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670249.cms\" />\u2018Hanuman Ansh\u2019, the Neem Karoli Baba devotional film, continues its strong run in its eighth weekend despite \u2018Drishyam 3\u2019. It earned Rs 2.10 crore on day 58 from 1,339 screens, down 6.7%.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Oscar buzz grows for \u2018Godzilla\u2019 ahead of \u2018Ramayana\u2019 clash",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/godzilla-minus-zero-rating-climbs-to-97-best-picture-oscar-buzz-grows-ahead-of-ramayana-clash/articleshow/134651806.cms",
-      "published": "2026-10-03T10:02:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651936,imgsize-534730.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134651806.cms\" />Takashi Yamazaki's film 'Godzilla Minus Zero' has received strong praise and a high Rotten Tomatoes score. It follows the award-winning 'Godzilla Minus One' which won an Oscar for Best Visual Effects.",
+      "title": "Vijay Deverakonda mourn veteran filmmaker Singeetham Srinivasa Rao",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-pays-tribute-to-veteran-filmmaker-singeetham-srinivasa-rao-after-his-death-at-94-recalls-his-cameo-in-sing-geetham-your-stories-will-live-on-with-us-forever/articleshow/134670186.cms",
+      "published": "2026-10-04T11:08:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134670202,imgsize-115700.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670186.cms\" />Singeetham Srinivasa Rao, a veteran filmmaker, has passed away at the age of 94. He was known for his inventive storytelling across multiple Indian film industries.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Fahadh Faasil reveals why he stared wide-eyed",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-enjoy-the-memes-fahadh-faasil-reveals-why-he-stared-wide-eyed-in-viral-video-says-he-was-watching-a-woman-imitate-him-on-stage/articleshow/134651465.cms",
-      "published": "2026-10-03T09:23:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134651480,imgsize-264613.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134651465.cms\" />In a light-hearted reflection, Fahadh Faasil recounted the amusing viral moment from an event where a girl perfectly imitated him, catching him off guard. His surprised expression quickly became meme material, much to his delight.",
+      "title": "Ranvir Shorey says he lost a big film for being 'too vocal' and 'anti-govt'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranvir-shorey-says-he-was-rejected-from-a-big-banner-film-for-being-anti-govt-too-vocal-and-and-potentially-controversial-says-you-have-to-be-your-own-light-the-world-is-a-soul-crushing-place/articleshow/134670079.cms",
+      "published": "2026-10-04T10:57:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134670108,imgsize-104288.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134670079.cms\" />Ranvir Shorey has revealed that he was allegedly rejected from a big-banner film after being labelled \u201canti-govt,\u201d \u201ctoo vocal\u201d and \u201cpotentially controversial.\u201d The actor said a trusted source finally confirmed what he had long suspected and described the experience as disheartening. Shorey, known for his outspoken social media presence and acclaimed performances, received support from several users after sharing the revelation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "Chiranjeevi condemns AI-morphed video targeting women, seeks dedicated support cell",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-condemns-ai-morphed-chuttamalle-video-featuring-jr-ntr-and-janhvi-kapoor-urges-legal-action-and-support-cell-such-acts-are-cruel-shameful-and-completely-unacceptable/articleshow/134669971.cms",
+      "published": "2026-10-04T10:51:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134670072,imgsize-81916.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134669971.cms\" />Chiranjeevi spoke out against the growing prevalence of artificial intelligence being misused to create disrespectful videos aimed at women. He highlighted the urgent need for action within the film industry and called for legal measures against the offenders.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
     }
   ]
 }
