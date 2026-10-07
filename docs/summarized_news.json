@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-06T06:44:01",
+  "generated_at": "2026-10-07T06:21:15",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'I have done my duty': Harmanpreet Kaur steps down as India captain",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-steps-down-as-india-captain-in-all-formats/articleshow/134724345.cms",
-      "published": "Tue, 06 Oct 2026 11:08:41 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134724381,imgsize-138996.cms",
-      "summary": "India women\u2019s captain Harmanpreet Kaur has stepped down from captaincy in all formats, bringing an end to her stint as the team\u2019s leader. Harmanpreet said the decision was not easy but felt she had fulfilled her responsibility as captain..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Creating anarchy to relaunch Rahul': BJP on Congress's Form 6 claims",
-      "url": "https://timesofindia.indiatimes.com/india/creating-anarchy-to-relaunch-rahul-bjp-debunks-congress-form-6-claim-ahead-of-protest-against-cec/articleshow/134723621.cms",
-      "published": "Tue, 06 Oct 2026 10:42:45 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134723880,imgsize-66595.cms",
+      "title": "'Islam wanting to take over': Donald Trump reacts to France school protests",
+      "url": "https://timesofindia.indiatimes.com/world/us/islam-wanting-to-take-over-donald-trump-reacts-to-france-school-protests/articleshow/134753890.cms",
+      "published": "Wed, 07 Oct 2026 07:49:07 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134753977,imgsize-1311066.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Bengaluru gym trainer \u2018strangled\u2019 by collagues at anniversary party",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/deadly-anniversary-bash-bengaluru-gym-trainer-dies-after-assault-by-colleagues/articleshow/134711587.cms",
-      "published": "Mon, 05 Oct 2026 21:04:26 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134711585,imgsize-40800.cms",
-      "summary": "M Nandan, a 25-year-old gym trainer, was allegedly assaulted to death after a quarrel among trainers. The incident occurred at a flat in Kempapura following the gym's anniversary celebration.",
+      "title": "RBI raises interest rates, hikes FY27 growth forecast by 40 bps and inflation by 20 bps",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-raises-interest-rates-hikes-fy27-growth-forecast-by-40bps-and-inflation-by-20bps/articleshow/134757191.cms",
+      "published": "Wed, 07 Oct 2026 11:21:28 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134757335,imgsize-104998.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.18
     },
     {
       "category": "Top Stories",
-      "title": "'Revenge for Gaza': What flydubai Omani co-pilot told interrogators after failed attack",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/revenge-for-gaza-what-flydubai-omani-co-pilot-told-interrogators-after-failed-attack/articleshow/134722171.cms",
-      "published": "Tue, 06 Oct 2026 09:07:32 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134722219,imgsize-945289.cms",
+      "title": "\u2018We will do it\u2019: PM Modi gives new slogan for Viksit Bharat, self-reliant India by 2047",
+      "url": "https://timesofindia.indiatimes.com/india/those-who-opposed-me-taught-me-power-of-democracy-pm-modi-on-completing-25-years-in-public-service-top-quotes/articleshow/134757237.cms",
+      "published": "Wed, 07 Oct 2026 11:19:01 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134757324,imgsize-88532.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
+      "category": "Top Stories",
+      "title": "\u2018History will be kinder to you\u2019: Gautam Gambhir bids farewell to Ajit Agarkar",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/history-will-be-kinder-to-you-gautam-gambhir-bids-farewell-to-ajit-agarkar/articleshow/134757147.cms",
+      "published": "Wed, 07 Oct 2026 11:33:54 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134757505,imgsize-83620.cms",
+      "summary": "Gautam Gambhir expressed his gratitude to Ajit Agarkar after Agarkar's tenure as chief selector ended. During Agarkar's time, India achieved significant success in ICC tournaments, including three trophy victories.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
       "category": "India",
-      "title": "Southern California\u2019s mountain frogs begin their return with 650 releases",
-      "url": "https://timesofindia.indiatimes.com/world/us/southern-california-once-had-so-many-of-these-mountain-frogs-that-people-could-barely-avoid-stepping-on-them-now-about-650-were-released-back-into-the-wild/articleshow/134724366.cms",
-      "published": "2026-10-06T11:16:14+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134724539,imgsize-1864957.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134724366.cms\" />",
+      "title": "A 1920-era American elm survived a 4,000-pound bomb in Oklahoma City",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-1920-era-american-elm-survived-a-4000-pound-bomb-in-oklahoma-city-it-was-nearly-cut-down-to-recover-evidence-before-becoming-the-survivor-tree/articleshow/134756375.cms",
+      "published": "2026-10-07T11:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134756490,imgsize-232680.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134756375.cms\" />An American elm in Oklahoma City known as the Survivor Tree has observed many changes since its likely planting in 1920. The tree was growing in a family backyard before commercial development removed surrounding trees and structures.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "Kirk Douglas\u2019 Beverly Hills home with 40+ celebrity autographs sells for $9M",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1976-kirk-and-anne-douglas-paid-400000-for-a-beverly-hills-home-and-turned-its-garden-path-into-a-private-walk-of-fame-with-more-than-40-celebrity-autographs-45-years-later-the-estate-sold-for-9-015-million/articleshow/134749529.cms",
+      "published": "2026-10-07T00:43:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134749534,imgsize-673121.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134749529.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "219 box turtles rescued after hundreds were dumped near New Jersey river",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-new-jersey-wildlife-centre-is-caring-for-219-box-turtles-after-hundreds-were-dumped-near-a-river-rescuers-are-now-building-outdoor-enclosures-so-the-turtles-can-spend-winter-as-they-would-in-the-wild/articleshow/134723669.cms",
-      "published": "2026-10-06T11:13:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134723855,imgsize-127234.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134723669.cms\" />The Mercer County Wildlife Center is diligently working to rehabilitate 219 abandoned box turtles, found near Cranford, New Jersey, back in July. A significant rescue operation was launched after these turtles were discovered by the riverbank.",
+      "title": "3,000-year-old horse buried inside ancient Egyptian fortress may have been a chariot animal",
+      "url": "https://timesofindia.indiatimes.com/science/archaeology/3000-year-old-horse-buried-inside-ancient-egyptian-fortress-may-have-been-a-chariot-animal-rare-discovery-ramesses-ii-and-libyan-prisoner-tablets-also-found/articleshow/134752425.cms",
+      "published": "2026-10-07T04:08:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134752430,imgsize-139329.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134752425.cms\" />Archaeologists have uncovered the remains of a 3,000-year-old young male horse inside Egypt\u2019s ancient Abqaa\u2019 fortress, suggesting it may have been used to pull a chariot. Nearby harness fittings point to its military role.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.16
     },
     {
       "category": "India",
-      "title": "Soldiers looking for land mines in South Korea have found the country's oldest gun dating back to more than 600 years",
-      "url": "https://timesofindia.indiatimes.com/science/archaeology/soldiers-looking-for-land-mines-in-south-korea-have-found-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-used-to-fire-gunpowder-propelled-arrows/articleshow/134722534.cms",
-      "published": "2026-10-06T11:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134722559,imgsize-544580.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134722534.cms\" />In a fascinating search for hidden landmines, South Korean troops discovered a small bronze gun buried beneath the earth. Dubbed a Hwangja Hwatong, this artifact dates back to the 14th or 15th century.",
+      "title": "In 2021, Georgia police destroyed $37,000 hemp; 6 years later, Supreme Court revives grower\u2019s claim",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2021-georgia-police-aircraft-destroyed-37000-worth-of-legal-hemp-six-years-later-supreme-court-revives-growers-claim-overturning-60-year-old-precedent/articleshow/134750270.cms",
+      "published": "2026-10-07T03:32:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134750277,imgsize-145135.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134750270.cms\" />In 2021, Georgia police aircraft allegedly destroyed $37,000 worth of legally grown hemp during a drug-suppression operation. Six years later, the Georgia Supreme Court revived the grower\u2019s compensation claim, overturning a 60-year-old precedent that broadly shielded government agencies from property-damage claims when acting under police powers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "India",
-      "title": "650 drones overnight: Ukraine unleashes massive strike on Moscow region",
-      "url": "https://timesofindia.indiatimes.com/world/europe/650-drones-overnight-ukraine-unleashes-massive-strike-on-moscow-region/articleshow/134724142.cms",
-      "published": "2026-10-06T10:59:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134724200,imgsize-256756.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134724142.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -111,7 +111,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.14
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108560666,imgsize-13010.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Rupee falls to 96.39 against dollar as oil rises, FII outflows continue",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-to-96-39-against-dollar-as-oil-rises-fii-outflows-continue/articleshow/134724172.cms",
-      "published": "2026-10-06T11:05:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134724208,imgsize-87508.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Stock market today: BSE Sensex down 400 points, NSE Nifty50 holds near 22,600",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-07-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134754942.cms",
+      "published": "2026-10-07T08:33:03+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134754942,imgsize-2518013.cms",
+      "summary": "Most constituents of the 30 share pack Sensex were trading in the red, with Titan emerging as the biggest laggard after falling 4.33% to Rs 4,343.50. Asian Paints declined 1.71% to Rs 2,378.65, while Maruti slipped 1.45% to Rs 11,435.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "South Korea ships over 150,000T fuel to Russia while backing Ukraine financially",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/fueling-both-sides-south-korea-ships-150000t-fuel-to-russia-while-funding-ukraine/articleshow/134723406.cms",
-      "published": "2026-10-06T10:51:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134723849,imgsize-126986.cms",
+      "title": "Man\u2019s VRS payout of Rs 65.21 lakh taxed as salary; ITAT Pune says it is capital receipt",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/man-opted-for-vrs-after-employer-shut-plant-got-rs-65-21-lakh-and-reported-it-as-advance-salary-in-itr-section-89-relief-was-denied-but-itat-pune-later-ruled-it-a-non-taxable-capital-receipt/articleshow/134744200.cms",
+      "published": "2026-10-07T10:14:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134745260,imgsize-336552.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.18
     },
     {
       "category": "Business",
-      "title": "Man gets 6 flats under builder deal, transfers 5 to wife; gets tax notice for Rs 4.14 crore additions",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/man-enters-jda-for-land-gets-6-flats-from-builder-and-transfers-5-to-wife-but-gets-tax-notice-itat-delhi-deletes-rs-4-14-crore-additions-after-finding-no-stock-in-trade-conversion-or-sale/articleshow/134708592.cms",
-      "published": "2026-10-06T10:18:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134711491,imgsize-377294.cms",
+      "title": "Amazon Prime becomes 'permanent home' for Emmy Awards as 'Wheel Deal' system ends",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/amazon-prime-becomes-permanent-home-for-emmy-awards-as-wheel-deal-system-ends/articleshow/134754577.cms",
+      "published": "2026-10-07T09:02:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134755048,imgsize-159234.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.17
     },
     {
       "category": "Business",
-      "title": "Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/google-nears-1-billion-plus-nuclear-power-deal-with-constellation-amid-ai-boom/articleshow/134722202.cms",
-      "published": "2026-10-06T09:21:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134722271,imgsize-147506.cms",
+      "title": "Top stocks to buy today: What are the stock recommendations for October 7, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-07-2026-zensar-technologies-netweb-technologies-india-nippon-india-etf-nifty-it-best-stocks-to-buy-today/articleshow/134754071.cms",
+      "published": "2026-10-07T07:58:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134754148,imgsize-371894.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.2
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Mahakavya producer hints at negative marketing by Ranbir Kapoor's Ramayana team",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahakavya-shri-ramayan-katha-producer-takes-an-indirect-dig-at-ranbir-kapoor-and-namit-malhotras-ramayana-team-for-negative-marketing-and-spreading-wrong-information-amid-poor-box-office-performance-and-re-release-plans-we-never-got-a-chance-to-reach-our-audience/articleshow/134724809.cms",
-      "published": "2026-10-06T11:42:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134725255,imgsize-179620.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134724809.cms\" />'Mahakavya Shri Ramayan Katha' producer Prakash Mahobiya has alleged that negative marketing affected the film\u2019s box office performance and claimed that YouTubers and influencers were spreading misinformation about the movie. Without directly naming Nitesh Tiwari\u2019s 'Ramayana', he referred to a big-budget film on the same subject.",
+      "title": "Alia Mallorca holiday: Actress chills with girl gang",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-alia-bhatts-sun-soaked-mallorca-holiday-with-her-girl-squad-see-photos/articleshow/134757532.cms",
+      "published": "2026-10-07T11:35:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134757664,imgsize-537318.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134757532.cms\" />Alia Bhatt is vacationing in Mallorca, Spain, with best friend Akansha Ranjan Kapoor and their girl gang. Akansha's Instagram photos show balcony views, motorboat and yacht rides, and stylish bikini and evening looks.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Rashmika Mandanna on trolls: 'I can\u2019t fake it to make someone happy'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-on-trolls-i-cant-fake-it-to-make-someone-happy-vijay-deverakonda-calls-trolling-manufactured/articleshow/134725253.cms",
-      "published": "2026-10-06T11:44:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134725297,imgsize-149932.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134725253.cms\" />Rashmika Mandanna discussed handling online criticism regarding her personality and public behavior. She emphasized the importance of staying true to herself and spreading positivity.",
+      "title": "Shah Rukh Khan took personal responsibility for my career: Abhishek Bachchan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-has-always-been-like-an-elder-brother-abhishek-bachchan-reveals-how-the-king-star-has-taken-personal-responsibility-for-his-career-recalls-playing-cricket-with-him-alongside-hrithik-roshan-and-uday-chopra/articleshow/134757129.cms",
+      "published": "2026-10-07T11:18:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134757318,imgsize-103087.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134757129.cms\" />Abhishek Bachchan has opened up about his upcoming film King with Shah Rukh Khan, calling it his favourite project at present. In a conversation with BBC, Abhishek described SRK as an \u201celder brother\u201d and revealed that the superstar has repeatedly taken \u201cpersonal responsibility\u201d for his career, including with King.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "Ewan Mitchell eyed to play James Bond villain?",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/house-of-the-dragon-star-ewan-mitchell-eyed-to-play-denis-villeneuves-james-bond-villain/articleshow/134722870.cms",
-      "published": "2026-10-06T11:37:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134725032,imgsize-121991.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134722870.cms\" />Ewan Mitchell, known for his role in 'House of the Dragon', is emerging as a contender for a Bond villain. The ongoing search for the next James Bond follows Daniel Craig's departure from the franchise.",
+      "title": "'Bethlehem Kudumba Unit' HIDDEN references",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-hidden-references-nivin-pauly-and-mamitha-baijus-film-has-21-pop-culture-nods-from-pattanapravesham-to-kantara/articleshow/134757095.cms",
+      "published": "2026-10-07T11:11:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134757144,imgsize-76354.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134757095.cms\" />The OTT release of Girish A.D.'s 'Bethlehem Kudumba Unit' is turning heads, as viewers delve into its intricacies. Audiences are uncovering a range of clever allusions to Malayalam films, short films, and even viral social media moments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "'Ramayana' actor Sunil Lahri warns of drought and shortages",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-actor-sunil-lahri-warns-of-drought-and-shortages-asks-people-to-cut-consumption-by-15-20-cites-el-nino-says-it-is-a-matter-of-being-smart/articleshow/134724862.cms",
-      "published": "2026-10-06T11:33:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134725017,imgsize-160755.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134724862.cms\" />Actor Sunil Lahri is raising awareness about the need to conserve essential resources amid drought concerns. He addressed the potential impacts of the El Nino phenomenon on rainfall, agriculture, and resources.",
+      "title": "Second baby on the way: Kiara Advani, Sidharth expecting again",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/blessed-once-again-toxic-actress-kiara-advani-announces-second-pregnancy-with-sidharth-malhotra/articleshow/134757045.cms",
+      "published": "2026-10-07T11:04:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134757051,imgsize-228407.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134757045.cms\" />Kiara Advani and Sidharth Malhotra are expecting their second child. Kiara shared a photo of daughter Saraayah holding a tiny white sock, captioned \"Blessed once again with the greatest gift of all.\" The couple, who bonded on Shershaah, married in Jaisalmer in February 2023 and welcomed Saraayah in July 2025..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.09
     }
   ]
 }
