@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-10-09T06:31:23",
+  "generated_at": "2026-10-10T06:13:07",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "\u2018Cover it from a distance\u2019: Delhi Police after claims of journalists under house arrest",
-      "url": "https://timesofindia.indiatimes.com/india/cover-it-from-a-distance-delhi-police-releases-statement-after-accusations-of-journalists-being-placed-under-house-arrest/articleshow/134812462.cms",
-      "published": "Fri, 09 Oct 2026 11:37:40 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134812567,imgsize-291052.cms",
+      "title": "Amid Form 7 bulk filing row, Election Commission limits it to 10 per elector",
+      "url": "https://timesofindia.indiatimes.com/india/amid-form-7-bulk-filing-row-election-commission-limits-it-to-10-per-elector/articleshow/134845483.cms",
+      "published": "Sat, 10 Oct 2026 04:14:17 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134845487,imgsize-1666644.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Watch: 2 Congress leaders slap each other during \u2018vote theft\u2019 protest in Faridabad",
-      "url": "https://timesofindia.indiatimes.com/city/faridabad/watch-2-congress-leaders-slap-each-other-during-vote-theft-protest-in-faridabad/articleshow/134805321.cms",
-      "published": "Fri, 09 Oct 2026 08:57:37 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134805397,imgsize-94915.cms",
-      "summary": "Tensions flared during a Faridabad protest against Chief Election Commissioner Gyanesh Kumar, resulting in Congress leaders Parag Sharma and Gajna Lamba clashing. The confrontation began when Sharma was seen slapping Lamba, which sparked immediate retaliation.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Top Stories",
-      "title": "Why has New Zealand's T20I squad changed ahead of the India series?",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-has-new-zealands-t20i-squad-changed-ahead-of-the-india-series/articleshow/134807223.cms",
-      "published": "Fri, 09 Oct 2026 09:59:19 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134807379,imgsize-32842.cms",
-      "summary": "New Zealand have made two changes to their T20I squad for the upcoming five-match series against India after Mark Chapman and Zak Foulkes were ruled out with injuries. Allrounder Josh Clarkson and fast bowler Blair Tickner have been called up to replace the injured players.",
+      "title": "'Rahul's INDI Alliance and Kejriwal's CJP': BJP on 'plot to destabilise India'",
+      "url": "https://timesofindia.indiatimes.com/india/rahuls-indi-alliance-and-kejriwals-cjp-bjp-accuses-protesters-of-plotting-to-destabilise-india-ahead-of-jantar-mantar-protest/articleshow/134847951.cms",
+      "published": "Sat, 10 Oct 2026 11:00:53 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134847987,imgsize-65942.cms",
+      "summary": "BJP national president Nitin Nabin has accused the INDIA bloc of jeopardizing national stability for the sake of their political ambitions. He deemed their actions perilous and suggested they're influenced by foreign entities.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
       "category": "Top Stories",
-      "title": "Musk shares 'congratulations message' to fellow recipients as US govt presents medals",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-government-presents-science-medals-elon-musk-shares-congratulations-message-for-sergey-brin-jensen-huang-lisa-su-michael-dell-and-satya-nadella/articleshow/134807592.cms",
-      "published": "Fri, 09 Oct 2026 10:07:56 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134807738,imgsize-81468.cms",
-      "summary": "At the Science: A New Golden Age Summit, the US government honored tech visionaries such as Jensen Huang and Lisa Su with the National Medal of Science. President Donald Trump awarded these distinguished medals, recognizing their exceptional impact on technology and innovation, showcasing the profound influence these leaders have on the fabric of American society and its economy..",
+      "title": "\u2018Gyanesh will go, this govt will go\u2019: Rahul as Delhi braces for \u2018Jantar Mantar 2.0\u2019",
+      "url": "https://timesofindia.indiatimes.com/india/gyanesh-kumar-will-go-this-govt-will-go-rahul-gandhi-as-delhi-braces-for-jantar-mantar-2-0/articleshow/134847762.cms",
+      "published": "Sat, 10 Oct 2026 11:08:27 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134848063,imgsize-720268.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 0.0
     },
     {
-      "category": "India",
-      "title": "Sydney Sweeney\u2019s $6.2 million Bel-Air estate preserves old Hollywood charm",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/sydney-sweeney-bought-a-6-2-million-1930s-bel-air-estate-on-1-25-acres-she-wanted-to-restore-its-overgrown-garden-without-erasing-its-old-hollywood-character/articleshow/134812530.cms",
-      "published": "2026-10-09T11:43:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134814021,imgsize-2286382.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134812530.cms\" />",
+      "category": "Top Stories",
+      "title": "Abhijeet Dipke, Saurav Das and Ashutosh Ranka detained from Delhi airport",
+      "url": "https://timesofindia.indiatimes.com/india/cjps-abhijeet-dipke-saurav-das-and-ashutosh-ranka-detained-from-delhi-airport-ahead-of-jantar-mantar-protest/articleshow/134847259.cms",
+      "published": "Sat, 10 Oct 2026 10:57:55 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134847934,imgsize-87180.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Miami airport passenger had \u2018unexplained bulge\u2019; 10 live birds found in underwear",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-miami-airport-passenger-had-an-unexplained-bulge-officers-found-10-live-birds-hidden-in-his-underwear/articleshow/134812734.cms",
-      "published": "2026-10-09T11:42:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134813575,imgsize-1000570.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134812734.cms\" />",
+      "title": "Streamers Split On Execution: HasanAbi and Asmongold clash over Nidal Malik Hasan; debate over livestream",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/its-gross-its-barbaric-hasanabi-and-asmongold-clash-over-nidal-malik-hasans-planned-firing-squad-execution/articleshow/134845460.cms",
+      "published": "2026-10-10T05:31:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134845480,imgsize-729255.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134845460.cms\" />HasanAbi criticised the reported plan to execute Nidal Malik Hasan by firing squad and livestream the event, calling it \u201cbarbaric\u201d and comparing it to the Dark Ages. Hasan, responsible for the 2009 Fort Hood shooting, reportedly faces execution on December 3, 2026.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "India",
+      "title": "9/11 attacks inspired Flydubai hijacker to become a pilot: UAE probe",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/9/11-attacks-inspired-flydubai-hijacker-to-become-a-pilot-uae-probe-finds/articleshow/134846180.cms",
+      "published": "2026-10-10T07:40:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134846222,imgsize-841022.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134846180.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "21-year-old raises over $146,000 in 24 hours for 80-year-old AMC usher after viral TikTok",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-21-year-old-tennessee-moviegoer-noticed-an-80-year-old-amc-usher-emptying-trash-after-a-screening-and-hoped-a-tiktok-fundraiser-might-bring-in-500-strangers-donated-more-than-146000-in-less-than-24-hours/articleshow/134785511.cms",
-      "published": "2026-10-09T11:05:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134786117,imgsize-74348.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134785511.cms\" />A 21-year-old woman in Tennessee raised more than $146,000 in less than 24 hours for an 80-year-old AMC cinema worker after noticing her cleaning up rubbish. Brooklyn Green initially hoped to collect $500 through TikTok and GoFundMe.",
+      "title": "Green Cards reflect cases started years ago: Immigration attorney raises 5 points on Trump administration's PERM ban",
+      "url": "https://timesofindia.indiatimes.com/world/us/green-cards-reflect-cases-started-years-ago-immigration-attorney-raises-5-points-on-trump-administrations-perm-ban/articleshow/134842524.cms",
+      "published": "2026-10-10T01:48:19+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842527,imgsize-81604.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134842524.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "\u2018The Orange Plague\u2019: Why a golden, naked Trump is sitting on another man",
-      "url": "https://timesofindia.indiatimes.com/world/us/the-orange-plague-why-a-golden-naked-trump-is-sitting-on-another-man/articleshow/134808403.cms",
-      "published": "2026-10-09T10:32:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134808881,imgsize-71214.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134808403.cms\" />",
+      "title": "Green Card process suspended for 8 companies: Immigration experts on what happens to approved I-140, existing H-1Bs; whether employees should leave these companies",
+      "url": "https://timesofindia.indiatimes.com/world/us/green-card-process-suspended-for-8-companies-immigration-experts-on-what-happens-to-approved-i-140-existing-h-1bs-whether-employees-should-leave-these-companies/articleshow/134842418.cms",
+      "published": "2026-10-10T01:17:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842427,imgsize-50762.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134842418.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
+    },
+    {
+      "category": "Business",
+      "title": "States to assess GDP through spending method",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/states-to-assess-gdp-through-spending-method/articleshow/134842637.cms",
+      "published": "2026-10-10T02:36:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842641,imgsize-57446.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Rs 2 crore deposit, no ITR, Rs 2.51 crore addition; ITAT quashes because reassessment is 5 days late",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/man-had-rs-2-crore-bank-deposit-and-didnt-file-itr-faced-rs-2-51-crore-tax-addition-itat-chennai-quashes-reassessment-after-income-tax-department-missed-6-year-deadline-by-5-days/articleshow/134799653.cms",
-      "published": "2026-10-09T10:03:29+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134800041,imgsize-341614.cms",
+      "title": "US trade talks steady, visa curbs may help India: Piyush Goyal",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/us-trade-talks-steady-visa-curbs-may-help-india-piyush-goyal/articleshow/134842631.cms",
+      "published": "2026-10-10T02:32:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842633,imgsize-92970.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Stock market today: BSE Sensex jumps over 750 points, Nifty50 climbs above 22,480",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-09-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134806183.cms",
-      "published": "2026-10-09T09:14:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134806183,imgsize-75010.cms",
-      "summary": "Top stocks to buy or sell today: Stock market recommendations for October 9, 2026 - check list Japan\u2019s Nikkei 225 fell sharply on Friday as concerns over the red-hot artificial intelligence sector and stress in global bond markets weighed on investor sentiment. The benchmark index dropped 1.06% to 68,308.92 in early trading, putting it on course for a slight weekly decline.",
+      "title": "Forex reserves fall by $13bn to $734.6bn",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/forex-reserves-fall-by-13bn-to-734-6bn/articleshow/134842623.cms",
+      "published": "2026-10-10T02:32:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842628,imgsize-95224.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "Business",
+      "title": "Religious, spiritual &amp; astrology apps see nearly 30cr downloads in Jan-Sept",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/religious-spiritual-astrology-apps-see-nearly-30cr-downloads-in-jan-sept/articleshow/134842601.cms",
+      "published": "2026-10-10T02:24:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134842603,imgsize-76238.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
-    },
-    {
-      "category": "Business",
-      "title": "TCS says Trump's PERM suspension won't affect US plans, targets 15,000 new hires",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-says-trumps-perm-us-green-card-programme-suspension-wont-affect-us-plans-targets-15000-new-hires/articleshow/134805269.cms",
-      "published": "2026-10-09T08:59:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134805416,imgsize-84554.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Business",
-      "title": "Stock recommendations: Which stocks should you buy or sell on October 9, 2026?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-09-2026-axis-bank-authum-investment-infrastructure-ltd-dixon-stocks-to-buy-or-sell-today/articleshow/134800106.cms",
-      "published": "2026-10-09T08:43:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134804973,imgsize-784705.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.03
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Sonali recalls Nana's care: Actor remembers his kindness",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonali-kulkarni-remembers-nana-patekars-care-during-her-pregnancy-while-promoting-deool/articleshow/134813467.cms",
-      "published": "2026-10-09T11:39:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134813594,imgsize-221905.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134813467.cms\" />Sonali Kulkarni calls Nana Patekar a \u201cdear friend\u201d and recalls how caring he was during her pregnancy while promoting \u2018Deool\u2019. She praised his unscripted acting and said he lived life on his own terms.",
+      "title": "Vidyut Jammwal on being typecast in action roles before Street Fighter debut",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-wanted-everybody-to-say-vidyut-does-action-vidyut-jammwal-explains-why-he-embraced-being-typecast-in-bollywood-before-his-hollywood-debut-as-dhalsim-in-street-fighter/articleshow/134848147.cms",
+      "published": "2026-10-10T11:26:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134848300,imgsize-104402.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134848147.cms\" />Vidyut Jammwal has revealed that he always wanted to be typecast as an action star in Bollywood. In an interview with Mid-Day, the actor explained why he embraces the label and how it reflects his career ambitions.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "Nana Patekar's last film Shakti Shalini pushed to 2027 to avoid clash with Shah Rukh Khan\u2019s King",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-and-aneet-padda-starrer-shakti-shalini-pushed-to-2027-to-avoid-clash-with-shah-rukh-khan-led-king-as-director-aditya-sarpotdar-confirms-late-actor-had-completed-shooting-in-may-report/articleshow/134811924.cms",
-      "published": "2026-10-09T11:25:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134812408,imgsize-105267.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134811924.cms\" />Aneet Padda's Shakti Shalini has reportedly been pushed from Christmas 2026 to early 2027 to avoid a box-office clash with Shah Rukh Khan's 'King'. According to Mid-Day, the makers are considering a March release, though no date is confirmed.",
+      "title": "Jr NTR wishes SS Rajamouli on 53rd birthday, calls him a man who keeps \u2018raising the bar\u2019",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/he-keeps-raising-the-bar-and-then-jumps-over-it-himself-jr-ntr-wishes-varanasi-director-ss-rajamouli-with-a-playful-throwback-picture-from-their-rrr-days-on-his-53rd-birthday/articleshow/134847998.cms",
+      "published": "2026-10-10T11:06:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134848046,imgsize-73904.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134847998.cms\" />On SS Rajamouli's birthday, Jr NTR lauded the director's exceptional talent and their enduring camaraderie. He shared a fun snapshot that reflects their longstanding friendship and collaborative history, which includes four blockbuster films, with 'RRR' standing out for its global impact.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Matka King 2: Kritika says Gulrukh gains more agency",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-second-season-will-give-gulrukh-more-agency-kritika-kamra-on-her-characters-more-empowered-and-evolving-journey-in-vijay-varmas-matka-king-2/articleshow/134847943.cms",
+      "published": "2026-10-10T11:02:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134848010,imgsize-186707.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134847943.cms\" />Kritika Kamra will return as Gulrukh in \u2018Matka King 2\u2019, and she promises a bolder, more assertive character. She said Gulrukh now shapes her world instead of merely reacting to it.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "'KGF' actress Srinidhi Shetty dismisses Rs 8 crore salary rumours",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/how-can-i-ask-for-such-huge-amount-kgf-actress-srinidhi-shetty-dismisses-rs-8-crore-salary-rumours/articleshow/134811010.cms",
-      "published": "2026-10-09T11:05:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134811067,imgsize-150424.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134811010.cms\" />Srinidhi Shetty has denied the rumors surrounding her supposed Rs 7-8 crore salary for films, asserting that her limited filmography makes such figures implausible. She emphasized that her choices in projects are driven by the quality of storytelling rather than monetary factors.",
+      "title": "Britney Spears drops unreleased song she wrote with Justin Timberlake",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-releases-shell-never-be-me-an-unreleased-song-she-co-wrote-with-justin-timberlake-before-their-2002-breakup-ahead-of-britney-anniversary/articleshow/134847996.cms",
+      "published": "2026-10-10T11:02:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134848016,imgsize-44052.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134847996.cms\" />Britney Spears has delighted fans by releasing an unreleased track, 'She\u2019ll Never Be Me,' dating back to 2001. Co-written with her former partner Justin Timberlake, this song was initially meant for her anticipated third studio album.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Entertainment",
-      "title": "Director recalls Rs 7 lakh flight: Ananth remembers Nana Patekar",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananth-mahadevan-recalls-the-time-nana-patekar-fled-the-airport-on-learning-the-australia-flights-duration/articleshow/134810482.cms",
-      "published": "2026-10-09T10:58:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134810662,imgsize-280873.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134810482.cms\" />Ananth Mahadevan says he was privileged to direct Nana Patekar in \u2018The Confession of Mary\u2019, which has wrapped shooting with 10 days of post-production left. He recalled Patekar saying the rough cut made him feel like an actor, and how the star once fled the airport on learning a flight\u2019s duration, forfeiting Rs 7 lakh..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.11
     }
   ]
 }
