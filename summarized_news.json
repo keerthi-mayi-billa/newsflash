@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-12T06:21:03",
+  "generated_at": "2026-10-13T07:02:53",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Watch: Moment missile hit Riyadh airport; 13 killed, including Indian national",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-new-footage-shows-moment-missile-hit-riyadh-airport-13-killed-including-indian-national/articleshow/134881800.cms",
-      "published": "Mon, 12 Oct 2026 09:26:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134881870,imgsize-8152715.cms",
+      "title": "CJP's Das, Ranka try to sneak into Jantar Mantar, detained by Delhi Police",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/cjp-leaders-saurav-das-ashutosh-ranka-and-other-team-members-detained-by-delhi-police-again-claims-dipke/articleshow/134907662.cms",
+      "published": "Tue, 13 Oct 2026 09:37:24 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134907968,imgsize-134571.cms",
+      "summary": "Members of the Cockroach Janta Party gathered at Jantar Mantar carrying the national flag. They aimed to protest against the current government led by Narendramodi.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "Top Stories",
+      "title": "CJI asks petitioners to fix defects after SC flags 14 in INDIA bloc plea against CEC",
+      "url": "https://timesofindia.indiatimes.com/india/cji-surya-kant-asks-petitioners-to-fix-defects-after-sc-flags-14-in-india-bloc-plea-against-cec/articleshow/134909815.cms",
+      "published": "Tue, 13 Oct 2026 11:47:57 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134909994,imgsize-1345228.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Kolhapur man \u2018pushes\u2019 girlfriend into 1,000ft valley after family fixes her marriage",
-      "url": "https://timesofindia.indiatimes.com/city/kolhapur/kolhapur-man-pushes-girlfriend-into-1000ft-deep-valley-after-her-family-fixes-marriage-elsewhere/articleshow/134882447.cms",
-      "published": "Mon, 12 Oct 2026 10:23:22 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134882557,imgsize-155345.cms",
-      "summary": "Tarrannum Naik, a 23-year-old engineering student, was found dead in a valley near Naikwadi waterfall. Her boyfriend, Sripad Vadar, was arrested after police discovered inconsistencies in his statements.",
+      "title": "Activist shot dead while exposing drug trade in Punjab; caught on social media live",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/anti-drug-activist-parwinder-singh-jhota-shot-dead-during-sting-operation-in-punjab/articleshow/134909393.cms",
+      "published": "Tue, 13 Oct 2026 11:23:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134910057,imgsize-4228220.cms",
+      "summary": "Parwinder Singh Jhota was involved in a sting operation targeting a medical store in Mansa. He confronted the store owner about selling prohibited substances and had a heated exchange before being shot.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.11
     },
     {
       "category": "Top Stories",
-      "title": "Passenger's device catches fire, Delhi-Chennai flight diverted",
-      "url": "https://timesofindia.indiatimes.com/india/passengers-device-starts-smoking-flight-diverted/articleshow/134879740.cms",
-      "published": "Mon, 12 Oct 2026 04:34:29 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134879739,imgsize-28346.cms",
-      "summary": "",
+      "title": "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi",
+      "url": "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
+      "published": "Tue, 13 Oct 2026 11:15:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-134909087,imgsize-170297.cms",
+      "summary": "Sahithi Varshini Moogi\u2019s journey to becoming India\u2019s latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and facing financial hardships and limited opportunities, she achieved the milestone with her father, Lokeswara Moogi Rao, as her coach.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Inconveniencing public': CM Yogi slams INDIA bloc for blaming EC when they lose",
-      "url": "https://timesofindia.indiatimes.com/india/they-are-inconveniencing-common-public-yogi-adityanath-slams-india-bloc-for-blaming-ec-when-they-lose/articleshow/134883170.cms",
-      "published": "Mon, 12 Oct 2026 11:29:58 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-134883774,imgsize-100134.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.21
     },
     {
       "category": "India",
-      "title": "Michigan couple loses claim to 50-foot land strip after neighbour commissions two surveys",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-michigan-couple-bought-land-at-a-2015-tax-sale-and-claimed-a-50-foot-strip-lost-through-a-1965-deed-error-after-two-surveys-put-it-with-their-neighbour-an-appeals-court-ruled-against-them/articleshow/134870098.cms",
-      "published": "2026-10-12T11:04:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134870425,imgsize-274248.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134870098.cms\" />A Michigan couple has lost a legal battle over a 50-foot-wide strip of land they claimed was wrongly excluded from their property because of an error in a 1965 deed. The couple, who bought their land at a 2015 tax sale, argued that previous owners had used the disputed area for decades.",
+      "title": "Michael Dell-backed firm\u2019s $875 million Boca Raton resort bet draws luxury homebuyers; 40% of first 75 condos claimed",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2019-a-michael-dell-backed-firm-bought-the-boca-raton-resort-for-875-million-and-later-spent-about-375-million-upgrading-it-now-40-of-its-first-75-luxury-condos-have-been-claimed/articleshow/134909997.cms",
+      "published": "2026-10-13T12:09:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134910276,imgsize-759089.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134909997.cms\" />An impressive $875 million investment is set to transform The Boca Raton resort into a luxurious haven of residential condominiums. With around 40% of these high-end residences already reserved, pricing starts at $8.95 million and can exceed $20 million.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.13
     },
     {
       "category": "India",
-      "title": "Tyler Perry donated $750K to clear property tax debt for 300+ Atlanta seniors",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1992-tyler-perry-put-his-12000-savings-into-a-failed-atlanta-play-and-later-spent-months-living-in-a-car-decades-later-his-750000-gift-helped-pay-back-taxes-for-300-seniors-and-freeze-taxes-for-100-more/articleshow/134877149.cms",
-      "published": "2026-10-12T11:03:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134877158,imgsize-877612.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134877149.cms\" />Tyler Perry has made a significant donation of $750,000 to assist low-income senior citizens in Atlanta. This contribution will help more than 300 seniors pay overdue property taxes and remain in their homes.",
+      "title": "New Yorkers queue for hours to buy subway memorabilia, with signs costing over $1,000",
+      "url": "https://timesofindia.indiatimes.com/world/us/new-yorkers-queued-for-hours-to-buy-discarded-subway-hardware-at-an-mta-sale-where-old-signs-cost-500-to-over-1000-orange-seats-sold-for-about-900-and-spike-lee-picked-up-a-penn-station-sign/articleshow/134909394.cms",
+      "published": "2026-10-13T12:10:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134909812,imgsize-192584.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134909394.cms\" />New Yorkers queued for hours at an annual MTA sale in south Brooklyn to buy discarded subway signs, seats and MetroCards. Station signs cost $500 to over $1,000, while orange subway seats sold for around $900.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.2
     },
     {
       "category": "India",
-      "title": "University of Glasgow develops \u00a320 ultrasound device to produce fertiliser from air and water",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/university-of-glasgow-develops-20-ultrasound-device-to-produce-fertiliser-from-air-and-water-aiming-to-help-farmers-in-remote-areas/articleshow/134883471.cms",
-      "published": "2026-10-12T10:57:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883604,imgsize-112324.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134883471.cms\" />Researchers at the University of Glasgow have developed an affordable ultrasound device to produce nitrate for agriculture. This device uses sound waves, air, and water to create nitrate without industrial production reliance.",
+      "title": "Opal Tower cracks forced Christmas Eve evacuation in 2018; eight years later, it is defect-free",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/on-christmas-eve-2018-cracks-forced-residents-from-sydneys-opal-tower-after-nearly-eight-years-of-repairs-relocations-a-class-action-and-two-legal-cases-the-complex-has-been-declared-defect-free/articleshow/134891614.cms",
+      "published": "2026-10-13T11:10:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134891812,imgsize-1689121.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134891614.cms\" />After nearly eight years of uncertainty, Sydney's Opal Tower has officially been declared defect-free, following significant structural issues uncovered in December 2018. This crisis led to evacuations, extensive repairs, and legal conflicts regarding the building's safety standards.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.15
     },
     {
       "category": "India",
-      "title": "Why did Pakistan declare Emergency in Imran Khan's bastion Khyber Pakhtunkhwa",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/why-did-pakistan-declare-emergency-in-imran-khans-bastion-khyber-pakhtunkhwa/articleshow/134883270.cms",
-      "published": "2026-10-12T10:40:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883286,imgsize-973818.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134883270.cms\" />",
+      "title": "14-year-old Indonesian plants 38,000 mangroves, helps local women turn them into sustainable products",
+      "url": "https://timesofindia.indiatimes.com/science/nature/a-14-year-old-indonesian-conservationist-planted-thousands-of-mangroves-and-helped-local-women-develop-sustainable-products-linking-coastal-restoration-with-livelihoods-for-fishing-communities/articleshow/134908608.cms",
+      "published": "2026-10-13T11:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134908669,imgsize-1027178.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908608.cms\" />In Indonesia, young activist Harley Fatahillah Yodhaloka Sunoto is leading a passionate campaign for mangrove restoration and climate education. Through his Mangrove Warrior initiative, he has successfully planted thousands of seedlings in critical coastal regions, strengthening ecosystems and supporting local communities.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.13
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.16
     },
     {
       "category": "Business",
-      "title": "RBI measures see sharp impact as rupee rises 1% against US dollar; what steps were announced?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-see-sharp-impact-as-rupee-rises-1-against-us-dollar-what-steps-were-announced/articleshow/134883669.cms",
-      "published": "2026-10-12T11:10:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883763,imgsize-544713.cms",
+      "title": "Gold price prediction today: What is the outlook for gold on October 13, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-october-13-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/134909904.cms",
+      "published": "2026-10-13T11:43:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134909949,imgsize-656777.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.15
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex rebounds after 300-point jump; Nifty holds above 22,550",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-12-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134881636.cms",
-      "published": "2026-10-12T08:30:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134881636,imgsize-85226.cms",
-      "summary": "The rupee rebounded sharply from a record low level, gaining 91 paise to 95.80 against the US dollar in early trade on Monday, after the Reserve Bank of India stepped in with several measures to contain volatility in the currency exchange market. Indian shares are set to open higher on Monday after ending their longest weekly losing streak in 25 years on Friday, supported by a decline in oil prices amid hopes of a Russia-Ukraine energy ceasefire and fresh currency-support measures announced by the Reserve Bank of India (RBI).",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Business",
-      "title": "Oil prices today: Brent crude declines as Trump announces Russia-Ukraine energy truce",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-declines-as-trump-announces-russia-ukraine-energy-truce/articleshow/134882273.cms",
-      "published": "2026-10-12T10:05:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134882525,imgsize-142774.cms",
+      "title": "Which stocks should you buy or sell on October 13, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-13-2026-ban-of-india-gail-dabur-india-dr-reddys-laboratories-stocks-to-buy-or-sell-today/articleshow/134896036.cms",
+      "published": "2026-10-13T08:56:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134896175,imgsize-518016.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "Taxman alleged IT park firm was a tax dodge; ITAT rules for five landowners",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/five-bangalore-landowners-faced-tax-on-rental-income-from-an-it-park-built-through-a-partnership-firm-it-department-alleged-it-was-a-tax-avoidance-structure-itat-gives-relief/articleshow/134881048.cms",
-      "published": "2026-10-12T10:04:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134881633,imgsize-385127.cms",
+      "title": "HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-jumps-over-5-tcs-up-4-why-are-it-stocks-rallying/articleshow/134908713.cms",
+      "published": "2026-10-13T11:15:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134909355,imgsize-147966.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.2
+    },
+    {
+      "category": "Business",
+      "title": "Rupee extends winning streak, rises to 94.96 against dollar as RBI tightens forex rules",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-extends-winning-streak-rises-to-94-96-against-dollar-as-rbi-tightens-forex-rules/articleshow/134907993.cms",
+      "published": "2026-10-13T10:15:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134908016,imgsize-69236.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.17
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.17
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.11
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.37
     },
     {
       "category": "Entertainment",
-      "title": "Ravie on Lakshman role: TV star hails \u2018greatest honour\u2019 of career",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ravie-dubey-on-playing-lord-lakshman-hope-and-pray-every-day-that-i-have-tapped-into-the-sincerity-that-the-character-demands/articleshow/134884082.cms",
-      "published": "2026-10-12T11:29:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134884117,imgsize-146326.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134884082.cms\" />Ravie Dubey, who plays Lord Lakshman in \u2018Ramayana\u2019, says he is \u201cfully aware of the responsibility\u201d of portraying a character who has lived in people\u2019s hearts for thousands of years. Praised for his look, he calls the role a great honour.",
+      "title": "Tumbbad 2: Sohum Shah says writing needs time",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohum-shah-drops-hint-about-tumbbad-2-says-it-will-surprise-you/articleshow/134910291.cms",
+      "published": "2026-10-13T12:08:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134910381,imgsize-142744.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134910291.cms\" />Sohum Shah says \u201cTumbbad 2\u201d will surprise audiences. He told Variety India the sequel took five years to write because he wanted it to feel new, not just ride the original\u2019s success.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "Abhay Jodhpurkar recalls SRK supporting his voice for Zero's Mere Naam Tu",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shah-rukh-khan-sir-felt-that-the-voice-suited-him-abhay-jodhpurkar-recalls-how-ajay-atul-aanand-l-rai-and-irshad-kamil-took-a-stand-for-him-for-mere-naam-tu-from-zero-amid-pressure-to-replace-him-with-an-established-singer/articleshow/134883608.cms",
-      "published": "2026-10-12T11:04:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883820,imgsize-91620.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134883608.cms\" />Abhay Jodhpurkar opens up to Variety India about industry gatekeeping, self-doubt and how Ajay-Atul backed his voice for Shah Rukh Khan\u2019s \u2018Mere Naam Tu\u2019 from \u2018Zero\u2019. The singer recalls A.R.",
+      "title": "'Ramayana' makers unveil Jatayu poster featuring Anupam Kher",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-sai-pallavi-and-yashs-ramayana-makers-unveil-jatayu-poster-featuring-anupam-kher-as-the-voice-of-the-brave-bird/articleshow/134910013.cms",
+      "published": "2026-10-13T11:55:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134910099,imgsize-274267.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134910013.cms\" />The character poster for 'Ramayana' introduces Jatayu, a mythical bird that embodies valor and duty. Anupam Kher, a seasoned actor, provides the voice for this pivotal figure.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.13
     },
     {
       "category": "Entertainment",
-      "title": "Shriya on age-gap casting: Says it doesn\u2019t make sense",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-shriya-saran-reacts-to-8-year-age-gap-with-on-screen-daughter-ishita-dutta-says-story-impactful-all-these-things-doesnt-matter/articleshow/134883559.cms",
-      "published": "2026-10-12T10:56:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883589,imgsize-346423.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134883559.cms\" />Shriya Saran says playing mother to Ishita Dutta, who is eight years younger, in the \u2018Drishyam\u2019 franchise \u201cdoesn\u2019t make sense,\u201d but the story is so strong that it doesn\u2019t matter. She praised the makers for justifying the age gap.",
+      "title": "'Jailer 2' gets devotional touch as Rajinikanth fans offer special prayers",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-gets-devotional-touch-as-rajinikanth-fans-offer-special-prayers-at-temple-ahead-of-superstars-film-release/articleshow/134909283.cms",
+      "published": "2026-10-13T11:46:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134909292,imgsize-415036.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134909283.cms\" />Rajinikanth is set to return to the silver screen with 'Jailer 2', premiering on October 15. With advance ticket sales soaring to Rs 16.56 crore, anticipation is building among fans.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "Mirnaa Menon recalls health scare during 'Jailer 2' shoot",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-couldnt-even-brush-my-teeth-mirnaa-menon-recalls-health-scare-during-rajinikanths-jailer-2-shoot-actress-took-injection-and-tablets-before-shoot/articleshow/134883378.cms",
-      "published": "2026-10-12T10:44:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-134883399,imgsize-316870.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134883378.cms\" />On the set of 'Jailer 2', Mirnaa Menon battled considerable health challenges just hours before a pivotal scene. Demonstrating remarkable resolve, she pursued medical attention and, after an arduous search, received treatment that allowed her to participate in the shoot.",
+      "title": "\u2018Doomsday\u2019 eyes USD 360 million haul in China",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-eyes-usd-360-million-china-box-office-haul-robert-downey-jr-gears-up-for-usd-1-billion-global-opening/articleshow/134908786.cms",
+      "published": "2026-10-13T11:25:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-134908793,imgsize-481729.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134908786.cms\" />Avengers: Doomsday is set to release in December and has reportedly crossed USD 100 million in advance ticket sales. Early projections suggest the film could earn around USD 360 million in China alone.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.14
     }
   ]
 }
