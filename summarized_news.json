@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-17T04:51:39",
+  "generated_at": "2026-10-18T04:57:57",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 25,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Trump waives Russia oil curbs amid 100% tariff threat: What it means for India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/trump-waives-us-sanctions-tariffs-on-russian-oil-gas-what-it-means-for-india/articleshow/135006269.cms",
-      "published": "Sat, 17 Oct 2026 08:14:06 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135006290,imgsize-519488.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Kolkata: Video shows crowd breaching barricades, tussling with cops day before stampede",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-stampede-video-shows-crowd-breaching-barricades-tussling-with-cops-at-chorbagan-pandal-day-before-tragedy/articleshow/135023324.cms",
+      "published": "Sun, 18 Oct 2026 09:11:38 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135023880,imgsize-19340467.cms",
+      "summary": "A crowd surge at Chorbagan Durga Puja pandal in Kolkata led to a tragic stampede on Saturday evening. The incident occurred when heavy rain caused a rush of people seeking shelter inside the pandal.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "BJP veteran LK Advani admitted to Delhi hospital over pulmonary issues",
-      "url": "https://timesofindia.indiatimes.com/india/bjp-veteran-lk-advani-admitted-to-delhi-hospital-over-pulmonary-issues/articleshow/135007243.cms",
-      "published": "Sat, 17 Oct 2026 09:53:32 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135007266,imgsize-44120.cms",
+      "title": "'Kicked me for 10 mins': Trump 'disturbed' by West Bank attack on US photojournalist",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/kicked-me-for-10-minutes-trump-disturbed-by-images-of-attack-on-us-photojournalist-heidi-levine-who-undergoes-surgery/articleshow/135023634.cms",
+      "published": "Sun, 18 Oct 2026 09:26:10 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135023660,imgsize-112272.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "8 killed as bus falls into drain on Delhi-Mumbai Expressway near Kota",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/8-of-a-family-killed-as-minibus-falls-into-drain-on-delhi-mumbai-expressway-in-kota/articleshow/135007091.cms",
-      "published": "Sat, 17 Oct 2026 09:38:45 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135007185,imgsize-206264.cms",
-      "summary": "In a heartbreaking incident early Saturday, a mini bus carrying 23 family members plunged into a drain en route to Khatu Shyamji temple from Bhopal. Rescue attempts were hampered by muddy conditions and water inside the drain.",
+      "title": "Watch: French protesters loot Herm\u00e8s, Apple and other luxury stores",
+      "url": "https://timesofindia.indiatimes.com/world/europe/watch-french-protesters-loot-herms-apple-and-other-luxury-stores-across-cities/articleshow/135023351.cms",
+      "published": "Sun, 18 Oct 2026 09:19:28 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135023527,imgsize-5813975.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "4 major pujas across Kolkata shut down as gloom overshadows festive mood",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/unprecedented-4-major-pujas-across-kol-shut-down-as-gloom-overshadows-festive-mood/articleshow/135019864.cms",
+      "published": "Sun, 18 Oct 2026 00:47:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135019863,imgsize-87524.cms",
+      "summary": "Chetla Agrani's organisers quickly acted to prevent a possible crowd surge after an earlier disaster in Chorbagan. Other popular Durga Puja spots like Tala Prattoy and College Square also halted entry as a precaution.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "California farm earns 10 times more leasing land for solar than growing wheat",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-california-farm-earned-about-100-per-acre-a-year-from-dry-farmed-wheat-after-alan-changala-leased-300-acres-for-solar-at-1000-per-acre-the-same-land-began-paying-roughly-10-times-the-crop-income/articleshow/135012467.cms",
+      "published": "2026-10-18T09:54:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135012527,imgsize-195665.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135012467.cms\" />In Tulare County, California, the Changala family farm has embraced a transformative shift from dry-farmed wheat to solar energy. Driven by financial incentives, solar leases are now yielding significantly greater income compared to traditional crops.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "India",
+      "title": "Watch: French protesters loot Herm\u00e8s, Apple and other luxury stores across cities",
+      "url": "https://timesofindia.indiatimes.com/world/europe/watch-french-protesters-loot-herms-apple-and-other-luxury-stores-across-cities/articleshow/135023351.cms",
+      "published": "2026-10-18T09:19:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135023527,imgsize-5813975.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023351.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "In 1968, Cassandra Henderson graduated from a North Carolina school; 58 years later, she returned to its restored building, now 53 senior apartments",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1968-cassandra-henderson-graduated-from-a-north-carolina-school-nearly-60-years-later-she-moved-back-into-the-same-building-after-it-was-restored-from-20-years-of-vacancy-into-53-senior-apartments/articleshow/135012224.cms",
+      "published": "2026-10-18T09:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135012318,imgsize-1635424.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135012224.cms\" />After years away, Cassandra Henderson has made her way back to Yanceyville, North Carolina, settling into the revitalized Dillard School Apartments. Originally a school from 1949 until 2002, this historical building has now been transformed into 53 affordable housing units for seniors, tackling the local housing crisis.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
-      "category": "Top Stories",
-      "title": "Delhi Capitals' big IPL 2027 shake-up continues, Lanka legend joins Ganguly's team",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/delhi-capitals-big-ipl-2027-shake-up-continues-sri-lanka-legend-joins-sourav-gangulys-team/articleshow/135007365.cms",
-      "published": "Sat, 17 Oct 2026 10:07:43 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135007385,imgsize-197368.cms",
-      "summary": "In an exciting development for cricket fans, Chaminda Vaas will take on the role of fast bowling coach for Delhi Capitals in the 2027 IPL season. His extensive coaching background, including tenures with Sri Lanka and Ireland, adds depth to a coaching team that also features legends Sourav Ganguly and Yuvraj Singh.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
       "category": "India",
-      "title": "Iran broke? $25bn oil loss, $350m crypto frozen as militias send money back to IRGC",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-broke-25-billion-oil-loss-350-million-crypto-frozen-as-militias-send-money-back-to-irgc-says-us/articleshow/135006374.cms",
-      "published": "2026-10-17T08:54:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006595,imgsize-167034.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135006374.cms\" />",
+      "title": "How a Brooklyn crypto cop took down a global scam network",
+      "url": "https://timesofindia.indiatimes.com/world/us/how-a-brooklyn-crypto-cop-took-down-a-global-scam-network/articleshow/135022909.cms",
+      "published": "2026-10-18T07:33:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135022913,imgsize-133694.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135022909.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Zelenskyy terms Russian peace moves a \u2018parody\u2019, slams Trump deal",
-      "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-terms-russian-peace-moves-a-parody-slams-trump-deal/articleshow/135006211.cms",
-      "published": "2026-10-17T08:01:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006221,imgsize-35504.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135006211.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Order to limit satellite system used by Ukraine came from White House: Report",
-      "url": "https://timesofindia.indiatimes.com/world/europe/order-to-limit-satellite-system-used-by-ukraine-came-from-white-house-report/articleshow/135006178.cms",
-      "published": "2026-10-17T07:58:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006194,imgsize-182480.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135006178.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "California land trust sues to block roads across a 402-acre preserve saved from housing development",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2022-a-california-owner-agreed-to-a-discounted-10-million-sale-of-402-acres-despite-approvals-for-500-homes-four-years-later-a-land-trust-sued-to-stop-permanent-roads-and-utilities-inside-the-preserve/articleshow/135002975.cms",
-      "published": "2026-10-17T01:45:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135003281,imgsize-294215.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135002975.cms\" />In a bid to protect the Clover Valley nature preserve, Placer Land Trust has initiated a lawsuit to block infrastructure development attempts. Established four years ago, this cherished area has faced housing pressures in the past.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "What does Trump's tariff, sanctions waiver on Russian oil mean for India?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/trump-waives-us-sanctions-tariffs-on-russian-oil-gas-what-it-means-for-india/articleshow/135006269.cms",
-      "published": "2026-10-17T08:14:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006290,imgsize-519488.cms",
+      "title": "'India an important ally': Rubio explains why Trump paused sanctions on Russia oil buyers",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-an-important-ally-us-state-secy-rubio-explains-why-trump-paused-sanctions-on-russia-oil-buyers/articleshow/135022973.cms",
+      "published": "2026-10-18T08:29:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135022987,imgsize-101438.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Trillion dollar gap: US budget deficit swells to nearly $2 tn in fiscal 2026",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trillion-dollar-gap-us-budget-deficit-swells-to-nearly-2-tn-in-fiscal-2026/articleshow/135006143.cms",
-      "published": "2026-10-17T08:10:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006205,imgsize-93012.cms",
+      "title": "Venezuela signs 61 oil agreements, expects $76 billion in investments over five years",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/venezuela-signs-61-oil-agreements-expects-76-billion-in-investments-over-five-years/articleshow/135022743.cms",
+      "published": "2026-10-18T07:20:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135022749,imgsize-67042.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Trump waives Russia sanctions, restrictions and duties under Graham Act",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms",
-      "published": "2026-10-17T06:55:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135005816,imgsize-42074.cms",
+      "title": "Private banks\u2019 profits rise, large lenders see margin pressure",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/private-banks-profits-rise-large-lenders-see-margin-pressure/articleshow/135022751.cms",
+      "published": "2026-10-18T07:04:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135022767,imgsize-105508.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Reliance Industries to Elon Musk: Competition welcome, but follow rules",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-to-elon-musk-competition-welcome-but-follow-rules/articleshow/135005369.cms",
-      "published": "2026-10-17T04:51:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135005374,imgsize-1540527.cms",
+      "title": "Tata Trusts to build institutions, not just fund them: Noel",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-to-build-institutions-not-just-fund-them-noel/articleshow/135022730.cms",
+      "published": "2026-10-18T06:56:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135022738,imgsize-37984.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.17
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -201,7 +201,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Education",
@@ -211,47 +211,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
       "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "Selma Blair makes her first public appearance since arrest",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/selma-blair-was-spotted-at-a-90s-con-her-first-public-event-after-the-airport-incident-and-getting-arrested/articleshow/135007292.cms",
-      "published": "2026-10-17T09:59:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135007324,imgsize-171525.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135007292.cms\" />Selma Blair made her much-anticipated return to the spotlight at the 90s Con event in Hartford from October 16 to 18. This was her first appearance post-arrest on October 11, where she faced charges of allegedly assaulting a flight attendant and a police officer.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "SS Rajamouli wants to present Ramayana differently in \u2018Varanasi\u2019",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-wants-to-present-the-ramayana-differently-in-mahesh-babus-varanasi-after-being-unsatisfied-with-earlier-adaptations-says-i-was-never-fully-satisfied/articleshow/135007279.cms",
-      "published": "2026-10-17T09:54:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135007290,imgsize-152206.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135007279.cms\" />SS Rajamouli has voiced his discontent with past interpretations of Indian epics such as the Ramayana and Mahabharata. In his upcoming film 'Varanasi,' a significant sequence inspired by the Ramayana will feature Mahesh Babu in the role of Lord Rama.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Dakota and MGK fuel romance buzz; leave studio together - PICS",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-and-machine-gun-kelly-fuel-dating-rumours-duo-spotted-leaving-recording-studio-together-pics/articleshow/135006851.cms",
-      "published": "2026-10-17T09:21:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006965,imgsize-174549.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135006851.cms\" />Dakota Johnson and Machine Gun Kelly were seen leaving a recording studio in Los Angeles together. They drove off in MGK's red sports car, which raised romance speculation.",
+      "title": "Anirudh Ravichander and Kavya Maran's relationship timeline explained",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-maran-wedding-from-dating-rumours-to-chennai-reception-and-expected-guest-list-their-relationship-timeline-explained/articleshow/135023839.cms",
+      "published": "2026-10-18T10:02:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135023840,imgsize-121646.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023839.cms\" />Anirudh Ravichander and Kavya Maran have been the subject of marriage speculation since 2025. They are planning a private wedding in Greece on November 11, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "Neha Dhupia says she missed big opportunities",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neha-dhupia-says-she-missed-big-opportunities-by-turning-down-chak-de-india-and-operation-safed-sagar-recalls-you-realise-what-you-may-have-missed/articleshow/135006654.cms",
-      "published": "2026-10-17T09:04:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135006670,imgsize-107051.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135006654.cms\" />In a candid moment on her chat show 'Double Date', Neha Dhupia revisited pivotal choices in her career, revealing her regret for declined roles in 'Chak De! India' and 'Operation Safed Sagar'. Highlighting her desire to explore these genres, she illustrated how the specter of missed opportunities can haunt an actor, shaping their professional journey..",
+      "title": "Carrot Top issues first statement after suicide attempt; confirms new show",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/carrot-top-issues-the-first-statement-after-his-suicide-attempt-and-confirms-his-return-to-the-stage-thank-you-for-being-there-for-me/articleshow/135023748.cms",
+      "published": "2026-10-18T09:48:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135023769,imgsize-66116.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023748.cms\" />Comedian Carrot Top has bravely opened up about his recent suicide attempt, expressing heartfelt appreciation for the outpouring of love and support from fans. Grateful for their prayers and well wishes during this challenging period, he is now recovering surrounded by family after his hospitalization.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.11
+    },
+    {
+      "category": "Entertainment",
+      "title": "Shamna Kasim says Rajinikanth\u2019s \u2018Jailer 2\u2019 is a dream come true",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shamna-kasim-says-rajinikanths-jailer-2-is-a-dream-come-true-we-all-say-that-our-hard-work-prayers-and-passion-would-pay-off-one-day/articleshow/135023473.cms",
+      "published": "2026-10-18T09:15:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135023484,imgsize-296084.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023473.cms\" />Shamna Kasim has shared her gratitude for being part of Rajinikanth's film 'Jailer 2'. She expressed appreciation for the director, producer, and composer for giving her the opportunity.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Rajinikanth\u2019s golden gift to Deva finds a place at the composer\u2019s funeral",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-golden-gift-to-deva-at-annamalai-audio-launch-finds-a-place-at-the-composers-funeral/articleshow/135023375.cms",
+      "published": "2026-10-18T09:07:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135023384,imgsize-127960.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023375.cms\" />Rajinikanth\u2019s heartfelt gift of a gold chain to Deva at the 'Annamalai' audio launch was a testament to their enduring friendship, remembered even after Deva's passing. The touching tribute of placing the chain on Deva's remains underscores their bond.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
     }
   ]
 }
