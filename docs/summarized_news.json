@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-18T04:57:57",
+  "generated_at": "2026-10-19T05:07:58",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
-  "total": 25,
+  "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Kolkata: Video shows crowd breaching barricades, tussling with cops day before stampede",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-stampede-video-shows-crowd-breaching-barricades-tussling-with-cops-at-chorbagan-pandal-day-before-tragedy/articleshow/135023324.cms",
-      "published": "Sun, 18 Oct 2026 09:11:38 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135023880,imgsize-19340467.cms",
-      "summary": "A crowd surge at Chorbagan Durga Puja pandal in Kolkata led to a tragic stampede on Saturday evening. The incident occurred when heavy rain caused a rush of people seeking shelter inside the pandal.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Kicked me for 10 mins': Trump 'disturbed' by West Bank attack on US photojournalist",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/kicked-me-for-10-minutes-trump-disturbed-by-images-of-attack-on-us-photojournalist-heidi-levine-who-undergoes-surgery/articleshow/135023634.cms",
-      "published": "Sun, 18 Oct 2026 09:26:10 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135023660,imgsize-112272.cms",
+      "title": "Tiger Shroff shooting: Videos piece together moments before, during and after attack",
+      "url": "https://timesofindia.indiatimes.com/india/tiger-shroff-shooting-videos-piece-together-moments-before-during-and-after-attack/articleshow/135037903.cms",
+      "published": "Mon, 19 Oct 2026 10:07:39 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135039839,imgsize-96994.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Watch: French protesters loot Herm\u00e8s, Apple and other luxury stores",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-french-protesters-loot-herms-apple-and-other-luxury-stores-across-cities/articleshow/135023351.cms",
-      "published": "Sun, 18 Oct 2026 09:19:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135023527,imgsize-5813975.cms",
-      "summary": "",
+      "title": "Can technology prevent next stampede? Inside crowd-monitoring tools India needs",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/can-technology-prevent-the-next-stampede-inside-the-crowd-monitoring-tools-india-needs/articleshow/135039132.cms",
+      "published": "Mon, 19 Oct 2026 09:54:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135039637,imgsize-166811.cms",
+      "summary": "The recent stampede in Kolkata has highlighted the urgent need for effective crowd management solutions. Technology, particularly artificial intelligence, can analyze crowd behavior and density in real-time.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.13
     },
     {
       "category": "Top Stories",
-      "title": "4 major pujas across Kolkata shut down as gloom overshadows festive mood",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/unprecedented-4-major-pujas-across-kol-shut-down-as-gloom-overshadows-festive-mood/articleshow/135019864.cms",
-      "published": "Sun, 18 Oct 2026 00:47:20 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135019863,imgsize-87524.cms",
-      "summary": "Chetla Agrani's organisers quickly acted to prevent a possible crowd surge after an earlier disaster in Chorbagan. Other popular Durga Puja spots like Tala Prattoy and College Square also halted entry as a precaution.",
+      "title": "'Apologise to Lawrence Bishnoi': After Tiger Shroff attack, fresh warning to Salman",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/salman-khan-apologise-to-lawerence-or-after-firing-at-tiger-shroffs-bmw-a-chilling-audio-surfaces/articleshow/135039295.cms",
+      "published": "Mon, 19 Oct 2026 09:35:38 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135039354,imgsize-105155.cms",
+      "summary": "An audio recording linked to Anil Pandit has emerged, threatening Salman Khan over an apology. Pandit warned against the safety of Khan's family if he does not comply.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
+    },
+    {
+      "category": "Top Stories",
+      "title": "Asian Para Games: Kokila assures India of judo medal, sets up gold-medal clash",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-kokila-assures-india-of-judo-medal-sets-up-gold-medal-clash/articleshow/135040039.cms",
+      "published": "Mon, 19 Oct 2026 10:25:24 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135040098,imgsize-69198.cms",
+      "summary": "Kokila has triumphed by defeating China's Yi Liu in the para-judo semifinals and is now set to vie for gold against Kyrgyzstan's Aibike Ulanbek Kyzy. Meanwhile, Kapil Parmar is striving for a bronze in the men\u2019s J1 -70kg after a tough semifinal defeat.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
     },
     {
       "category": "India",
-      "title": "California farm earns 10 times more leasing land for solar than growing wheat",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-california-farm-earned-about-100-per-acre-a-year-from-dry-farmed-wheat-after-alan-changala-leased-300-acres-for-solar-at-1000-per-acre-the-same-land-began-paying-roughly-10-times-the-crop-income/articleshow/135012467.cms",
-      "published": "2026-10-18T09:54:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135012527,imgsize-195665.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135012467.cms\" />In Tulare County, California, the Changala family farm has embraced a transformative shift from dry-farmed wheat to solar energy. Driven by financial incentives, solar leases are now yielding significantly greater income compared to traditional crops.",
+      "title": "Species Fund Beats Habitat Target: Evaluation finds 4,800ha restored; 51,000 people engaged",
+      "url": "https://timesofindia.indiatimes.com/science/nature/england-put-25-million-into-20-nature-projects-in-2024-two-years-later-they-had-improved-4800-hectares-planted-127500-trees-and-beaten-the-programmes-habitat-target-by-nearly-30/articleshow/135038653.cms",
+      "published": "2026-10-19T10:08:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038763,imgsize-1825826.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038653.cms\" />A transformative \u00a325 million conservation initiative has revitalized wildlife across England. By restoring vast areas and planting over 127,500 trees, the programme fostered community engagement with nature for more than 51,000 individuals.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Watch: French protesters loot Herm\u00e8s, Apple and other luxury stores across cities",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-french-protesters-loot-herms-apple-and-other-luxury-stores-across-cities/articleshow/135023351.cms",
-      "published": "2026-10-18T09:19:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135023527,imgsize-5813975.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023351.cms\" />",
+      "title": "Muizzu begins 3-day Pak visit tomorrow, 1st Maldives prez trip in over a decade",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/muizzu-begins-3-day-pak-visit-tomorrow-1st-maldives-prez-trip-in-over-a-decade/articleshow/135037813.cms",
+      "published": "2026-10-19T07:34:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135037819,imgsize-55168.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135037813.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "In 1968, Cassandra Henderson graduated from a North Carolina school; 58 years later, she returned to its restored building, now 53 senior apartments",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1968-cassandra-henderson-graduated-from-a-north-carolina-school-nearly-60-years-later-she-moved-back-into-the-same-building-after-it-was-restored-from-20-years-of-vacancy-into-53-senior-apartments/articleshow/135012224.cms",
-      "published": "2026-10-18T09:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135012318,imgsize-1635424.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135012224.cms\" />After years away, Cassandra Henderson has made her way back to Yanceyville, North Carolina, settling into the revitalized Dillard School Apartments. Originally a school from 1949 until 2002, this historical building has now been transformed into 53 affordable housing units for seniors, tackling the local housing crisis.",
+      "title": "France counts cost of worst unrest in years as tensions flare again in Paris",
+      "url": "https://timesofindia.indiatimes.com/world/europe/france-counts-cost-of-worst-unrest-in-years-as-tensions-flare-again-in-paris/articleshow/135037766.cms",
+      "published": "2026-10-19T07:32:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135037782,imgsize-1989384.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135037766.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "How a Brooklyn crypto cop took down a global scam network",
-      "url": "https://timesofindia.indiatimes.com/world/us/how-a-brooklyn-crypto-cop-took-down-a-global-scam-network/articleshow/135022909.cms",
-      "published": "2026-10-18T07:33:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135022913,imgsize-133694.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135022909.cms\" />",
+      "title": "Indiana legal secretary faces 42 felonies over alleged fake court orders and stolen client fees",
+      "url": "https://timesofindia.indiatimes.com/world/us/people-paid-to-clear-their-criminal-records-but-allegedly-received-forged-court-orders-after-a-three-year-investigation-an-indiana-law-firm-employee-faces-42-felony-charges-and-three-misdemeanors/articleshow/135035072.cms",
+      "published": "2026-10-19T02:27:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135035133,imgsize-274733.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135035072.cms\" />Following a lengthy three-year investigation, Heather Ann Textor, a legal secretary, has been taken into custody for alleged fraudulent activities. She is accused of forging court documents and misappropriating client funds intended for legal fees.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.05
     },
     {
       "category": "Technology",
@@ -121,44 +121,44 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "'India an important ally': Rubio explains why Trump paused sanctions on Russia oil buyers",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/india-an-important-ally-us-state-secy-rubio-explains-why-trump-paused-sanctions-on-russia-oil-buyers/articleshow/135022973.cms",
-      "published": "2026-10-18T08:29:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135022987,imgsize-101438.cms",
+      "title": "Paid Rs 2.06 crore, got no flat; Bombay HC rejects builder\u2019s delay argument, orders interest",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/homebuyers-paid-rs-2-06-crore-but-got-no-flat-builder-said-payments-meant-accepting-delay-bombay-hc-orders-interest-payout-from-2017-saying-rera-allows-for-unconditional-right-to-monthly-interest/articleshow/135038407.cms",
+      "published": "2026-10-19T10:08:05+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038656,imgsize-630204.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Venezuela signs 61 oil agreements, expects $76 billion in investments over five years",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/venezuela-signs-61-oil-agreements-expects-76-billion-in-investments-over-five-years/articleshow/135022743.cms",
-      "published": "2026-10-18T07:20:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135022749,imgsize-67042.cms",
+      "title": "Stock market today: Sensex tumbles over 450 points, Nifty50 opens below 23,100 mark",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-19-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135038305.cms",
+      "published": "2026-10-19T08:07:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038305,imgsize-2482837.cms",
+      "summary": "The momentum created by the 2.8 per cent surge in Nifty last week and the good results from the banking majors after the better-than-expected results from the leading IT companies, have the potential to keep the market resilient. However, the escalation of tensions in Hormuz and the consequent surge in Brent crude to USD 109 will act as a strong headwind to the market.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
+    },
+    {
+      "category": "Business",
+      "title": "Which are the top stocks to buy in the October 19, 2026 week? Check List",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-19-2026-week-radico-khaitan-bharti-airtel-stocks-to-buy-today/articleshow/135038215.cms",
+      "published": "2026-10-19T08:13:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038237,imgsize-716773.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Private banks\u2019 profits rise, large lenders see margin pressure",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/private-banks-profits-rise-large-lenders-see-margin-pressure/articleshow/135022751.cms",
-      "published": "2026-10-18T07:04:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135022767,imgsize-105508.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "Business",
-      "title": "Tata Trusts to build institutions, not just fund them: Noel",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-to-build-institutions-not-just-fund-them-noel/articleshow/135022730.cms",
-      "published": "2026-10-18T06:56:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135022738,imgsize-37984.cms",
+      "title": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-trump-waives-russia-sanctions-middle-east-risks-persist/articleshow/135037616.cms",
+      "published": "2026-10-19T07:13:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135037621,imgsize-123908.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.06
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -201,57 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "Five Indiana engineering students built a 12-hour wearable that helps visually impaired users detect obstacles beyond a cane or guide dog",
-      "url": "https://timesofindia.indiatimes.com/education/news/five-indiana-engineering-students-built-a-12-hour-wearable-that-helps-visually-impaired-users-detect-obstacles-beyond-a-cane-or-guide-dog/articleshow/133701138.cms",
-      "published": "2026-09-02T14:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-133701217,imgsize-1143397.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133701138.cms\" />Rose-Hulman students have developed a remarkable wearable device tailored for visually impaired individuals. This innovative headgear employs advanced sensors to identify surrounding obstacles, providing users with haptic feedback.",
+      "title": "RPSC 2nd Grade Teacher result 2026 out for Science; document verification to begin: Direct link to download scorecards here",
+      "url": "https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-teacher-result-2026-out-for-science-document-verification-to-begin-direct-link-to-download-scorecards-here/articleshow/135039534.cms",
+      "published": "2026-10-19T09:53:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039591,imgsize-37756.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-teacher-result-2026-out-for-science-document-verification-to-begin-direct-link-to-download-scorecards-here/articleshow/135039534.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039534.cms\" /></a>The Rajasthan Public Service Commission (RPSC) has announced the Senior Teacher (Science) Result 2026 for the Competitive Examination-2025. Candidates can check the provisional shortlist and cut-off marks on the official website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.08
+    },
+    {
+      "category": "Education",
+      "title": "HPSC HCS final result 2026 declared for 102 posts; marks and service allocation list released: Check direct link to download here",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpsc-hcs-final-result-2026-declared-for-102-posts-marks-and-service-allocation-list-released-check-direct-link-to-download-here/articleshow/135039043.cms",
+      "published": "2026-10-19T09:17:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039099,imgsize-47340.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/hpsc-hcs-final-result-2026-declared-for-102-posts-marks-and-service-allocation-list-released-check-direct-link-to-download-here/articleshow/135039043.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039043.cms\" /></a>The Haryana Public Service Commission has announced the HPSC HCS Final Result 2026 for 102 vacancies across the Executive Branch and Other Allied Services. Released on October 17, the result includes candidates\u2019 roll number-wise marks and the service allocation list.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.03
+    },
+    {
+      "category": "Education",
+      "title": "APPSC Group 2 Notification 2026: 686 vacancies announced, applications open November 10",
+      "url": "https://timesofindia.indiatimes.com/education/news/appsc-group-2-notification-2026-686-vacancies-announced-applications-open-november-10/articleshow/135038636.cms",
+      "published": "2026-10-19T08:53:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038724,imgsize-220437.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/appsc-group-2-notification-2026-686-vacancies-announced-applications-open-november-10/articleshow/135038636.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038636.cms\" /></a>APPSC Group 2 Notification 2026: The Andhra Pradesh Public Service Commission (APPSC) has announced 686 provisional vacancies under Group 2 Recruitment 2026 through Notification No. 37/2026, released on October 13, 2026.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Education",
+      "title": "Coal India MT Result 2026: Check expected release date, vacancies and selection process",
+      "url": "https://timesofindia.indiatimes.com/education/news/coal-india-mt-result-2026-check-expected-release-date-vacancies-and-selection-process/articleshow/135038149.cms",
+      "published": "2026-10-19T08:14:55+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135038244,imgsize-119511.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/coal-india-mt-result-2026-check-expected-release-date-vacancies-and-selection-process/articleshow/135038149.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038149.cms\" /></a>Coal India Limited is expected to announce the CIL Management Trainee CBT Result 2026 by October 20 for 660 vacancies. The examination was conducted on August 24, with approximately 1.27 lakh candidates reportedly appearing.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
     },
     {
       "category": "Entertainment",
-      "title": "Anirudh Ravichander and Kavya Maran's relationship timeline explained",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-maran-wedding-from-dating-rumours-to-chennai-reception-and-expected-guest-list-their-relationship-timeline-explained/articleshow/135023839.cms",
-      "published": "2026-10-18T10:02:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135023840,imgsize-121646.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023839.cms\" />Anirudh Ravichander and Kavya Maran have been the subject of marriage speculation since 2025. They are planning a private wedding in Greece on November 11, 2026.",
+      "title": "Kylie debuts USD 50 million look; Timothee cheers her on - PICS",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-cheers-for-girlfriend-kylie-jenner-as-she-makes-victorias-secret-fashion-show-debut-in-usd-50-million-fantasy-bra-pics/articleshow/135039050.cms",
+      "published": "2026-10-19T09:48:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039228,imgsize-180945.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039050.cms\" />Kylie Jenner showcased the most expensive Fantasy Bra at the Victoria\u2019s Secret Fashion Show held in Los Angeles. Created in partnership with Jacob &amp; Co., the bra features over 4,400 diamonds and has a value of USD 50 million.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.06
     },
     {
       "category": "Entertainment",
-      "title": "Carrot Top issues first statement after suicide attempt; confirms new show",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/carrot-top-issues-the-first-statement-after-his-suicide-attempt-and-confirms-his-return-to-the-stage-thank-you-for-being-there-for-me/articleshow/135023748.cms",
-      "published": "2026-10-18T09:48:39+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135023769,imgsize-66116.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023748.cms\" />Comedian Carrot Top has bravely opened up about his recent suicide attempt, expressing heartfelt appreciation for the outpouring of love and support from fans. Grateful for their prayers and well wishes during this challenging period, he is now recovering surrounded by family after his hospitalization.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Entertainment",
-      "title": "Shamna Kasim says Rajinikanth\u2019s \u2018Jailer 2\u2019 is a dream come true",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shamna-kasim-says-rajinikanths-jailer-2-is-a-dream-come-true-we-all-say-that-our-hard-work-prayers-and-passion-would-pay-off-one-day/articleshow/135023473.cms",
-      "published": "2026-10-18T09:15:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135023484,imgsize-296084.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023473.cms\" />Shamna Kasim has shared her gratitude for being part of Rajinikanth's film 'Jailer 2'. She expressed appreciation for the director, producer, and composer for giving her the opportunity.",
+      "title": "Mamitha Baiju thanks Girish AD for trusting her",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/he-believed-in-me-i-am-very-grateful-to-him-mamitha-baiju-thanks-girish-ad-for-trusting-her-with-bethlehem-kudumba-unit/articleshow/135039437.cms",
+      "published": "2026-10-19T09:46:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039468,imgsize-130444.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039437.cms\" />During the joyous celebration of 'Bethlehem Kudumba Unit's success, Mamitha Baiju shared her deep gratitude to filmmaker Girish AD for his steadfast belief in her potential. Recalling Girish's faith before 'Super Sharanya' hit theaters, she acknowledged the dedication of the cast and crew in achieving this milestone.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Entertainment",
-      "title": "Rajinikanth\u2019s golden gift to Deva finds a place at the composer\u2019s funeral",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-golden-gift-to-deva-at-annamalai-audio-launch-finds-a-place-at-the-composers-funeral/articleshow/135023375.cms",
-      "published": "2026-10-18T09:07:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135023384,imgsize-127960.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135023375.cms\" />Rajinikanth\u2019s heartfelt gift of a gold chain to Deva at the 'Annamalai' audio launch was a testament to their enduring friendship, remembered even after Deva's passing. The touching tribute of placing the chain on Deva's remains underscores their bond.",
+      "title": "Tiger Shroff firing: Ranvir, Rahul Dholakia slam attack",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-ranvir-shorey-rahul-dholakia-slam-attack-say-criminals-are-shooting-innocents/articleshow/135039375.cms",
+      "published": "2026-10-19T09:39:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039384,imgsize-241319.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039375.cms\" />Three unidentified attackers fired at Tiger Shroff\u2019s car near Pushpa Park, Juhu, on October 18, injuring his driver Firdous and an autorickshaw driver. Shroff was unharmed.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.08
+    },
+    {
+      "category": "Entertainment",
+      "title": "Prahaar Box Office: film earns Rs 9 crore in 3 days",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/prahaar-box-office-collection-day-3-rajkummar-raos-courtroom-drama-sees-slight-growth-on-sunday-but-misses-rs-10-crore-mark-during-the-opening-weekend/articleshow/135039223.cms",
+      "published": "2026-10-19T09:25:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135039233,imgsize-73356.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039223.cms\" />Rajkummar Rao\u2019s Prahaar: The Ujjwal Nikam Story opened slowly on October 16 with Rs 2.35 crore net, rising to Rs 3.15 crore and Rs 3.50 crore over the weekend, totalling Rs 9 crore. It trails Yami Gautam\u2019s Nayyi Navelli, which crossed Rs 10 crore.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
     }
   ]
 }
