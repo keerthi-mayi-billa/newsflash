@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-19T05:07:58",
+  "generated_at": "2026-10-20T05:10:28",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Tiger Shroff shooting: Videos piece together moments before, during and after attack",
-      "url": "https://timesofindia.indiatimes.com/india/tiger-shroff-shooting-videos-piece-together-moments-before-during-and-after-attack/articleshow/135037903.cms",
-      "published": "Mon, 19 Oct 2026 10:07:39 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135039839,imgsize-96994.cms",
+      "title": "\u2018India ultimate target of Western regime-change forces\u2019: RSS chief Mohan Bhagwat",
+      "url": "https://timesofindia.indiatimes.com/india/india-is-a-land-of-diversity-rss-chief-mohan-bhagwat-on-vijaydashami-top-quotes/articleshow/135060890.cms",
+      "published": "Tue, 20 Oct 2026 09:23:18 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135060906,imgsize-646650.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Can technology prevent next stampede? Inside crowd-monitoring tools India needs",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/can-technology-prevent-the-next-stampede-inside-the-crowd-monitoring-tools-india-needs/articleshow/135039132.cms",
-      "published": "Mon, 19 Oct 2026 09:54:20 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135039637,imgsize-166811.cms",
-      "summary": "The recent stampede in Kolkata has highlighted the urgent need for effective crowd management solutions. Technology, particularly artificial intelligence, can analyze crowd behavior and density in real-time.",
+      "title": "'Paris is going to be a Muslim city very soon': Trump slams Macron as riots spiral",
+      "url": "https://timesofindia.indiatimes.com/world/us/paris-is-going-to-be-a-muslim-city-very-soon-trump-slams-macron-as-riots-spiral/articleshow/135056496.cms",
+      "published": "Tue, 20 Oct 2026 03:27:14 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135056566,imgsize-1638515.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'Apologise to Lawrence Bishnoi': After Tiger Shroff attack, fresh warning to Salman",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/salman-khan-apologise-to-lawerence-or-after-firing-at-tiger-shroffs-bmw-a-chilling-audio-surfaces/articleshow/135039295.cms",
-      "published": "Mon, 19 Oct 2026 09:35:38 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135039354,imgsize-105155.cms",
-      "summary": "An audio recording linked to Anil Pandit has emerged, threatening Salman Khan over an apology. Pandit warned against the safety of Khan's family if he does not comply.",
+      "title": "After ditching Mamata Banerjee, Yusuf Pathan gets a gift from Gujarat govt",
+      "url": "https://timesofindia.indiatimes.com/city/vadodara/disputed-plot-now-govt-togift-yusuf-pathan-500sqm/articleshow/135055710.cms",
+      "published": "Tue, 20 Oct 2026 00:48:12 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135056377,imgsize-99180.cms",
+      "summary": "The state government approved the allotment of a disputed 978 sqm plot in Vadodara to Yusuf Pathan. The allotment includes 500 sqm for residential use and 478 sqm at a reduced rate.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.07
     },
     {
       "category": "Top Stories",
-      "title": "Asian Para Games: Kokila assures India of judo medal, sets up gold-medal clash",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-kokila-assures-india-of-judo-medal-sets-up-gold-medal-clash/articleshow/135040039.cms",
-      "published": "Mon, 19 Oct 2026 10:25:24 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135040098,imgsize-69198.cms",
-      "summary": "Kokila has triumphed by defeating China's Yi Liu in the para-judo semifinals and is now set to vie for gold against Kyrgyzstan's Aibike Ulanbek Kyzy. Meanwhile, Kapil Parmar is striving for a bronze in the men\u2019s J1 -70kg after a tough semifinal defeat.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "India",
-      "title": "Species Fund Beats Habitat Target: Evaluation finds 4,800ha restored; 51,000 people engaged",
-      "url": "https://timesofindia.indiatimes.com/science/nature/england-put-25-million-into-20-nature-projects-in-2024-two-years-later-they-had-improved-4800-hectares-planted-127500-trees-and-beaten-the-programmes-habitat-target-by-nearly-30/articleshow/135038653.cms",
-      "published": "2026-10-19T10:08:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038763,imgsize-1825826.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038653.cms\" />A transformative \u00a325 million conservation initiative has revitalized wildlife across England. By restoring vast areas and planting over 127,500 trees, the programme fostered community engagement with nature for more than 51,000 individuals.",
+      "title": "Who is Ben Treloar? Australian umpire set to officiate in Ranji Trophy",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-is-ben-treloar-australian-umpire-set-to-officiate-in-ranji-trophy/articleshow/135061606.cms",
+      "published": "Tue, 20 Oct 2026 10:19:33 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135061655,imgsize-28155.cms",
+      "summary": "Australian umpire Ben Treloar will officiate in two Ranji Trophy matches in India, while Indian umpire Parashar Joshi will travel to Australia to officiate in two Sheffield Shield matches and one One Day Cup game as part of the CA-BCCI Umpire Exchange Program..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "Muizzu begins 3-day Pak visit tomorrow, 1st Maldives prez trip in over a decade",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/muizzu-begins-3-day-pak-visit-tomorrow-1st-maldives-prez-trip-in-over-a-decade/articleshow/135037813.cms",
-      "published": "2026-10-19T07:34:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135037819,imgsize-55168.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135037813.cms\" />",
+      "title": "What if next US president turns hostile? Netanyahu's answer lies partly in India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/what-if-the-next-us-president-turns-hostile-netanyahus-answer-lies-partly-in-india/articleshow/135060692.cms",
+      "published": "2026-10-20T09:13:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060718,imgsize-939519.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060692.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "France counts cost of worst unrest in years as tensions flare again in Paris",
-      "url": "https://timesofindia.indiatimes.com/world/europe/france-counts-cost-of-worst-unrest-in-years-as-tensions-flare-again-in-paris/articleshow/135037766.cms",
-      "published": "2026-10-19T07:32:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135037782,imgsize-1989384.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135037766.cms\" />",
+      "title": "Saudi Summit Postponed To 2027: FII cancels Riyadh meet; Houthi attacks fuel investment uncertainty",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-puts-off-davos-in-the-desert-summit-to-2027-amid-houthi-attacks/articleshow/135059897.cms",
+      "published": "2026-10-20T07:59:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060001,imgsize-117068.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135059897.cms\" />Saudi Arabia's highly anticipated investment conference, initially scheduled for October 26-29, has been postponed due to a rise in missile and drone attacks from Iranian-backed Houthi militants. This pivotal event, often dubbed 'Davos in the Desert', aims to find a new date in 2027.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "India",
+      "title": "\u2018Not getting involved in Israeli elections\u2019: JD Vance on Netanyahu re-election",
+      "url": "https://timesofindia.indiatimes.com/world/us/not-getting-involved-in-israeli-elections-jd-vance-on-netanyahu-re-election/articleshow/135059960.cms",
+      "published": "2026-10-20T07:57:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135059985,imgsize-1083010.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135059960.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Indiana legal secretary faces 42 felonies over alleged fake court orders and stolen client fees",
-      "url": "https://timesofindia.indiatimes.com/world/us/people-paid-to-clear-their-criminal-records-but-allegedly-received-forged-court-orders-after-a-three-year-investigation-an-indiana-law-firm-employee-faces-42-felony-charges-and-three-misdemeanors/articleshow/135035072.cms",
-      "published": "2026-10-19T02:27:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135035133,imgsize-274733.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135035072.cms\" />Following a lengthy three-year investigation, Heather Ann Textor, a legal secretary, has been taken into custody for alleged fraudulent activities. She is accused of forging court documents and misappropriating client funds intended for legal fees.",
+      "title": "Albanian PM warns of \u2018red line\u2019 after police station set ablaze",
+      "url": "https://timesofindia.indiatimes.com/world/europe/albanian-pm-warns-of-red-line-after-police-station-set-ablaze/articleshow/135059908.cms",
+      "published": "2026-10-20T07:48:47+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135059919,imgsize-92972.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135059908.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Paid Rs 2.06 crore, got no flat; Bombay HC rejects builder\u2019s delay argument, orders interest",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/homebuyers-paid-rs-2-06-crore-but-got-no-flat-builder-said-payments-meant-accepting-delay-bombay-hc-orders-interest-payout-from-2017-saying-rera-allows-for-unconditional-right-to-monthly-interest/articleshow/135038407.cms",
-      "published": "2026-10-19T10:08:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038656,imgsize-630204.cms",
+      "title": "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading today",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-on-dussehra-are-nse-bse-mcx-open-or-closed-for-trading-on-october-20/articleshow/135059951.cms",
+      "published": "2026-10-20T08:12:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060016,imgsize-235576.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Business",
-      "title": "Stock market today: Sensex tumbles over 450 points, Nifty50 opens below 23,100 mark",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-19-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135038305.cms",
-      "published": "2026-10-19T08:07:51+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038305,imgsize-2482837.cms",
-      "summary": "The momentum created by the 2.8 per cent surge in Nifty last week and the good results from the banking majors after the better-than-expected results from the leading IT companies, have the potential to keep the market resilient. However, the escalation of tensions in Hormuz and the consequent surge in Brent crude to USD 109 will act as a strong headwind to the market.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.03
     },
     {
       "category": "Business",
-      "title": "Which are the top stocks to buy in the October 19, 2026 week? Check List",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-19-2026-week-radico-khaitan-bharti-airtel-stocks-to-buy-today/articleshow/135038215.cms",
-      "published": "2026-10-19T08:13:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038237,imgsize-716773.cms",
+      "title": "Crude holds near $110 per barrel as Middle East tensions keep supply concerns alive",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-holds-near-110-per-barrel-as-middle-east-tensions-keep-supply-concerns-alive/articleshow/135059405.cms",
+      "published": "2026-10-20T07:13:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135059440,imgsize-75400.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Business",
+      "title": "Property deed shows Rs 1.60 crore, taxman alleges Rs 3.30 crore sale but ITAT gives relief",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/husband-and-wife-sell-property-income-tax-dept-alleges-rs-3-30-crore-sale-against-rs-1-60-crore-in-deed-cites-whatsapp-chats-excel-sheets-to-claim-rs-1-70-crore-cash-receipts-but-itat-gives-relief/articleshow/135050856.cms",
+      "published": "2026-10-20T08:57:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135051034,imgsize-655040.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Business",
-      "title": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-trump-waives-russia-sanctions-middle-east-risks-persist/articleshow/135037616.cms",
-      "published": "2026-10-19T07:13:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135037621,imgsize-123908.cms",
+      "title": "In-kind welfare: 22 crore move up consumption ladder",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/in-kind-welfare-22-crore-move-up-consumption-ladder/articleshow/135059627.cms",
+      "published": "2026-10-20T07:35:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135059732,imgsize-212276.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.03
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.03
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.04
     },
     {
       "category": "Education",
-      "title": "RPSC 2nd Grade Teacher result 2026 out for Science; document verification to begin: Direct link to download scorecards here",
-      "url": "https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-teacher-result-2026-out-for-science-document-verification-to-begin-direct-link-to-download-scorecards-here/articleshow/135039534.cms",
-      "published": "2026-10-19T09:53:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039591,imgsize-37756.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-teacher-result-2026-out-for-science-document-verification-to-begin-direct-link-to-download-scorecards-here/articleshow/135039534.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039534.cms\" /></a>The Rajasthan Public Service Commission (RPSC) has announced the Senior Teacher (Science) Result 2026 for the Competitive Examination-2025. Candidates can check the provisional shortlist and cut-off marks on the official website.",
+      "title": "ERD Punjab Lecturer result 2026 declared for 1,013 posts: Check direct link to download subject-wise merit list PDF here",
+      "url": "https://timesofindia.indiatimes.com/education/news/erd-punjab-lecturer-result-2026-declared-for-1013-posts-check-direct-link-to-download-subject-wise-merit-list-pdf-here/articleshow/135060791.cms",
+      "published": "2026-10-20T09:21:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060957,imgsize-69556.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/erd-punjab-lecturer-result-2026-declared-for-1013-posts-check-direct-link-to-download-subject-wise-merit-list-pdf-here/articleshow/135060791.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060791.cms\" /></a>The Education Recruitment Directorate (ERD), Punjab, has announced the Lecturer result 2026 on October 19. Candidates can access subject-wise result PDFs at erd.punjab.gov.in and check their roll numbers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.05
     },
     {
       "category": "Education",
-      "title": "HPSC HCS final result 2026 declared for 102 posts; marks and service allocation list released: Check direct link to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpsc-hcs-final-result-2026-declared-for-102-posts-marks-and-service-allocation-list-released-check-direct-link-to-download-here/articleshow/135039043.cms",
-      "published": "2026-10-19T09:17:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039099,imgsize-47340.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/hpsc-hcs-final-result-2026-declared-for-102-posts-marks-and-service-allocation-list-released-check-direct-link-to-download-here/articleshow/135039043.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039043.cms\" /></a>The Haryana Public Service Commission has announced the HPSC HCS Final Result 2026 for 102 vacancies across the Executive Branch and Other Allied Services. Released on October 17, the result includes candidates\u2019 roll number-wise marks and the service allocation list.",
+      "title": "Uttarakhand NEET UG counselling 2026: 145 MBBS and BDS seats vacant, check college-wise list",
+      "url": "https://timesofindia.indiatimes.com/education/news/uttarakhand-neet-ug-counselling-2026-145-mbbs-and-bds-seats-vacant-check-college-wise-list/articleshow/135060546.cms",
+      "published": "2026-10-20T08:59:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060576,imgsize-65780.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/uttarakhand-neet-ug-counselling-2026-145-mbbs-and-bds-seats-vacant-check-college-wise-list/articleshow/135060546.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060546.cms\" /></a>Uttarakhand NEET UG counselling 2026: Uttarakhand has 145 vacant medical and dental seats after three NEET UG counselling rounds, including 116 MBBS and 29 BDS seats. The state medical university has scheduled a stray vacancy round, with registration, fee payment and choice filling closing at 5 pm on October 21, 2026.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Education",
+      "title": "KEA VAO result 2026 out for 572 posts, download merit list PDF and check next steps",
+      "url": "https://timesofindia.indiatimes.com/education/news/kea-vao-result-2026-out-for-572-posts-download-merit-list-pdf-and-check-next-steps/articleshow/135060474.cms",
+      "published": "2026-10-20T08:45:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060507,imgsize-72571.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/kea-vao-result-2026-out-for-572-posts-download-merit-list-pdf-and-check-next-steps/articleshow/135060474.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060474.cms\" /></a>KEA VAO Result 2026: KEA has declared the VAO Result 2026 on October 19 for recruitment to 572 vacancies in Karnataka. Candidates can access the merit list and scorecard through cetonline.karnataka.gov.in.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Education",
+      "title": "UPSC CDS 2 result 2026 declared for 451 posts, check written examination result at upsc.gov.in",
+      "url": "https://timesofindia.indiatimes.com/education/news/upsc-cds-2-result-2026-declared-for-451-posts-check-written-examination-result-at-upsc-gov-in/articleshow/135060156.cms",
+      "published": "2026-10-20T08:25:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060320,imgsize-124924.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/upsc-cds-2-result-2026-declared-for-451-posts-check-written-examination-result-at-upsc-gov-in/articleshow/135060156.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060156.cms\" /></a>UPSC CDS 2 Result 2026: UPSC declared the CDS 2 2026 written examination result on October 19, 2026, for the examination held on September 13. The recruitment covers 451 vacancies across the Indian Military Academy, Indian Naval Academy, Air Force Academy and Officers\u2019 Training Academy.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Entertainment",
+      "title": "\u2018Jailer 2\u2019: Action director confirms Mohanlal performed climax car scene himself",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-action-director-chethan-confirms-mohanlal-performed-the-climax-car-scene-himself/articleshow/135061418.cms",
+      "published": "2026-10-20T10:03:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135061442,imgsize-77991.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135061418.cms\" />Mohanlal's limited screen time in 'Jailer 2' has led to discussions among fans and industry professionals. Action director Chethan confirmed that Mohanlal performed the climax car scene himself, dismissing rumors of a body double.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "Tiger granted police protection, bodyguards after firing incident",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-gets-police-protection-bodyguards-after-firing-incident-bishnoi-gangs-motive-and-extortion-angle-under-investigation/articleshow/135060580.cms",
+      "published": "2026-10-20T09:36:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135061103,imgsize-263973.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060580.cms\" />Tiger Shroff was recently granted police protection after a firing incident involving the Lawrence Bishnoi gang. The absence of security made him an easy target during the attack.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Suriya, Nazriya Nazim feature in \u2018Aeroplane\u2019, second song from \u2018Scene\u2019",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aeroplane-new-song-from-scene-is-out-suriya-and-nazriya-nazim-starrer-track-is-an-energetic-romantic-number/articleshow/135060910.cms",
+      "published": "2026-10-20T09:27:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060956,imgsize-74363.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060910.cms\" />The filmmakers of Suriya\u2019s upcoming action-comedy film \u2018Scene\u2019 have released the second song titled \u2018Aeroplane\u2019. This high-energy romantic track features Suriya and Nazriya Nazim and showcases their on-screen chemistry.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.03
     },
     {
-      "category": "Education",
-      "title": "APPSC Group 2 Notification 2026: 686 vacancies announced, applications open November 10",
-      "url": "https://timesofindia.indiatimes.com/education/news/appsc-group-2-notification-2026-686-vacancies-announced-applications-open-november-10/articleshow/135038636.cms",
-      "published": "2026-10-19T08:53:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038724,imgsize-220437.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/appsc-group-2-notification-2026-686-vacancies-announced-applications-open-november-10/articleshow/135038636.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038636.cms\" /></a>APPSC Group 2 Notification 2026: The Andhra Pradesh Public Service Commission (APPSC) has announced 686 provisional vacancies under Group 2 Recruitment 2026 through Notification No. 37/2026, released on October 13, 2026.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "Coal India MT Result 2026: Check expected release date, vacancies and selection process",
-      "url": "https://timesofindia.indiatimes.com/education/news/coal-india-mt-result-2026-check-expected-release-date-vacancies-and-selection-process/articleshow/135038149.cms",
-      "published": "2026-10-19T08:14:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135038244,imgsize-119511.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/coal-india-mt-result-2026-check-expected-release-date-vacancies-and-selection-process/articleshow/135038149.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135038149.cms\" /></a>Coal India Limited is expected to announce the CIL Management Trainee CBT Result 2026 by October 20 for 660 vacancies. The examination was conducted on August 24, with approximately 1.27 lakh candidates reportedly appearing.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
       "category": "Entertainment",
-      "title": "Kylie debuts USD 50 million look; Timothee cheers her on - PICS",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-cheers-for-girlfriend-kylie-jenner-as-she-makes-victorias-secret-fashion-show-debut-in-usd-50-million-fantasy-bra-pics/articleshow/135039050.cms",
-      "published": "2026-10-19T09:48:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039228,imgsize-180945.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039050.cms\" />Kylie Jenner showcased the most expensive Fantasy Bra at the Victoria\u2019s Secret Fashion Show held in Los Angeles. Created in partnership with Jacob &amp; Co., the bra features over 4,400 diamonds and has a value of USD 50 million.",
+      "title": "Vijay Deverakonda and Rashmika Mandanna starrer sees 28% Monday drop",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ranabaali-box-office-collection-day-4-vijay-deverakonda-and-rashmika-mandannas-period-drama-eyes-rs-50-crore-worldwide-gross-india-net-stands-at-rs-29-45-crore-after-28-drop-on-monday/articleshow/135060110.cms",
+      "published": "2026-10-20T08:12:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135060123,imgsize-171055.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135060110.cms\" />Vijay Deverakonda and Rashmika Mandanna's film 'Ranabaali' collected Rs. 5.40 crore on its fourth day after a decline.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "Mamitha Baiju thanks Girish AD for trusting her",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/he-believed-in-me-i-am-very-grateful-to-him-mamitha-baiju-thanks-girish-ad-for-trusting-her-with-bethlehem-kudumba-unit/articleshow/135039437.cms",
-      "published": "2026-10-19T09:46:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039468,imgsize-130444.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039437.cms\" />During the joyous celebration of 'Bethlehem Kudumba Unit's success, Mamitha Baiju shared her deep gratitude to filmmaker Girish AD for his steadfast belief in her potential. Recalling Girish's faith before 'Super Sharanya' hit theaters, she acknowledged the dedication of the cast and crew in achieving this milestone.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Tiger Shroff firing: Ranvir, Rahul Dholakia slam attack",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-ranvir-shorey-rahul-dholakia-slam-attack-say-criminals-are-shooting-innocents/articleshow/135039375.cms",
-      "published": "2026-10-19T09:39:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039384,imgsize-241319.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039375.cms\" />Three unidentified attackers fired at Tiger Shroff\u2019s car near Pushpa Park, Juhu, on October 18, injuring his driver Firdous and an autorickshaw driver. Shroff was unharmed.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Prahaar Box Office: film earns Rs 9 crore in 3 days",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/prahaar-box-office-collection-day-3-rajkummar-raos-courtroom-drama-sees-slight-growth-on-sunday-but-misses-rs-10-crore-mark-during-the-opening-weekend/articleshow/135039223.cms",
-      "published": "2026-10-19T09:25:20+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135039233,imgsize-73356.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135039223.cms\" />Rajkummar Rao\u2019s Prahaar: The Ujjwal Nikam Story opened slowly on October 16 with Rs 2.35 crore net, rising to Rs 3.15 crore and Rs 3.50 crore over the weekend, totalling Rs 9 crore. It trails Yami Gautam\u2019s Nayyi Navelli, which crossed Rs 10 crore.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.03
     }
   ]
 }
