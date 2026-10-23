@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-22T05:14:49",
+  "generated_at": "2026-10-23T05:14:52",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "'Asked to remove Tiranga pics': What happened at Priyanka Gandhi son's exhibition",
-      "url": "https://timesofindia.indiatimes.com/india/tricolor-row-what-happened-at-priyanka-gandhis-son-raihans-exhibition-at-bikaner-house-controversy-explained/articleshow/135105157.cms",
-      "published": "Thu, 22 Oct 2026 08:37:00 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135105657,imgsize-86668.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "\u2018Glaring inaccuracies\u2019: India rebukes UN over \u2018India-based\u2019 tag for Dawood\u2019s D-Company",
-      "url": "https://timesofindia.indiatimes.com/india/india-based-d-company-tag-india-rebukes-un-rapporteur-flags-glaring-inaccuracies/articleshow/135107694.cms",
-      "published": "Thu, 22 Oct 2026 10:22:41 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Man dies after attackers trap hands in car windows, drag him for 1.5km - video",
-      "url": "https://timesofindia.indiatimes.com/city/kanpur/video-kanpur-man-dies-after-attackers-trap-hands-in-car-windows-drag-him-on-roof-for-1-5km/articleshow/135106079.cms",
-      "published": "Thu, 22 Oct 2026 09:07:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135106174,imgsize-12713594.cms",
-      "summary": "A 37-year-old man, Biru Singh Bhadauriya, died after being assaulted in Kanpur's Hanumant Vihar area. The attack happened on Tuesday night when he was returning home from a Dussehra fair.",
+      "title": "Govt plans colour-coded DLs for Indians, foreigners; may scrap affidavits",
+      "url": "https://timesofindia.indiatimes.com/india/govt-plans-colour-coded-driving-licence-for-indians-foreigners/articleshow/135127122.cms",
+      "published": "Fri, 23 Oct 2026 02:32:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135127538,imgsize-156162.cms",
+      "summary": "Life insurance policies, too, would no longer be accepted as proof. Proposing sweeping changes to the driving licence (DL) regime under Motor Vehicles Rules, the road transport ministry Wednesday issued a draft notification to raise the pass mark for the online safe-driving tutorial assessment from the current 60% to 75%..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "Google co-founder Larry Page leaves California ahead of billionaire tax vote",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-co-founder-larry-page-is-the-richest-tech-titan-to-leave-california-ahead-of-billionaires-tax-vote-how-his-exit-may-dent-states-100-billion-tax-target/articleshow/135105758.cms",
-      "published": "Thu, 22 Oct 2026 08:44:14 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135105764,imgsize-43956.cms",
-      "summary": "As Californians gear up to cast their votes on Proposition 40, which suggests a one-time tax on billionaires, notable figures like Larry Page have relocated their businesses far from the state's reach to evade this tax burden. While the tax could potentially rake in $100 billion, the exodus of these wealthy individuals\u2014who would collectively owe around $29 billion\u2014poses a serious threat to California's expected income from this tax initiative..",
+      "title": "ITBP chief flags \u2018ongoing\u2019 China faceoff along Arunachal border",
+      "url": "https://timesofindia.indiatimes.com/india/shaurya-commandos-prepared-itbp-chief-flags-ongoing-china-faceoff-along-arunachal-border/articleshow/135134031.cms",
+      "published": "Fri, 23 Oct 2026 10:18:13 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135134506,imgsize-62574.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 0.0
     },
     {
-      "category": "India",
-      "title": "Emma Stone\u2019s 1926 LA home sells for $4.3 million after renovation, $305,000 above asking price",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2019-emma-stone-paid-2-3-million-for-a-1926-los-angeles-home-renovated-it-and-added-a-guesthouse-five-years-later-the-property-sold-for-4-3-million-more-than-300000-above-its-asking-price/articleshow/135089826.cms",
-      "published": "2026-10-22T10:01:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135089999,imgsize-932097.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135089826.cms\" />Emma Stone has beautifully transformed a historic home in Los Angeles, which she bought for $2.3 million back in 2019. After completing significant renovations, she listed the property for $3.995 million in January 2024.",
+      "category": "Top Stories",
+      "title": "2 ECs complained against poll panel officer, but Cabinet Secretariat took no action: RTI",
+      "url": "https://timesofindia.indiatimes.com/india/2-election-commissioners-complained-against-poll-panel-officer-but-cabinet-secretariat-took-no-action-rti/articleshow/135134004.cms",
+      "published": "Fri, 23 Oct 2026 09:42:24 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135134076,imgsize-821930.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 0.0
     },
     {
-      "category": "India",
-      "title": "US, Israel prepare for fresh Iran strikes as Tehran threatens with \u2018Father of All Bombs\u2019",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-prepare-for-fresh-iran-strikes-after-midterms-as-tehran-threatens-with-father-of-all-bombs/articleshow/135106178.cms",
-      "published": "2026-10-22T09:19:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135106384,imgsize-1014809.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135106178.cms\" />The United States and Israel are preparing for potential military strikes against Iran after the upcoming midterm elections. Iran has announced it will reveal a new weapon called the 'Father of All Bombs' as tensions rise.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "India",
-      "title": "Drones fall, strikes stall: How Musk's Starshield curbs hit Zelenskyy\u2019s war against Russia",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drones-fall-strikes-stall-how-musks-starshield-curbs-hit-zelenskyys-war-against-russia/articleshow/135105179.cms",
-      "published": "2026-10-22T08:16:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135105289,imgsize-928564.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135105179.cms\" />",
+      "category": "Top Stories",
+      "title": "Kargil, minorities and Kashmir: India's three-pronged message to Pak at UN",
+      "url": "https://timesofindia.indiatimes.com/india/no-standing-to-lecture-india-new-delhi-hits-out-at-pakistan-over-minority-rights-at-un/articleshow/135132147.cms",
+      "published": "Fri, 23 Oct 2026 08:57:11 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135132698,imgsize-64054.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "In Pakistan, Maldives President Mohamed Muizzu calls for early Saarc summit",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/in-pakistan-maldives-president-mohamed-muizzu-calls-for-early-saarc-summit/articleshow/135103603.cms",
-      "published": "2026-10-22T06:42:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135103622,imgsize-82018.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135103603.cms\" />The visit also saw the two sides signing 20 MoUs, including in areas like defence and maritime cooperation that will be of concern to India. This is not the first time though that Muizzu has called for revival of Saarc.",
+      "title": "Ontario farmer rejects C$16 million offer to protect his 164-acre fruit farm",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/an-ontario-farmer-says-he-turned-down-a-c16-million-offer-for-his-164-acre-fruit-farm-instead-his-family-placed-29-acres-under-a-999-year-easement-with-plans-to-protect-the-rest-from-development/articleshow/135110222.cms",
+      "published": "2026-10-23T10:08:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134491,imgsize-393860.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135110222.cms\" />Charles Stevens and his family have decided to protect Wilmot Orchards by placing a conservation easement on the property. This easement effectively restricts future development for nearly 1,000 years, ensuring continued agricultural use.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.15
+    },
+    {
+      "category": "India",
+      "title": "Finnish watchmaker Kari Voutilainen\u2019s limited-edition steel watch sells for $1.016 million at auction",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-limited-edition-steel-watch-by-finnish-maker-kari-voutilainen-entered-a-new-york-auction-with-a-top-estimate-of-240000-it-sold-for-1016000-more-than-four-times-that-figure-in-an-october-2026-sale/articleshow/135115657.cms",
+      "published": "2026-10-23T10:07:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135115867,imgsize-1712133.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135115657.cms\" />At a recent Phillips auction, an exquisite stainless-steel timepiece crafted by renowned watchmaker Kari Voutilainen commanded an impressive $1.016 million, far surpassing its estimated value. The Voutilainen 28Sport Limited Edition features a stunning blue guilloch\u00e9 dial complemented by a striking black onyx center.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "India",
+      "title": "Portland man turns $48,412 backyard makeover into $85,000 rental business",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2020-a-portland-man-began-rebuilding-his-800-square-foot-backyard-with-ping-pong-and-a-hot-tub-after-spending-48412-he-had-brought-in-about-85000-from-hourly-rentals-by-2025/articleshow/135113221.cms",
+      "published": "2026-10-23T10:07:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135113418,imgsize-130417.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135113221.cms\" />Rob Nachbar skillfully turned his once-simple backyard in Portland into a thriving rental space known as Pong Springs. This five-year renovation, which cost $48,412, prioritized weather-resistant structures and enhanced privacy features.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "India",
+      "title": "'Lifting sanctions will make Putin stronger': Zelenskyy on Trump ties",
+      "url": "https://timesofindia.indiatimes.com/world/europe/lifting-sanctions-will-make-putin-stronger-zelenskyy-on-trump-ties/articleshow/135132950.cms",
+      "published": "2026-10-23T09:01:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135133341,imgsize-866366.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135132950.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     },
     {
       "category": "Business",
-      "title": "Wife\u2019s father paid for joint house; Kerala HC orders husband to vacate",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/wifes-father-paid-to-buy-house-in-couples-joint-names-kerala-high-court-grants-her-exclusive-ownership-rules-husband-must-vacate-after-he-fails-to-prove-he-paid-anything/articleshow/135087533.cms",
-      "published": "2026-10-22T10:01:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135093991,imgsize-693148.cms",
+      "title": "Crude rises, rupee falls &amp; Dalal Street trips again",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-rises-rupee-falls-dalal-street-trips-again/articleshow/135127760.cms",
+      "published": "2026-10-23T03:31:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135127826,imgsize-103636.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.15
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex tumbles 600 points, Nifty50 trades below 22,600",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-22-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135105568.cms",
-      "published": "2026-10-22T08:14:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135105568,imgsize-2518013.cms",
-      "summary": "Stock market today: Rupee offsets gains as Dalal Street struggles Asian equities struggled to sustain gains in early trade on Thursday as uncertainty surrounding the Gulf and concerns over artificial intelligence offset optimism around technology earnings. MSCI\u2019s broadest index of Asia-Pacific shares outside Japan fell 0.2%, putting it on track for a fourth consecutive weekly decline.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "Business",
-      "title": "Which are the top stocks to buy on October 22, 2026? Check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-october-22-2026-persistent-systemts-sagility-waaree-energies-best-stocks-to-buy-today/articleshow/135105733.cms",
-      "published": "2026-10-22T08:48:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135105805,imgsize-759529.cms",
+      "title": "Videos, the new gateway reshaping online retail",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/videos-the-new-gateway-reshaping-online-retail/articleshow/135127759.cms",
+      "published": "2026-10-23T03:34:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135127829,imgsize-62284.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-tops-110-as-fresh-attacks-in-saudi-arabia-raise-concerns-over-oil-supplies/articleshow/135103962.cms",
-      "published": "2026-10-22T07:23:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135104137,imgsize-63878.cms",
+      "title": "Jio IPO subscribed over 5x as institutions bid big",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/jio-ipo-subscribed-over-5x-as-institutions-bid-big/articleshow/135127758.cms",
+      "published": "2026-10-23T03:36:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135127833,imgsize-33278.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.15
+    },
+    {
+      "category": "Business",
+      "title": "Yes Bank Additional Tier 1 bondholders seek interest payment",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/yes-bank-additional-tier-1-bondholders-seek-interest-payment/articleshow/135127757.cms",
+      "published": "2026-10-23T03:38:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135127835,imgsize-61946.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.21
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "ICAI CA Inter September 2026 result declared at caresults.icai.org: Check scorecard link, pass percentage and next steps",
-      "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-inter-september-2026-result-declared-check-scorecard-link-pass-percentage-and-next-steps/articleshow/135107507.cms",
-      "published": "2026-10-22T10:22:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135107736,imgsize-123709.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/icai-ca-inter-september-2026-result-declared-check-scorecard-link-pass-percentage-and-next-steps/articleshow/135107507.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135107507.cms\" /></a>ICAI CA Inter September 2026 result: ICAI has declared the CA Intermediate September 2026 results on October 22. Candidates can check their scores and access the merit list through caresults.icai.org using their six-digit roll number and registration number.",
+      "title": "CA Foundation January 2027 mock test schedule released; check Series 1 and 2 dates, timings and registration steps",
+      "url": "https://timesofindia.indiatimes.com/education/news/ca-foundation-january-2027-mock-test-schedule-released-check-series-1-and-2-dates-timings-and-registration-steps/articleshow/135134209.cms",
+      "published": "2026-10-23T09:58:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134297,imgsize-76894.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ca-foundation-january-2027-mock-test-schedule-released-check-series-1-and-2-dates-timings-and-registration-steps/articleshow/135134209.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134209.cms\" /></a>The Institute of Chartered Accountants of India (ICAI) will conduct CA Foundation January 2027 mock tests in two series from December 1 to 21, 2026. The tests will be available in physical and virtual modes.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.18
     },
     {
       "category": "Education",
-      "title": "J&amp;K government doubles monthly stipend for MBBS, BDS interns to Rs 25,000 after renewed protests over delayed hike",
-      "url": "https://timesofindia.indiatimes.com/education/news/jk-government-doubles-monthly-stipend-for-mbbs-bds-interns-to-rs-25000-after-renewed-protests-over-delayed-hike/articleshow/135106913.cms",
-      "published": "2026-10-22T10:00:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135106913,imgsize-1665257.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jk-government-doubles-monthly-stipend-for-mbbs-bds-interns-to-rs-25000-after-renewed-protests-over-delayed-hike/articleshow/135106913.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135106913.cms\" /></a>The Jammu and Kashmir government has increased the monthly stipend for MBBS and BDS interns, including Foreign Medical Graduates (FMGs), from Rs 12,300 to Rs 25,000, effective October 1, 2026. The decision follows renewed protests by interns over delays in fulfilling an earlier assurance.",
+      "title": "Sam Altman outlines three possible futures for AI, calls compute monopoly \u2018terrible\u2019",
+      "url": "https://timesofindia.indiatimes.com/education/news/sam-altman-outlines-three-possible-futures-for-ai-calls-compute-monopoly-terrible/articleshow/135134180.cms",
+      "published": "2026-10-23T09:52:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134207,imgsize-15862.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/sam-altman-outlines-three-possible-futures-for-ai-calls-compute-monopoly-terrible/articleshow/135134180.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134180.cms\" /></a>OpenAI CEO Sam Altman has outlined three possible futures for artificial intelligence, including an international watchdog modelled on the IAEA, a unified AI research organisation, and a scenario in which one company gains overwhelming computing power to eliminate competitors. According to The Latin Times, the discussion reflects growing concerns over AI safety, regulation and competition.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "Big Tech in classrooms: Why parents should question Silicon Valley\u2019s growing influence on education",
-      "url": "https://timesofindia.indiatimes.com/education/news/big-tech-in-classrooms-why-parents-should-question-silicon-valleys-growing-influence-on-education/articleshow/135106567.cms",
-      "published": "2026-10-22T09:39:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135106719,imgsize-142522.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/big-tech-in-classrooms-why-parents-should-question-silicon-valleys-growing-influence-on-education/articleshow/135106567.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135106567.cms\" /></a>As technology companies expand their presence in classrooms, concerns are growing over their influence on curricula, teaching practices and student data. Drawing on technology reporter Natasha Singer\u2019s book Coding Kids, the article examines how companies shape digital education and questions whether devices alone improve learning outcomes.",
+      "title": "NICL Assistant Mains admit card 2026 released at nationalinsurance.nic.co.in: Direct link to download hall tickets here",
+      "url": "https://timesofindia.indiatimes.com/education/news/nicl-assistant-mains-admit-card-2026-released-at-nationalinsurance-nic-co-in-direct-link-to-download-hall-tickets-here/articleshow/135133687.cms",
+      "published": "2026-10-23T09:18:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135133751,imgsize-63204.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/nicl-assistant-mains-admit-card-2026-released-at-nationalinsurance-nic-co-in-direct-link-to-download-hall-tickets-here/articleshow/135133687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135133687.cms\" /></a>The NICL Assistant Mains admit card 2026 was released on October 22 for candidates who cleared the preliminary examination. Eligible candidates can download their hall tickets from the official website using their login credentials.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.15
     },
     {
       "category": "Education",
-      "title": "Punjab &amp; Sind Bank LBO result 2026 declared; 587 candidates shortlisted for language test and document verification: Check details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/punjab-sind-bank-lbo-result-2026-declared-587-candidates-shortlisted-for-language-test-and-document-verification-check-details-here/articleshow/135106507.cms",
-      "published": "2026-10-22T09:31:41+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135106640,imgsize-88926.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/punjab-sind-bank-lbo-result-2026-declared-587-candidates-shortlisted-for-language-test-and-document-verification-check-details-here/articleshow/135106507.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135106507.cms\" /></a>Punjab &amp; Sind Bank has announced the Phase III result for Local Bank Officer (LBO) Recruitment 2026, shortlisting 587 candidates provisionally for the next stage. Candidates can access the result PDF online using their roll numbers.",
+      "title": "ABVMU result 2026 out at abvmuup.edu.in, download CNET, CAHET and semester exam scorecards: Check direct link to download scorecards",
+      "url": "https://timesofindia.indiatimes.com/education/news/abvmu-result-2026-out-at-abvmuup-edu-in-download-cnet-cahet-and-semester-exam-scorecards-check-direct-link-to-download-scorecards/articleshow/135133355.cms",
+      "published": "2026-10-23T09:03:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135133495,imgsize-81250.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/abvmu-result-2026-out-at-abvmuup-edu-in-download-cnet-cahet-and-semester-exam-scorecards-check-direct-link-to-download-scorecards/articleshow/135133355.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135133355.cms\" /></a>Atal Bihari Vajpayee Medical University (ABVMU), Lucknow, has announced the 2026 results for various Nursing, Paramedical and Medical courses, including CNET, CAHET and semester examinations. Candidates can access their scorecards at abvmuup.edu.in by entering their enrollment number and password.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "'Dragon' actor Khushbu Sundar speaks out against cyberattacks",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-am-a-public-figure-not-public-property-khushbu-sundar-speaks-out-against-cyberattacks/articleshow/135107696.cms",
-      "published": "2026-10-22T10:21:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135107711,imgsize-272088.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135107696.cms\" />Khushbu has publicly denounced the cyberattacks and personal harassment aimed at celebrities, firmly stating that their status doesn't excuse harassment towards them or their families. After her X account was compromised, she urged her followers to stay alert for any unusual activity and to report it.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Vishwak Sen takes charge of \u2018Cult\u2019 after \u2018Laila\u2019 failure",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vishwak-sen-reveals-why-he-took-over-cult-direction-says-he-wanted-to-take-responsibility-for-his-comeback/articleshow/135107306.cms",
-      "published": "2026-10-22T10:06:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135107352,imgsize-88658.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135107306.cms\" />Vishwak Sen boldly steps into the director's chair with his new film 'Cult' following a series of setbacks. Taking full ownership of the project, he aims to create a unique cinematic experience featuring a remarkable ensemble of about 150 actors.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Amitabh Bachchan reveals how he manages household chores",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-do-all-the-work-myself-take-care-of-the-cleaning-and-everything-amitabh-bachchan-reveals-how-he-manages-household-chores-turns-to-jaya-bachchan-for-cooking/articleshow/135105752.cms",
-      "published": "2026-10-22T08:41:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135105776,imgsize-148576.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135105752.cms\" />Amitabh Bachchan revealed his approach to household chores when domestic help is absent, handling cleaning himself while relying on Jaya Bachchan for cooking. He mentioned his preference for ordering food, noting that Jaya enjoys preparing dishes upon his request.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Clayface' hailed as best villain origin story since \u2018The Joker\u2019",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/clayface-twitter-reviews-tom-rhys-harries-body-horror-hailed-as-best-villain-origin-story-since-the-joker/articleshow/135105203.cms",
-      "published": "2026-10-22T09:32:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135106642,imgsize-130034.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135105203.cms\" />DC Studios is set to release its first horror film titled 'Clayface' in theaters on October 23. Early viewers have praised the film for its body-horror sequences and Tom Rhys Harries' performance.",
+      "title": "Evangeline Lilly reveals why she QUIT Hollywood",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marvel-star-evangeline-lilly-reveals-why-she-quit-hollywood-admits-she-feared-letting-go-of-power-influence-and-potential-money/articleshow/135134238.cms",
+      "published": "2026-10-23T10:19:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134651,imgsize-103940.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134238.cms\" />Evangeline Lilly, known for her role in 'Ant-Man And The Wasp', decided to leave her acting career. She expressed a desire to have a more direct impact on people's lives through humanitarian work.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
+    },
+    {
+      "category": "Entertainment",
+      "title": "Prabhas\u2019 47th birthday: \u2018Kalki 2898 AD\u2019 team shares BTS video",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-47th-birthday-kalki-2898-ad-team-shares-bts-video-makers-call-him-the-superhero-of-indian-cinema/articleshow/135134538.cms",
+      "published": "2026-10-23T10:20:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134719,imgsize-138386.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134538.cms\" />On October 23, Prabhas rang in his 47th birthday with exciting news about his upcoming projects. The team behind 'Kalki 2898 AD' celebrated by sharing exclusive behind-the-scenes footage, marking his special day.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 20.17
+    },
+    {
+      "category": "Entertainment",
+      "title": "Maruthi calls Prabhas his \u2018guru and inspiration\u2019 on 47th birthday; Gopichand extends wishes",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/hbd-prabhas-maruthi-calls-him-an-inspiration-gopichand-praises-his-grounded-nature-as-rebel-star-turns-47/articleshow/135134217.cms",
+      "published": "2026-10-23T09:54:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134232,imgsize-137734.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134217.cms\" />Prabhas is currently celebrating his 47th birthday on October 23, receiving warm wishes from notable colleagues. Director Maruthi shared a birthday message, highlighting Prabhas as a great inspiration and human being.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Entertainment",
+      "title": "Mitakshara Kumar to direct with a fresh cast",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanu-weds-manu-new-instalment-in-development-mitakshara-kumar-to-direct-with-a-fresh-cast-kangana-ranaut-and-r-madhavan-unlikely-to-return-report/articleshow/135134036.cms",
+      "published": "2026-10-23T09:41:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135134077,imgsize-252197.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135134036.cms\" />In an exciting development, director Mitakshara Kumar is gearing up to launch a new chapter in the 'Tanu Weds Manu' saga. This romantic comedy will showcase a lineup of new characters and a standalone plot, marking a departure from Kangana Ranaut and R.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
     }
   ]
 }
