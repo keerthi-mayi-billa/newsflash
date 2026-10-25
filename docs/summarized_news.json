@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-24T04:58:13",
+  "generated_at": "2026-10-25T05:08:35",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Kerala guv's 'veg-only kitchen' diktat on first day of assuming office sparks row",
-      "url": "https://timesofindia.indiatimes.com/india/kerala-governor-om-prakash-mathurs-veg-only-kitchen-diktat-on-first-day-of-assuming-office-sparks-row/articleshow/135160310.cms",
-      "published": "Sat, 24 Oct 2026 08:38:56 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135160777,imgsize-112250.cms",
+      "title": "\u2018Saddam Hussein opened a cheesecake factory\u2019: Obama\u2019s jibe at Trump\u2019s White House",
+      "url": "https://timesofindia.indiatimes.com/world/us/saddam-hussein-opened-a-cheesecake-factory-obamas-jibe-at-trumps-white-house/articleshow/135180806.cms",
+      "published": "Sun, 25 Oct 2026 06:09:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135180889,imgsize-1086158.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Watch: Iran shows Trump behind bars on live billboard on busy Tehran street",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-iran-mocks-trump-on-busy-tehran-street-shows-us-president-taking-nap-behind-bars/articleshow/135161253.cms",
-      "published": "Sat, 24 Oct 2026 09:48:23 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135161492,imgsize-12803031.cms",
-      "summary": "",
+      "title": "'No target beyond reach': How Op Sindoor delivered 'crippling blows' deep inside Pak",
+      "url": "https://timesofindia.indiatimes.com/defence/news/no-target-beyond-reach-how-operation-sindoor-delivered-crippling-blows-deep-inside-pakistan/articleshow/135183221.cms",
+      "published": "Sun, 25 Oct 2026 10:03:12 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135183273,imgsize-1076078.cms",
+      "summary": "Abhishek Mishra is a Digital Content Producer at The Times of India, working with the news desk. He writes with a keen eye on foreign policy, defence developments, and the shifting currents of geopolitics-and yes, Indian politics always finds a way onto his radar too.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Top Stories",
+      "title": "Judge who awarded 36 death sentences in 16 months transferred to family court",
+      "url": "https://timesofindia.indiatimes.com/city/agra/judge-who-awarded-36-death-sentences-in-16-months-transferred-to-family-court/articleshow/135174424.cms",
+      "published": "Sat, 24 Oct 2026 22:26:40 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135181434,imgsize-111567.cms",
+      "summary": "Judge Ravi Kumar Diwakar has been transferred to the family court after awarding multiple death sentences. He gained national attention for his decisions in Muzaffarnagar, including a notable case of a husband burning his wife.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "Top Stories",
+      "title": "KL Rahul's horror show: Duck followed by bizarre hit-wicket dismissal",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kl-rahuls-horror-show-duck-followed-by-bizarre-hit-wicket-dismissal-against-new-zealand-a-watch/articleshow/135182768.cms",
+      "published": "Sun, 25 Oct 2026 09:31:36 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135182868,imgsize-36212.cms",
+      "summary": "KL Rahul struggled in the first unofficial Test against New Zealand A, scoring only four runs in two innings. In the first innings, he was dismissed for a duck after edging a catch to the wicketkeeper.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "India",
+      "title": "Abandoned New Jersey military site to become $70M community near Netflix studio",
+      "url": "https://timesofindia.indiatimes.com/world/us/for-20-years-a-former-new-jersey-military-housing-site-sat-abandoned-now-a-70-million-plan-will-replace-the-decaying-complex-with-275-homes-and-new-shops-near-netflixs-planned-1-billion-studio/articleshow/135177692.cms",
+      "published": "2026-10-25T08:46:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135177713,imgsize-844599.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135177692.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
-      "category": "Top Stories",
-      "title": "As foam builds up in Yamuna, questions raised over how work was allotted",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/as-foam-builds-up-in-yamuna-questions-raised-over-how-work-was-allotted/articleshow/135159761.cms",
-      "published": "Sat, 24 Oct 2026 07:32:33 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135160577,imgsize-1396554.cms",
-      "summary": "A defoaming operation is set to begin in Yamuna near Kalindi Kunj, with equipment already in place. The Aam Aadmi Party has raised concerns about the tender allocation process favoring a specific contractor.",
+      "category": "India",
+      "title": "Quake Hits Vanuatu: 6.2 tremor strikes at 125 km depth; no damage reports yet",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-2-magnitude-earthquake-hits-vanuatu-in-pacific-ocean/articleshow/135182250.cms",
+      "published": "2026-10-25T08:47:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135182324,imgsize-130660.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182250.cms\" />On October 25, the Vanuatu islands experienced a magnitude 6.2 earthquake, originating at a depth of 125 kilometers. This region, known for its seismic volatility and volcanic activity, felt the quake's impact; however, its depth typically minimizes surface shaking.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "18-year-old Anahat's historic run at Silicon Valley Open comes to an end",
-      "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/18-year-old-anahat-singhs-historic-run-at-silicon-valley-open-comes-to-an-end/articleshow/135161387.cms",
-      "published": "Sat, 24 Oct 2026 09:38:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135161614,imgsize-77844.cms",
-      "summary": "India\u2019s Anahat Singh exited the Silicon Valley Open after losing 3-1 to Malaysia\u2019s Sivasangari Subramaniam despite winning the opening game. Sivasangari praised the 18-year-old\u2019s talent and potential after staging a comeback.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.13
     },
     {
       "category": "India",
-      "title": "Tumaini Trial Launch: WHO begins Ebola vaccine study in DRC; aims to protect against Bundibugyo strain",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/with-no-approved-vaccine-for-ebola-strain-who-begins-first-clinical-trial-in-dr-congo/articleshow/135160610.cms",
-      "published": "2026-10-24T08:39:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135160776,imgsize-74847.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135160610.cms\" />In a historic move, the World Health Organization has launched its inaugural clinical trial for an Ebola vaccine in the Democratic Republic of Congo. This trial aims to assess the efficacy of the Ervebo vaccine against the Bundibugyo virus amid a severe outbreak that has resulted in over 9,700 cases and 4,600 fatalities since May..",
+      "title": "6.3-magnitude earthquake strikes Bonin Islands region of Japan",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-3-magnitude-earthquake-strikes-bonin-islands-region-of-japan/articleshow/135182116.cms",
+      "published": "2026-10-25T08:23:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135182136,imgsize-294058.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182116.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Selena Gomez\u2019s charity benefit raises $2.7 M for mental health",
-      "url": "https://timesofindia.indiatimes.com/world/us/selena-gomezs-october-charity-benefit-raises-2-7-million-for-youth-mental-health-with-benny-blanco-bidding-25000-to-win-a-session-with-his-wifes-glam-team/articleshow/135145269.cms",
-      "published": "2026-10-24T08:03:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135145466,imgsize-277043.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135145269.cms\" />Selena Gomez proudly hosted the fourth annual Rare Impact Fund Benefit in Los Angeles, successfully raising significant funds for mental health initiatives. The evening took an exciting turn when her husband, Benny Blanco, bid an impressive $25,000 for a special modeling experience with Gomez\u2019s glam team.",
+      "title": "\u2018Will never be safe\u2019: Houthis warn as Riyadh airport resumes flights",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms",
+      "published": "2026-10-25T07:51:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135181692,imgsize-65628.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135181692.cms\" />King Khalid International Airport in Riyadh has resumed flight operations following a significant security situation. The airport management has designated specific terminals for domestic and international flights, effective immediately.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
-    },
-    {
-      "category": "India",
-      "title": "Watch: Giant waves crash into Taiwan as Typhoon Champi leaves over 500 injured; 1 dead",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-giant-waves-crash-into-taiwan-as-typhoon-champi-leaves-over-500-injured-1-dead/articleshow/135159584.cms",
-      "published": "2026-10-24T07:27:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135159736,imgsize-17424926.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135159584.cms\" />Typhoon Champi made landfall in Taiwan, resulting in one casualty and more than 500 injuries reported. The storm brought heavy rain and strong winds, leading to widespread power outages affecting over 167,000 homes.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "Mrbeast Bets On Ai Toy: Star takes 55% of Ball 2; viral hype must prove lasting demand",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-invests-250000-for-55-stake-in-ai-powered-ball-2-on-shark-tank/articleshow/135158163.cms",
-      "published": "2026-10-24T05:35:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135158194,imgsize-26832.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135158163.cms\" />MrBeast invested $250,000 for a 55% stake in Ball 2, an AI-powered toy, during his debut on Shark Tank. Created by Andrew Brown and Kevin Langdon, the ball uses sensors and a companion app to track movement and generate interactive games.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Upper layer NBFCs have to list: RBI guv on Tatas; dispels doubts on Sept order",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms",
-      "published": "2026-10-24T02:57:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135155646,imgsize-54234.cms",
+      "title": "France\u2019s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/frances-economic-woes-debt-nears-122-of-gdp-growth-forecast-at-just-0-4/articleshow/135183254.cms",
+      "published": "2026-10-25T10:10:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135183304,imgsize-104484.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "Record haul: Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms",
-      "published": "2026-10-24T02:22:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135155591,imgsize-125924.cms",
+      "title": "Sebi plans curbs on terminal misuse, graded compliance for market intermediaries",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-curbs-on-terminal-misuse-graded-compliance-norms-for-stock-market-intermediaries/articleshow/135181895.cms",
+      "published": "2026-10-25T08:09:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135181927,imgsize-72810.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.15
     },
     {
       "category": "Business",
-      "title": "Amid volatile trades, sensex falls for 4th day",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/amid-volatile-trades-sensex-falls-for-4th-day/articleshow/135155569.cms",
-      "published": "2026-10-24T02:24:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135155594,imgsize-139930.cms",
+      "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-expected-to-hold-rates-as-inflation-energy-costs-weigh-ahead-of-midterms/articleshow/135181691.cms",
+      "published": "2026-10-25T07:58:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135181864,imgsize-48096.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "At $43 billion, RBI\u2019s net dollar purchase hits new high",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/at-43-billion-rbis-net-dollar-purchase-hits-new-high/articleshow/135155568.cms",
-      "published": "2026-10-24T02:28:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135155608,imgsize-338414.cms",
+      "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30%",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-crore-loan-assets-rise-30/articleshow/135175146.cms",
+      "published": "2026-10-24T23:08:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135175242,imgsize-92998.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "RPSC 2nd Grade Sanskrit Result 2026 released; 1,426 candidates shortlisted for eligibility verification: Check complete details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-sanskrit-result-2026-released-1426-candidates-shortlisted-for-eligibility-verification-check-complete-details-here/articleshow/135162077.cms",
-      "published": "2026-10-24T10:14:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135162155,imgsize-110718.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rpsc-2nd-grade-sanskrit-result-2026-released-1426-candidates-shortlisted-for-eligibility-verification-check-complete-details-here/articleshow/135162077.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135162077.cms\" /></a>The Rajasthan Public Service Commission has declared the RPSC 2nd Grade Sanskrit Result 2026, provisionally shortlisting 1,426 candidates for eligibility verification. The result, released on October 23, includes candidates from Scheduled and Non-Scheduled Areas.",
+      "title": "ISRO Assistant, JPA result 2026 declared at isro.gov.in; skill test on November 1: Direct link to download scorecards here",
+      "url": "https://timesofindia.indiatimes.com/education/news/isro-assistant-jpa-result-2026-declared-at-isro-gov-in-skill-test-on-november-1-direct-link-to-download-scorecards-here/articleshow/135172277.cms",
+      "published": "2026-10-24T19:49:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135172343,imgsize-77216.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/isro-assistant-jpa-result-2026-declared-at-isro-gov-in-skill-test-on-november-1-direct-link-to-download-scorecards-here/articleshow/135172277.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135172277.cms\" /></a>ISRO has declared the 2026 recruitment result for Assistant, Junior Personal Assistant, Upper Division Clerk and Stenographer posts on October 24. Candidates who appeared for the computer-based test on September 21 can check their roll numbers in the merit list PDF at isro.gov.in.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.15
     },
     {
       "category": "Education",
-      "title": "UP Board exams 2027: UPMSP sets October 26 deadline for schools to submit classes 9 to 12 student lists",
-      "url": "https://timesofindia.indiatimes.com/education/news/up-board-exams-2027-upmsp-sets-october-26-deadline-for-schools-to-submit-classes-9-to-12-student-lists/articleshow/135161142.cms",
-      "published": "2026-10-24T09:45:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135161744,imgsize-167786.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-board-exams-2027-upmsp-sets-october-26-deadline-for-schools-to-submit-classes-9-to-12-student-lists/articleshow/135161142.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135161142.cms\" /></a>UPMSP has granted 940 schools an extended deadline until October 26, 2026, for student registrations. Schools must generate and submit student lists along with required documents to the District School Inspector.",
+      "title": "TS SSC Time Table 2027: Telangana Class 10 date sheet expected in December, fee payment begins October 30",
+      "url": "https://timesofindia.indiatimes.com/education/news/ts-ssc-time-table-2027-telangana-class-10-date-sheet-expected-in-december-fee-payment-begins-october-30/articleshow/135168025.cms",
+      "published": "2026-10-24T16:02:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135168231,imgsize-97866.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ts-ssc-time-table-2027-telangana-class-10-date-sheet-expected-in-december-fee-payment-begins-october-30/articleshow/135168025.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135168025.cms\" /></a>The Telangana Board is expected to release the TS SSC Time Table 2027 for Class 10 students in December 2026. The SSC Public Examinations are scheduled for March 2027, while examination fee payment without a late charge will be open from October 30 to November 16, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.16
     },
     {
       "category": "Education",
-      "title": "UGC NET December 2026: Facing live photo capture issues? NTA shares steps to resolve them",
-      "url": "https://timesofindia.indiatimes.com/education/news/ugc-net-december-2026-facing-live-photo-capture-issues-nta-shares-steps-to-resolve-them/articleshow/135160894.cms",
-      "published": "2026-10-24T08:56:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135161015,imgsize-29422.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ugc-net-december-2026-facing-live-photo-capture-issues-nta-shares-steps-to-resolve-them/articleshow/135160894.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135160894.cms\" /></a>Candidates facing issues capturing live photographs for the UGC NET December 2026 application should follow NTA's guidance. They are advised to ensure proper lighting and a clear background for their photographs.",
+      "title": "CBSE date sheet 2027 for Classes 10 and 12 expected soon at cbse.gov.in: Check steps to download and other key details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/cbse-date-sheet-2027-for-classes-10-and-12-expected-soon-at-cbse-gov-in-check-steps-to-download-and-other-key-details-here/articleshow/135167754.cms",
+      "published": "2026-10-24T15:41:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135167754,imgsize-80864.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cbse-date-sheet-2027-for-classes-10-and-12-expected-soon-at-cbse-gov-in-check-steps-to-download-and-other-key-details-here/articleshow/135167754.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135167754.cms\" /></a>The CBSE date sheet 2027 for Class 10 and Class 12 board examinations is expected to be released soon on the official website, cbse.gov.in. The examinations are likely to begin in February 2027, though the board has not confirmed the schedule.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.15
     },
     {
       "category": "Education",
-      "title": "NEET PG counselling 2026: MCC releases round 1 seat allotment result, check direct link to download",
-      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-counselling-2026-mcc-releases-round-1-seat-allotment-result-check-direct-link-to-download/articleshow/135160513.cms",
-      "published": "2026-10-24T08:36:24+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135160721,imgsize-26398.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/neet-pg-counselling-2026-mcc-releases-round-1-seat-allotment-result-check-direct-link-to-download/articleshow/135160513.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135160513.cms\" /></a>The Medical Counselling Committee has released the provisional seat allotment result for NEET PG Counselling 2026. A total of 28,728 candidates have received provisional seat allotments as of October 23, 2026.",
+      "title": "Jamia Millia Islamia moves classes online amid row over student protests, safety concerns",
+      "url": "https://timesofindia.indiatimes.com/education/news/jamia-millia-islamia-moves-classes-online-amid-row-over-student-protests-safety-concerns/articleshow/135166193.cms",
+      "published": "2026-10-24T15:09:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135167253,imgsize-1236597.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jamia-millia-islamia-moves-classes-online-amid-row-over-student-protests-safety-concerns/articleshow/135166193.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135166193.cms\" /></a>Jamia Millia Islamia announced the transition to online classes to ensure student safety amid ongoing protests. The protests began after five students initiated an indefinite hunger strike on October 12.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Tiger Shroff firing incident prompts FWICE security advisory",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-incident-prompts-fwice-security-advisory-producers-asked-to-screen-crew/articleshow/135162024.cms",
-      "published": "2026-10-24T10:09:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135162031,imgsize-228484.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135162024.cms\" />Following a concerning shooting event, FWICE has released a statement demanding stronger security protocols for film and television production activities. The federation highlights the importance of conducting comprehensive background checks on all individuals working on set.",
+      "title": "Salman Khan launches high-rise luxury residential project in Punjab",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-launches-high-rise-luxury-residential-project-in-punjab-misses-event-due-to-unavoidable-circumstances-amid-lawrence-bishnoi-threat/articleshow/135182899.cms",
+      "published": "2026-10-25T09:58:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135183238,imgsize-206693.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182899.cms\" />Salman Khan has announced a luxury residential project in Punjab amidst security threats. He could not attend the launch event but sent a supportive video message.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Entertainment",
+      "title": "Sudev Nair says Mammootty's \u2018Bheeshma Parvam\u2019 made him popular",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/wherever-i-go-they-call-me-rajan-mon-toxic-actor-sudev-nair-says-mammoottys-bheeshma-parvam-made-him-popular-among-malayalis/articleshow/135182833.cms",
+      "published": "2026-10-25T09:28:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135182840,imgsize-187378.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182833.cms\" />Sudev Nair attributes his increased recognition in the Malayalam film industry to his role in Amal Neerad's Bheeshma Parvam. He revealed that audiences continue to identify him as Rajan Mon wherever he appears.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "\"See you in Delhi\": Diljit Dosanjh confirms his India Aura Tour show",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/diljit-dosanjh-confirms-delhi-concert-on-october-30-delhi-police-grants-permission-after-security-review/articleshow/135161683.cms",
-      "published": "2026-10-24T09:42:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135161774,imgsize-292732.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135161683.cms\" />Diljit Dosanjh confirmed his performance in Delhi for his concert on October 30 after earlier concerns. Delhi Police had initially denied permission due to security issues during the festive season.",
+      "title": "Daler Mehndi\u2019s son Gurdeep thanks Mika Singh amid Uttarakhand performance controversy",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/we-as-a-family-together-are-dealing-with-it-daler-mehndis-son-gurdeep-thanks-mika-singh-amid-uttarakhand-performance-controversy/articleshow/135182734.cms",
+      "published": "2026-10-25T09:23:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135182813,imgsize-271467.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182734.cms\" />Gurdeep Mehndi expresses heartfelt gratitude to Mika Singh and fellow celebrities for their unwavering support for Daler Mehndi amid the ongoing controversy. Upon returning from abroad, Gurdeep reassured himself of his father's well-being.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "'Jailer 2' faces controversy in Tamil Nadu",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-faces-controversy-in-tamil-nadu-rajinikanth-film-song-allegedly-replaces-national-anthem-at-karur-theatre/articleshow/135161344.cms",
-      "published": "2026-10-24T09:24:51+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135161362,imgsize-330954.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135161344.cms\" />A song was mistakenly played instead of India's National Anthem before the screening of 'Jailer 2'. This incident occurred at Ajantha Ellora Cinemas in Karur, Tamil Nadu, causing significant public attention.",
+      "title": "SS Rajamouli used \u2018Baahubali\u2019 logo to promote \u2018RRR\u2019 in Hindi markets",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-used-baahubali-logo-to-promote-rrr-in-hindi-markets-marketing-head-explains-why/articleshow/135182605.cms",
+      "published": "2026-10-25T09:09:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135182649,imgsize-200550.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135182605.cms\" />SS Rajamouli's 'RRR' has captured hearts globally, becoming a remarkable phenomenon. Varun Gupta from the marketing team faced unique challenges in reaching Hindi-speaking audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "Danielle Parton to join the brand ambassador of Dolly Parton\u2019s estate",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-estate-finds-a-new-brand-ambassador-her-niece-danielle-parton-who-says-im-proud-to-be-part-of-that-legacy/articleshow/135161211.cms",
-      "published": "2026-10-24T09:15:33+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135161243,imgsize-127721.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135161211.cms\" />In a heartfelt tribute, Danielle Parton steps into the role of brand ambassador for her beloved aunt Dolly Parton's estate. Dedicated to honoring Dolly\u2019s remarkable legacy, Danielle is inspired to share intimate stories and lessons learned from her aunt\u2019s life.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.16
     }
   ]
 }
