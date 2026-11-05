@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-04T06:54:46",
+  "generated_at": "2026-11-05T07:14:34",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Iran war, inflation or Trump fatigue: What drove Democrats' midterm surge?",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/iran-war-inflation-or-trump-fatigue-what-drove-democrats-midterm-surge/articleshow/135526305.cms",
-      "published": "Wed, 04 Nov 2026 11:34:53 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135526573,imgsize-91660.cms",
+      "title": "US gets another Indian-origin mayor as Nithya Raman wins Los Angeles election",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-origin-nithya-raman-elected-los-angeles-mayor-defeats-karen-bass/articleshow/135559698.cms",
+      "published": "Thu, 05 Nov 2026 11:12:49 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135560894,imgsize-90536.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "Historic US midterms: Black, Indigenous, Latina &amp; LGBTQ leaders win key races",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-elections-2026-historic-firsts-as-black-indigenous-latina-and-lgbtq-leaders-win-key-races/articleshow/135526070.cms",
-      "published": "Wed, 04 Nov 2026 11:55:38 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135527090,imgsize-1134300.cms",
-      "summary": "The 2026 US midterm elections have led to historic firsts in gubernatorial and Senate races across the nation. Notable victories include the first Black woman governor in US history and the first Native American woman governor.",
+      "title": "2 dead after 3-storey structure crashes in Delhi's Chawri Bazaar",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/3-storey-under-construction-building-collapses-near-delhis-chawri-bazaar-metro-station-several-feared-trapped/articleshow/135560583.cms",
+      "published": "Thu, 05 Nov 2026 11:17:58 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135562302,imgsize-1569143.cms",
+      "summary": "On Thursday morning, a three-storey under-construction building collapsed in Chawri Bazaar, Old Delhi. The incident occurred around 9.50 am near the Chawri Bazaar Metro station.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.18
     },
     {
       "category": "Top Stories",
-      "title": "US midterms: Red alert for Republicans as Democrats notch stunning flips",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-democrats-flip-key-governor-house-senate-seats-as-blue-wave-surges/articleshow/135520203.cms",
-      "published": "Wed, 04 Nov 2026 09:01:46 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135521012,imgsize-180974.cms",
-      "summary": "The 2026 US midterm elections saw a significant turnaround for the Democrats, who successfully overturned several Republican-held positions. They secured a vital Senate seat in North Carolina and won the governorship in Georgia.",
+      "title": "Elon Musk's nearly $500m US midterm gamble backfires: Tesla, SpaceX stocks take a hit",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musks-nearly-500-million-us-midterm-gamble-backfires-tesla-spacex-stocks-take-a-hit/articleshow/135560211.cms",
+      "published": "Thu, 05 Nov 2026 12:13:45 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135560983,imgsize-45870.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "Sam Altman doesn\u2019t want AI deciding what humans do",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-doesnt-want-ai-deciding-what-humans-do-openai-ceo-says-people-should-not-be-relegated-to-a-role-of-/articleshow/135525071.cms",
-      "published": "Wed, 04 Nov 2026 11:01:34 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135525360,imgsize-1933496.cms",
-      "summary": "OpenAI CEO Sam Altman says humans must stay in control of the future, even if it slows AI progress. On X, Altman said people should not cede control to superintelligence or be relegated to doing what AI systems reward.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "India",
-      "title": "Floyd Mayweather ordered to pay $340K in Manhattan rent dispute",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-floyd-mayweather-rented-a-manhattan-apartment-for-100000-a-month-two-years-later-a-court-reportedly-ordered-him-to-pay-about-340000-in-a-rent-dispute-while-the-owners-sold-it-for-20-million/articleshow/135521638.cms",
-      "published": "2026-11-04T12:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135521910,imgsize-843277.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135521638.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Just 11 survived after a predator introduced to fight garden pests nearly wiped them out: Hawaii\u2019s rare tree snails return to the wild after 33 years",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/in-1991-only-11-of-hawaiis-tree-snails-survived-after-being-hunted-by-a-predator-introduced-to-fight-garden-pests-after-33-years-of-lab-work-the-lost-species-is-finally-returning-to-the-wild/articleshow/135522596.cms",
-      "published": "2026-11-04T12:04:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135522894,imgsize-1449534.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135522596.cms\" />After years of dedicated conservation work, the O\u2018ahu tree snail has made a triumphant return to Hawaii's stunning Ko\u2018olau Mountains. Since rescuing the last of the species in 1991 and breeding them to over 1,000 individuals, conservationists have created a safe habitat that shields them from invasive threats.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "India",
-      "title": "When London Bridge was rebuilt in Arizona, workers numbered granite stones before dismantling it",
-      "url": "https://timesofindia.indiatimes.com/world/uk/the-remarkable-journey-of-london-bridge-from-thames-to-arizona-desert/articleshow/135453662.cms",
-      "published": "2026-11-04T12:04:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135463817,imgsize-1063816.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135453662.cms\" />London Bridge has a storied past marked by numerous reconstructions due to various calamities. In a striking turn of events, the City of London sold the iconic bridge to American entrepreneur Robert McCulloch for $2.46 million in 1968.",
+      "title": "Bengaluru man catches employee at home with daughter, beats him to death",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-man-beats-daughters-boyfriend-to-death-after-catching-them-together-at-home/articleshow/135560416.cms",
+      "published": "Thu, 05 Nov 2026 11:07:48 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135560569,imgsize-1133682.cms",
+      "summary": "In a tragic incident in Bengaluru, a 22-year-old man named Kiran was violently killed after being discovered by his girlfriend's father, Anand, while together at his residence. Overcome with rage, Anand attacked Kiran, inflicting critical injuries that led to his demise.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.15
     },
     {
       "category": "India",
-      "title": "Historic US midterms: Black, Indigenous, Latina &amp; LGBTQ leaders win key races",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-elections-2026-historic-firsts-as-black-indigenous-latina-and-lgbtq-leaders-win-key-races/articleshow/135526070.cms",
-      "published": "2026-11-04T11:55:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135527090,imgsize-1134300.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135526070.cms\" />The 2026 US midterm elections have led to historic firsts in gubernatorial and Senate races across the nation. Notable victories include the first Black woman governor in US history and the first Native American woman governor.",
+      "title": "California man dances to 'Stayin' Alive' at 97th birthday party; dies hours later",
+      "url": "https://timesofindia.indiatimes.com/world/us/california-man-dances-to-bee-gees-stayin-alive-at-halloween-themed-97th-birthday-party-dies-hours-later-after-an-unforgettable-final-celebration/articleshow/135562665.cms",
+      "published": "2026-11-05T12:24:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135562876,imgsize-1356154.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135562665.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "NASA\u2019s 3,200-pound Swift space telescope crashes back to Earth over Indonesia after failed $30 million rescue mission",
+      "url": "https://timesofindia.indiatimes.com/science/space/after-22-years-in-space-nasas-3200-pound-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-failed-30-million-rescue-mission-agency-estimates-1-in-2100-risk-of-debris-harming-someone/articleshow/135557967.cms",
+      "published": "2026-11-05T12:06:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135558384,imgsize-821931.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135557967.cms\" />NASA\u2019s Neil Gehrels Swift Observatory re-entered Earth's atmosphere after 22 years in orbit, ending its mission. Swift was crucial for understanding gamma-ray bursts and other cosmic events, detecting over 2,000 bursts.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
+    },
+    {
+      "category": "India",
+      "title": "Detroit man turns two rubber bands into 11,578-pound ball, breaking Guinness World Record after 11 years",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2015-detroits-claude-p-moore-began-building-a-ball-from-just-two-rubber-bands-11-years-later-it-weighed-11578-pounds-and-broke-a-guinness-record-with-volunteers-using-a-crane-to-weigh-the-giant-creation/articleshow/135558995.cms",
+      "published": "2026-11-05T12:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135559172,imgsize-146275.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135558995.cms\" />Claude P. Moore began his rubber band ball project in 2015, starting with two rubber bands.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "Filipino engineer wins \u00a330,000 award for sensor that detects hidden earthquake damage in buildings",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-filipino-engineer-who-developed-a-sensor-to-identify-potentially-unsafe-buildings-after-earthquakes-has-won-the-2026-james-dyson-global-sustainability-award-and-30000-for-his-invention-sentinel/articleshow/135559727.cms",
+      "published": "2026-11-05T12:06:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135560513,imgsize-45024.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135559727.cms\" />A Filipino structural engineer has won the 2026 James Dyson Global Sustainability Award and \u00a330,000 for developing Sentinel, a sensor that detects hidden damage in buildings after earthquakes. Developed by Aldrei Ong, the technology uses self-sensing concrete to identify cracks and monitor structural changes.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "How does Trump's defeat in US midterms impact Indian stock market? Explained",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/what-will-trump-losing-us-midterm-elections-mean-for-sensex-nifty-explained/articleshow/135520940.cms",
-      "published": "2026-11-04T10:57:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135525203,imgsize-671136.cms",
+      "title": "What is the gold price prediction for Dhanteras week? Check outlook on November 5, 2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-november-05-2026-should-you-buy-or-sell-mcx-gold-mcx-silver-dhanteras-diwali/articleshow/135561157.cms",
+      "published": "2026-11-05T11:45:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135561488,imgsize-623440.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Sensex climbs 288 points, Nifty rises nearly 77 points in early trade",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-4-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135521390.cms",
-      "published": "2026-11-04T09:15:58+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135521390,imgsize-1169175.cms",
-      "summary": "Indian equity benchmark indices opened higher on Wednesday, with the Sensex rising 288 points to 77,185.35 and the Nifty gaining 77.25 points to 23,890.85 in early trade. The gains came after four consecutive sessions of advances, with investors also tracking developments in the US midterm elections.",
+      "title": "Diwali bonanza: Investors get Rs 6.9 L cr richer - top reasons behind stock market rally",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/diwali-bonanza-on-dalal-street-bse-sensex-nse-nifty50-rise-on-november-5-2026-top-reasons-why-stock-market-is-rising/articleshow/135559225.cms",
+      "published": "2026-11-05T10:31:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135560079,imgsize-171400.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "What are the top stocks to buy on November 4, 2026? Check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-04-2026-godrej-properties-bajaj-auto-tata-power-best-stocks-to-buy-today/articleshow/135520552.cms",
-      "published": "2026-11-04T08:52:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135520671,imgsize-660609.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "title": "Fireworks on Dalal Street: BSE Sensex soars 1,400 points, NSE Nifty50 gains 2%",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-05-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135556926.cms",
+      "published": "2026-11-05T08:08:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135556926,imgsize-2024709.cms",
+      "summary": "For a point of reference, the Nifty 50 closed near 24,300 on Diwali 2024. By Diwali 2025, the index had climbed to roughly 25,700, delivering a steady return of nearly 5.7% over that period.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.16
     },
     {
       "category": "Business",
-      "title": "IRDAI directs insurers to offer four-layer motor cover in compliance with SC order",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-directs-insurers-to-offer-four-layer-motor-cover-in-compliance-with-sc-order/articleshow/135520574.cms",
-      "published": "2026-11-04T08:49:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135520653,imgsize-65890.cms",
+      "title": "Gold, silver lose shine ahead of Dhanteras: Buy now, wait or invest in something else?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-lose-shine-ahead-of-dhanteras-buy-now-wait-or-invest-in-something-else/articleshow/135490766.cms",
+      "published": "2026-11-03T15:17:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135491584,imgsize-279416.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.16
     },
     {
       "category": "Education",
-      "title": "Tamil Nadu CM Vijay to felicitate top-scoring board exam students in Chennai",
-      "url": "https://timesofindia.indiatimes.com/education/news/tamil-nadu-cm-vijay-to-felicitate-top-scoring-board-exam-students-in-chennai/articleshow/135526306.cms",
-      "published": "2026-11-04T11:29:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135526332,imgsize-63566.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/tamil-nadu-cm-vijay-to-felicitate-top-scoring-board-exam-students-in-chennai/articleshow/135526306.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135526306.cms\" /></a>Chief Minister Joseph Vijay will honour top-performing students in public exams from Tamil Nadu and Puducherry. The award ceremony will take place on Wednesday at R K Convention Centre in Neelankarai, Chennai.",
+      "title": "JEE Main 2027: NTA allows NRI candidates to use passports as identity proof during registration",
+      "url": "https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-allows-nri-candidates-to-use-passports-as-identity-proof-during-registration/articleshow/135562577.cms",
+      "published": "2026-11-05T12:28:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135563091,imgsize-112474.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-allows-nri-candidates-to-use-passports-as-identity-proof-during-registration/articleshow/135562577.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135562577.cms\" /></a>NTA allows NRI candidates to use their passports as identity proof for JEE Main 2027 registration. This decision aims to assist NRIs lacking Aadhaar cards or driving licenses in completing applications.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "NCTE forms two committees to revise teacher recruitment rules, CTET and STET eligibility for ITEP graduates",
-      "url": "https://timesofindia.indiatimes.com/education/news/ncte-forms-two-committees-to-revise-teacher-recruitment-rules-ctet-and-stet-eligibility-for-itep-graduates/articleshow/135526069.cms",
-      "published": "2026-11-04T11:26:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135526254,imgsize-154380.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ncte-forms-two-committees-to-revise-teacher-recruitment-rules-ctet-and-stet-eligibility-for-itep-graduates/articleshow/135526069.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135526069.cms\" /></a>The National Council for Teacher Education (NCTE) has formed two expert committees to review teacher recruitment qualifications and CTET and STET eligibility rules to include four-year ITEP graduates. The proposed changes come ahead of the first batch graduating in 2027 and aim to align existing regulations with the integrated teacher education degree..",
+      "title": "UP Assistant Teacher recruitment 2026: UPESSC relaxes graduation marks criteria for eligible candidates; check official notice",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-assistant-teacher-recruitment-2026-upessc-relaxes-graduation-marks-criteria-for-eligible-candidates-check-official-notice/articleshow/135562305.cms",
+      "published": "2026-11-05T12:07:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135562490,imgsize-87246.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-assistant-teacher-recruitment-2026-upessc-relaxes-graduation-marks-criteria-for-eligible-candidates-check-official-notice/articleshow/135562305.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135562305.cms\" /></a>The Uttar Pradesh Education Service Selection Commission has revised eligibility criteria for the Assistant Teacher recruitment. Certain candidates who entered teacher education programmes before July 29, 2011, will no longer need to meet minimum graduation marks.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.17
     },
     {
       "category": "Education",
-      "title": "BSF HC RO RM answer key 2026 released: Check direct link to download, objection details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/bsf-hc-ro-rm-answer-key-2026-released-check-direct-link-to-download-objection-details-here/articleshow/135525455.cms",
-      "published": "2026-11-04T11:25:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135526189,imgsize-26148.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bsf-hc-ro-rm-answer-key-2026-released-check-direct-link-to-download-objection-details-here/articleshow/135525455.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135525455.cms\" /></a>The Border Security Force has published the provisional answer keys for the Head Constable positions. Candidates can access their answer keys and response sheets online using their credentials.",
+      "title": "ICAI CA Foundation September 2026 result to be declared tomorrow at caresults.icai.org: Check complete details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-foundation-september-2026-result-to-be-declared-tomorrow-at-caresults-icai-org-check-complete-details-here/articleshow/135561026.cms",
+      "published": "2026-11-05T11:31:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135561240,imgsize-58882.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/icai-ca-foundation-september-2026-result-to-be-declared-tomorrow-at-caresults-icai-org-check-complete-details-here/articleshow/135561026.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135561026.cms\" /></a>The Institute of Chartered Accountants of India (ICAI) will announce the CA Foundation September 2026 result on November 6. Candidates will be able to access their scorecards using their registration and roll numbers on the official result portal.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "NTA closes UGC NET December 2026 application correction window today: Check editable fields, direct link to make changes",
-      "url": "https://timesofindia.indiatimes.com/education/news/nta-closes-ugc-net-december-2026-application-correction-window-today-check-editable-fields-direct-link-to-make-changes/articleshow/135521078.cms",
-      "published": "2026-11-04T10:48:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135524938,imgsize-243067.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/nta-closes-ugc-net-december-2026-application-correction-window-today-check-editable-fields-direct-link-to-make-changes/articleshow/135521078.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135521078.cms\" /></a>The National Testing Agency will close the application correction window for UGC NET December 2026 today. Candidates have until 11:50 pm to make necessary changes to their application forms.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Ramayana': Can Ranbir and Yash's Rs 4,000 crore epic become a landmark in Indian cinema?",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-can-ranbir-kapoor-and-yashs-rs-4000-crore-epic-become-a-landmark-in-indian-cinema-heres-everything-to-know/articleshow/135527240.cms",
-      "published": "2026-11-04T11:56:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135527418,imgsize-268896.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135527240.cms\" />Nitesh Tiwari's adaptation of 'Ramayana' will be released in theaters on November 5, 2026, and has generated excitement. Advance bookings for the film have approached Rs 100 crore, indicating a positive reception.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Entertainment",
-      "title": "Actor Sangeeth Prathap welcomes first child with wife Ancy",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/scene-one-our-little-one-on-the-way-bethlehem-kudumba-unit-actor-sangeeth-prathap-welcomes-first-child-with-wife-ancy/articleshow/135526423.cms",
-      "published": "2026-11-04T11:35:05+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135526539,imgsize-280153.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135526423.cms\" />With great joy, Sangeeth Prathap and his wife Ancy welcomed their first child, a precious baby girl. They creatively revealed their news through an enchanting video highlighting their passion for filmmaking.",
+      "title": "WB NEET PG counselling 2026 round 1 seat allotment result released; reporting begins today",
+      "url": "https://timesofindia.indiatimes.com/education/news/wb-neet-pg-counselling-2026-round-1-seat-allotment-result-released-reporting-begins-today/articleshow/135560171.cms",
+      "published": "2026-11-05T10:55:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135560323,imgsize-44836.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/wb-neet-pg-counselling-2026-round-1-seat-allotment-result-released-reporting-begins-today/articleshow/135560171.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135560171.cms\" /></a>WBMCC has released the provisional round 1 seat allotment result for WB NEET PG counselling 2026. Candidates who have been allotted seats must report to their institutes between November 5 and November 10, 2026.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "Kanika announces separation from husband Gautam after four years of marriage",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kanika-kapoor-announces-separation-from-husband-gautam-hathiramani-after-four-years-of-marriage-this-is-my-second-time-for-a-divorce-and-that-brings-its-own-grief-and-disappointment/articleshow/135525845.cms",
-      "published": "2026-11-04T11:21:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135525971,imgsize-346316.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135525845.cms\" />In a heartfelt announcement, Kanika Kapoor shared her decision to separate from her husband Gautam Hathiramani, asking for privacy as they navigate this change. Their marriage, which began in May 2022 after years of friendship, hit hurdles attributed to conflicting work schedules.",
+      "title": "Ramayana Movie Review and Release Live Updates",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-movie-review-release-live-update-ranbir-kapoor-sai-pallavi-yash-ravie-dubey-ramayana-review-and-box-office-collection/liveblog/135555214.cms",
+      "published": "2026-11-05T05:44:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135555214,imgsize-127024.cms",
+      "summary": "Another viewer shared a detailed reaction after watching the film in IMAX 3D on a real IMAX screen. The review described the experience as visually breathtaking and praised the scale of the production.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "Ramayana early reviews: Yash wows as audience hails VFX",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-early-screenings-yashs-ravana-dominates-buzz-audiences-say-this-is-the-kind-of-fantasy-i-wish-christopher-nolans-the-odyssey-was/articleshow/135525457.cms",
-      "published": "2026-11-04T11:16:42+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135525496,imgsize-320071.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135525457.cms\" />Nitesh Tiwari's adaptation of 'Ramayana: Rise of a Legend' is generating buzz prior to its November 5 release. Early screenings have highlighted standout performances from Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "title": "Mohanlal sports lungi-and-shirt look in 'L 368' location video",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-sports-lungi-and-shirt-look-in-l-368-location-video-sign-language-title-sparks-curiosity-among-fans-watch/articleshow/135562399.cms",
+      "published": "2026-11-05T12:05:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135562421,imgsize-289470.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135562399.cms\" />In an exciting reveal, Mohanlal showcased his look for the new film 'L 368', directed by Anoop Sathyan. The video shows him sporting a casual lungi and shirt, highlighting a relatable image.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.14
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Eetha\u2019 actor Shraddha Kapoor REACTS to online criticism",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/eetha-actor-shraddha-kapoor-reacts-to-online-criticism-my-friends-directors-and-producers-keep-scolding-me-for-not-checking-my-phone/articleshow/135561498.cms",
+      "published": "2026-11-05T11:39:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135561599,imgsize-232166.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135561498.cms\" />During a recent Q&amp;A on Instagram, Shraddha Kapoor shared insights into how she deals with criticism and social media feedback. She expressed that her priority lies in advancing her career, often choosing to overlook unkind remarks.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Entertainment",
+      "title": "Nazriya clarifies why she missed Suriya's three films before 'Scene'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nazriya-clarifies-why-she-missed-suriyas-three-films-before-agreeing-to-star-in-scene-says-its-just-joke/articleshow/135561306.cms",
+      "published": "2026-11-05T11:32:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135561336,imgsize-125670.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135561306.cms\" />After a long hiatus of over a decade, Nazriya Nazim is set to make her grand return to Tamil cinema with the much-anticipated film 'Scene', starring Suriya. She explained that previous rejections of offers were primarily tied to scheduling conflicts.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
     }
   ]
 }
