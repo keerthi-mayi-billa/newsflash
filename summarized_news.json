@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-06T07:13:46",
+  "generated_at": "2026-11-07T06:26:18",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "\u2018Hope you are enjoying Delhi weather\u2019: CJI blames vehicles for air pollution",
-      "url": "https://timesofindia.indiatimes.com/india/hope-you-are-enjoying-delhi-weather-cjis-remark-as-sc-takes-up-delhi-ncr-pollution/articleshow/135597208.cms",
-      "published": "Fri, 06 Nov 2026 12:16:44 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135597458,imgsize-1167329.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Man kills wife, six of her family members; dumps bodies across Bengaluru",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-family-massacre-man-kills-wife-mother-in-law-two-brothers-in-law-two-sisters-in-law-and-7-year-old-nephew/articleshow/135591101.cms",
-      "published": "Fri, 06 Nov 2026 08:23:25 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135596869,imgsize-110176.cms",
-      "summary": "Indushekar is accused of murdering his wife, Divya, along with six of her family members. The murders allegedly occurred over several days due to ongoing disputes between Indushekar and Divya.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Top Stories",
-      "title": "From \u2018habibi\u2019 to \u2018hamdulillah\u2019: Abdul El-Sayed\u2019s Senate victory sparks Arab pride",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/from-habibi-to-hamdulillah-abdul-el-sayeds-senate-victory-sparks-arab-pride/articleshow/135595029.cms",
-      "published": "Fri, 06 Nov 2026 10:52:09 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135595089,imgsize-87860.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Jharkhand HC quashes Soren govt's decision to cancel JSSC CGL exam",
-      "url": "https://timesofindia.indiatimes.com/india/jharkhand-high-court-quashes-state-governments-decision-to-cancel-jssc-cgl-exam/articleshow/135597369.cms",
-      "published": "Fri, 06 Nov 2026 12:24:42 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135597519,imgsize-211764.cms",
-      "summary": "The Jharkhand High Court has set aside the government's cancellation of the JSSC CGL examination. This ruling comes after candidates protested against the decision and alleged irregularities.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "India",
-      "title": "North Dakota ranchers take $383,375 legal fee fight against pipeline firm to US Supreme Court",
-      "url": "https://timesofindia.indiatimes.com/world/us/north-dakota-ranchers-fought-a-gas-companys-pipeline-easement-and-won-383375-in-legal-costs-only-to-lose-the-award-on-appeal-their-dispute-is-now-headed-to-the-us-supreme-court-on-november-9/articleshow/135594612.cms",
-      "published": "2026-11-06T12:08:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135594988,imgsize-195822.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135594612.cms\" />The US Supreme Court will hear a dispute involving North Dakota ranchers and WBI Energy Transmission over $383,375.76 in legal fees. The justices will decide whether state or federal law governs compensation when private natural gas companies acquire land through eminent domain..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "India",
-      "title": "Shaquille O\u2019Neal-backed youth centre attracts 400+ children after $1.1 million makeover",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2021-shaquille-oneals-foundation-helped-turn-a-former-georgia-middle-school-into-a-youth-club-with-a-1-1-million-renovation-within-a-year-the-new-centre-had-more-than-400-registered-children-and-teens/articleshow/135595202.cms",
-      "published": "2026-11-06T12:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135595543,imgsize-79621.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595202.cms\" />Shaquille O\u2019Neal\u2019s foundation has successfully transformed a dilapidated middle school in Henry County into a vibrant Boys and Girls Club. With a renovation budget of $1.1 million, the facility now features improved educational and recreational spaces.",
+      "title": "Inside B'luru murders: Mutton curry invite, sleeping pills, TV blaring, bodies in bags",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/inside-bengalurus-house-of-horrors-mutton-curry-invite-sleeping-pills-tv-at-full-blast-bodies-in-gunny-bags/articleshow/135626991.cms",
+      "published": "Sat, 07 Nov 2026 11:08:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135627342,imgsize-95445.cms",
+      "summary": "S Indushekhar reportedly killed his wife Sunitha and six of her relatives at their rented house. Following the murders, he and his daughter disposed of the bodies in various locations.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
+      "category": "Top Stories",
+      "title": "\u2018Severe\u2019 season: GRAP III in force as air quality plummets; what changes from today",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/severe-season-grap-iii-in-force-as-air-quality-plummets/articleshow/135624300.cms",
+      "published": "Sat, 07 Nov 2026 07:33:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135624442,imgsize-40383.cms",
+      "summary": "GRAP III was activated in New Delhi as the air quality index continues to deteriorate significantly. The average AQI reached 382 at 4pm on Friday, prompting precautionary measures to be implemented.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Democratic rights were curtailed constitutionally': Sonia Gandhi reflects on Emergency",
+      "url": "https://timesofindia.indiatimes.com/india/democratic-rights-were-curtailed-but-constitutionally-sonia-gandhi-reflects-on-emergency/articleshow/135627738.cms",
+      "published": "Sat, 07 Nov 2026 11:24:45 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135628005,imgsize-94838.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Who has time to kill him?' BJP-TMC spar over attack on Abhishek Banerjee's house",
+      "url": "https://timesofindia.indiatimes.com/india/under-kolkata-police-watch-abhishek-banerjee-alleges-midnight-bjp-attack-on-home/articleshow/135625106.cms",
+      "published": "Sat, 07 Nov 2026 08:50:04 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135626544,imgsize-68950.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
       "category": "India",
-      "title": "Judge Halts Arch Construction: US court blocks Trump monument for 14 days; veterans\u2019 suits proceed",
-      "url": "https://timesofindia.indiatimes.com/world/us/trumps-250-foot-triumphal-arch-in-washington-halted-by-federal-judge/articleshow/135594464.cms",
-      "published": "2026-11-06T11:47:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135596432,imgsize-44846.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135594464.cms\" />A federal judge has placed a temporary hold on the construction of a proposed triumphal arch meant to celebrate American independence. Approved by the National Capital Planning Commission, the monument faced opposition from Vietnam War veterans and local entities, who argued it lacked necessary permissions.",
+      "title": "Als Nursing Hospital Opens: 14-year ALS drive builds specialised facility; 350,000 donors fund care",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cha-eunwoo-donated-10-million-won-to-a-south-korean-als-charity-campaign-in-2023-two-years-later-a-23-9-billion-won-hospital-with-76-beds-opened-after-a-collective-fundraising-effort-backed-by-350000-donors/articleshow/135591788.cms",
+      "published": "2026-11-07T10:59:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135591802,imgsize-1080691.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591788.cms\" />In March 2025, the Seungil Hope Nursing Hospital in Yongin welcomed its first ALS patients, marking a 14-year journey led by dedicated advocates Park Seung-il and Sean. This landmark facility, developed with the generosity of over 350,000 donors and government backing, aims to provide advanced care tailored to the unique needs of those with ALS, emphasizing a community's unwavering commitment to enhancing the lives of affected individuals..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "published": "2026-11-07T09:47:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "India",
+      "title": "France deploys 70,000 security personnel ahead of fresh nationwide protests",
+      "url": "https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms",
+      "published": "2026-11-07T08:26:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135624988,imgsize-160694.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624778.cms\" />French trade unions and student groups are organizing a day of protests against rising living costs. The Yellow Vests movement plans a separate rally in central Paris, despite an official ban on gatherings.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
       "category": "India",
-      "title": "North Carolina farm builds 7 tiny homes inspired by a woman who spent 27 years in prison",
-      "url": "https://timesofindia.indiatimes.com/world/us/after-spending-27-years-in-prison-a-woman-inspired-a-north-carolina-farm-to-build-7-tiny-homes-where-formerly-incarcerated-women-and-gender-expansive-people-can-practise-living-independently/articleshow/135595725.cms",
-      "published": "2026-11-06T11:24:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135595853,imgsize-271974.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595725.cms\" />",
+      "title": "Streamer Feud Over Halloween: Banks slams Plaqueboymax\u2019s \u2018whiteface\u2019 stream; questions career slide",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/why-is-faze-banks-attacking-plaqueboymax-kai-cenat-comparison-halloween-controversy-and-super-bowl-halftime-challenge/articleshow/135619548.cms",
+      "published": "2026-11-07T01:30:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135619574,imgsize-437301.cms",
+      "summary": "Plaqueboymax\u2019s Halloween livestream led to disagreements with Adin Ross and FaZe Banks. Adin suggested a blackface stream after seeing Max\u2019s crew dressed as stereotypical white men.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.06
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.13
     },
     {
       "category": "Business",
-      "title": "What is the gold price prediction on Dhanteras? Check November 6, 2026 outlook",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-on-dhanteras-what-is-the-gold-rate-outlook-for-november-06-2026-should-you-buy-or-sell-mcx-gold/articleshow/135597238.cms",
-      "published": "2026-11-06T12:19:08+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135597406,imgsize-736216.cms",
+      "title": "Why new LNG projects may not prevent a global gas crunch this winter",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/why-new-lng-projects-may-not-prevent-a-global-gas-crunch-this-winter/articleshow/135627696.cms",
+      "published": "2026-11-07T11:38:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135628391,imgsize-89914.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Will banks remain closed for Dhanteras, Diwali and other festivals; check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/diwali-bank-holidays-will-banks-remain-closed-for-dhanteras-diwali-and-other-festivals-check-state-wise-list/articleshow/135596188.cms",
-      "published": "2026-11-06T11:41:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135596285,imgsize-85918.cms",
+      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-dip-by-2-69-billion-whats-behind-the-decline/articleshow/135626724.cms",
+      "published": "2026-11-07T10:59:04+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627217,imgsize-104116.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex jumps 500 points after flat opening, Nifty also rises",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-6-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135591408.cms",
-      "published": "2026-11-06T08:23:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135591408,imgsize-140436.cms",
-      "summary": "\"The Indian market is on a very very strong foundation,\" Chouhan told ANI, pointing to year-on-year net profit growth of around 19 per cent and an expected CAGR of 15-16 per cent over the next two years. He said second-quarter FY27 earnings have been significantly better than the previous three quarters, while FII inflows have touched nearly $4 billion in recent days, including $1.5 billion in a single session.",
+      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "published": "2026-11-07T09:47:53+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 15.16
     },
     {
       "category": "Business",
-      "title": "Asian stocks plunge: Kospi tumbles over 7%, Nikkei sheds 3,000 points as AI-linked shares drag markets",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-plunge-kospi-tumbles-over-7-nikkei-sheds-3000-points-as-ai-linked-shares-drag-markets/articleshow/135592890.cms",
-      "published": "2026-11-06T09:32:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135593063,imgsize-150116.cms",
+      "title": "US stocks: Wall street bounces back after hitting 18-month low as chipmakers rally",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-wall-street-bounces-back-in-green-after-hitting-18-month-low-as-chipmakers-rally/articleshow/135624761.cms",
+      "published": "2026-11-07T08:21:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135624944,imgsize-143800.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.11
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.08
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "CAT 2026 admit card released at iimcat.ac.in: Direct link to download hall ticket here",
-      "url": "https://timesofindia.indiatimes.com/education/news/iim-cat-2026-admit-card-released-at-iimcat-ac-in-direct-link-to-download-hall-ticket-here/articleshow/135597329.cms",
-      "published": "2026-11-06T12:31:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135597724,imgsize-367287.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/iim-cat-2026-admit-card-released-at-iimcat-ac-in-direct-link-to-download-hall-ticket-here/articleshow/135597329.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597329.cms\" /></a>IIM Indore has announced the availability of the CAT 2026 admit card for registered candidates. Candidates must visit the official website to download their admit cards and verify details.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Education",
-      "title": "Three Oklahoma students found their teacher unconscious on concrete after a fall; what they did next earned them a public honour",
-      "url": "https://timesofindia.indiatimes.com/education/news/three-oklahoma-students-found-their-teacher-unconscious-on-concrete-after-a-fall-what-they-did-next-earned-them-a-public-honour/articleshow/135597500.cms",
-      "published": "2026-11-06T12:26:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135597598,imgsize-247416.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/three-oklahoma-students-found-their-teacher-unconscious-on-concrete-after-a-fall-what-they-did-next-earned-them-a-public-honour/articleshow/135597500.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597500.cms\" /></a>Three Oklahoma high school students have received public recognition for helping their teacher, Tanya Brawn, after she lost consciousness following a fall outside school on October 8. The students immediately called 911, stayed with her and alerted adults, ensuring she received medical attention.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Education",
-      "title": "UP Special TET answer key 2026 released at upessc.up.gov.in; raise objections by November 12: Check direct link to download answer keys here",
-      "url": "https://timesofindia.indiatimes.com/education/news/up-special-tet-answer-key-2026-released-at-upessc-up-gov-in-raise-objections-by-november-12-check-direct-link-to-download-answer-keys-here/articleshow/135597239.cms",
-      "published": "2026-11-06T12:17:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135597239,imgsize-79898.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-special-tet-answer-key-2026-released-at-upessc-up-gov-in-raise-objections-by-november-12-check-direct-link-to-download-answer-keys-here/articleshow/135597239.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597239.cms\" /></a>UPESSC has released the provisional UP Special TET Answer Key 2026 for the examination conducted on November 3. Candidates can download the master set answer key from the official website and verify their responses.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Education",
-      "title": "WBSSC Group C and D Result 2026: Clerk preliminary interview list released at westbengalssc.com; check details",
-      "url": "https://timesofindia.indiatimes.com/education/news/wbssc-group-c-and-d-result-2026-clerk-preliminary-interview-list-released-at-westbengalssc-com-check-details/articleshow/135596417.cms",
-      "published": "2026-11-06T11:56:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135596498,imgsize-74624.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/wbssc-group-c-and-d-result-2026-clerk-preliminary-interview-list-released-at-westbengalssc-com-check-details/articleshow/135596417.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135596417.cms\" /></a>The West Bengal Central School Service Commission (WBSSC) has released the Clerk Preliminary Interview List 2026 for the 1st SLST Non-Teaching Staff recruitment. Published on November 5, the list is available on the official website.",
+      "title": "He arrived in Israel just two days earlier for a school programme; 17-year-old US student discovers a 3,300-year-old Egyptian amulet from the Bronze Age",
+      "url": "https://timesofindia.indiatimes.com/education/news/he-arrived-in-israel-just-two-days-earlier-for-a-school-programme-17-year-old-us-student-discovers-a-3300-year-old-egyptian-amulet-from-the-bronze-age/articleshow/135627749.cms",
+      "published": "2026-11-07T11:24:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627872,imgsize-171702.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/he-arrived-in-israel-just-two-days-earlier-for-a-school-programme-17-year-old-us-student-discovers-a-3300-year-old-egyptian-amulet-from-the-bronze-age/articleshow/135627749.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627749.cms\" /></a>A 17-year-old US student, Shiloh Attoun, discovered a 3,300-year-old Egyptian-style scarab amulet during a school excursion to Tel Gezer National Park in Israel. The Late Bronze Age artefact features two cobra motifs representing an ancient Egyptian royal symbol.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
-      "category": "Entertainment",
-      "title": "Aishwarya-Abhishek arrive hand in hand, Saif-Kareena, Akshay: Celebs at Diwali bash",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-turns-heads-in-a-red-saree-as-she-arrives-hand-in-hand-with-abhishek-bachchan-kareena-kapoor-saif-ali-khan-akshay-kumar-with-twinkle-khanna-aarav-bhatia-and-other-celebs-attend-manish-malhotras-diwali-bash-pics-inside/articleshow/135586331.cms",
-      "published": "2026-11-06T03:10:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135586592,imgsize-383984.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135586331.cms\" />A star-studded gathering unfolded at Manish Malhotra's Diwali celebration, where Bollywood's finest showcased their vibrant festive styles. Saif Ali Khan and Kareena Kapoor Khan charmed in their elegant outfits, with Akshay Kumar's family in tow.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Aishwarya REFUSES to pose solo without hubby Abhishek - WATCH",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-refuses-to-pose-solo-without-husband-abhishek-bachchan-at-manish-malhotras-diwali-party-watch/articleshow/135596306.cms",
-      "published": "2026-11-06T12:01:52+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135596791,imgsize-267465.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135596306.cms\" />Aishwarya Rai Bachchan and Abhishek Bachchan made a rare public appearance together at a Diwali party. They shared affectionate moments as they walked the carpet closely together, countering separation rumors.",
+      "category": "Education",
+      "title": "RBSE Rajasthan Board Exam 2027: Class 10, 12 examinations to begin on February 16",
+      "url": "https://timesofindia.indiatimes.com/education/news/rbse-rajasthan-board-exam-2027-class-10-12-examinations-to-begin-on-february-16/articleshow/135627512.cms",
+      "published": "2026-11-07T11:00:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627554,imgsize-90182.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rbse-rajasthan-board-exam-2027-class-10-12-examinations-to-begin-on-february-16/articleshow/135627512.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627512.cms\" /></a>The Rajasthan Board of Secondary Education (RBSE) has announced the examination schedule for Class 10 and Class 12 board examinations. Both examinations will begin on February 16, with papers scheduled to start at 10:30 AM.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
     },
     {
-      "category": "Entertainment",
-      "title": "Suriya, Nazriya, Naslen, and Jithu Madhavan's 'Scene' salary revealed",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-nazriya-naslen-and-jithu-madhavan-how-much-did-scene-stars-get-paid-for-the-diwali-release/articleshow/135595936.cms",
-      "published": "2026-11-06T11:28:16+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135595959,imgsize-278717.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595936.cms\" />Suriya's new film 'Scene' has received positive reviews, leading to a good box office start. The movie premiered on November 6 as a Diwali release featuring actors Nazriya Nazim and Naslen.",
+      "category": "Education",
+      "title": "MHT CET Cell approaches police over alleged audio recording promising higher marks; two misleading social media posts removed",
+      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-cell-approaches-police-over-alleged-audio-recording-promising-higher-marks-two-misleading-social-media-posts-removed/articleshow/135627355.cms",
+      "published": "2026-11-07T10:44:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627371,imgsize-131560.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mht-cet-cell-approaches-police-over-alleged-audio-recording-promising-higher-marks-two-misleading-social-media-posts-removed/articleshow/135627355.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627355.cms\" /></a>The Maharashtra CET Cell has filed a police complaint at Mumbai's Azad Maidan Police Station over an alleged audio recording involving claims of examination centre manipulation and marks enhancement in MHT CET. The recording has been submitted to police for investigation.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.04
+    },
+    {
+      "category": "Education",
+      "title": "55 students from 11 government schools send a 2 kg research payload 35 km above Earth; Coimbatore project takes classroom science into the stratosphere",
+      "url": "https://timesofindia.indiatimes.com/education/news/55-students-from-11-government-schools-send-a-2-kg-research-payload-35-km-above-earth-coimbatore-project-takes-classroom-science-into-the-stratosphere/articleshow/135626348.cms",
+      "published": "2026-11-07T10:36:10+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627209,imgsize-122235.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/55-students-from-11-government-schools-send-a-2-kg-research-payload-35-km-above-earth-coimbatore-project-takes-classroom-science-into-the-stratosphere/articleshow/135626348.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626348.cms\" /></a>Fifty-five students from 11 government middle schools in Tamil Nadu's Coimbatore district participated in Project Uyarvu, sending a 2 kg scientific payload to 35 km above Earth using a helium-filled high-altitude balloon. Equipped with atmospheric sensors and a particle trap, the instrument collected environmental data during its nearly three-hour flight.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "'Ramayana' box office collection day 1: Film fails to beat Dhurandhar's opening day",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-1-live-ranbir-kapoor-yashs-film-expected-to-cross-rs-70-crore-on-opening-day-eyes-dhurandhars-record-diwali-weekend-growth-will-depend-on-word-of-mouth/articleshow/135566619.cms",
-      "published": "2026-11-05T14:47:51+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135567184,imgsize-224666.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135566619.cms\" />With a grand theatrical release, Nitesh Tiwari's Ramayana: Part 1 is off to a strong start, boasting significant advance bookings. By midday on its opening day, the film has netted Rs 26.44 crore in India.",
+      "title": "Ranbir starts script for the directorial debut",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-plans-directorial-debut-within-2-3-years-calls-this-his-last-decade-as-an-actor/articleshow/135628010.cms",
+      "published": "2026-11-07T11:25:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135628023,imgsize-183868.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628010.cms\" />Ranbir Kapoor says he plans to make his directorial debut within two to three years, calling this his \u201clast decade as an actor.\u201d Already writing a script, he envisions a feel-good family drama. He\u2019ll first complete the sequels to Brahmastra, Animal and Ramayana.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.03
+      "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Mamitha Baiju is always there for me': Anaswara Rajan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mamitha-baiju-is-always-there-for-me-anaswara-rajan-talks-about-her-super-sharanya-co-star-and-comparisons-with-other-actresses/articleshow/135627632.cms",
+      "published": "2026-11-07T11:03:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627658,imgsize-249939.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627632.cms\" />Anaswara Rajan highlighted her friendship with Mamitha Baiju during a recent interview. She shared that Mamitha provided support during her health struggles, offering emotional strength.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Entertainment",
+      "title": "CM Vijay wishes Kamal Haasan, says \u2018May you achieve many more milestones'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/cm-joseph-vijay-wishes-kamal-haasan-on-his-72nd-birthday-says-may-you-achieve-many-more-milestones-in-the-fields-of-cinema-and-public-life/articleshow/135627476.cms",
+      "published": "2026-11-07T10:54:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627482,imgsize-141751.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627476.cms\" />On the occasion of veteran actor Kamal Haasan's 72nd birthday, Tamil Nadu Chief Minister Joseph Vijay extended warm wishes, recognizing Haasan's outstanding contributions to both cinema and social initiatives. The celebrations were amplified by the revelation of Haasan's upcoming film 'Sandiyar', which is helmed by director S.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.06
+    },
+    {
+      "category": "Entertainment",
+      "title": "Jamie Lee Curtis says she continues to talk to Rob and Michele Reiner\u2019s kids",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jamie-lee-curtis-remembers-rob-and-michele-reiner-says-she-is-close-with-their-children-we-are-family/articleshow/135627470.cms",
+      "published": "2026-11-07T10:54:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135627488,imgsize-52012.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627470.cms\" />Jamie Lee Curtis expressed her deep bond with the late Rob and Michele Reiner during an interview. She continues to support their children, Jake and Romy, as they navigate their grief.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.08
     }
   ]
 }
