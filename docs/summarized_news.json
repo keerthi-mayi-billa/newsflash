@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-07T06:26:18",
+  "generated_at": "2026-11-08T06:32:14",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Inside B'luru murders: Mutton curry invite, sleeping pills, TV blaring, bodies in bags",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/inside-bengalurus-house-of-horrors-mutton-curry-invite-sleeping-pills-tv-at-full-blast-bodies-in-gunny-bags/articleshow/135626991.cms",
-      "published": "Sat, 07 Nov 2026 11:08:56 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135627342,imgsize-95445.cms",
-      "summary": "S Indushekhar reportedly killed his wife Sunitha and six of her relatives at their rented house. Following the murders, he and his daughter disposed of the bodies in various locations.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Top Stories",
-      "title": "\u2018Severe\u2019 season: GRAP III in force as air quality plummets; what changes from today",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/severe-season-grap-iii-in-force-as-air-quality-plummets/articleshow/135624300.cms",
-      "published": "Sat, 07 Nov 2026 07:33:43 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135624442,imgsize-40383.cms",
-      "summary": "GRAP III was activated in New Delhi as the air quality index continues to deteriorate significantly. The average AQI reached 382 at 4pm on Friday, prompting precautionary measures to be implemented.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Democratic rights were curtailed constitutionally': Sonia Gandhi reflects on Emergency",
-      "url": "https://timesofindia.indiatimes.com/india/democratic-rights-were-curtailed-but-constitutionally-sonia-gandhi-reflects-on-emergency/articleshow/135627738.cms",
-      "published": "Sat, 07 Nov 2026 11:24:45 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135628005,imgsize-94838.cms",
+      "title": "Far right activist disrupts Diwali celebrations in US; leaders condemn",
+      "url": "https://timesofindia.indiatimes.com/world/us/deport-all-dot-heads-far-right-activist-jake-lang-targets-hindus-at-seattle-diwali-event/articleshow/135650611.cms",
+      "published": "Sun, 08 Nov 2026 09:29:29 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-47529300.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'Who has time to kill him?' BJP-TMC spar over attack on Abhishek Banerjee's house",
-      "url": "https://timesofindia.indiatimes.com/india/under-kolkata-police-watch-abhishek-banerjee-alleges-midnight-bjp-attack-on-home/articleshow/135625106.cms",
-      "published": "Sat, 07 Nov 2026 08:50:04 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135626544,imgsize-68950.cms",
+      "title": "'Engines failing': DKS accuses Centre of 'cover up' amid ethanol belnding row",
+      "url": "https://timesofindia.indiatimes.com/india/engines-failing-dks-accuses-centre-of-cover-up-amid-ethanol-belnding-row/articleshow/135652976.cms",
+      "published": "Sun, 08 Nov 2026 11:45:36 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135653031,imgsize-104760.cms",
       "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "Speeding Thar kills man, drags body for 20 metres; 2 women, man flee",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/suv-mows-down-man-in-kanpur/articleshow/135645785.cms",
+      "published": "Sun, 08 Nov 2026 01:06:08 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135651488,imgsize-17723170.cms",
+      "summary": "A fatal accident occurred in Kalyanpur area of Kanpur when a speeding Thar hit a scooter. The collision caused significant damage as the SUV dragged the rider for nearly 20 metres.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "Top Stories",
+      "title": "Bill Gates thinks policy like California\u2019s 'rich tax' is only solution in AI age",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-thinks-that-policy-like-the-rich-tax-that-created-uproar-in-california-is-the-only-solution-in-the-ai-age-says-we-cant-expect-philanthropy-as-/articleshow/135633017.cms",
+      "published": "Sat, 07 Nov 2026 15:19:20 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135633037,imgsize-51862.cms",
+      "summary": "Bill Gates emphasizes the necessity for governments to tackle inequality as AI creates wealth disparities. He believes that relying solely on philanthropy is insufficient to address growing economic inequality.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "India",
+      "title": "Weeks after flydubai incident, 'hostile aircraft' alert triggers panic in Israel",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/weeks-after-flydubai-incident-hostile-aircraft-alert-triggers-panic-in-israel/articleshow/135652438.cms",
+      "published": "2026-11-08T11:33:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652898,imgsize-76288.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652438.cms\" />An alert regarding a potential hostile aircraft intrusion in northern Israel was issued but later clarified. The alert prompted heightened scrutiny following an attempted hijacking of a flydubai flight from Dubai to Tel Aviv.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "India",
+      "title": "Iran executes 3 men accused of carrying out operations for Israel, US during protests",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-executes-3-men-accused-of-carrying-out-operations-for-israel-us-during-protests/articleshow/135652472.cms",
+      "published": "2026-11-08T11:21:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652590,imgsize-700781.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652472.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Als Nursing Hospital Opens: 14-year ALS drive builds specialised facility; 350,000 donors fund care",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cha-eunwoo-donated-10-million-won-to-a-south-korean-als-charity-campaign-in-2023-two-years-later-a-23-9-billion-won-hospital-with-76-beds-opened-after-a-collective-fundraising-effort-backed-by-350000-donors/articleshow/135591788.cms",
-      "published": "2026-11-07T10:59:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135591802,imgsize-1080691.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591788.cms\" />In March 2025, the Seungil Hope Nursing Hospital in Yongin welcomed its first ALS patients, marking a 14-year journey led by dedicated advocates Park Seung-il and Sean. This landmark facility, developed with the generosity of over 350,000 donors and government backing, aims to provide advanced care tailored to the unique needs of those with ALS, emphasizing a community's unwavering commitment to enhancing the lives of affected individuals..",
+      "title": "Chained to bed, windows covered in foil: How ex-husband held US woman captive for 2 yrs",
+      "url": "https://timesofindia.indiatimes.com/world/us/chained-to-bed-windows-covered-in-foil-how-ex-husband-held-us-woman-captive-for-2-years/articleshow/135652201.cms",
+      "published": "2026-11-08T11:04:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652346,imgsize-486024.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652201.cms\" />A woman was found in Fargo after allegedly being chained to a bed for two years and abused. She was discovered after a maintenance worker heard her cries for help in the apartment complex.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
-      "published": "2026-11-07T09:47:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts.",
+      "title": "10-year-old Ukrainian boy tracks rare black stork from Chernobyl to Africa to expose threats to its survival",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/at-just-10-ukrainian-boy-noah-beshto-turned-wildlife-detective-tracking-a-rare-black-stork-from-chernobyl-to-africa-in-a-motorhome-he-wants-to-save-the-bird-from-deadly-power-lines-poaching-and-habitat-loss/articleshow/135602105.cms",
+      "published": "2026-11-08T10:55:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135602373,imgsize-659136.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135602105.cms\" />Noah Beshto, a 10-year-old prodigy from Ukraine, embarked on an adventurous journey in a motorhome, tracking the migration of the black stork. Partnering with ornithologist Nika Paposhvili, he documented the hazards these birds face, such as electrocution and destruction of their habitats.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "India",
-      "title": "France deploys 70,000 security personnel ahead of fresh nationwide protests",
-      "url": "https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms",
-      "published": "2026-11-07T08:26:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135624988,imgsize-160694.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624778.cms\" />French trade unions and student groups are organizing a day of protests against rising living costs. The Yellow Vests movement plans a separate rally in central Paris, despite an official ban on gatherings.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "India",
-      "title": "Streamer Feud Over Halloween: Banks slams Plaqueboymax\u2019s \u2018whiteface\u2019 stream; questions career slide",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/why-is-faze-banks-attacking-plaqueboymax-kai-cenat-comparison-halloween-controversy-and-super-bowl-halftime-challenge/articleshow/135619548.cms",
-      "published": "2026-11-07T01:30:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135619574,imgsize-437301.cms",
-      "summary": "Plaqueboymax\u2019s Halloween livestream led to disagreements with Adin Ross and FaZe Banks. Adin suggested a blackface stream after seeing Max\u2019s crew dressed as stereotypical white men.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.08
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.08
     },
     {
       "category": "Business",
-      "title": "Why new LNG projects may not prevent a global gas crunch this winter",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/why-new-lng-projects-may-not-prevent-a-global-gas-crunch-this-winter/articleshow/135627696.cms",
-      "published": "2026-11-07T11:38:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135628391,imgsize-89914.cms",
+      "title": "India's clean energy push may cut fuel import bill by $240 billion: IEA",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-clean-energy-push-cut-its-fuel-import-bill-by-240-billion-iea/articleshow/135652502.cms",
+      "published": "2026-11-08T11:24:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652603,imgsize-164526.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Business",
+      "title": "Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/muhurat-trading-2026-why-dalal-street-opens-for-an-hour-on-diwali-10-stocks-to-buy-for-samvat-2083/articleshow/135632689.cms",
+      "published": "2026-11-07T15:15:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135632902,imgsize-181698.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Business",
+      "title": "FIIs return to Dalal Street, pump Rs 38,971 crore into Indian equities amid AI sell-off",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/fiis-return-to-dalal-street-pump-rs-38971-crore-into-indian-equities-amid-ai-sell-off/articleshow/135650408.cms",
+      "published": "2026-11-08T10:04:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135650480,imgsize-34592.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Business",
+      "title": "Berkshire Hathaway's profit falls 28% as Geico struggles: Warren Buffett's insurance giant under focus",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/berkshire-hathaways-profit-falls-28-as-geico-struggles-warren-buffetts-insurance-giant-under-focus/articleshow/135650883.cms",
+      "published": "2026-11-08T09:55:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135651043,imgsize-71526.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-dip-by-2-69-billion-whats-behind-the-decline/articleshow/135626724.cms",
-      "published": "2026-11-07T10:59:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627217,imgsize-104116.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
-      "published": "2026-11-07T09:47:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
-    },
-    {
-      "category": "Business",
-      "title": "US stocks: Wall street bounces back after hitting 18-month low as chipmakers rally",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-wall-street-bounces-back-in-green-after-hitting-18-month-low-as-chipmakers-rally/articleshow/135624761.cms",
-      "published": "2026-11-07T08:21:17+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135624944,imgsize-143800.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.18
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "He arrived in Israel just two days earlier for a school programme; 17-year-old US student discovers a 3,300-year-old Egyptian amulet from the Bronze Age",
-      "url": "https://timesofindia.indiatimes.com/education/news/he-arrived-in-israel-just-two-days-earlier-for-a-school-programme-17-year-old-us-student-discovers-a-3300-year-old-egyptian-amulet-from-the-bronze-age/articleshow/135627749.cms",
-      "published": "2026-11-07T11:24:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627872,imgsize-171702.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/he-arrived-in-israel-just-two-days-earlier-for-a-school-programme-17-year-old-us-student-discovers-a-3300-year-old-egyptian-amulet-from-the-bronze-age/articleshow/135627749.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627749.cms\" /></a>A 17-year-old US student, Shiloh Attoun, discovered a 3,300-year-old Egyptian-style scarab amulet during a school excursion to Tel Gezer National Park in Israel. The Late Bronze Age artefact features two cobra motifs representing an ancient Egyptian royal symbol.",
+      "title": "Surat businessman gives employees Rs 1 lakh each as Diwali bonus; video goes viral",
+      "url": "https://timesofindia.indiatimes.com/education/news/surat-businessman-gives-employees-rs-1-lakh-each-as-diwali-bonus-video-goes-viral/articleshow/135651949.cms",
+      "published": "2026-11-08T10:56:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652233,imgsize-1089988.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/surat-businessman-gives-employees-rs-1-lakh-each-as-diwali-bonus-video-goes-viral/articleshow/135651949.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135651949.cms\" /></a>A video from Surat showing businessman Ramswaroop Munde, owner of Mahadev Cloth Centre in Mota Varachha, presenting his employees with Diwali bonuses has gone viral. Bundles of fresh notes were reportedly laid on puja thalis, with Rs 1 lakh each and Rs 20 lakh in total.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.12
     },
     {
       "category": "Education",
-      "title": "RBSE Rajasthan Board Exam 2027: Class 10, 12 examinations to begin on February 16",
-      "url": "https://timesofindia.indiatimes.com/education/news/rbse-rajasthan-board-exam-2027-class-10-12-examinations-to-begin-on-february-16/articleshow/135627512.cms",
-      "published": "2026-11-07T11:00:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627554,imgsize-90182.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rbse-rajasthan-board-exam-2027-class-10-12-examinations-to-begin-on-february-16/articleshow/135627512.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627512.cms\" /></a>The Rajasthan Board of Secondary Education (RBSE) has announced the examination schedule for Class 10 and Class 12 board examinations. Both examinations will begin on February 16, with papers scheduled to start at 10:30 AM.",
+      "title": "ACC January 2027 entrance exam: NTA opens registration window; check exam schedule, fee and key details",
+      "url": "https://timesofindia.indiatimes.com/education/news/acc-january-2027-entrance-exam-nta-opens-registration-window-check-exam-schedule-fee-and-key-details/articleshow/135651274.cms",
+      "published": "2026-11-08T09:56:08+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135651305,imgsize-57820.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/acc-january-2027-entrance-exam-nta-opens-registration-window-check-exam-schedule-fee-and-key-details/articleshow/135651274.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135651274.cms\" /></a>The National Testing Agency has commenced the application process for the Common Entrance Examination for Army Cadet College. Interested candidates can apply online until November 30, 2026, with a late fee option available.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "MHT CET Cell approaches police over alleged audio recording promising higher marks; two misleading social media posts removed",
-      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-cell-approaches-police-over-alleged-audio-recording-promising-higher-marks-two-misleading-social-media-posts-removed/articleshow/135627355.cms",
-      "published": "2026-11-07T10:44:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627371,imgsize-131560.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mht-cet-cell-approaches-police-over-alleged-audio-recording-promising-higher-marks-two-misleading-social-media-posts-removed/articleshow/135627355.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627355.cms\" /></a>The Maharashtra CET Cell has filed a police complaint at Mumbai's Azad Maidan Police Station over an alleged audio recording involving claims of examination centre manipulation and marks enhancement in MHT CET. The recording has been submitted to police for investigation.",
+      "title": "Bhiwani girl secures AIR 15 in NDA, clears SSB in fourth attempt",
+      "url": "https://timesofindia.indiatimes.com/education/news/bhiwani-girl-secures-air-15-in-nda-clears-ssb-in-fourth-attempt/articleshow/135650925.cms",
+      "published": "2026-11-08T09:40:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135651002,imgsize-144598.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bhiwani-girl-secures-air-15-in-nda-clears-ssb-in-fourth-attempt/articleshow/135650925.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135650925.cms\" /></a>Nineteen-year-old Parul Dahiya from Bhiwani district has secured All-India Rank 15 in the girls' category in the NDA examination, overcoming three unsuccessful SSB interview attempts before clearing the selection process on her fourth attempt. A BTech student and aspiring Indian Air Force officer, Parul credits persistence, improved preparation and a positive attitude for her success.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "55 students from 11 government schools send a 2 kg research payload 35 km above Earth; Coimbatore project takes classroom science into the stratosphere",
-      "url": "https://timesofindia.indiatimes.com/education/news/55-students-from-11-government-schools-send-a-2-kg-research-payload-35-km-above-earth-coimbatore-project-takes-classroom-science-into-the-stratosphere/articleshow/135626348.cms",
-      "published": "2026-11-07T10:36:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627209,imgsize-122235.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/55-students-from-11-government-schools-send-a-2-kg-research-payload-35-km-above-earth-coimbatore-project-takes-classroom-science-into-the-stratosphere/articleshow/135626348.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626348.cms\" /></a>Fifty-five students from 11 government middle schools in Tamil Nadu's Coimbatore district participated in Project Uyarvu, sending a 2 kg scientific payload to 35 km above Earth using a helium-filled high-altitude balloon. Equipped with atmospheric sensors and a particle trap, the instrument collected environmental data during its nearly three-hour flight.",
+      "title": "RMS Class 9 Social Science syllabus 2026 revised; check official notice here",
+      "url": "https://timesofindia.indiatimes.com/education/news/rms-class-9-social-science-syllabus-2026-revised-check-official-notice-here/articleshow/135649870.cms",
+      "published": "2026-11-08T08:28:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135650014,imgsize-867680.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rms-class-9-social-science-syllabus-2026-revised-check-official-notice-here/articleshow/135649870.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135649870.cms\" /></a>The National Testing Agency has announced a revised syllabus for the Class 9 RMS examination. Candidates are advised to refer to the updated syllabus available on the official NTA website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.05
     },
     {
       "category": "Entertainment",
-      "title": "Ranbir starts script for the directorial debut",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-plans-directorial-debut-within-2-3-years-calls-this-his-last-decade-as-an-actor/articleshow/135628010.cms",
-      "published": "2026-11-07T11:25:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135628023,imgsize-183868.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628010.cms\" />Ranbir Kapoor says he plans to make his directorial debut within two to three years, calling this his \u201clast decade as an actor.\u201d Already writing a script, he envisions a feel-good family drama. He\u2019ll first complete the sequels to Brahmastra, Animal and Ramayana.",
+      "title": "Isha Koppikar says 'Diwali is more than just burning crackers' amid Dia Mirza vs BMC row",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/isha-koppikar-says-diwali-has-lost-its-old-charm-as-she-laments-changing-festive-trends-amid-dia-mirza-vs-bmc-row-it-is-more-than-just-burning-crackers/articleshow/135652009.cms",
+      "published": "2026-11-08T11:05:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652734,imgsize-521445.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652009.cms\" />Janhvi Kapoor opened up about her journey through nose surgery and how it transformed her mother's perspective. Initially, Sridevi had concerns about Janhvi pursuing an acting career due to the commitment it entailed.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "Entertainment",
+      "title": "\u2018Tyson Naidu\u2019: Bellamkonda Sai Sreenivas and Neha Shetty dance to first single",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/tyson-naidu-bellamkonda-sai-sreenivas-and-neha-shetty-showcase-energetic-dance-moves-in-first-single-madarasi-rabbaru-bomma/articleshow/135652711.cms",
+      "published": "2026-11-08T11:29:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652731,imgsize-160314.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652711.cms\" />Bellamkonda Sai Sreenivas will appear in the action entertainer 'Tyson Naidu', directed by Sagar K Chandra. The recently released single, 'Madarasi Rabbaru Bomma', features energetic dance moves by Sai Sreenivas and Neha Shetty.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.07
+    },
+    {
+      "category": "Entertainment",
+      "title": "Keerthy Suresh compares Bollywood and South film industry work styles",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/keerthy-suresh-compares-bollywood-and-south-cinema-says-south-films-are-more-spontaneous/articleshow/135652608.cms",
+      "published": "2026-11-08T11:25:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135652649,imgsize-78476.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135652608.cms\" />Keerthy Suresh recently expressed her insights on the varying approaches between Bollywood and South Indian cinema. She observed that Bollywood generally emphasizes thorough pre-production and detailed actor preparation prior to filming.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
     },
     {
       "category": "Entertainment",
-      "title": "'Mamitha Baiju is always there for me': Anaswara Rajan",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mamitha-baiju-is-always-there-for-me-anaswara-rajan-talks-about-her-super-sharanya-co-star-and-comparisons-with-other-actresses/articleshow/135627632.cms",
-      "published": "2026-11-07T11:03:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627658,imgsize-249939.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627632.cms\" />Anaswara Rajan highlighted her friendship with Mamitha Baiju during a recent interview. She shared that Mamitha provided support during her health struggles, offering emotional strength.",
+      "title": "'Ramayana' box office collection day 3 (LIVE)",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-part-1-box-office-collection-day-3-live-ranbir-kapoor-yash-sai-pallavis-film-expected-to-see-growth-on-saturday-as-the-diwali-weekend-kicks-in-inches-towards-rs-150-crore/articleshow/135631688.cms",
+      "published": "2026-11-07T14:38:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135631971,imgsize-394890.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135631688.cms\" />Ramayana opened strongly at the box office, earning Rs 64.85 crore on its first day in India. The film experienced a slight decline on its second day, with Rs 48 crore net on Friday.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "CM Vijay wishes Kamal Haasan, says \u2018May you achieve many more milestones'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/cm-joseph-vijay-wishes-kamal-haasan-on-his-72nd-birthday-says-may-you-achieve-many-more-milestones-in-the-fields-of-cinema-and-public-life/articleshow/135627476.cms",
-      "published": "2026-11-07T10:54:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627482,imgsize-141751.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627476.cms\" />On the occasion of veteran actor Kamal Haasan's 72nd birthday, Tamil Nadu Chief Minister Joseph Vijay extended warm wishes, recognizing Haasan's outstanding contributions to both cinema and social initiatives. The celebrations were amplified by the revelation of Haasan's upcoming film 'Sandiyar', which is helmed by director S.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "Jamie Lee Curtis says she continues to talk to Rob and Michele Reiner\u2019s kids",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jamie-lee-curtis-remembers-rob-and-michele-reiner-says-she-is-close-with-their-children-we-are-family/articleshow/135627470.cms",
-      "published": "2026-11-07T10:54:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135627488,imgsize-52012.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627470.cms\" />Jamie Lee Curtis expressed her deep bond with the late Rob and Michele Reiner during an interview. She continues to support their children, Jake and Romy, as they navigate their grief.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     }
   ]
 }
