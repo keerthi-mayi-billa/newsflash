@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-09T07:04:31",
+  "generated_at": "2026-11-10T07:41:42",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "How a heated argument turned fatal for Kolkata techie; partner, her mom arrested",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/bloodshed-in-kolkata-flat-how-a-heated-argument-turned-fatal-for-25-year-old-techie-sarthak-sarkar-girlfriend-her-mother-arrested/articleshow/135667917.cms",
-      "published": "Mon, 09 Nov 2026 07:33:29 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135668139,imgsize-82936.cms",
-      "summary": "A late-night argument inside a rented flat in Kolkata resulted in the death of a 25-year-old software engineer. The police have arrested the victim's live-in partner and her mother in connection with the incident.",
+      "title": "Rubio warned Trump of Nvidia CEO's affair with Chinese 'spy'. Did he ignore it?",
+      "url": "https://timesofindia.indiatimes.com/world/us/rubio-warned-trump-about-nvidia-ceos-affair-with-chinese-spy-months-ago-did-he-ignore-it/articleshow/135701376.cms",
+      "published": "Tue, 10 Nov 2026 12:10:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135703130,imgsize-1424926.cms",
+      "summary": "US President Donald Trump expressed confidence in Nvidia CEO Jensen Huang regarding allegations of ties to a Chinese spy. Trump stated he believes Huang was unaware of the alleged spy's identity during an FBI investigation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.13
     },
     {
       "category": "Top Stories",
-      "title": "Rubio warned Trump admin about Nvidia CEO's alleged ties to Alice Huang: Report",
-      "url": "https://timesofindia.indiatimes.com/world/us/rubio-warned-trump-administration-about-nvidia-ceos-alleged-ties-to-chinese-spy-alice-huang-report/articleshow/135672502.cms",
-      "published": "Mon, 09 Nov 2026 11:22:27 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135672588,imgsize-484531.cms",
-      "summary": "",
+      "title": "'Injured throat with scissors': Kolkata techie's girlfriend 'can't remember' argument",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/injured-throat-with-scissors-accused-partner-in-kolkata-techie-sarthak-sarkars-murder-case-cant-remember-what-happened-during-argument-gives-contradictory-statements/articleshow/135696273.cms",
+      "published": "Tue, 10 Nov 2026 06:59:40 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135696368,imgsize-83361.cms",
+      "summary": "Sarthak Sarkar, a software engineer, was found murdered in his rental flat in Kolkata after a domestic dispute. His live-in partner, Sanchalika Basu, and her mother, Moumita Basu, have been arrested in connection with the case.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.14
     },
     {
       "category": "Top Stories",
-      "title": "'True colours exposed': BJP's Giriraj Singh tears into Kharge over Diwali 'khushiyon ka Eid' remark",
-      "url": "https://timesofindia.indiatimes.com/india/true-colours-exposed-bjps-giriraj-singh-tears-into-kharge-over-diwali-khushiyon-ka-eid-remark/articleshow/135673230.cms",
-      "published": "Mon, 09 Nov 2026 11:50:08 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135673388,imgsize-1327014.cms",
-      "summary": "",
+      "title": "'I'd quake in my seat': Sonia recalls Indira's temper, early days as bride in memoir",
+      "url": "https://timesofindia.indiatimes.com/india/id-quake-in-my-seat-sonia-gandhi-recalls-indira-gandhis-temper-early-days-as-bride-in-memoir/articleshow/135701951.cms",
+      "published": "Tue, 10 Nov 2026 12:08:46 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135701979,imgsize-568103.cms",
+      "summary": "Sonia Gandhi\u2019s memoir, Belonging: A Journey of Love, offers an intimate account of Indira Gandhi\u2019s temper, recalling how staff were made to stand in corners, a senior Congress leader ordered to face a wall and others ignored for days. Sonia also describes Rajiv\u2019s reassurance during her mother-in-law\u2019s outbursts, Indira\u2019s domestic routines, love for sarees and photographs, and how grandchildren gradually softened her temperament..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.1
     },
     {
       "category": "Top Stories",
-      "title": "KL Rahul: The all-weather ODI batter keeping India steady",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kl-rahul-the-all-weather-odi-batter-keeping-india-steady/articleshow/135671712.cms",
-      "published": "Mon, 09 Nov 2026 10:48:13 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135671869,imgsize-140963.cms",
-      "summary": "KL Rahul's adaptability has made him India's dependable middle-order pillar in ODIs. From rebuilding innings to accelerating against different bowling attacks, the wicketkeeper-batter has mastered the art of switching roles.",
+      "title": "'Warrants urgent attention': SC flags vehicle pollution in Delhi-NCR, seeks action plan",
+      "url": "https://timesofindia.indiatimes.com/india/warrants-urgent-attention-sc-flags-vehicular-pollution-in-delhi-ncr-seeks-action-plan/articleshow/135702298.cms",
+      "published": "Tue, 10 Nov 2026 12:46:22 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135703007,imgsize-51940.cms",
+      "summary": "The Supreme Court has mandated that Delhi and three adjacent states intensify measures to combat vehicle emissions. Officials are tasked with reporting on the implementation of laws governing aging and non-compliant vehicles.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.14
     },
     {
       "category": "India",
-      "title": "Wisconsin family manages 500-acre forest for wildlife and timber; shortlisted for state conservation award",
-      "url": "https://timesofindia.indiatimes.com/world/us/jesse-and-kylie-sebero-manage-more-than-500-acres-of-wisconsin-forest-for-both-timber-and-wildlife-and-open-it-to-researchers-they-are-among-five-families-shortlisted-for-the-states-10000-leopold-conservation-award/articleshow/135630506.cms",
-      "published": "2026-11-09T12:03:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135630601,imgsize-2464475.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135630506.cms\" />Jesse and Kylie Sebero are managing over 500 acres of forest in Marinette County, Wisconsin. They focus on timber production while ensuring ecological balance and wildlife conservation.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "India",
-      "title": "South Carolina woman protects 146-acre family land after promise to mother",
-      "url": "https://timesofindia.indiatimes.com/world/us/her-grandparents-bought-146-acres-in-south-carolina-in-the-1940s-she-promised-her-mother-she-would-keep-it-together-and-has-now-barred-future-development-on-the-family-land/articleshow/135630143.cms",
-      "published": "2026-11-09T12:01:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135630916,imgsize-126610.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135630143.cms\" />Alice Smith has placed her family's 146-acre property in South Carolina under a conservation easement, fulfilling a promise to her mother. Her grandparents bought the land in the 1940s.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "India",
-      "title": "South Carolina father arrested after leaving 6-year-old alone for Pokemon cards",
-      "url": "https://timesofindia.indiatimes.com/world/us/south-carolina-father-leaves-his-6-year-old-daughter-sleeping-outside-target-with-a-pillow-and-blanket-to-hold-his-place-in-a-queue-for-pokmon-cards-arrested-after-customers-alert-police/articleshow/135649371.cms",
-      "published": "2026-11-09T12:00:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135649397,imgsize-53912.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135649371.cms\" />",
+      "title": "Charity shop worker wins \u00a3600,000 inheritance battle after murder accusation",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-charity-shop-worker-was-accused-by-his-mother-of-trying-to-murder-his-own-brother-after-she-left-him-out-of-her-600000-will-a-court-ruled-in-his-favour/articleshow/135701807.cms",
+      "published": "2026-11-10T12:03:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135701972,imgsize-135733.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135701807.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Princess Margaret's wedding gift: Mustique villa now rents for $50,000 a week",
-      "url": "https://timesofindia.indiatimes.com/world/uk/princess-margaret-received-a-10-acre-caribbean-plot-as-a-wedding-gift-the-secluded-mustique-villa-she-built-there-now-welcomes-guests-for-up-to-50000-a-week/articleshow/135669852.cms",
-      "published": "2026-11-09T12:00:48+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135670234,imgsize-316972.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135669852.cms\" />",
+      "title": "Over 2,000 teachers, students face political persecution in Bangladesh: Report",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/over-2000-teachers-students-face-political-persecution-in-bangladesh-report/articleshow/135702427.cms",
+      "published": "2026-11-10T12:40:54+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135702748,imgsize-130990.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702427.cms\" />Since August 2024, over 2,000 students and teachers have reportedly faced politically motivated persecution across Bangladesh. The persecution includes academic exclusion, physical attacks, and criminal proceedings targeting individuals linked to the Bangladesh Awami League.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "Russia's last major independent newspaper Novaya Gazeta shuts down after 33 years",
+      "url": "https://timesofindia.indiatimes.com/world/europe/six-journalists-killed-33-years-of-defiance-russias-last-major-independent-newspaper-shuts-down/articleshow/135701135.cms",
+      "published": "2026-11-10T12:34:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135701166,imgsize-152420.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135701135.cms\" />Novaya Gazeta, an independent newspaper critical of the Kremlin, has shut down its Moscow office after three decades. The closure came as a result of mounting government pressure and sustained restrictions on independent media.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "India",
+      "title": "Rubio warned Trump about Nvidia CEO's Chinese 'spy' affair months ago. Did he ignore it?",
+      "url": "https://timesofindia.indiatimes.com/world/us/rubio-warned-trump-about-nvidia-ceos-affair-with-chinese-spy-months-ago-did-he-ignore-it/articleshow/135701376.cms",
+      "published": "2026-11-10T12:10:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135703130,imgsize-1424926.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135701376.cms\" />US President Donald Trump expressed confidence in Nvidia CEO Jensen Huang regarding allegations of ties to a Chinese spy. Trump stated he believes Huang was unaware of the alleged spy's identity during an FBI investigation.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Business",
-      "title": "Nifty50 to hit 28,000 in 2027? 3 factors that could drive Dalal street's next run",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nifty50-to-hit-28000-in-2027-3-factors-that-could-drive-dalal-streets-next-run/articleshow/135672832.cms",
-      "published": "2026-11-09T11:49:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673075,imgsize-171400.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Business",
-      "title": "Bank holiday on Diwali: Where banks are closed on November 9; check state-wise list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-diwali-where-banks-are-closed-on-november-9-check-state-wise-list/articleshow/135672253.cms",
-      "published": "2026-11-09T11:19:10+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135672501,imgsize-62206.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.16
     },
     {
       "category": "Business",
-      "title": "Rupee extends winning streak, breaks below 94 against dollar: What's next",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-extends-winning-streak-breaks-below-94-against-dollar-whats-next/articleshow/135670806.cms",
-      "published": "2026-11-09T10:22:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135671269,imgsize-151648.cms",
+      "title": "Asian stocks rally as Wall Street rebounds, oil prices ease",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rally-as-wall-street-rebounds-oil-prices-ease-on-iran-de-escalation-hopes/articleshow/135700659.cms",
+      "published": "2026-11-10T11:21:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135700838,imgsize-147950.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex plunges over 400 points, Nifty50 slips below 25,000 levels",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-09-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135669083.cms",
-      "published": "2026-11-09T08:11:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135669083,imgsize-2147704.cms",
-      "summary": "Stock market today: Will Nifty50 touch 28,000 in 2027? BSE Sensex was trading 408.26 points, or 0.50%, lower at 80,591.14. However, some stocks bucked the weak market trend.",
+      "title": "$69.3 billion IPO? Anthropic shares price details with banks, then retracts",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/69-3-billion-ipo-anthropic-shares-price-details-with-banks-then-retracts/articleshow/135700013.cms",
+      "published": "2026-11-10T10:41:34+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135700142,imgsize-26892.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.11
+    },
+    {
+      "category": "Business",
+      "title": "China hits $1 trillion trade surplus milestone for second year in a row",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/china-hits-1-trillion-trade-surplus-milestone-for-second-year-in-a-row/articleshow/135699110.cms",
+      "published": "2026-11-10T10:14:38+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135699335,imgsize-125628.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Business",
+      "title": "Russia-US diesel deal delivers results? Lavrov claims prices have already fallen",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/russia-us-diesel-deal-delivers-results-lavrov-claims-prices-have-already-fallen/articleshow/135698830.cms",
+      "published": "2026-11-10T10:11:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135698959,imgsize-764384.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "Maharashtra AYUSH Admission 2026: Special CAP Round 4 schedule announced for BAMS, BHMS and BUMS",
-      "url": "https://timesofindia.indiatimes.com/education/news/maharashtra-ayush-admission-2026-special-cap-round-4-schedule-announced-for-bams-bhms-and-bums/articleshow/135673664.cms",
-      "published": "2026-11-09T12:11:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673713,imgsize-108476.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/maharashtra-ayush-admission-2026-special-cap-round-4-schedule-announced-for-bams-bhms-and-bums/articleshow/135673664.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673664.cms\" /></a>The Maharashtra State CET Cell has announced Special CAP Round 4 for BAMS, BHMS and BUMS admissions for 2026-27. Candidates must submit their online preferences by November 9, 2026, at 11.59 pm.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Education",
-      "title": "UP Assistant Professor City Slip 2026 released at upessc.up.gov.in: Direct link to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/up-assistant-professor-city-slip-2026-released-at-upessc-up-gov-in-direct-link-to-download/articleshow/135673540.cms",
-      "published": "2026-11-09T12:05:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673691,imgsize-30868.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-assistant-professor-city-slip-2026-released-at-upessc-up-gov-in-direct-link-to-download/articleshow/135673540.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673540.cms\" /></a>The Uttar Pradesh Education Service Selection Commission has released the UP Assistant Professor City Intimation Slip 2026 on November 8. Candidates can check their allotted examination city through the official website.",
+      "title": "J&amp;K Bank Recruitment 2026: JKSA seeks increase in upper age limit to 40 years for Open Merit candidates, urges LG Manoj Sinha to intervene",
+      "url": "https://timesofindia.indiatimes.com/education/news/jk-bank-recruitment-2026-jksa-seeks-increase-in-upper-age-limit-to-40-years-for-open-merit-candidates-urges-lg-manoj-sinha-to-intervene/articleshow/135702784.cms",
+      "published": "2026-11-10T12:46:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135703050,imgsize-166162.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jk-bank-recruitment-2026-jksa-seeks-increase-in-upper-age-limit-to-40-years-for-open-merit-candidates-urges-lg-manoj-sinha-to-intervene/articleshow/135702784.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702784.cms\" /></a>The Jammu and Kashmir Students Association (JKSA) has urged Lieutenant Governor Manoj Sinha to intervene and raise the upper age limit for J&amp;K Bank recruitment to 40 years for Open Merit candidates. Citing a nearly six-year recruitment gap, the association has also sought additional age relaxation for Probationary Officer and Banking Associate aspirants..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "MPSC Group C Recruitment 2026: Vacancies increased to 16,717, application window reopens on November 13",
-      "url": "https://timesofindia.indiatimes.com/education/news/mpsc-group-c-recruitment-2026-vacancies-increased-to-16717-application-window-reopens-on-november-13/articleshow/135672722.cms",
-      "published": "2026-11-09T11:54:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673454,imgsize-129092.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mpsc-group-c-recruitment-2026-vacancies-increased-to-16717-application-window-reopens-on-november-13/articleshow/135672722.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135672722.cms\" /></a>MPSC Group C Recruitment 2026: The Maharashtra Public Service Commission has increased Group C recruitment vacancies from 5,707 to 16,717, adding 11,010 posts across government departments. The online application window will reopen from November 13 to November 27, 2026.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "Education",
-      "title": "The \u2018king\u2019 who helped bring Rome to Britain in AD 43 may have been a woman; archaeologist challenges a 2,000-year-old assumption",
-      "url": "https://timesofindia.indiatimes.com/education/news/the-king-who-helped-bring-rome-to-britain-in-ad-43-may-have-been-a-woman-archaeologist-challenges-a-2000-year-old-assumption/articleshow/135671586.cms",
-      "published": "2026-11-09T10:56:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135671852,imgsize-181673.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/the-king-who-helped-bring-rome-to-britain-in-ad-43-may-have-been-a-woman-archaeologist-challenges-a-2000-year-old-assumption/articleshow/135671586.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135671586.cms\" /></a>Archaeologist Miles Russell has proposed that Verica, the Iron Age ruler whose appeal to Roman Emperor Claudius may have helped trigger Rome's invasion of Britain in AD 43, could have been a woman. His theory draws on the ruler's name, coin imagery and inscriptions, alongside evidence of women's social status in Iron Age Britain.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Entertainment",
-      "title": "'Ramayana:' day 4: Ranbir, Sai, Yash's film approaches Rs 500 cr worldwide",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collections-day-4-ranbir-kapoor-sai-pallavi-yashs-film-approaches-rs-500-cr-worldwide-crosses-rs-200-cr-india-net/articleshow/135667130.cms",
-      "published": "2026-11-09T05:55:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135667132,imgsize-345452.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135667130.cms\" />Nitesh Tiwari's 'Ramayana: Rise of a Legend' has grossed nearly Rs 500 cr worldwide within four days. The film, featuring key performances from Ranbir Kapoor and Sai Pallavi, crossed Rs 200 cr in India net collections.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
-    },
-    {
-      "category": "Entertainment",
-      "title": "Anirudh-Kavya wedding: Rajinikanth, MK Stalin, Udhayanidhi head to Greece",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-maran-wedding-rajinikanth-mk-stalin-udhayanidhi-head-to-greece-as-celebrations-begin/articleshow/135673900.cms",
-      "published": "2026-11-09T12:19:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673908,imgsize-142530.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673900.cms\" />Anirudh Ravichander and Kavya Maran are gearing up for their wedding in the picturesque landscape of Greece, igniting excitement in both their families and fans alike. Esteemed personalities such as Rajinikanth and MK Stalin are anticipated guests.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Entertainment",
-      "title": "Adnan Sami slams airport service: Singer alleges rude staff",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/completely-rude-adnan-sami-lashes-out-at-mumbai-airport-staff-over-flight-delay-ordeal/articleshow/135673687.cms",
-      "published": "2026-11-09T12:10:56+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673762,imgsize-199292.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673687.cms\" />Singer Adnan Sami has slammed Pranaam Services at Mumbai Airport\u2019s T2 after a five-hour Air India delay. He alleged no one received his team, they were told of the delay late, and a staff member was rude and glued to her phone.",
+      "title": "AP Special TET Final Answer Key 2026 expected today, check download steps and result date",
+      "url": "https://timesofindia.indiatimes.com/education/news/ap-special-tet-final-answer-key-2026-expected-today-check-download-steps-and-result-date/articleshow/135702730.cms",
+      "published": "2026-11-10T12:39:24+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135702803,imgsize-119945.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ap-special-tet-final-answer-key-2026-expected-today-check-download-steps-and-result-date/articleshow/135702730.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702730.cms\" /></a>AP Special TET Final Answer Key 2026: The AP Special TET 2026 Final Answer Key is expected to be released on November 10 by the Department of School Education, Andhra Pradesh. Candidates will be able to download paper-wise and shift-wise keys for Papers 1A, 1B, 2A and 2B.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
-      "category": "Entertainment",
-      "title": "Krishnasamy warns Kamal Haasan against using the 'Sandiyar' title",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasans-sandiyar-title-row-resurfaces-after-23-years-krishnasamy-warns-actor-against-using-the-title-he-will-have-to-leave-tamil-nadu/articleshow/135673418.cms",
-      "published": "2026-11-09T11:51:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135673423,imgsize-230730.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135673418.cms\" />Kamal Haasan's new film 'Sandiyar' is stirring controversy over possible caste-related violence. Krishnasamy, president of the New Tamilagam Party, has raised serious objections to the title, threatening legal action if it remains unchanged.",
+      "category": "Education",
+      "title": "Odisha Civil Services exam: Cabinet approves unlimited attempts for all categories, removes cap on OPSC recruitment test",
+      "url": "https://timesofindia.indiatimes.com/education/news/odisha-civil-services-exam-cabinet-approves-unlimited-attempts-for-all-categories-removes-cap-on-opsc-recruitment-test/articleshow/135702043.cms",
+      "published": "2026-11-10T12:25:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135702451,imgsize-28240.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/odisha-civil-services-exam-cabinet-approves-unlimited-attempts-for-all-categories-removes-cap-on-opsc-recruitment-test/articleshow/135702043.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702043.cms\" /></a>The Odisha Cabinet has approved an amendment to the Odisha Civil Services (Combined Competitive Recruitment Examination) Rules, 1991, removing the limit on the number of attempts for the OPSC Civil Services examination across all categories. Candidates can now appear for the examination unlimited times, subject to the prescribed upper age limit and other eligibility criteria..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Education",
+      "title": "IOAA-Jr 2026: From Puducherry to Maharashtra, meet the 5 Indian students who won medals at the International Astronomy Olympiad",
+      "url": "https://timesofindia.indiatimes.com/education/news/ioaa-jr-2026-from-puducherry-to-maharashtra-meet-the-5-indian-students-who-won-medals-at-the-international-astronomy-olympiad/articleshow/135701649.cms",
+      "published": "2026-11-10T11:48:49+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135701682,imgsize-202521.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/ioaa-jr-2026-from-puducherry-to-maharashtra-meet-the-5-indian-students-who-won-medals-at-the-international-astronomy-olympiad/articleshow/135701649.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135701649.cms\" /></a>Indian students have won five medals, including two gold, two silver and one bronze, at the 5th International Olympiad on Astronomy and Astrophysics for Juniors (IOAA-Jr) 2026 in Thailand. Competing against participants from 25 countries, the five-member contingent delivered an impressive performance.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "Who is Anna Lezhneva? Inside her love story with Pawan Kalyan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/who-is-anna-lezhneva-inside-her-love-story-with-pawan-kalyan-and-their-separation-after-13-years/articleshow/135702125.cms",
+      "published": "2026-11-10T12:09:58+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135702137,imgsize-141889.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702125.cms\" />Anna Lezhneva, a celebrated Russian actress, enjoyed a notable 13-year marriage to actor Pawan Kalyan after they crossed paths during the making of 'Teen Maar' in 2011. Their union, which began in 2013, has resulted in two children.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Entertainment",
+      "title": "Inside the Kapoor-Khan Diwali: Kareena-Saif share cosy family photos",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-the-kapoor-khan-diwali-kareena-kapoor-saif-ali-khan-pose-with-taimur-and-jeh-alia-bhatt-and-karisma-kapoor-join-the-festivities/articleshow/135702012.cms",
+      "published": "2026-11-10T12:07:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135702073,imgsize-365591.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702012.cms\" />Kareena Kapoor and Saif Ali Khan shared glimpses of their Diwali celebration with sons Taimur and Jeh, all dressed in festive wear. Soni Razdan posted a Kapoor family photo featuring Alia Bhatt, Karisma Kapoor and others.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Entertainment",
+      "title": "Who is Nandini, Pawan Kalyan's first wife",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/who-is-nandini-pawan-kalyans-first-wife-married-the-actor-in-1997-filed-bigamy-case-in-2007/articleshow/135701361.cms",
+      "published": "2026-11-10T11:36:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135701435,imgsize-239587.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135701361.cms\" />Pawan Kalyan and Anna Konidala revealed their separation on November 10, concluding a 13-year marriage, which is Pawan\u2019s third. His earlier marriages with Nandini and Renu Desai ended under unique situations, as Nandini changed her identity to Jahnvi and moved to the United States post-divorce.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
+    },
+    {
+      "category": "Entertainment",
+      "title": "Billy Joel confirms that he is going to perform soon",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/billy-joel-confirms-he-is-getting-back-on-stage-news-comes-after-the-singer-shared-that-every-performance-is-like-getting-a-concussion/articleshow/135700803.cms",
+      "published": "2026-11-10T11:11:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135700842,imgsize-43160.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135700803.cms\" />Billy Joel has officially announced his return to the concert scene, set for a unique event at Florida Atlantic University on December 14, 2026. This show will blend live music with an interactive question-and-answer segment.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
     }
   ]
 }
