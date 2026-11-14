@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-13T07:06:55",
+  "generated_at": "2026-11-14T06:56:17",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Microsoft outage hits millions worldwide; company says fixes not 'working as expected'",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-outage-status-update-company-says-that-the-changes-applied-to-fix-outage-not-working-as-expected/articleshow/135789407.cms",
-      "published": "Fri, 13 Nov 2026 10:02:19 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135789448,imgsize-260628.cms",
-      "summary": "Microsoft is currently experiencing an outage affecting its email and cloud services due to server failures. Nearly 130,000 users worldwide have reported connectivity issues with Outlook and Teams.",
+      "title": "America's air traffic control meltdown: How US flight crisis unfolded &amp; what next",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-what-went-wrong-how-americas-skies-were-brought-to-a-standstill-and-what-happens-next/articleshow/135821067.cms",
+      "published": "Sat, 14 Nov 2026 10:46:09 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135821955,imgsize-185998.cms",
+      "summary": "On November 13, a significant communications failure caused a nationwide ground stop for US flights. Airports experienced delays, cancellations, and diversions, affecting approximately 1.5 million passengers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.22
     },
     {
       "category": "Top Stories",
-      "title": "\u2018I don\u2019t care\u2019: How Jensen Huang\u2019s last hours as Nvidia CEO unfolded",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-dont-care-how-jensen-huangs-last-hours-as-nvidia-ceo-unfolded/articleshow/135788716.cms",
-      "published": "Fri, 13 Nov 2026 09:32:44 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135788871,imgsize-149434.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "Hyderabad: 8 Army personnel injured after truck crashes into roadside tree",
-      "url": "https://timesofindia.indiatimes.com/india/hyderabad-8-army-personnel-injured-after-truck-crashes-into-roadside-tree/articleshow/135792327.cms",
-      "published": "Fri, 13 Nov 2026 12:10:42 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135792568,imgsize-124698.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Failed to speak Hindi': Indonesian woman with China links caught at Nepal border",
-      "url": "https://timesofindia.indiatimes.com/india/indonesian-woman-with-alleged-chinese-links-caught-at-sonauli-border-after-failing-to-speak-hindi/articleshow/135791009.cms",
-      "published": "Fri, 13 Nov 2026 11:16:18 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135791343,imgsize-58331.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Appeal Extends Property Dispute: Alabama Power appeals; easement case remains unresolved",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2025-alabama-power-offered-a-landowner-80000-for-an-easement-across-his-property-in-2026-he-won-a-ruling-against-its-300-foot-exclusion-request-as-the-fight-over-his-416-acres-continues/articleshow/135788485.cms",
-      "published": "2026-11-13T12:11:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135788907,imgsize-1316796.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135788485.cms\" />A legal clash continues between Alabama Power and landowner Fenn Church over a transmission line easement. Alabama Power has appealed to the state Supreme Court after a judge refused its request for a temporary restraining order.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "India",
-      "title": "Bearadise Halloween Attraction: Florida DIY haunt grows to 5,000 sq ft; adds Salem witch-trial history",
-      "url": "https://timesofindia.indiatimes.com/world/us/florida-homeowner-started-with-hay-bales-and-a-pumpkin-seven-years-later-his-free-halloween-attraction-spans-nearly-5000-square-feet-with-handmade-tombstones-towering-skeletons-and-hidden-speakers/articleshow/135478816.cms",
-      "published": "2026-11-13T12:11:32+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135478850,imgsize-2111716.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135478816.cms\" />Bearadise in Orange Park has evolved from a simple display into a beloved Halloween destination over the years. Crafted by Matt McCary, this immersive attraction features a graveyard, eerie tombstones, and haunting sound effects.",
+      "title": "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasinas-return-to-bangladesh-india-wants-dhaka-to-fulfil-two-conditions-says-report/articleshow/135824475.cms",
+      "published": "Sat, 14 Nov 2026 11:59:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135824969,imgsize-1274059.cms",
+      "summary": "India is reportedly seeking Sheikh Hasina\u2019s return to Bangladesh after more than two years in exile, but has set two conditions for Tarique Rahman\u2019s government. According to BBC Bangla, New Delhi wants the Bangladesh army to fly Hasina back and guarantee her an opportunity to appeal her death sentence and face a fresh trial over the July 2024 crackdown..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
+      "category": "Top Stories",
+      "title": "Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/jensen-huangs-nvidia-exit-costs-him-rs-900-crore-how-much-wealth-does-he-have-left/articleshow/135824006.cms",
+      "published": "Sat, 14 Nov 2026 11:36:04 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135824487,imgsize-44456.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.15
+    },
+    {
+      "category": "Top Stories",
+      "title": "Vaibhav Sooryavanshi breaks men's T20 world record at 15 years and 232 days",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
+      "published": "Sat, 14 Nov 2026 11:47:52 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135824756,imgsize-26304.cms",
+      "summary": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
       "category": "India",
-      "title": "18th Annual Gala: Toronto event raises over $700,000; gang violence disrupts Haiti students\u2019 schooling",
-      "url": "https://timesofindia.indiatimes.com/world/us/olivia-wilde-backed-a-free-school-in-earthquake-hit-haiti-that-began-with-300-students-the-charity-says-it-has-since-helped-over-32000-children-and-a-september-2026-fundraiser-added-more-than-700000/articleshow/135556894.cms",
-      "published": "2026-11-13T12:11:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135556932,imgsize-771788.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135556894.cms\" />Olivia Wilde's collaboration with Artists for Peace and Justice is pivotal in revolutionizing educational access for Haitian children. Following the devastating earthquake in 2010, the organization launched a free school in Port-au-Prince and now assists over 1,400 students each year.",
+      "title": "Trump administration plans federal land sales, but leaves parcels unidentified",
+      "url": "https://timesofindia.indiatimes.com/world/us/the-trump-administration-has-proposed-selling-parts-of-americas-federal-land-holdings-to-states-tribes-and-local-governments-under-a-new-five-year-plan-but-has-not-identified-which-parcels-could-be-sold/articleshow/135758030.cms",
+      "published": "2026-11-14T12:06:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135758140,imgsize-919544.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135758030.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "At 13, Prince George shows artistic flair with a kingfisher drawing in Prince William's magazine",
+      "url": "https://timesofindia.indiatimes.com/world/uk/at-13-prince-george-is-following-in-king-charless-artistic-footsteps-his-colourful-kingfisher-drawing-created-at-home-in-windsor-has-now-been-unveiled-in-prince-williams-magazine/articleshow/135824092.cms",
+      "published": "2026-11-14T12:04:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824186,imgsize-96193.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824092.cms\" />At just 13, Prince George has displayed his creative flair through a striking drawing of a kingfisher, recently featured in Country Life magazine. This artwork not only showcases his meticulous attention to detail but also aligns with the royal family's rich tradition of artistic appreciation, which is evident in King Charles III's interests..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
       "category": "India",
-      "title": "Nostalgic Brisbane Home Purchase: Buyer pays A$4.9m for childhood Queenslander; sale bucks weak auction market",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/a-brisbane-man-grew-up-across-the-street-from-a-1920s-home-where-he-played-as-a-child-after-almost-pulling-out-of-its-auction-he-outbid-three-others-to-buy-the-six-bedroom-property-for-a4-9-million/articleshow/135702560.cms",
-      "published": "2026-11-13T12:11:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135702646,imgsize-1295862.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135702560.cms\" />A remarkable Queenslander residence located in Newmarket, Brisbane, was sold for A$4.9 million following an auction. The buyer, who has local roots, had no intention of bidding initially but ultimately decided to secure the property.",
+      "title": "Measure M Sales Tax Hike: San Clemente voters reject beach\u2011wildfire levy; officials hunt new funds",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-california-beach-town-facing-disappearing-sand-and-repeated-disruption-to-a-coastal-railway-voted-down-a-proposed-tax-that-could-have-raised-15-million-a-year-leaving-officials-to-find-another-way-to-fund-repairs/articleshow/135726847.cms",
+      "published": "2026-11-14T12:02:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135726859,imgsize-1861716.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135726847.cms\" />The additional revenue was expected to support two dedicated funds over a 10-year period, with half allocated to beach protection and the remaining half directed towards wildfire preparedness. The measure was defeated despite growing concerns about the city's shrinking coastline and the repeated disruption of passenger and freight rail services along the coastal corridor..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.16
+    },
+    {
+      "category": "India",
+      "title": "Teenage co-founder Anthony Woo diverted 300,000+ pounds of food waste",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-anthony-woo-the-teenage-co-founder-of-torus-a-free-curbside-composting-service-in-new-jersey-that-has-diverted-more-than-300000-pounds-of-food-waste-from-landfills/articleshow/135711341.cms",
+      "published": "2026-11-14T12:02:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135711443,imgsize-1498849.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135711341.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.17
     },
     {
       "category": "Business",
-      "title": "Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-six-times-oversubscribed-as-ai-firm-targets-record-1-4-trillion-valuation/articleshow/135790833.cms",
-      "published": "2026-11-13T11:23:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135791033,imgsize-34338.cms",
+      "title": "Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/jensen-huangs-nvidia-exit-costs-him-rs-900-crore-how-much-wealth-does-he-have-left/articleshow/135824006.cms",
+      "published": "2026-11-14T11:36:04+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824487,imgsize-44456.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.17
     },
     {
       "category": "Business",
-      "title": "Tenant defies SC eviction order, his son sells landlord\u2019s property, HC strikes off buyer's suit",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tenant-defied-2005-supreme-court-eviction-order-and-his-son-sold-part-of-landlords-property-using-parents-settlement-deed-buyer-files-suit-against-landlord-but-madras-high-court-strikes-it-off/articleshow/135773938.cms",
-      "published": "2026-11-13T09:59:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135775765,imgsize-739997.cms",
+      "title": "Office boy faces Rs 1.46 crore tax demand, alleges KYC misuse; why ITAT ruled in his favour",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/mumbai-office-boy-earning-rs-3500-a-month-faces-rs-1-46-crore-tax-assessment-alleges-ex-employer-misused-kyc-documents-to-obtain-second-pan-itat-quashes-demand-over-invalid-service-of-notice/articleshow/135806466.cms",
+      "published": "2026-11-14T11:01:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135823056,imgsize-747595.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "FBI seizes $1.2 billion in crypto stolen from Binance in record $6.3 billion heist",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/fbi-seizes-1-2-billion-in-crypto-stolen-from-binance-in-record-6-3-billion-heist/articleshow/135787066.cms",
-      "published": "2026-11-13T08:42:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135787403,imgsize-197760.cms",
+      "title": "Nvidia spy scandal: What Jensen Huang told top officials about relationship with Alice",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-spy-scandal-what-jensen-huang-told-top-executives-about-his-relationship-with-alice-huang/articleshow/135821314.cms",
+      "published": "2026-11-14T10:25:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135821639,imgsize-53130.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.21
     },
     {
       "category": "Business",
-      "title": "What are the top stocks to buy on November 13, 2026? Check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-13-2026-brigade-enterprises-ceat-honasa-stocks-to-buy-today/articleshow/135787622.cms",
-      "published": "2026-11-13T08:46:07+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135787638,imgsize-401838.cms",
+      "title": "US flight disruption: Air India flags possible delays to US-bound services",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/us-flight-disruption-air-india-flags-possible-delays-to-us-bound-services/articleshow/135820077.cms",
+      "published": "2026-11-14T07:05:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135820089,imgsize-125596.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.19
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.17
     },
     {
       "category": "Sports",
@@ -201,85 +201,85 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "Can plastic help heal wounds? University of Queensland researchers develop a new biodegradable hydrogel with medical potential",
-      "url": "https://timesofindia.indiatimes.com/education/news/can-plastic-help-heal-wounds-university-of-queensland-researchers-develop-a-new-biodegradable-hydrogel-with-medical-potential/articleshow/135789537.cms",
-      "published": "2026-11-13T12:16:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135789563,imgsize-103294.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/can-plastic-help-heal-wounds-university-of-queensland-researchers-develop-a-new-biodegradable-hydrogel-with-medical-potential/articleshow/135789537.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135789537.cms\" /></a>Researchers at Australia's University of Queensland have transformed brittle, biodegradable bioplastic PHB into a water-absorbing hydrogel using gamma radiation and polymer grafting. The new material, called P3HB-HEAA, offers improved mechanical properties and could eventually be explored for wound dressings, tissue engineering, drug delivery and surgical applications.",
+      "title": "DU reconstitutes women's safety committee, includes DUSU representatives for first time",
+      "url": "https://timesofindia.indiatimes.com/education/news/du-reconstitutes-womens-safety-committee-includes-dusu-representatives-for-first-time/articleshow/135824948.cms",
+      "published": "2026-11-14T11:58:39+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824975,imgsize-157532.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-reconstitutes-womens-safety-committee-includes-dusu-representatives-for-first-time/articleshow/135824948.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824948.cms\" /></a>Delhi University has reconstituted its Committee on Women Safety and Security, introducing student representatives to the panel. The committee will include members such as the DUSU President and Secretary, among other university officials.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Education",
+      "title": "CEPT University to accept UCEED 2027, NID DAT 2027 scores for BDes Hons admission; check details",
+      "url": "https://timesofindia.indiatimes.com/education/news/cept-university-to-accept-uceed-2027-nid-dat-2027-scores-for-bdes-hons-admission-check-details/articleshow/135824373.cms",
+      "published": "2026-11-14T11:55:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824936,imgsize-2758.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cept-university-to-accept-uceed-2027-nid-dat-2027-scores-for-bdes-hons-admission-check-details/articleshow/135824373.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824373.cms\" /></a>CEPT University has revised its admission process for the Bachelor of Design programme for the 2027 academic session. Candidates can now use UCEED or NID DAT scores without needing a separate entrance test.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "Education Minister launches three digital initiatives of Kendriya Vidyalaya Sangathan",
-      "url": "https://timesofindia.indiatimes.com/education/news/education-minister-launches-three-digital-initiatives-of-kendriya-vidyalaya-sangathan/articleshow/135792141.cms",
-      "published": "2026-11-13T11:41:03+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135792140,imgsize-190841.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/education-minister-launches-three-digital-initiatives-of-kendriya-vidyalaya-sangathan/articleshow/135792141.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135792141.cms\" /></a>In a step towards realising the objectives of the National Education Policy (NEP) 2020, Union Education Minister Pralhad Joshi on Thursday inaugurated three flagship digital initiatives of Kendriya Vidyalaya Sangathan (KVS)..",
+      "title": "KCET 2027 syllabus out; KEA publishes subject-wise topics: Check how to download",
+      "url": "https://timesofindia.indiatimes.com/education/news/kcet-2027-syllabus-out-kea-publishes-subject-wise-topics-check-how-to-download/articleshow/135823038.cms",
+      "published": "2026-11-14T11:05:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824131,imgsize-109782.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/kcet-2027-syllabus-out-kea-publishes-subject-wise-topics-check-how-to-download/articleshow/135823038.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135823038.cms\" /></a>Karnataka Examinations Authority has published the syllabus for KCET 2027, covering major subjects for examination. Candidates can download the subject-wise PDFs from the official website.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "Can students track the secret lives of butterflies and lizards? Georgia Tech is using tiny sensors weighing just 0.03 grams to turn its campus into a living laboratory",
-      "url": "https://timesofindia.indiatimes.com/education/news/can-students-track-the-secret-lives-of-butterflies-and-lizards-georgia-tech-is-using-tiny-sensors-weighing-just-0-03-grams-to-turn-its-campus-into-a-living-laboratory/articleshow/135789046.cms",
-      "published": "2026-11-13T09:51:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135789169,imgsize-114387.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/can-students-track-the-secret-lives-of-butterflies-and-lizards-georgia-tech-is-using-tiny-sensors-weighing-just-0-03-grams-to-turn-its-campus-into-a-living-laboratory/articleshow/135789046.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135789046.cms\" /></a>Georgia Tech is turning its campus into a living laboratory where students will track lizards, birds and butterflies using miniature wireless sensors. One device weighs just 0.03 grams, making it small enough to attach to a lizard.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
-    },
-    {
-      "category": "Education",
-      "title": "NSUI stages protest against hazardous air pollution in Delhi, demands immediate action",
-      "url": "https://timesofindia.indiatimes.com/education/news/nsui-stages-protest-against-hazardous-air-pollution-in-delhi-demands-immediate-action/articleshow/135788758.cms",
-      "published": "2026-11-13T09:26:50+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135788799,imgsize-5471847.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/nsui-stages-protest-against-hazardous-air-pollution-in-delhi-demands-immediate-action/articleshow/135788758.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135788758.cms\" /></a>NSUI held a protest in Delhi against air pollution and called for government intervention to protect public health. Led by Vinod Jakhar, students raised concerns about the severe impacts on residents, particularly vulnerable groups.",
+      "title": "JEE Advanced 2027 to be held on May 23; IIT Delhi releases eligibility criteria at jeeadv.ac.in",
+      "url": "https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms",
+      "published": "2026-11-14T10:10:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135822997,imgsize-1044493.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135822667.cms\" /></a>IIT Delhi will conduct JEE Advanced 2027 on May 23, 2027, with details now available online. Candidates must qualify in JEE Main 2027 and meet various eligibility criteria for admission.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "Mahesh Manjrekar on Nana Patekar\u2019s final hours and Tanushree Dutta controversy: 'He suffered'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-manjrekar-recalls-nana-patekars-final-hours-speaks-openly-about-tanushree-dutta-controversy-wants-to-meet-him-first-after-his-family-in-afterlife-nana-suffered-lot-for-no-reason/articleshow/135788853.cms",
-      "published": "2026-11-13T09:41:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135788988,imgsize-64300.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135788853.cms\" />Mahesh Manjrekar opened up about the deep sorrow he feels from not being able to visit Nana Patekar before his passing. He lamented how Nana hesitated to seek necessary medical attention despite his worsening condition.",
+      "title": "Ajith Kumar surprises son Aadvik at school",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ajith-kumar-surprises-son-aadvik-at-school-shalinis-heartwarming-photo-wins-fans-hearts/articleshow/135825209.cms",
+      "published": "2026-11-14T12:09:31+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135825230,imgsize-138934.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135825209.cms\" />Ajith Kumar made a surprise visit to his son Aadvik's school shortly after returning to Chennai. His wife Shalini shared a photograph of this heartwarming moment on social media.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Sandiyar' title row: Krishnasamy issues fresh warning to Kamal Haasan",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sandiyar-title-row-krishnasamy-issues-fresh-warning-to-kamal-haasan-sets-deadline/articleshow/135825035.cms",
+      "published": "2026-11-14T12:03:21+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135825054,imgsize-247581.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135825035.cms\" />Kamal Haasan's much-anticipated film 'Sandiyar' is facing backlash from politician K. Krishnasamy, who demands a change to the title within a week.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.19
+    },
+    {
+      "category": "Entertainment",
+      "title": "'Bachelor Party Deux': Paris Lakshmi steals the show in 'Chinthamooka'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bachelor-party-deux-paris-lakshmi-steals-the-show-in-chinthamooka-netizens-praise-amal-neerad-christo-xavier-combo/articleshow/135824567.cms",
+      "published": "2026-11-14T11:33:43+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824611,imgsize-245021.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824567.cms\" />Amal Neerad has recently released the track 'Chinthamooka' as part of the promotion for the highly anticipated film 'Bachelor Party Deux.' Featuring an eye-catching dance by Paris Lakshmi, the performance has drawn comparisons to global icons, leading to widespread excitement. Penned by Rafeeq Ahamed and composed by Christo Xavier, this film showcases a blend of established and emerging Malayalam talents, set to premiere worldwide on November 19..",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "'Ramayana' day 8: Ranbir, Yash, Sai starrer enters Rs 1,000 Cr club",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-8-ranbir-kapoor-yash-sai-pallavi-starrer-enters-rs-1000-cr-club-becomes-11th-indian-film-to-achieve-milestone/articleshow/135785519.cms",
-      "published": "2026-11-13T06:08:13+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135785524,imgsize-345452.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135785519.cms\" />Nitesh Tiwari's 'Ramayana: Rise of a Legend' has surpassed the Rs 1,000 crore milestone in global earnings. The film reached a total of Rs 1,033.55 crore within its opening week.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Entertainment",
-      "title": "Shruti Haasan OPENS up about COSMETIC PROCEDURES",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/it-is-silly-to-lie-about-it-shruti-haasan-opens-up-about-cosmetic-procedures-aakasamlo-oka-tara-actress-says-she-sees-no-point-in-hiding-them/articleshow/135792512.cms",
-      "published": "2026-11-13T11:55:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135792550,imgsize-133323.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135792512.cms\" />Shruti Haasan recently opened up about her thoughts on cosmetic procedures, stressing the importance of being honest about such personal decisions. She believes everyone should feel empowered to express their choices without shame.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.18
-    },
-    {
-      "category": "Entertainment",
-      "title": "Dipika praises Ramayana: Chikhlia lauds VFX and star cast",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/og-sita-dipika-chikhlia-reacts-to-ranbir-kapoor-yashs-ramayana-hitting-rs-1000-crore-worldwide-bound-to-be-hit/articleshow/135792372.cms",
-      "published": "2026-11-13T11:50:59+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135792407,imgsize-277868.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135792372.cms\" />Dipika Chikhlia, who played Sita in Ramanand Sagar\u2019s \u2018Ramayan\u2019, says she always knew Ranbir Kapoor and Yash\u2019s \u2018Ramayana\u2019 would be a hit. Praising its VFX and star cast, she urged fans to watch it in theatres.",
+      "title": "Demi Moore\u2019s 64th Birthday: Daughters and granddaughter share affectionate tributes",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-turns-64-inside-her-intimate-birthday-celebration-with-daughters-rumer-scout-tallulah-and-granddaughter-louetta/articleshow/135824322.cms",
+      "published": "2026-11-14T11:28:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135824425,imgsize-45590.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824322.cms\" />Demi Moore recently celebrated her 64th birthday with a family gathering that included her three daughters and granddaughter. Family and friends shared heartfelt messages and photos to commemorate her special day.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     }
