@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-14T06:56:17",
+  "generated_at": "2026-11-15T07:01:11",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "America's air traffic control meltdown: How US flight crisis unfolded &amp; what next",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-what-went-wrong-how-americas-skies-were-brought-to-a-standstill-and-what-happens-next/articleshow/135821067.cms",
-      "published": "Sat, 14 Nov 2026 10:46:09 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135821955,imgsize-185998.cms",
-      "summary": "On November 13, a significant communications failure caused a nationwide ground stop for US flights. Airports experienced delays, cancellations, and diversions, affecting approximately 1.5 million passengers.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.22
-    },
-    {
-      "category": "Top Stories",
-      "title": "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasinas-return-to-bangladesh-india-wants-dhaka-to-fulfil-two-conditions-says-report/articleshow/135824475.cms",
-      "published": "Sat, 14 Nov 2026 11:59:02 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135824969,imgsize-1274059.cms",
-      "summary": "India is reportedly seeking Sheikh Hasina\u2019s return to Bangladesh after more than two years in exile, but has set two conditions for Tarique Rahman\u2019s government. According to BBC Bangla, New Delhi wants the Bangladesh army to fly Hasina back and guarantee her an opportunity to appeal her death sentence and face a fresh trial over the July 2024 crackdown..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
-    },
-    {
-      "category": "Top Stories",
-      "title": "Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/jensen-huangs-nvidia-exit-costs-him-rs-900-crore-how-much-wealth-does-he-have-left/articleshow/135824006.cms",
-      "published": "Sat, 14 Nov 2026 11:36:04 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135824487,imgsize-44456.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
-    },
-    {
-      "category": "Top Stories",
-      "title": "Vaibhav Sooryavanshi breaks men's T20 world record at 15 years and 232 days",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
-      "published": "Sat, 14 Nov 2026 11:47:52 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135824756,imgsize-26304.cms",
-      "summary": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Trump administration plans federal land sales, but leaves parcels unidentified",
-      "url": "https://timesofindia.indiatimes.com/world/us/the-trump-administration-has-proposed-selling-parts-of-americas-federal-land-holdings-to-states-tribes-and-local-governments-under-a-new-five-year-plan-but-has-not-identified-which-parcels-could-be-sold/articleshow/135758030.cms",
-      "published": "2026-11-14T12:06:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135758140,imgsize-919544.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135758030.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "At 13, Prince George shows artistic flair with a kingfisher drawing in Prince William's magazine",
-      "url": "https://timesofindia.indiatimes.com/world/uk/at-13-prince-george-is-following-in-king-charless-artistic-footsteps-his-colourful-kingfisher-drawing-created-at-home-in-windsor-has-now-been-unveiled-in-prince-williams-magazine/articleshow/135824092.cms",
-      "published": "2026-11-14T12:04:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824186,imgsize-96193.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824092.cms\" />At just 13, Prince George has displayed his creative flair through a striking drawing of a kingfisher, recently featured in Country Life magazine. This artwork not only showcases his meticulous attention to detail but also aligns with the royal family's rich tradition of artistic appreciation, which is evident in King Charles III's interests..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
-    },
-    {
-      "category": "India",
-      "title": "Measure M Sales Tax Hike: San Clemente voters reject beach\u2011wildfire levy; officials hunt new funds",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-california-beach-town-facing-disappearing-sand-and-repeated-disruption-to-a-coastal-railway-voted-down-a-proposed-tax-that-could-have-raised-15-million-a-year-leaving-officials-to-find-another-way-to-fund-repairs/articleshow/135726847.cms",
-      "published": "2026-11-14T12:02:25+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135726859,imgsize-1861716.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135726847.cms\" />The additional revenue was expected to support two dedicated funds over a 10-year period, with half allocated to beach protection and the remaining half directed towards wildfire preparedness. The measure was defeated despite growing concerns about the city's shrinking coastline and the repeated disruption of passenger and freight rail services along the coastal corridor..",
+      "title": "Watch: Denied chance to address CM, Cong MLA creates ruckus on stage",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/i-am-the-chairperson-not-allowed-to-speak-from-stage-in-cms-presence-cong-mla-creates-ruckus-at-pithoragarh-fair-watch/articleshow/135845389.cms",
+      "published": "Sun, 15 Nov 2026 07:17:54 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135845406,imgsize-60028.cms",
+      "summary": "A Congress MLA, Harish Dhami, vandalised a stage at the Jauljibi Fair after being denied a speaking opportunity. This incident triggered a political uproar between the Congress and the BJP following the chief minister's attendance.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.16
     },
     {
-      "category": "India",
-      "title": "Teenage co-founder Anthony Woo diverted 300,000+ pounds of food waste",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-anthony-woo-the-teenage-co-founder-of-torus-a-free-curbside-composting-service-in-new-jersey-that-has-diverted-more-than-300000-pounds-of-food-waste-from-landfills/articleshow/135711341.cms",
-      "published": "2026-11-14T12:02:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135711443,imgsize-1498849.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135711341.cms\" />",
+      "category": "Top Stories",
+      "title": "2 planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
+      "url": "https://timesofindia.indiatimes.com/world/us/two-planes-collide-at-miami-airport-passenger-shares-footage-of-crushed-aircraft-nose/articleshow/135847604.cms",
+      "published": "Sun, 15 Nov 2026 10:22:37 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135847706,imgsize-48190.cms",
+      "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "Watch: Protest outside London Indian restaurant over refusal to serve halal food",
+      "url": "https://timesofindia.indiatimes.com/world/uk/watch-protest-outside-london-indian-restaurant-over-refusal-to-serve-halal-food/articleshow/135847783.cms",
+      "published": "Sun, 15 Nov 2026 10:32:02 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135847820,imgsize-97118.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "Top Stories",
+      "title": "Travelling abroad? 35 days crucial if you want to make it to Census",
+      "url": "https://timesofindia.indiatimes.com/india/studying-abroad-visiting-india-or-working-overseas-who-gets-counted-in-census-2027/articleshow/135829433.cms",
+      "published": "Sat, 14 Nov 2026 15:33:53 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135829532,imgsize-147982.cms",
+      "summary": "Indian residents travelling temporarily abroad during Census 2027 will be counted at their usual residence. They must return within 35 days to qualify for inclusion in the count.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "India",
+      "title": "Chicago photographer's $220 thrift store paintings sell for $135,000 after rare discovery",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-chicago-photographer-spent-220-on-two-paintings-at-a-salvation-army-thrift-store-in-2016-experts-confirmed-they-were-rare-warner-sallman-originals-and-a-colorado-author-bought-them-for-135000-two-years-later/articleshow/135848094.cms",
+      "published": "2026-11-15T12:05:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135848579,imgsize-76109.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135848094.cms\" />In an unexpected twist of fate, a photographer from Chicago stumbled upon two remarkable original pieces by Warner Sallman in a thrift store back in 2016. After investing $220 for them, his diligence paid off two years later when he sold the artworks to author Jerry Jenkins for an impressive $135,000, reshaping the market landscape for Sallman\u2019s creations and showcasing the hidden treasures often overlooked in thrift shops..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "Hungarian investigators found $19.5 million in cash buried in forests and hidden in buildings while probing allegations against a former minister",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/hungarian-investigators-found-19-5-million-in-cash-buried-in-forests-and-hidden-in-buildings-while-probing-allegations-against-a-former-minister-treasury-staff-needed-eight-hours-and-five-machines-to-count-it/articleshow/135847472.cms",
+      "published": "2026-11-15T12:05:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847840,imgsize-1833824.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135847472.cms\" />Hungary's anti-corruption efforts have yielded significant results, uncovering over $19.5 million in cash, stashed away in forests and hidden properties. Former minister Mikl\u00f3s Seszt\u00e1k faces bribery charges tied to the transport sector, while Prime Minister Peter Magyar's initiative seeks to address corruption issues involving the previous administration of Viktor Orb\u00e1n.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
+    },
+    {
+      "category": "India",
+      "title": "Skeletons Cheer Cancer Patient: Ohio display encouraged Tammy during treatment; figures stay out year-round",
+      "url": "https://timesofindia.indiatimes.com/world/us/an-ohio-man-got-hate-mail-every-halloween-for-his-skeleton-displays-until-a-stranger-wrote-to-say-the-skeletons-got-her-through-19-days-of-breast-cancer-radiation-and-on-her-last-day-they-held-up-signs-cheering-her-on/articleshow/135847336.cms",
+      "published": "2026-11-15T10:59:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847366,imgsize-1004062.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135847336.cms\" />In Oxford, Ohio, Bill Pyle's Halloween skeleton display became a beacon of hope for Tammy during her cancer journey. After receiving a touching letter, Pyle arranged the skeletons to honor her final radiation treatment, which shifted his perspective and deepened community bonds.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "India",
+      "title": "\u2018These tricks don\u2019t work on me\u2019: Eisenkot rejects Netanyahu\u2019s 'unity govt' appeal",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/these-tricks-dont-work-on-me-eisenkot-rejects-netanyahus-unity-government-appeal/articleshow/135847553.cms",
+      "published": "2026-11-15T10:46:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847553,imgsize-1746063.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135847553.cms\" />Caretaker Prime Minister Benjamin Netanyahu reiterated his call for a national unity government. Gadi Eisenkot, his political rival, dismissed Netanyahu's appeal, viewing it as a strategy to create division.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
     },
     {
       "category": "Technology",
@@ -121,44 +121,44 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.14
     },
     {
       "category": "Business",
-      "title": "Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/jensen-huangs-nvidia-exit-costs-him-rs-900-crore-how-much-wealth-does-he-have-left/articleshow/135824006.cms",
-      "published": "2026-11-14T11:36:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824487,imgsize-44456.cms",
+      "title": "Bad air, bigger bills: Air pollution drives health insurance claims up fourfold in 3 years",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bad-air-bigger-bills-air-pollution-drives-health-insurance-claims-up-fourfold-in-3-years/articleshow/135848168.cms",
+      "published": "2026-11-15T11:00:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135848209,imgsize-15656.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.17
     },
     {
       "category": "Business",
-      "title": "Office boy faces Rs 1.46 crore tax demand, alleges KYC misuse; why ITAT ruled in his favour",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/mumbai-office-boy-earning-rs-3500-a-month-faces-rs-1-46-crore-tax-assessment-alleges-ex-employer-misused-kyc-documents-to-obtain-second-pan-itat-quashes-demand-over-invalid-service-of-notice/articleshow/135806466.cms",
-      "published": "2026-11-14T11:01:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135823056,imgsize-747595.cms",
+      "title": "\u2018Solid but unremarkable\u2019: Goldman Sachs sees global GDP growth at 2.8% in 2027",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/global-economy-to-grow-2-8-in-2027-as-ai-spending-lower-oil-prices-support-outlook-goldman-sachs/articleshow/135847625.cms",
+      "published": "2026-11-15T10:30:46+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847727,imgsize-173898.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.19
+    },
+    {
+      "category": "Business",
+      "title": "AI losing its shine? Why global investors could turn to India for their next big bet",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-losing-its-shine-why-global-investors-could-turn-to-india-for-their-next-big-bet/articleshow/135847256.cms",
+      "published": "2026-11-15T10:11:16+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847277,imgsize-2350912.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Business",
-      "title": "Nvidia spy scandal: What Jensen Huang told top officials about relationship with Alice",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-spy-scandal-what-jensen-huang-told-top-executives-about-his-relationship-with-alice-huang/articleshow/135821314.cms",
-      "published": "2026-11-14T10:25:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135821639,imgsize-53130.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.21
-    },
-    {
-      "category": "Business",
-      "title": "US flight disruption: Air India flags possible delays to US-bound services",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/us-flight-disruption-air-india-flags-possible-delays-to-us-bound-services/articleshow/135820077.cms",
-      "published": "2026-11-14T07:05:28+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135820089,imgsize-125596.cms",
+      "title": "India's life insurance sector set for 13-18% annual growth in premiums through FY29",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-life-insurance-sector-set-for-13-18-annual-growth-in-premiums-through-fy29-report/articleshow/135847054.cms",
+      "published": "2026-11-15T09:39:44+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847138,imgsize-236706.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.16
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.18
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.13
     },
     {
       "category": "Sports",
@@ -205,83 +205,83 @@
     },
     {
       "category": "Education",
-      "title": "DU reconstitutes women's safety committee, includes DUSU representatives for first time",
-      "url": "https://timesofindia.indiatimes.com/education/news/du-reconstitutes-womens-safety-committee-includes-dusu-representatives-for-first-time/articleshow/135824948.cms",
-      "published": "2026-11-14T11:58:39+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824975,imgsize-157532.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/du-reconstitutes-womens-safety-committee-includes-dusu-representatives-for-first-time/articleshow/135824948.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824948.cms\" /></a>Delhi University has reconstituted its Committee on Women Safety and Security, introducing student representatives to the panel. The committee will include members such as the DUSU President and Secretary, among other university officials.",
+      "title": "West Bengal HS 3rd semester result 2026 expected to be released soon: Check where and how to download",
+      "url": "https://timesofindia.indiatimes.com/education/news/west-bengal-hs-3rd-semester-result-2026-expected-to-be-released-soon-check-where-and-how-to-download/articleshow/135848631.cms",
+      "published": "2026-11-15T11:32:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135848782,imgsize-41336.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/west-bengal-hs-3rd-semester-result-2026-expected-to-be-released-soon-check-where-and-how-to-download/articleshow/135848631.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135848631.cms\" /></a>The West Bengal Council of Higher Secondary Education (WBCHSE) is expected to announce the WB HS 3rd Semester Result 2026 by the second week of November. Students can check their results online using their roll and registration numbers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.18
     },
     {
       "category": "Education",
-      "title": "CEPT University to accept UCEED 2027, NID DAT 2027 scores for BDes Hons admission; check details",
-      "url": "https://timesofindia.indiatimes.com/education/news/cept-university-to-accept-uceed-2027-nid-dat-2027-scores-for-bdes-hons-admission-check-details/articleshow/135824373.cms",
-      "published": "2026-11-14T11:55:22+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824936,imgsize-2758.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cept-university-to-accept-uceed-2027-nid-dat-2027-scores-for-bdes-hons-admission-check-details/articleshow/135824373.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824373.cms\" /></a>CEPT University has revised its admission process for the Bachelor of Design programme for the 2027 academic session. Candidates can now use UCEED or NID DAT scores without needing a separate entrance test.",
+      "title": "NIFTEE 2027 registration deadline extended to November 24;  check revised schedule and direct link to apply",
+      "url": "https://timesofindia.indiatimes.com/education/news/niftee-2027-registration-deadline-extended-to-november-24-check-revised-schedule-and-direct-link-to-apply/articleshow/135847439.cms",
+      "published": "2026-11-15T10:15:45+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135847596,imgsize-238332.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/niftee-2027-registration-deadline-extended-to-november-24-check-revised-schedule-and-direct-link-to-apply/articleshow/135847439.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135847439.cms\" /></a>The National Testing Agency has announced an extension for the NIFTEE 2027 registration deadline to November 24, 2026. The extended deadline applies to undergraduate, postgraduate, artisan, and PhD courses for the academic session.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "Education",
+      "title": "BSE Odisha announces Class 10 board exam dates 2027; exams to begin on March 12",
+      "url": "https://timesofindia.indiatimes.com/education/news/bse-odisha-announces-class-10-board-exam-dates-2027-exams-to-begin-on-march-12/articleshow/135846775.cms",
+      "published": "2026-11-15T09:25:22+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135846851,imgsize-126898.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bse-odisha-announces-class-10-board-exam-dates-2027-exams-to-begin-on-march-12/articleshow/135846775.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135846775.cms\" /></a>BSE Odisha has released the schedule for the upcoming Class 10 board examinations in 2027. The exams will take place from March 12 until March 27, starting each day at 9 am.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.14
     },
     {
       "category": "Education",
-      "title": "KCET 2027 syllabus out; KEA publishes subject-wise topics: Check how to download",
-      "url": "https://timesofindia.indiatimes.com/education/news/kcet-2027-syllabus-out-kea-publishes-subject-wise-topics-check-how-to-download/articleshow/135823038.cms",
-      "published": "2026-11-14T11:05:26+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824131,imgsize-109782.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/kcet-2027-syllabus-out-kea-publishes-subject-wise-topics-check-how-to-download/articleshow/135823038.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135823038.cms\" /></a>Karnataka Examinations Authority has published the syllabus for KCET 2027, covering major subjects for examination. Candidates can download the subject-wise PDFs from the official website.",
+      "title": "AIBE 22 admit card 2026 released at allindiabarexamination.com: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/aibe-22-admit-card-2026-released-at-allindiabarexamination-com-direct-link-to-download-hall-ticket-here/articleshow/135846132.cms",
+      "published": "2026-11-15T08:33:20+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135846169,imgsize-1051841.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/aibe-22-admit-card-2026-released-at-allindiabarexamination-com-direct-link-to-download-hall-ticket-here/articleshow/135846132.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135846132.cms\" /></a>The Bar Council of India has issued the admit card for the AIBE 22 examination scheduled for November 29, 2026. Candidates can download their hall tickets by visiting the official website and entering their login credentials.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Education",
-      "title": "JEE Advanced 2027 to be held on May 23; IIT Delhi releases eligibility criteria at jeeadv.ac.in",
-      "url": "https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms",
-      "published": "2026-11-14T10:10:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135822997,imgsize-1044493.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135822667.cms\" /></a>IIT Delhi will conduct JEE Advanced 2027 on May 23, 2027, with details now available online. Candidates must qualify in JEE Main 2027 and meet various eligibility criteria for admission.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "Ajith Kumar surprises son Aadvik at school",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ajith-kumar-surprises-son-aadvik-at-school-shalinis-heartwarming-photo-wins-fans-hearts/articleshow/135825209.cms",
-      "published": "2026-11-14T12:09:31+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135825230,imgsize-138934.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135825209.cms\" />Ajith Kumar made a surprise visit to his son Aadvik's school shortly after returning to Chennai. His wife Shalini shared a photograph of this heartwarming moment on social media.",
+      "title": "Tamil Film Producers Council plans felicitation for CM Vijay",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-film-producers-council-plans-felicitation-for-cm-vijay-over-6-am-theatre-shows-discusses-industry-welfare/articleshow/135849253.cms",
+      "published": "2026-11-15T12:07:12+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135849263,imgsize-168847.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135849253.cms\" />The Tamil Film Producers Council is hosting a special gathering to pay tribute to Chief Minister Vijay for his unwavering support. They have expressed heartfelt appreciation for the newfound approval of six daily screenings in theatres throughout Tamil Nadu.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.16
     },
     {
       "category": "Entertainment",
-      "title": "'Sandiyar' title row: Krishnasamy issues fresh warning to Kamal Haasan",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sandiyar-title-row-krishnasamy-issues-fresh-warning-to-kamal-haasan-sets-deadline/articleshow/135825035.cms",
-      "published": "2026-11-14T12:03:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135825054,imgsize-247581.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135825035.cms\" />Kamal Haasan's much-anticipated film 'Sandiyar' is facing backlash from politician K. Krishnasamy, who demands a change to the title within a week.",
+      "title": "'Scene' editor Ajmal Sabu reveals how plot leak changed Suriya's film",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/scene-editor-ajmal-sabu-reveals-how-plot-leak-changed-suriyas-film-says-audience-missed-its-biggest-surprise/articleshow/135849200.cms",
+      "published": "2026-11-15T12:03:48+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135849222,imgsize-189607.cms",
+      "summary": "A major plot leak regarding the film 'Scene' forced the editing team to make changes before release. Editor Ajmal Sabu explained how the leak affected the viewing experience of audiences.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.19
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "'Bachelor Party Deux': Paris Lakshmi steals the show in 'Chinthamooka'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bachelor-party-deux-paris-lakshmi-steals-the-show-in-chinthamooka-netizens-praise-amal-neerad-christo-xavier-combo/articleshow/135824567.cms",
-      "published": "2026-11-14T11:33:43+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824611,imgsize-245021.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824567.cms\" />Amal Neerad has recently released the track 'Chinthamooka' as part of the promotion for the highly anticipated film 'Bachelor Party Deux.' Featuring an eye-catching dance by Paris Lakshmi, the performance has drawn comparisons to global icons, leading to widespread excitement. Penned by Rafeeq Ahamed and composed by Christo Xavier, this film showcases a blend of established and emerging Malayalam talents, set to premiere worldwide on November 19..",
+      "title": "When Rajkumar Periasamy broke down after hearing Vijay's final film",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sai-pallavi-reveals-how-o-m-director-rajkumar-periasamy-broke-down-after-hearing-vijays-jana-nayagan-announcement-says-he-started-crying/articleshow/135848944.cms",
+      "published": "2026-11-15T11:43:57+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135848950,imgsize-236354.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135848944.cms\" />In a touching moment, Sai Pallavi disclosed how director Rajkumar Periasamy broke down in tears while viewing the promotional video for Vijay's final film, 'Jana Nayagan.' This poignant reaction underscores Rajkumar's deep appreciation for Vijay's craft. He also extended his congratulations to Vijay for becoming the Chief Minister of Tamil Nadu.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.15
     },
     {
       "category": "Entertainment",
-      "title": "Demi Moore\u2019s 64th Birthday: Daughters and granddaughter share affectionate tributes",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-turns-64-inside-her-intimate-birthday-celebration-with-daughters-rumer-scout-tallulah-and-granddaughter-louetta/articleshow/135824322.cms",
-      "published": "2026-11-14T11:28:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135824425,imgsize-45590.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135824322.cms\" />Demi Moore recently celebrated her 64th birthday with a family gathering that included her three daughters and granddaughter. Family and friends shared heartfelt messages and photos to commemorate her special day.",
+      "title": "Ranbir Kapoor, Yash's film earns over 3 times 'Animal'; crosses Rs 1,200 cr worldwide",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-10-ranbir-kapoor-yashs-film-earns-over-3-times-animal-crosses-rs-1200-cr-worldwide-hindi-version-leads/articleshow/135844964.cms",
+      "published": "2026-11-15T05:57:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135844974,imgsize-345452.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135844964.cms\" />Ranbir Kapoor and Yash's 'Ramayana: Rise of a Legend' has achieved remarkable box office success in its second week. After recording Rs 72.90 cr net on Day 10, the film's total domestic collection reached Rs 685.60 cr.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.18
     }
   ]
 }
