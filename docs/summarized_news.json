@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-16T07:04:53",
+  "generated_at": "2026-11-17T08:20:57",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "\u2018No case against me anywhere,\u2019 Lalit Modi to TOI after getting British citizenship",
-      "url": "https://timesofindia.indiatimes.com/india/no-case-against-me-anywhere-he-claims-to-toi/articleshow/135867879.cms",
-      "published": "Mon, 16 Nov 2026 04:06:25 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135872343,imgsize-1856190.cms",
-      "summary": "IPL founder Lalit Modi, who left India in 2010 amid allegations of tax evasion, money laundering and proxy ownership linked to IPL, has announced he has received British citizenship. Lalit was appearing at an event at Oxford Union when he made the announcement..",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
-    },
-    {
-      "category": "Top Stories",
-      "title": "After 400km march, anti-dam group reaches Itanagar, issues ultimatum",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/after-400km-march-adi-group-sets-2-day-deadline-for-arunachal-govt-to-respond-to-siang-dam-demands/articleshow/135864147.cms",
-      "published": "Mon, 16 Nov 2026 00:06:54 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135864120,imgsize-273738.cms",
-      "summary": "Outfit Seeks Scrapping Of Siang Project, Release Of Protesters",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Top Stories",
-      "title": "In a world first, China\u2019s 10-tonne electric commercial aircraft makes crewed flight",
-      "url": "https://timesofindia.indiatimes.com/defence/international/in-a-world-first-chinas-10-tonne-electric-commercial-aircraft-makes-crewed-flight/articleshow/135865088.cms",
-      "published": "Mon, 16 Nov 2026 01:18:48 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135865106,imgsize-41446.cms",
+      "title": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
+      "url": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms",
+      "published": "Tue, 17 Nov 2026 12:38:10 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135915058,imgsize-87024.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'Insult to faith': BJP shares video of Cong leader throwing plastic bottle in Yamuna",
-      "url": "https://timesofindia.indiatimes.com/india/insult-to-faith-bjp-shares-video-of-congress-leader-devendra-yadav-throwing-plastic-bottle-in-yamuna/articleshow/135872304.cms",
-      "published": "Mon, 16 Nov 2026 10:00:20 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135872830,imgsize-793246.cms",
-      "summary": "BJP condemned Congress party leader Devendra Yadav for allegedly polluting the Yamuna River during Chhath Puja. The BJP accused Congress of disrespecting the faith of Chhath devotees amidst environmental concerns.",
+      "title": "Manipur shuts down over killing of 4 Tangkhul Nagas",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/manipur-shuts-down-over-killing-of-4-tangkhul-nagas-bodies-of-6-liangmai-nagas-laid-to-rest-after-5-months/articleshow/135894376.cms",
+      "published": "Mon, 16 Nov 2026 20:55:12 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135902534,imgsize-130038.cms",
+      "summary": "The shutdown coincided with the burial of six Liangmai Naga civilians, more than five months after their beheaded bodies were recovered on June 10.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
+      "time_sec": 0.0
     },
     {
-      "category": "India",
-      "title": "103-year-old D-Day veteran receives replacement medals 80 years after returning his uniform",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-british-d-day-veteran-left-three-wartime-medals-on-his-uniform-when-he-returned-it-in-1945-more-than-80-years-later-a-young-historian-helped-the-103-year-old-obtain-replacements-for-remembrance-day/articleshow/135856074.cms",
-      "published": "2026-11-16T10:56:47+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135856277,imgsize-103083.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135856074.cms\" />Douglas Halley, a 103-year-old D-Day veteran, recently received his wartime medals which were lost in 1945. A young historian, Joseph Smith, discovered Halley's military record while researching veterans' stories and assisted in recovering the medals.",
+      "category": "Top Stories",
+      "title": "'Selector jahan baitha hai, wahin maarna': Dhoni movie inspires Suryakumar",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/selector-jahan-baitha-hai-wahin-maarna-hai-ms-dhoni-movie-inspires-suryakumar-yadavs-india-comeback-bid/articleshow/135908483.cms",
+      "published": "Tue, 17 Nov 2026 08:43:42 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135909232,imgsize-35390.cms",
+      "summary": "Following his omission from the Indian T20I side, Suryakumar Yadav is making waves in the Syed Mushtaq Ali Trophy. He notched up an impressive 60 runs against Hyderabad and followed it up with an even better 82 against Gujarat.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.1
     },
     {
-      "category": "India",
-      "title": "Man finds centuries-old gold ring after 15 minutes of metal detecting",
-      "url": "https://timesofindia.indiatimes.com/world/uk/kevin-short-found-a-gold-ring-bearing-the-words-i-live-in-hope-just-15-minutes-into-a-metal-detecting-search-the-british-museum-authenticated-the-centuries-old-find-now-heading-to-auction-for-up-to-3000/articleshow/135825525.cms",
-      "published": "2026-11-16T10:55:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135825882,imgsize-88388.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135825525.cms\" />Kevin Short found a centuries-old gold ring inscribed \u201cI live in hope\u201d just 15 minutes into a metal-detecting search in Warwickshire. Authenticated by the British Museum, the 16th-to-18th-century ring is expected to fetch up to \u00a33,000 at a December 2 auction..",
+      "category": "Top Stories",
+      "title": "Unable to take care of mother, 67-year-old man strangles her to death in Kolkata",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/jobless-since-covid-senior-citizen-son-strangles-85-year-old-mother-at-haridevpur-home-calls-police-to-confess-neighbours-say-accused-was-struggling-financially/articleshow/135901499.cms",
+      "published": "Tue, 17 Nov 2026 01:26:23 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135907472,imgsize-1243464.cms",
+      "summary": "Sagar Ghosh, a 67-year-old engineer, reportedly strangled his 85-year-old mother, Uma Rani Ghosh, at home. He had been unemployed since the Covid pandemic and struggled to afford her care.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "India",
-      "title": "Australian reptile park welcomes first king cobra hatchlings in 16 years",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/female-king-cobra-lays-eggs-after-mating-at-australian-reptile-park-three-babies-hatch-for-the-first-time-in-the-country-in-16-years/articleshow/135872838.cms",
-      "published": "2026-11-16T10:04:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135872896,imgsize-2003228.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135872838.cms\" />",
+      "title": "AI Spending Must Deliver Profits: Li warns bubble fears may come true; Token Exchange links AI providers with customers",
+      "url": "https://timesofindia.indiatimes.com/world/china/ai-investments-must-deliver-profits-to-avoid-bubble-baidu-ceo-warns/articleshow/135914636.cms",
+      "published": "2026-11-17T13:30:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135916563,imgsize-78679.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135914636.cms\" />Robin Li, the chairperson of Baidu, expressed his worries about a potential bubble forming in the AI sector. He pointed out that substantial investments have not yet translated into notable profit growth for businesses.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
+      "time_sec": 15.09
     },
     {
       "category": "India",
-      "title": "Over 28 cyclists carry Thanksgiving turkeys on their bikes in Maine; unusual ride helps 58 families get free holiday dinners",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-maine-more-than-28-cyclists-carried-thanksgiving-turkeys-on-their-bikes-rather-than-in-cars-their-november-14-delivery-helped-58-families-receive-free-holiday-meals-through-a-camden-food-pantry/articleshow/135872047.cms",
-      "published": "2026-11-16T12:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135872084,imgsize-1724295.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135872047.cms\" />More than 28 cyclists participated in the eighth annual Turkey Ride to deliver Thanksgiving turkeys. They gathered at Maine Sport Rockport and picked up items from Hannaford Supermarkets.",
+      "title": "100 years after Rockefeller helped save Virginia's colonial capital, $600 million plan will expand historic site and bring Constitution lessons to classrooms",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1926-john-d-rockefeller-jr-backed-a-plan-to-restore-virginias-colonial-capital-100-years-later-colonial-williamsburg-is-unveiling-a-600-million-five-year-expansion-and-a-10-million-gift-for-civics-education/articleshow/135913563.cms",
+      "published": "2026-11-17T13:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135913636,imgsize-2216033.cms",
+      "summary": "Colonial Williamsburg, a historical gem revitalized by John D. Rockefeller Jr., is on the brink of a significant evolution.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
+    },
+    {
+      "category": "India",
+      "title": "Scotland\u2019s beaver territories more than double since 2018",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/scotlands-beaver-territories-rise-from-39-in-2012-to-349-in-2026-across-tayside-and-forth-a-new-survey-also-finds-56-possible-territories-highlighting-the-recovery-of-a-mammal-once-hunted-to-extinction-in-the-country/articleshow/135914981.cms",
+      "published": "2026-11-17T12:45:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915210,imgsize-276626.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135914981.cms\" />Recent findings from a comprehensive survey highlight a notable expansion of beaver territories in Tayside and the Forth regions, now totaling an estimated 405 as of 2026. The survey spanned more than 2,397 km of waterways and documented abundant beaver signs, showcasing their transition from agricultural areas to new habitats.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.05
+    },
+    {
+      "category": "India",
+      "title": "A safe with $55,737 lay hidden in Maine woods for four years; now the mystery cash will help families stay warm this winter",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-safe-containing-55737-was-discovered-behind-a-fire-station-in-falmouth-maine-in-august-2022-after-four-years-without-an-owner-coming-forward-the-money-is-being-redirected-to-help-families-pay-heating-bills/articleshow/135909365.cms",
+      "published": "2026-11-17T12:00:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135909872,imgsize-2194355.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135909365.cms\" />A surprising find in Falmouth, Maine\u2014$55,737 found in a safe behind the fire station\u2014remains unclaimed. After a lengthy four-year wait for an owner, the town council has chosen to donate this money to the local LIHEAP program.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
     },
     {
       "category": "Technology",
@@ -125,43 +125,43 @@
     },
     {
       "category": "Business",
-      "title": "Debt, dues and deja vu: How poor nations end up paying more than they borrow",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/debt-dues-and-deja-vu-how-poor-nations-end-up-paying-more-than-they-borrow/articleshow/135874062.cms",
-      "published": "2026-11-16T11:06:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135874357,imgsize-219616.cms",
+      "title": "8th Pay Commission: Rail staff seek more time for talks; defence staff demand Rs 69,000 minimum pay",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-indian-railways-employees-seek-two-extra-days-for-talks-while-defence-civilians-demand-rs-69000-minimum-pay-3-83-fitment-factor-and-ops-restoration/articleshow/135914740.cms",
+      "published": "2026-11-17T12:59:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915366,imgsize-231373.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.1
     },
     {
       "category": "Business",
-      "title": "AI agents could help banks generate nearly 3x returns over three years: McKinsey",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms",
-      "published": "2026-11-16T10:48:38+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135873995,imgsize-78274.cms",
+      "title": "Post-Diwali price hike shock loading: Daily essentials, phones, TVs, appliances to cost more",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/smartphones-tvs-refrigerators-and-daily-essentials-set-to-get-costlier-after-diwali-as-companies-pass-on-rising-input-costs-handset-prices-have-already-risen-over-40-this-year/articleshow/135913576.cms",
+      "published": "2026-11-17T12:06:42+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135913764,imgsize-625433.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Rupee rises 6 paise to 94.13 as crude oil prices ease, strong dollar limit gains",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-6-paise-to-94-13-as-crude-oil-prices-ease-strong-dollar-limit-gains/articleshow/135873132.cms",
-      "published": "2026-11-16T10:26:46+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135873407,imgsize-54276.cms",
+      "title": "Which are the top stocks to buy on November 17, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-17-2026-blue-star-upl-mankind-pharma-apollo-hospitals-enterprise-stocks-to-buy-today/articleshow/135890956.cms",
+      "published": "2026-11-17T08:52:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135891087,imgsize-699981.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.06
     },
     {
       "category": "Business",
-      "title": "Indian bonds brace for a rough week as US treasury selloff sends yields soaring",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/indian-bonds-brace-for-a-rough-week-as-us-treasury-selloff-sends-yields-soaring/articleshow/135870532.cms",
-      "published": "2026-11-16T08:27:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135871774,imgsize-45250.cms",
+      "title": "Gold to fall more? Check gold price outlook for November 17, 2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-november-17-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/135913028.cms",
+      "published": "2026-11-17T11:38:28+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135913092,imgsize-566455.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.09
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.04
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.12
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "Is AI widening the gender gap at work? Pew Research finds women's employment growth lagging behind men's in AI-exposed jobs",
-      "url": "https://timesofindia.indiatimes.com/education/news/is-ai-widening-the-gender-gap-at-work-pew-research-finds-womens-employment-growth-lagging-behind-mens-in-ai-exposed-jobs/articleshow/135874924.cms",
-      "published": "2026-11-16T12:25:30+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135875409,imgsize-68530.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/is-ai-widening-the-gender-gap-at-work-pew-research-finds-womens-employment-growth-lagging-behind-mens-in-ai-exposed-jobs/articleshow/135874924.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135874924.cms\" /></a>A Pew Research Center analysis has highlighted an emerging gender divide in the US labour market, with women's employment growth lagging behind men's in occupations more exposed to artificial intelligence. The findings reveal sharper disparities among workers without bachelor's degrees, raising concerns about automation, occupational inequality and women's future employment prospects..",
+      "title": "MHT CET 2027 dates announced; check complete exam schedule here",
+      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-2027-dates-announced-check-complete-exam-schedule-here/articleshow/135913858.cms",
+      "published": "2026-11-17T12:55:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915548,imgsize-68696.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mht-cet-2027-dates-announced-check-complete-exam-schedule-here/articleshow/135913858.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135913858.cms\" /></a>The Maharashtra State Common Entrance Test Cell released the tentative dates for the MHT CET 2027. Students will have two attempts for various courses, with the first attempt being compulsory.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
     },
     {
       "category": "Education",
-      "title": "INSPIRE-SHE scholarship 2026: Government invites applications for 12,000 students; check eligibility and benefits",
-      "url": "https://timesofindia.indiatimes.com/education/news/inspire-she-scholarship-2026-government-invites-applications-for-12000-students-check-eligibility-and-benefits/articleshow/135874526.cms",
-      "published": "2026-11-16T12:24:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135875351,imgsize-72135.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/inspire-she-scholarship-2026-government-invites-applications-for-12000-students-check-eligibility-and-benefits/articleshow/135874526.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135874526.cms\" /></a>Eligible students are invited to apply for the INSPIRE Scholarship for Higher Education through the official website. Applications will be accepted from November 7, 2026, to December 7, 2026, specifically for meritorious students.",
+      "title": "West Bengal announces fee waiver, two-year age relaxation for government job aspirants from 2027; targets 1 lakh jobs in five years",
+      "url": "https://timesofindia.indiatimes.com/education/news/west-bengal-announces-fee-waiver-two-year-age-relaxation-for-government-job-aspirants-from-2027-targets-1-lakh-jobs-in-five-years/articleshow/135915169.cms",
+      "published": "2026-11-17T12:48:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915169,imgsize-39068.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/west-bengal-announces-fee-waiver-two-year-age-relaxation-for-government-job-aspirants-from-2027-targets-1-lakh-jobs-in-five-years/articleshow/135915169.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135915169.cms\" /></a>West Bengal Chief Minister Suvendu Adhikari has announced an application fee waiver and a two-year upper age limit relaxation for state government job aspirants from 2027. The proposed Bhorosa scheme will provide financial assistance to graduates and non-graduates preparing for competitive examinations.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.06
     },
     {
       "category": "Education",
-      "title": "US universities oppose proposed $70,000 OPT fee: Could Indian students lose post-study work opportunities?",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-universities-oppose-proposed-70000-opt-fee-could-indian-students-lose-post-study-work-opportunities/articleshow/135874245.cms",
-      "published": "2026-11-16T10:53:53+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135874237,imgsize-111068.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/us-universities-oppose-proposed-70000-opt-fee-could-indian-students-lose-post-study-work-opportunities/articleshow/135874245.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135874245.cms\" /></a>The US Department of Homeland Security has proposed a $70,000 fee for an initial Optional Practical Training recommendation and $30,000 for subsequent recommendations for an international student. The fee would be payable by the institution recommending OPT, not directly by the student under the proposal.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
-    },
-    {
-      "category": "Education",
-      "title": "New Zealand extends post-study work visa to four years for Indian PhD graduates from today; check details here",
-      "url": "https://timesofindia.indiatimes.com/education/news/new-zealand-extends-post-study-work-visa-to-four-years-for-indian-phd-graduates-from-today-check-details-here/articleshow/135872327.cms",
-      "published": "2026-11-16T09:32:35+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135872179,imgsize-199572.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/new-zealand-extends-post-study-work-visa-to-four-years-for-indian-phd-graduates-from-today-check-details-here/articleshow/135872327.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135872327.cms\" /></a>New Zealand will extend post-study work visa eligibility to up to four years for Indian PhD graduates from November 16, 2026, under the India\u2013New Zealand Free Trade Agreement (FTA). The agreement also provides up to two years for bachelor's graduates and three years for master's graduates, subject to eligibility requirements.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Entertainment",
-      "title": "Gracie Abrams to tour in Australia next year",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/gracie-abrams-confirms-look-at-my-life-tour-dates-for-australia-in-2027/articleshow/135874899.cms",
-      "published": "2026-11-16T11:30:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135875112,imgsize-664940.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135874899.cms\" />Gracie Abrams has officially confirmed her upcoming tour in Australia for the year 2027, featuring six performances. She will perform three shows at Melbourne's Rod Laver Arena and three at Sydney\u2019s Afterpay Arena.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
-    },
-    {
-      "category": "Entertainment",
-      "title": "Daniel Hall passes away at 48",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/daniel-hall-co-founder-of-the-australian-band-taxiride-passes-away-at-48/articleshow/135874704.cms",
-      "published": "2026-11-16T11:19:45+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135874786,imgsize-164779.cms",
-      "summary": "",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "Entertainment",
-      "title": "Phil Collins joined by his kids, including Lily Collins, for Rock &amp; Roll Hall of Fame induction",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/phil-collins-attends-the-rock-roll-hall-of-fame-induction-ceremony-with-his-children-including-daughter-lily-collins/articleshow/135872323.cms",
-      "published": "2026-11-16T09:34:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135872351,imgsize-229973.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135872323.cms\" />Phil Collins celebrated his induction into the Rock &amp; Roll Hall of Fame alongside his children and family. He expressed gratitude during his acceptance speech while acknowledging the support of others throughout his career.",
+      "title": "MP Police Subedar Steno, ASI admit card 2026 released at esb.mp.gov.in: Direct link to download hall tickets here",
+      "url": "https://timesofindia.indiatimes.com/education/news/mp-police-subedar-steno-asi-admit-card-2026-released-at-esb-mp-gov-in-direct-link-to-download-hall-tickets-here/articleshow/135913882.cms",
+      "published": "2026-11-17T12:12:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135914092,imgsize-45198.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/mp-police-subedar-steno-asi-admit-card-2026-released-at-esb-mp-gov-in-direct-link-to-download-hall-tickets-here/articleshow/135913882.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135913882.cms\" /></a>The Madhya Pradesh Employees Selection Board (MPESB) has released the MP Police Subedar Stenographer and Assistant Sub-Inspector (Ministerial) Admit Card 2026. Candidates can download their hall tickets from the official website using their application number and other login credentials.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
-      "category": "Entertainment",
-      "title": "'L368': Mohanlal and Anoop Sathyan's film begins second schedule",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/l368-update-mohanlal-and-anoop-sathyans-film-begins-preparations-for-second-karnataka-schedule/articleshow/135872166.cms",
-      "published": "2026-11-16T09:29:34+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135872226,imgsize-571428.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135872166.cms\" />Mohanlal's upcoming film 'L368' is moving into its next production phase in Karnataka. The team is preparing for the second shooting schedule, with some initial rituals already underway.",
+      "category": "Education",
+      "title": "JNU invites applications for next vice-chancellor; check eligibility, salary and where to apply",
+      "url": "https://timesofindia.indiatimes.com/education/news/jnu-invites-applications-for-next-vice-chancellor-check-eligibility-salary-and-where-to-apply/articleshow/135912301.cms",
+      "published": "2026-11-17T11:21:26+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135912625,imgsize-52524.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/jnu-invites-applications-for-next-vice-chancellor-check-eligibility-salary-and-where-to-apply/articleshow/135912301.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135912301.cms\" /></a>The Ministry of Education has started the application process for the vice-chancellor position at Jawaharlal Nehru University. Candidates can apply online until December 15, 2026, through the SAMARTH recruitment portal.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.04
+      "time_sec": 15.13
+    },
+    {
+      "category": "Entertainment",
+      "title": "In 2014, Ram Charan shot \u2018Govindudu Andarivadele\u2019 in the temple town of Rameswaram",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-the-2014-shoot-of-ram-charans-govindudu-andarivadele-in-rameswaram-the-temple-town-that-set-the-backdrop-for-his-family-drama/articleshow/135915167.cms",
+      "published": "2026-11-17T13:10:51+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915301,imgsize-307611.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135915167.cms\" />Ram Charan dedicated a significant amount of his filming time for 'Govindudu Andarivadele' to the beautiful backdrop of Rameswaram in 2014. Directed by Krishna Vamsi, the film premiered in October and prominently featured landmarks such as the Ramanathaswamy Temple.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "Entertainment",
+      "title": "Pattinson named as Bond: DDLJ link renews attention",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/new-james-bond-robert-pattinson-once-named-shah-rukh-khans-dilwale-dulhania-le-jayenge-among-his-favourite-films-i-love-the-sweet-romance/articleshow/135915011.cms",
+      "published": "2026-11-17T12:38:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135915045,imgsize-213209.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135915011.cms\" />Robert Pattinson has been announced as the new James Bond by Amazon MGM Studios, with Denis Villeneuve directing. The Twilight star once named Shah Rukh Khan\u2019s DDLJ among his favourite films, saying, \u201cI love the sweet romance.\u201d He also shot Tenet in Mumbai in 2019..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Entertainment",
+      "title": "Rajinikanth to Dhanush: South Indian stars who frequently visit famous temples",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-to-dhanush-south-indian-stars-who-seek-spiritual-solace-and-blessings-at-tirumala-sabarimala-mahakaleshwar-and-other-famous-temples/articleshow/135914646.cms",
+      "published": "2026-11-17T12:32:33+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135914809,imgsize-105008.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135914646.cms\" />In the fast-paced lives of South Indian celebrities, spirituality often takes center stage, with many regularly visiting temples to seek divine blessings. Icons like Rajinikanth, Chiranjeevi, and Ram Charan prioritize these sacred rituals amidst their hectic schedules.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.17
+    },
+    {
+      "category": "Entertainment",
+      "title": "Jennifer Lawrence and Josh Hutcherson reunite at the \u2018Hunger Games: Sunrise on the Reaping\u2019 premiere",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lawrence-and-josh-hutcherson-attend-and-reunite-after-9-years-at-the-hunger-games-sunrise-on-the-reaping-premiere/articleshow/135914194.cms",
+      "published": "2026-11-17T12:18:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135914356,imgsize-386890.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135914194.cms\" />On November 16, Jennifer Lawrence and Josh Hutcherson had an exhilarating reunion at the New York City premiere of 'Hunger Games: Sunrise on the Reaping.' This special event celebrated both the original cast and newcomers from the prequel. Lawrence shared her heartfelt reflections about stepping back into her role and the camaraderie with her colleagues, underlining their lasting friendship and playful exchanges..",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
     }
   ]
 }
