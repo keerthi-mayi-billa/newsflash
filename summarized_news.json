@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-18T07:54:09",
+  "generated_at": "2026-11-19T07:49:33",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "In just one week, how security forces avenged attack on CRPF personnel in Kulgam",
-      "url": "https://timesofindia.indiatimes.com/india/in-just-one-week-how-security-forces-avenged-attack-on-crpf-personnel-in-kulgam/articleshow/135949647.cms",
-      "published": "Wed, 18 Nov 2026 12:08:12 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135952396,imgsize-178432.cms",
+      "title": "BJP leader's son run over by flower-showering bulldozer at Akhilesh's Gorakhpur 'rath yatra'",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-leaders-son-run-over-by-flower-showering-bulldozer-at-akhilesh-yadavs-gorakhpur-rath-yatra/articleshow/135977518.cms",
+      "published": "Thu, 19 Nov 2026 10:14:43 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135977731,imgsize-2048302.cms",
       "summary": "",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "Top Stories",
-      "title": "'Mir Jafar of India': BJP slams Rahul over his remarks on Indian economy in US",
-      "url": "https://timesofindia.indiatimes.com/india/pernicious-pattern-of-tarnishing-indias-image-bjp-fires-back-at-rahul-gandhi-over-us-remarks/articleshow/135950945.cms",
-      "published": "Wed, 18 Nov 2026 11:16:28 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135952797,imgsize-1418364.cms",
-      "summary": "Rahul Gandhi's recent remarks at Columbia University regarding India's economy have drawn criticism from BJP leaders. While he mentioned an impending economic disaster and unemployment issues, BJP officials accused him of spreading anti-India propaganda.",
+      "title": "Mahua Moitra alleges BJP supporters hurled stones, eggs at her car; shares video",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/mahua-moitra-alleges-bjp-supporters-hurled-stones-eggs-at-her-car-shares-video/articleshow/135980907.cms",
+      "published": "Thu, 19 Nov 2026 12:41:45 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135980974,imgsize-99098.cms",
+      "summary": "Mahua Moitra claimed that her convoy was attacked by a mob carrying BJP flags while police stood by. She recorded the incident and expressed outrage over the lack of police intervention during the attack.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.16
+      "time_sec": 15.15
     },
     {
       "category": "Top Stories",
-      "title": "SCBA urges SC to initiate criminal contempt proceedings against advocate",
-      "url": "https://timesofindia.indiatimes.com/india/scba-urges-supreme-court-to-initiate-criminal-contempt-proceedings-against-advocate/articleshow/135953098.cms",
-      "published": "Wed, 18 Nov 2026 12:32:48 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135953223,imgsize-1794616.cms",
-      "summary": "",
+      "title": "2 killed as Fortuner rams into autorickshaw near Delhi's Kashmere Gate",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/2-dead-6-injured-after-fortuner-rams-into-autorickshaw-near-delhis-kashmere-gate/articleshow/135978612.cms",
+      "published": "Thu, 19 Nov 2026 11:00:18 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135978705,imgsize-75323.cms",
+      "summary": "A speeding SUV collided with a three-wheeler in north Delhi, causing fatalities and serious injuries. The accident occurred on Yudhisthir Setu, leading to an initial FIR on rash driving.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
+    },
+    {
+      "category": "Top Stories",
+      "title": "Siraj's omission under scanner as India pacers struggle! Kotak defends team selection",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/mohammed-siraj-snub-under-scanner-as-india-pacers-struggle-kotak-defends-team-selection-after-new-zealand-fightback-in-1st-test/articleshow/135979921.cms",
+      "published": "Thu, 19 Nov 2026 11:55:59 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-135980093,imgsize-545869.cms",
+      "summary": "Defending the choice to omit Mohammed Siraj from the playing XI against New Zealand, Sitanshu Kotak provided insight into the strategy behind the team's bowling lineup. On a tough first day for India in the Test match, New Zealand capitalised on their situation.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.18
+    },
+    {
+      "category": "India",
+      "title": "British Airways passenger wins \u00a312 interest case after \u00a32,000 hotel bill",
+      "url": "https://timesofindia.indiatimes.com/world/uk/british-airways-passenger-ed-butler-spent-more-than-2000-on-a-family-hotel-after-a-cancelled-flight-then-took-the-airline-to-court-over-12-in-unpaid-interest-and-won/articleshow/135979101.cms",
+      "published": "2026-11-19T11:20:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135979152,imgsize-982802.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135979101.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
-      "category": "Top Stories",
-      "title": "World No. 1 Magnus Carlsen didn't show up for fast classical chess: Who is at fault?",
-      "url": "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-didnt-show-up-for-fast-classical-chess-who-is-at-fault/articleshow/135951761.cms",
-      "published": "Wed, 18 Nov 2026 11:52:20 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-135951916,imgsize-90454.cms",
-      "summary": "Magnus Carlsen has sparked controversy after refusing to play his final Fast Classical game against Bibisara Assaubayeva, despite being required to appear. Having already secured victory, he avoided risking valuable rating points.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
       "category": "India",
-      "title": "Journalist turns daughter's fentanyl death into a mission, funding $500,000 in addiction treatment",
-      "url": "https://timesofindia.indiatimes.com/world/us/after-losing-her-daughter-to-fentanyl-poisoning-south-dakota-journalist-angela-kennecke-founded-a-nonprofit-that-has-distributed-over-15700-naloxone-kits-funded-more-than-500000-in-addiction-treatment-and-reached-20000-students/articleshow/135953367.cms",
-      "published": "2026-11-18T12:45:16+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953532,imgsize-1127127.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135953367.cms\" />",
+      "title": "A US partnership turned 2.5 million pounds of unsold food and drinks into renewable energy",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-us-partnership-turned-2-5-million-pounds-of-unsold-food-and-drinks-into-renewable-energy-and-fertiliser-in-15-months-heres-how-the-waste-recovery-process-works/articleshow/135978956.cms",
+      "published": "2026-11-19T11:15:27+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135979080,imgsize-137459.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135978956.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Hakeem Jeffries faces first test in bid to become first Black US House speaker",
-      "url": "https://timesofindia.indiatimes.com/world/us/hakeem-jeffries-faces-first-test-in-bid-to-become-first-black-us-house-speaker/articleshow/135951047.cms",
-      "published": "2026-11-18T12:44:44+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953536,imgsize-127148.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135951047.cms\" />As Hakeem Jeffries gears up for a historic election, he prepares to potentially become the first black Speaker of the House, vying for the nomination from House Democrats. Acknowledging calls for change in leadership, Jeffries is proactively connecting with diverse caucuses to build support.",
+      "title": "British woman spent \u00a31m of mother's fortune; court orders \u00a32.6M recovery",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-british-woman-used-more-than-1-million-of-her-elderly-mothers-money-for-holidays-cars-shopping-and-a-lavish-wedding-high-court-ordered-her-to-hand-back-2-6-million-after-a-bitter-inheritance-battle/articleshow/135980243.cms",
+      "published": "2026-11-19T12:14:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135980330,imgsize-1184010.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135980243.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 0.0
     },
     {
       "category": "India",
-      "title": "Island Nations Seek Climate Funding: States press for emissions cuts; seek $700 million for resilience",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/small-island-nations-demand-urgent-climate-action-at-un-talks-as-stakes-rise/articleshow/135952884.cms",
-      "published": "2026-11-18T12:31:09+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953107,imgsize-94205.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135952884.cms\" />Small island nations are urgently calling for action at climate negotiations due to the exacerbating threats of global warming. Their leaders stress the essential need for financial aid from wealthier nations, which contribute most to pollution.",
+      "title": "Derbyshire man buries \u00a34,000 Boeing 737 to build underground party bunker",
+      "url": "https://timesofindia.indiatimes.com/world/uk/derbyshire-man-buys-a-boeing-737-for-4000-on-facebook-and-buries-it-beneath-his-garden-to-build-an-underground-party-bunker-inspired-by-the-great-escape/articleshow/135977258.cms",
+      "published": "2026-11-19T12:03:50+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135977329,imgsize-1761663.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135977258.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
-    },
-    {
-      "category": "India",
-      "title": "Tennessee studio estate where Taylor Swift and Dolly Parton recorded lists for $19.5 million",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/taylor-swift-and-dolly-parton-recorded-music-at-a-tennessee-retreat-built-in-1998-after-more-than-65-gold-and-platinum-albums-were-made-there-the-10-acre-studio-estate-is-now-listed-for-19-5-million/articleshow/135933523.cms",
-      "published": "2026-11-18T12:10:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135933925,imgsize-153446.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135933523.cms\" />Dark Horse Estate in Franklin, Tennessee is now on the market for $19.5 million. This unique property features recording facilities and accommodations for artists and guests alike.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.19
     },
     {
       "category": "Business",
-      "title": "What is the gold price outlook on November 18, 2026 - will prices continue to fall?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-november-18-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/135951392.cms",
-      "published": "2026-11-18T11:35:15+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135951583,imgsize-598649.cms",
+      "title": "Which are the top stocks to buy or sell on November 19, 2026?",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-19-2026-iifl-finance-hindustan-zinc-oberoi-realty-best-stocks-to-buy-or-sell-today/articleshow/135979756.cms",
+      "published": "2026-11-19T11:46:56+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135979874,imgsize-385172.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.07
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "US-Philippines trade agreement: Trump announces 'magnificent deal' fair to both sides",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-philippines-trade-agreement-trump-announces-magnificent-deal-fair-to-both-sides/articleshow/135950396.cms",
-      "published": "2026-11-18T10:58:27+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135950430,imgsize-94390.cms",
+      "title": "Anthropic IPO Pricing: Kotak questions India Inc valuations; IPO tops $1.4 tn target",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/are-we-undervalued-uday-kotak-asks-as-anthropics-valuation-tops-indias-top-10-combined/articleshow/135978503.cms",
+      "published": "2026-11-19T10:57:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135978601,imgsize-34608.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.17
+      "time_sec": 15.12
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex plunges over 600 points, NSE Nifty50 slips below 25,200",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-18-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135947076.cms",
-      "published": "2026-11-18T08:39:06+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135947076,imgsize-2437277.cms",
-      "summary": "BSE Sensex dropped 637.57 points, or 0.77%, to 81,894.62, while NSE Nifty50 declined 204.50 points, or 0.81%, to 25,182.90. The fall followed a strong run in November, with the Sensex gaining nearly 11% and the Nifty advancing more than 10% up to November 17.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "Man buys Rs 72L flat with wife, faces Rs 14.25L addition for alleged cash payment; what ITAT ruled",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/thane-man-buys-rs-72-lakh-flat-jointly-with-wife-faces-rs-14-25-lakh-tax-addition-at-steep-rate-as-taxman-cites-developers-gmail-and-yahoo-emails-containing-alleged-on-money-receipts-why-itat-mumbai-gave-property-buyer-full-relief/articleshow/135931975.cms",
-      "published": "2026-11-18T06:02:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135933281,imgsize-755362.cms",
+      "title": "Oil prices slip as supply concerns and US rate hike fears weigh on market sentiment",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-supply-concerns-and-us-rate-hike-fears-weigh-on-market-sentiment/articleshow/135977286.cms",
+      "published": "2026-11-19T09:58:14+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135977492,imgsize-46594.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.14
+    },
+    {
+      "category": "Business",
+      "title": "Stock market today: Sensex rallies over 400 points, Nifty50 trades above 25,350",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-19-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135976235.cms",
+      "published": "2026-11-19T08:42:02+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135976235,imgsize-2653515.cms",
+      "summary": "Rupee ended higher against the US dollar, although it pared a large part of its gains during the session. The currency settled at 93.44, gaining 7 paise from its previous close.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.18
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.15
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.12
+      "time_sec": 15.18
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Education",
+      "title": "CISCE launches SHINE 2026, a nationwide digital assessment initiative to identify learning gaps among students; 450 schools participate",
+      "url": "https://timesofindia.indiatimes.com/education/news/cisce-launches-shine-2026-nearly-450-schools-participate-in-first-48-hours-over-3-million-student-responses-recorded/articleshow/135981029.cms",
+      "published": "2026-11-19T12:42:36+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135981029,imgsize-118147.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cisce-launches-shine-2026-nearly-450-schools-participate-in-first-48-hours-over-3-million-student-responses-recorded/articleshow/135981029.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135981029.cms\" /></a>The CISCE has launched SHINE 2026, a nationwide digital diagnostic assessment for students of Classes 4, 6 and 9 across its affiliated schools. Nearly 450 schools participated within 48 hours, recording over three million student responses.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.16
+    },
+    {
+      "category": "Education",
+      "title": "Google Gemini can now do more than answer questions: What Indian users can automate for free",
+      "url": "https://timesofindia.indiatimes.com/education/news/google-gemini-can-now-do-more-than-answer-questions-what-indian-users-can-automate-for-free/articleshow/135980867.cms",
+      "published": "2026-11-19T12:40:09+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135980983,imgsize-45012.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/google-gemini-can-now-do-more-than-answer-questions-what-indian-users-can-automate-for-free/articleshow/135980867.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135980867.cms\" /></a>Google has expanded its Gemini AI assistant with a new Task mode that allows users to delegate everyday activities, including appointment bookings, shopping, grocery orders, bill analysis and calendar management. The feature is rolling out free of charge in six countries, including India.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.12
+    },
+    {
+      "category": "Education",
+      "title": "Karnataka 1st PUC time table 2027 released; check complete KSEAB exam schedule here",
+      "url": "https://timesofindia.indiatimes.com/education/news/karnataka-1st-puc-time-table-2027-released-check-complete-kseab-exam-schedule-here/articleshow/135978498.cms",
+      "published": "2026-11-19T12:28:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135980780,imgsize-896744.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/karnataka-1st-puc-time-table-2027-released-check-complete-kseab-exam-schedule-here/articleshow/135978498.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135978498.cms\" /></a>The Karnataka School Examination and Assessment Board announced the timetable for the 1st PUC examinations in 2027. These examinations will be held from February 10 to February 23, 2027.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.13
     },
     {
       "category": "Education",
-      "title": "CISCE SHINE 2026 records three million student responses, assessment window open until December 15",
-      "url": "https://timesofindia.indiatimes.com/education/news/cisce-shine-2026-nearly-450-schools-begin-assessment-over-three-million-student-responses-recorded/articleshow/135953132.cms",
-      "published": "2026-11-18T12:52:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953913,imgsize-118147.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/cisce-shine-2026-nearly-450-schools-begin-assessment-over-three-million-student-responses-recorded/articleshow/135953132.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135953132.cms\" /></a>CISCE has launched SHINE 2026, a mandatory digital diagnostic assessment for students of Classes 4, 6 and 9 in affiliated schools. Within 48 hours of its November 15 launch, nearly 450 schools had commenced testing, with more than three million student responses recorded.",
+      "title": "Microsoft launches new AI models for coding and cybersecurity to challenge OpenAI and Anthropic: What software engineers should know",
+      "url": "https://timesofindia.indiatimes.com/education/news/microsoft-launches-new-ai-models-for-coding-and-cybersecurity-to-challenge-openai-and-anthropic-what-software-engineers-should-know/articleshow/135980080.cms",
+      "published": "2026-11-19T12:06:18+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135980147,imgsize-51711.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/microsoft-launches-new-ai-models-for-coding-and-cybersecurity-to-challenge-openai-and-anthropic-what-software-engineers-should-know/articleshow/135980080.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135980080.cms\" /></a>Microsoft has launched three specialised AI models for coding and cybersecurity, intensifying competition with OpenAI and Anthropic. The lineup includes MAI Code 2, MAI Code 2 Flash and MAI Cyber 2 Flash, designed for software development, vulnerability detection and threat investigation.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
-    },
-    {
-      "category": "Education",
-      "title": "RBSE 10th, 12th practical exams 2027 likely to begin in December; check revised schedule, and latest updates",
-      "url": "https://timesofindia.indiatimes.com/education/news/rbse-10th-12th-practical-exams-2027-likely-to-begin-in-december-check-revised-schedule-exam-dates-and-latest-updates/articleshow/135952184.cms",
-      "published": "2026-11-18T12:06:11+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135952184,imgsize-93750.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/rbse-10th-12th-practical-exams-2027-likely-to-begin-in-december-check-revised-schedule-exam-dates-and-latest-updates/articleshow/135952184.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135952184.cms\" /></a>The Rajasthan Board is likely to conduct RBSE Class 10 and 12 practical examinations 2027 in December 2026, ahead of the earlier January schedule. The proposed change is linked to teachers' census duties in January.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
-    },
-    {
-      "category": "Education",
-      "title": "Telangana TOSS SSC, Inter result 2026 out at telanganaopenschool.org: Direct link to download here",
-      "url": "https://timesofindia.indiatimes.com/education/news/telangana-toss-ssc-inter-result-2026-out-at-telanganaopenschool-org-direct-link-to-download-here/articleshow/135951991.cms",
-      "published": "2026-11-18T11:55:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135952076,imgsize-628113.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/telangana-toss-ssc-inter-result-2026-out-at-telanganaopenschool-org-direct-link-to-download-here/articleshow/135951991.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135951991.cms\" /></a>Telangana Open School Society has released the results for the SSC and Intermediate supplementary examinations held in October 2026. Students can check their results online by visiting the official website and entering their hall ticket or admission number.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "Education",
-      "title": "UPSC CSE 2026 interview schedule released at upsc.gov.in; check personality test dates here",
-      "url": "https://timesofindia.indiatimes.com/education/news/upsc-cse-2026-interview-schedule-released-at-upsc-gov-in-check-personality-test-dates-here/articleshow/135949538.cms",
-      "published": "2026-11-18T11:09:18+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135950854,imgsize-323984.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/upsc-cse-2026-interview-schedule-released-at-upsc-gov-in-check-personality-test-dates-here/articleshow/135949538.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135949538.cms\" /></a>The Union Public Service Commission has released the schedule for the Civil Services Examination interviews. Personality tests will commence on December 7, 2026, and end on February 12, 2027.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.14
+      "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Will Ranbir Kapoor's 'Ramayana' recover its Rs 4000 crore budget? Lara Dutta reacts",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/will-ranbir-kapoors-ramayana-recover-its-rs-4000-crore-budget-lara-dutta-who-plays-kaikeye-says-i-think-it-will-far-surpass-it/articleshow/135927065.cms",
-      "published": "2026-11-17T18:43:21+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135927146,imgsize-379743.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135927065.cms\" />In 'Ramayana: Part 1', Lara Dutta takes on the pivotal role of Queen Kaikeyi and is confident that the film will break box office records. She notes the film's remarkable scale and the remarkable daring it took to create.",
+      "title": "'Ramayana' hits Rs 1,500 crore globally in record time",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-14-ranbir-kapoor-yash-starrer-crosses-rs-1000-crore-in-india-hits-rs-1500-crore-globally-in-record-time/articleshow/135974256.cms",
+      "published": "2026-11-19T05:51:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135974573,imgsize-119988.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135974256.cms\" />Namit Malhotra's 'Ramayana', directed by Nitesh Tiwari, has crossed the Rs 1,000 crore mark domestically. The film achieved this milestone within just two weeks of its theatrical release.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.17
     },
     {
       "category": "Entertainment",
-      "title": "Dulquer Salmaan once worked at a construction company in Dubai",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-dulquer-salmaan-once-worked-at-construction-company-in-dubai-before-pursuing-acting-heres-why-he-quit-his-job/articleshow/135953493.cms",
-      "published": "2026-11-18T12:41:37+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953513,imgsize-102022.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135953493.cms\" />Before stepping into the spotlight, Dulquer Salmaan was employed at a construction firm in Dubai. It was during this experience that he recognized that a traditional job wasn't his calling.",
+      "title": "Who is Krishna Vamsi? About actor Ramya Krishnan\u2019s husband",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/who-is-krishna-vamsi-about-ramya-krishnans-husband-their-marriage-and-separation-rumours/articleshow/135980737.cms",
+      "published": "2026-11-19T12:29:29+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135980807,imgsize-110923.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135980737.cms\" />Ramya Krishnan has put to rest the speculation regarding her relationship with director Krishna Vamsi. The couple, married since 2003 and parents to their son Ritvik, are now living separately to focus on their careers.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.16
     },
     {
       "category": "Entertainment",
-      "title": "When Allu Arjun revealed he struggled to get film offers due to his looks",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-allu-arjun-revealed-that-he-struggled-to-get-film-offers-after-gangotri-due-to-his-looks-i-went-from-0-to-100-i-was-a-nobody/articleshow/135952943.cms",
-      "published": "2026-11-18T12:27:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135953004,imgsize-68893.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135952943.cms\" />Allu Arjun shared his early career challenges while celebrating the 20th anniversary of his film 'Arya'. He admitted that although 'Gangotri' was a hit, he struggled to secure good projects.",
+      "title": "'Dulquer Salmaan ready to act with Mammootty'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dulquer-salmaan-ready-to-act-with-mammootty-allu-aravind-plans-big-ticket-father-son-film-aot-actor-gives-witty-reply/articleshow/135979800.cms",
+      "published": "2026-11-19T11:46:25+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135979855,imgsize-324571.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135979800.cms\" />Allu Aravind recently expressed his desire to collaborate with Mammootty and Dulquer Salmaan on a film. Dulquer showed enthusiasm for the project and expressed his willingness to participate immediately.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "\u2018Ramayana\u2019 nears Rs 1,500 crore mark at worldwide box office",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-13-ranbir-kapoor-and-yash-starrer-nears-rs-1500-crore-worldwide-despite-second-tuesday-dip/articleshow/135943827.cms",
-      "published": "2026-11-18T05:41:57+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-135944077,imgsize-291615.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135943827.cms\" />\u2018Ramayana: Part One\u2019 continues to perform well at the box office, nearing Rs 1,500 crore gross worldwide. The film earned approximately Rs 28.70 crore net in India on its 13th day of release.",
+      "title": "Guitarist John Christ passes away at 61",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/john-christ-founding-member-of-rock-band-danzig-passes-away-at-61-after-battle-with-medical-issues/articleshow/135979126.cms",
+      "published": "2026-11-19T11:44:59+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-135979810,imgsize-43102.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135979126.cms\" />In a heartfelt announcement, the family of John Christ has revealed that the esteemed guitarist, recognized for co-founding the influential band Danzig, has died at 61. His passing, attributed to ongoing health challenges, has deeply affected the music community.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.15
     }
   ]
 }
