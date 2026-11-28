@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-27T08:59:50",
+  "generated_at": "2026-11-28T08:19:52",
   "model": "facebook/bart-large-cnn (HuggingFace API)",
   "total": 28,
   "articles": [
     {
       "category": "Top Stories",
-      "title": "Terror attack on IAF station foiled: Gujarat ATS arrests JeM operative, rifle recovered",
-      "url": "https://timesofindia.indiatimes.com/india/suspected-jaish-terrorist-planned-attack-on-security-establishment-gujarat-ats/articleshow/136214666.cms",
-      "published": "Fri, 27 Nov 2026 13:59:10 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-136215059,imgsize-86000.cms",
-      "summary": "Gujarat ATS thwarted a planned terrorist attack targeting a security establishment in the state. Officials arrested the suspect, Mohammad Islam Kabiruddin, who is linked to Jaish-e-Mohammed.",
+      "title": "CJI had sought probe against HC judge. He is Jharkhand acting CJ now",
+      "url": "https://timesofindia.indiatimes.com/india/cji-had-sought-probe-against-jharkhand-high-court-judge-he-is-jhakhand-acting-chief-justice-now/articleshow/136233286.cms",
+      "published": "Sat, 28 Nov 2026 03:19:07 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-136233297,imgsize-140742.cms",
+      "summary": "CJI Surya Kant asked M S Sonak to investigate multiple complaints regarding Justice Sujit Narayan Prasad's integrity. Many of these complaints were supported by documentary evidence, which adds credibility to the claims.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.13
+    },
+    {
+      "category": "Top Stories",
+      "title": "Bloodbath at Rohtak hotel: How 'girlfriend' lured gangster into murder trap; 4 shot dead",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/bloodbath-at-rohtak-hotel-how-girlfriend-lured-gangster-into-murder-trap-4-men-shot-dead/articleshow/136241902.cms",
+      "published": "Sat, 28 Nov 2026 13:26:56 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-136241966,imgsize-106405.cms",
+      "summary": "Jhanvi Chaudhary allegedly posed as Sunny Ritolia's girlfriend to facilitate a murder plot by the Himanshu Bhau gang. On November 25, she brought Sunny to the Milan hotel, where armed assailants opened fire, resulting in four deaths.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Top Stories",
+      "title": "DMK formally backs Centre's delimitation Bill, Stalin calls it 'major victory' for Tamil Nadu",
+      "url": "https://timesofindia.indiatimes.com/india/dmk-formally-backs-centres-delimitation-bill-stalin-calls-it-major-victory-for-tamil-nadu/articleshow/136240175.cms",
+      "published": "Sat, 28 Nov 2026 11:38:47 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-136240205,imgsize-81978.cms",
+      "summary": "In a strategic move, the DMK has publicly backed the Centre's revised delimitation Bill, considering it a pivotal achievement for Tamil Nadu. Party officials articulated that the proposal successfully tackles their apprehensions about legislative representation and demographic allocation.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.22
+    },
+    {
+      "category": "Top Stories",
+      "title": "'Both are Congress seats': Imran Masood on SP announcing Saharanpur candidates",
+      "url": "https://timesofindia.indiatimes.com/india/both-are-congress-seats-imran-masood-on-sp-announcing-saharanpur-candidates-for-up-polls/articleshow/136237727.cms",
+      "published": "Sat, 28 Nov 2026 09:24:53 +0530",
+      "image_url": "https://static.toiimg.com/photo/msid-136237926,imgsize-94898.cms",
+      "summary": "",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "A house renovation in London uncovered a basket hidden behind a wall",
+      "url": "https://timesofindia.indiatimes.com/science/archaeology/a-house-renovation-in-london-uncovered-a-basket-hidden-behind-a-wall-inside-were-17th-century-shoes-broken-glass-and-four-dried-chickens/articleshow/136213885.cms",
+      "published": "2026-11-28T12:56:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136214069,imgsize-134936.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136213885.cms\" />In a fascinating archaeological find at Lauderdale House, London, a wicker basket dating back to the 17th century was unearthed, revealing hidden objects like broken shoes. These artifacts were once believed to safeguard homes from malevolent spirits.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.12
     },
     {
-      "category": "Top Stories",
-      "title": "DMK 'ready' to back BJP's Delimitation Bill if TN's representation remains unchanged",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/dmk-ready-to-support-bjps-delimitation-bill-if-tamil-nadus-representation-remains-unchanged/articleshow/136212236.cms",
-      "published": "Fri, 27 Nov 2026 12:09:10 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-136212298,imgsize-143644.cms",
-      "summary": "DMK has indicated their readiness to support the BJP's proposed delimitation bill with specific conditions. The party seeks to maintain Tamil Nadu's representation and ensure a freeze on new delimitation for 25 years.",
+      "category": "India",
+      "title": "London Zoo breeds 15 tiny Ghanaian frogs in world-first conservation success",
+      "url": "https://timesofindia.indiatimes.com/world/uk/london-zoo-has-bred-15-tiny-frogs-from-ghana-for-the-first-time-under-human-care-creating-a-new-opportunity-to-protect-a-species-threatened-by-habitat-loss/articleshow/136097215.cms",
+      "published": "2026-11-28T12:53:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136097417,imgsize-1368437.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136097215.cms\" />",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 0.0
     },
     {
-      "category": "Top Stories",
-      "title": "'Mann ka na ho toh jyada acha': Goyal quotes Harivansh on tariffs, US trade deal",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/man-ka-na-ho-toh-jada-achaa-hai-piyush-goyal-quotes-poet-harivansh-bachchan-on-tariff-chaos-india-us-trade-deal/articleshow/136211833.cms",
-      "published": "Fri, 27 Nov 2026 12:53:25 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-136213379,imgsize-100704.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "category": "India",
+      "title": "Namibia moved 575 animals from drought-hit Etosha to restore wildlife populations",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/namibia-moves-575-wild-animals-from-drought-hit-etosha-national-park-to-conservancies-aiming-to-restore-wildlife-populations-and-give-lions-more-prey/articleshow/136131863.cms",
+      "published": "2026-11-28T12:45:00+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136132264,imgsize-168592.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136131863.cms\" />",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 0.0
+    },
+    {
+      "category": "India",
+      "title": "C$470 million payout for Nova Scotia workers after court strikes down wage restriction law",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/public-sector-workers-in-nova-scotia-faced-two-years-of-frozen-wages-under-a-2015-law-a-court-has-approved-a-compensation-agreement-estimated-at-c470-million-with-eligible-workers-able-to-receive-up-to-c5000/articleshow/136213149.cms",
+      "published": "2026-11-28T12:03:17+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136213839,imgsize-158474.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136213149.cms\" />Public sector workers in Canada's Nova Scotia province could receive up to C$5,000 each under a C$470 million compensation deal approved by a court. The settlement follows a ruling that declared a 2015 law restricting wage increases and long-service benefits unconstitutional.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.09
-    },
-    {
-      "category": "Top Stories",
-      "title": "'Who's got the mints?': Nathan Lyon named in alleged ball-tampering plot",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/whos-got-the-mints-nathan-lyon-named-in-alleged-ball-tampering-plot-in-australias-first-test-after-sandpapergate/articleshow/136214871.cms",
-      "published": "Fri, 27 Nov 2026 14:01:52 +0530",
-      "image_url": "https://static.toiimg.com/photo/msid-136215122,imgsize-48837.cms",
-      "summary": "Nathan Lyon has been identified as the Australian player who suggested using mints on the ball during a Test match. This suggestion reportedly came after the ball-tampering controversy known as Sandpapergate.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
-    },
-    {
-      "category": "India",
-      "title": "\u2018Hafiz-e-Quran\u2019: LeT, JeM figures back Asim Munir as Pak army pushes to mainstream terror outfits",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/hafiz-e-quran-let-jem-figures-back-asim-munir-as-pak-army-pushes-to-mainstream-terror-outfits/articleshow/136215131.cms",
-      "published": "2026-11-27T14:12:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136215148,imgsize-999453.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136215131.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Florida woman sends elderly mother's $1.8m to French billionaire impersonator",
-      "url": "https://timesofindia.indiatimes.com/world/us/florida-woman-sends-1-8-million-of-elderly-mothers-money-to-man-posing-as-french-billionaire-court-orders-her-to-pay-5-5-million-in-brothers-lawsuit/articleshow/136213089.cms",
-      "published": "2026-11-27T12:53:40+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136213322,imgsize-1385919.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136213089.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Pakistani actor's 2017 selfie with Hafiz Saeed resurfaces amid Netflix series row",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistani-actors-2017-selfie-with-hafiz-saeed-resurfaces-amid-netflix-series-row/articleshow/136213063.cms",
-      "published": "2026-11-27T12:51:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136213174,imgsize-838606.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136213063.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
-    },
-    {
-      "category": "India",
-      "title": "Ex-Kentucky governor's adopted son alleges years of mistreatment",
-      "url": "https://timesofindia.indiatimes.com/world/us/adopted-son-of-former-kentucky-governor-seeks-financial-support-in-parents-divorce-alleges-years-of-mistreatment-court-rejects-claim-but-orders-nearly-66000-in-legal-fees/articleshow/136212459.cms",
-      "published": "2026-11-27T12:26:04+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136212698,imgsize-1460968.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136212459.cms\" />",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 0.0
     },
     {
       "category": "Technology",
@@ -121,47 +121,47 @@
       "image_url": "https://static.toiimg.com/photo/msid-108562767,imgsize-729272.cms",
       "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk\u00e2\u0080\u0099s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Business",
-      "title": "Chinese bazaar near Xi-Trump summit venue selling banned Nvidia chips: Report",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/close-to-where-xi-hosted-trump-days-ago-chinese-bazaar-openly-sells-banned-nvidia-chips-report/articleshow/136210989.cms",
-      "published": "2026-11-27T11:29:01+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136211149,imgsize-843828.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.07
     },
     {
       "category": "Business",
-      "title": "Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-27-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136208203.cms",
-      "published": "2026-11-27T09:00:19+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136208203,imgsize-53298.cms",
-      "summary": "Indian benchmark indices extended losses in afternoon trade on Friday, with the Sensex falling nearly 750 points and the Nifty slipping below the 25,700 mark. The BSE Sensex declined 749.09 points, or 0.89%, to 83,579.50, while the Nifty 50 dropped 208.55 points, or 0.81%, to 25,675.90 at 1:57 pm.",
+      "title": "Retailers pitch big buys on Black Friday",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/retailers-pitch-big-buys-on-black-friday/articleshow/136236387.cms",
+      "published": "2026-11-28T07:09:01+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136236393,imgsize-78862.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.15
     },
     {
       "category": "Business",
-      "title": "Man sells gold from parents and buys house, taxman denies exemption; what ITAT ruled",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/man-sells-gold-received-from-parents-and-grandmother-buys-house-and-seeks-rs-34-39-lakh-exemption-taxman-denies-it-and-also-adds-rs-25-69-lakh-cash-deposits-as-unexplained-income-itat-allows-appeal-for-statistical-purposes/articleshow/136197788.cms",
-      "published": "2026-11-27T11:01:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136198119,imgsize-684830.cms",
+      "title": "Thumbs-up for nutrition labelling push",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-with-us-moving-towards-culmination-goyal/articleshow/136236333.cms",
+      "published": "2026-11-28T07:05:41+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136236376,imgsize-79742.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.14
+    },
+    {
+      "category": "Business",
+      "title": "Sensex falls 989 points as investors book profits",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-falls-989-points-as-investors-book-profits/articleshow/136236325.cms",
+      "published": "2026-11-28T06:58:13+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136236328,imgsize-81124.cms",
+      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.09
+    },
+    {
+      "category": "Business",
+      "title": "RBI eases CRR stance amid liquidity squeeze",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-eases-crr-stance-amid-liquidity-squeeze/articleshow/136236314.cms",
+      "published": "2026-11-28T06:55:32+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136236319,imgsize-157660.cms",
       "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
-    },
-    {
-      "category": "Business",
-      "title": "Gold price crash puts pledged jewellery at risk as lenders issue auction notices",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-fall-35-from-january-peak-putting-gold-loan-borrowers-at-risk-of-losing-pledged-jewellery-as-40-of-gold-loan-portfolios-breach-ltv-limits-lenders-send-auction-notices-seek-extra-collateral-or-part-repayment/articleshow/136196815.cms",
-      "published": "2026-11-27T09:01:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136197193,imgsize-679108.cms",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.05
     },
     {
       "category": "Sports",
@@ -171,7 +171,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55231018,imgsize-115793.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.09
+      "time_sec": 15.14
     },
     {
       "category": "Sports",
@@ -181,7 +181,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55141314,imgsize-418241.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.11
+      "time_sec": 15.07
     },
     {
       "category": "Sports",
@@ -191,7 +191,7 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137561,imgsize-493316.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.1
     },
     {
       "category": "Sports",
@@ -201,87 +201,87 @@
       "image_url": "https://static.toiimg.com/photo/msid-55137685,imgsize-46999.cms",
       "summary": "2nd Test: India beat Bangladesh by seven wickets to sweep series 2nd Test, Day 4: India push for victory with T20-style batting 2nd Test, Day 1: B'desh 107/3 vs India on rain-shortened opening day Ashwin shines as India hammer Bangladesh in Chennai Test 1st Test, Day 3: India hold upper hand despite spirited Bangladesh chase 1st Test, Day 2: India in box seat after Bumrah takes four-for vs B'desh 1st Test, Day 1: Ashwin, Jadeja dig India out of trouble vs B'desh France waves farewell to Paralympics with spectacular ceremony Navdeep's gold, Simran's bronze take India's medal tally to 29 Paris Paralympics: India's flag bearers for closing ceremony.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.08
+      "time_sec": 15.11
     },
     {
       "category": "Education",
-      "title": "Bihar designates five DIETs as regional language centres to promote Maithili, Bhojpuri, Magahi and other mother tongues in schools",
-      "url": "https://timesofindia.indiatimes.com/education/news/bihar-designates-five-diets-as-regional-language-centres-to-promote-maithili-bhojpuri-magahi-and-other-mother-tongues-in-schools/articleshow/136211671.cms",
-      "published": "2026-11-27T14:02:12+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136211671,imgsize-158786.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bihar-designates-five-diets-as-regional-language-centres-to-promote-maithili-bhojpuri-magahi-and-other-mother-tongues-in-schools/articleshow/136211671.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136211671.cms\" /></a>The Bihar government has designated five DIETs as regional language enrichment centres to promote Maithili, Magahi, Bhojpuri, Angika and Bajjika in school education. The centres will develop mother tongue-based learning resources, train teachers, document folk literature and conduct language research.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Education",
-      "title": "Agnipath scheme update: Up to 98% Agniveers may choose to continue in armed forces",
-      "url": "https://timesofindia.indiatimes.com/education/news/agnipath-scheme-update-up-to-98-agniveers-may-choose-to-continue-in-armed-forces/articleshow/136212312.cms",
-      "published": "2026-11-27T12:13:55+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136212376,imgsize-164454.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/agnipath-scheme-update-up-to-98-agniveers-may-choose-to-continue-in-armed-forces/articleshow/136212312.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136212312.cms\" /></a>Around 80% of the Indian Army's first batch of Agniveers had expressed interest in continuing military service beyond four years, according to officials. Following the Centre's November 2026 changes to the Agnipath scheme, the estimated willingness to remain in the armed forces could rise to 97-98%.",
-      "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
-    },
-    {
-      "category": "Education",
-      "title": "HBSE Date Sheet 2027: Haryana Board announces Class 10, 12 exam dates; detailed subject-wise timetable awaited",
-      "url": "https://timesofindia.indiatimes.com/education/news/hbse-date-sheet-2027-haryana-board-announces-class-10-12-exam-dates-detailed-subject-wise-timetable-awaited/articleshow/136211685.cms",
-      "published": "2026-11-27T12:06:36+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136211685,imgsize-73424.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/hbse-date-sheet-2027-haryana-board-announces-class-10-12-exam-dates-detailed-subject-wise-timetable-awaited/articleshow/136211685.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136211685.cms\" /></a>The Board of School Education Haryana (BSEH) has announced the examination dates for the HBSE Class 10 and Class 12 Board Exams 2027. While Class 12 examinations will be held from March 3 to April 8, Class 10 papers are scheduled between March 4 and March 26.",
+      "title": "Indian Army Agniveer final result 2026 out: Region-wise merit list PDF released for IRO Delhi, NCR, AROs; check selection status, check complete details here",
+      "url": "https://timesofindia.indiatimes.com/education/news/indian-army-agniveer-final-result-2026-out-region-wise-merit-list-pdf-released-for-iro-delhi-ncr-aros-check-selection-status-check-complete-details-here/articleshow/136241505.cms",
+      "published": "2026-11-28T13:07:35+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136241650,imgsize-90408.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/indian-army-agniveer-final-result-2026-out-region-wise-merit-list-pdf-released-for-iro-delhi-ncr-aros-check-selection-status-check-complete-details-here/articleshow/136241505.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136241505.cms\" /></a>The Indian Army has released the Agniveer Final Result 2026 for multiple posts, including GD, Technical, Clerk, Tradesmen and Women Military Police. Candidates who appeared in the recruitment process can check their region-wise final merit lists in PDF format through the official website, joinindianarmy.nic.in.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.08
     },
     {
       "category": "Education",
-      "title": "KSET 2026 revised provisional result released, check subject-wise cut-off marks and qualifying status",
-      "url": "https://timesofindia.indiatimes.com/education/news/kset-2026-revised-provisional-result-released-check-subject-wise-cut-off-marks-and-qualifying-status/articleshow/136211724.cms",
-      "published": "2026-11-27T11:52:49+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136211893,imgsize-150100.cms",
-      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/kset-2026-revised-provisional-result-released-check-subject-wise-cut-off-marks-and-qualifying-status/articleshow/136211724.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136211724.cms\" /></a>The Karnataka Examinations Authority (KEA) has released the revised provisional KSET 2026 results and subject-wise cut-off marks for all 37 subjects. The revision follows a technical error in the allocation of SCC(MB) category slots in the earlier result.",
+      "title": "UP Sainik School admit card 2026 released at upsainikschool.org: Direct link to download hall tickets here",
+      "url": "https://timesofindia.indiatimes.com/education/news/up-sainik-school-admit-card-2026-released-at-upsainikschool-org-direct-link-to-download-hall-tickets-here/articleshow/136240379.cms",
+      "published": "2026-11-28T12:40:07+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136241156,imgsize-151332.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/up-sainik-school-admit-card-2026-released-at-upsainikschool-org-direct-link-to-download-hall-tickets-here/articleshow/136240379.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136240379.cms\" /></a>The UP Sainik Schools Society has released the admit cards for the UP Sainik School Entrance Examination 2026. Registered candidates can access their hall tickets through the official website, upsainikschool.org, using their registration number and date of birth.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.13
+      "time_sec": 15.07
+    },
+    {
+      "category": "Education",
+      "title": "Lost his grandmother on UPSC prelims day, best friend before interview: How Madhya Pradesh's Shubham Shukla became an IPS officer with AIR 116",
+      "url": "https://timesofindia.indiatimes.com/education/news/lost-his-grandmother-on-upsc-prelims-day-best-friend-before-interview-how-madhya-pradeshs-shubham-shukla-became-an-ips-officer-with-air-116/articleshow/136240538.cms",
+      "published": "2026-11-28T12:11:30+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136240724,imgsize-100292.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/lost-his-grandmother-on-upsc-prelims-day-best-friend-before-interview-how-madhya-pradeshs-shubham-shukla-became-an-ips-officer-with-air-116/articleshow/136240538.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136240538.cms\" /></a>Shubham Shukla, who secured All India Rank 116 in the UPSC Civil Services Examination 2024, faced personal tragedies throughout his preparation. He lost his grandmother on the day of the preliminary examination and his closest friend shortly before the interview.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.11
+    },
+    {
+      "category": "Education",
+      "title": "BSSC Stenographer admit card 2026 released at bssc.bihar.gov.in: Direct link to download hall ticket here",
+      "url": "https://timesofindia.indiatimes.com/education/news/bssc-stenographer-admit-card-2026-released-at-bssc-bihar-gov-in-direct-link-to-download-hall-ticket-here/articleshow/136239737.cms",
+      "published": "2026-11-28T11:43:37+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136240289,imgsize-149938.cms",
+      "summary": "<a href=\"https://timesofindia.indiatimes.com/education/news/bssc-stenographer-admit-card-2026-released-at-bssc-bihar-gov-in-direct-link-to-download-hall-ticket-here/articleshow/136239737.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136239737.cms\" /></a>The Bihar Staff Selection Commission (BSSC) has issued the Stenographer Admit Card 2026 for 531 Stenographer and Steno Typist Grade-III vacancies. Registered candidates can download their hall tickets from bssc.bihar.gov.in using their registration number and date of birth.",
+      "model": "facebook/bart-large-cnn (HuggingFace API)",
+      "time_sec": 15.1
     },
     {
       "category": "Entertainment",
-      "title": "'Ramayana' to become second Bollywood film to hit Rs 1,000 crore mark",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-22-ranbir-kapoor-and-yash-starrer-wraps-up-third-week-with-rs-128-crore-haul-epic-set-to-cross-rs-1000-crore-net-milestone/articleshow/136206443.cms",
-      "published": "2026-11-27T06:47:39+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136206452,imgsize-1051182.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136206443.cms\" />\u2018Ramayana: Rise of a Legend\u2019 continues to perform strongly at the Indian box office. The film has accumulated a substantial Rs 992.10 crore net collection so far.",
+      "title": "'Ramayana' day 23: Ranbir, Yash's film crosses Rs 1,000 crore net in India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-box-office-collection-day-23-ranbir-kapoor-yashs-film-crosses-rs-1000-crore-net-in-india-worldwide-gross-reaches-rs-1790-crore/articleshow/136235973.cms",
+      "published": "2026-11-28T06:04:40+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136235974,imgsize-345452.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136235973.cms\" />Ramayana: Rise of a Legend, directed by Nitesh Tiwari, has crossed the Rs 1,000 crore mark in net box office collections. The film achieved a cumulative net collection of Rs 1,000.55 crore after its 23rd day in theatres.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
       "time_sec": 15.11
     },
     {
       "category": "Entertainment",
-      "title": "Sachana Namidass reacts to Hollywood actor Tom Hanks' praise for 'Maharaja'",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sachana-namidass-reacts-to-hollywood-actor-tom-hanks-praise-for-maharaja-performance-truly-overwhelmed-and-humbled/articleshow/136214982.cms",
-      "published": "2026-11-27T13:55:54+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136215003,imgsize-180453.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136214982.cms\" />Sachana Namidass received commendation from Tom Hanks for her performance in the film 'Maharaja'. She expressed her appreciation through social media and acknowledged its significance in her acting journey.",
+      "title": "Basil Joseph says Indian cinema\u2019s hero image makes superhero films challenging",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/minnal-murali-director-basil-joseph-explains-why-making-superhero-films-in-india-is-challenging-says-indian-cinema-has-already-portrayed-heroes-with-superhuman-powers/articleshow/136242037.cms",
+      "published": "2026-11-28T13:32:52+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136242059,imgsize-113635.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136242037.cms\" />Basil Joseph engaged in a thought-provoking discussion at IFFI Goa about the complexities of crafting superhero films within Indian cinema. He emphasized the prevalence of male heroes endowed with supernatural abilities, which presents unique challenges in developing original storylines.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.15
+      "time_sec": 15.12
     },
     {
       "category": "Entertainment",
-      "title": "Quote of the day by Zendaya",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-zendaya-the-greatest-of-the-greats-wouldnt-be-the-greatest-of-the-greats-if-they-didnt-try-stuff-a-powerful-life-lesson-on-taking-risks-self-confidence-and-finding-your-own-style/articleshow/136187535.cms",
-      "published": "2026-11-26T18:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136187669,imgsize-96868.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136187535.cms\" />Zendaya emphasizes the value of self-exploration and breaking free from the constraints of public opinion. In a candid discussion about her fashion evolution, she suggests that setbacks are simply stepping stones toward personal development.",
+      "title": "Yami Gautam reveals how her love story with Aditya Dhar began",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friendship-started-very-organically-yami-gautam-reveals-how-her-love-story-with-aditya-dhar-began-recalls-their-first-days-on-uri-the-surgical-strike/articleshow/136241709.cms",
+      "published": "2026-11-28T13:13:23+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136241747,imgsize-162356.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136241709.cms\" />Yami Gautam and Aditya Dhar's relationship began during their collaboration on the film 'Uri: The Surgical Strike'. While they first built a professional connection, their friendship gradually developed into romance over time.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.06
+      "time_sec": 15.14
     },
     {
       "category": "Entertainment",
-      "title": "\u2018Star Trek' actor Jonathan Frakes shares his cancer diagnosis",
-      "url": "https://timesofindia.indiatimes.com/tv/news/english/star-trek-actor-jonathan-frakes-reveals-the-unexpected-symptom-that-led-to-his-bladder-cancer-diagnosis-i-knew-it-was-a-red-flag/articleshow/136185643.cms",
-      "published": "2026-11-26T19:00:00+05:30",
-      "image_url": "https://static.toiimg.com/photo/msid-136185775,imgsize-108964.cms",
-      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136185643.cms\" />Jonathan Frakes faced a serious health scare just before a fan convention when he began noticing unusual symptoms, including pink urine. Concerned, he sought medical attention, which led to a cystoscopy diagnosis of bladder cancer.",
+      "title": "Vijay Sethupathi reacts to Tom Hanks' praise for 'Maharaja'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-sethupathi-says-he-was-shocked-to-learn-that-tom-hanks-enjoyed-seeing-maharaja-the-fact-that-he-watched-and-praised-our-film-really-means-a-lot/articleshow/136241615.cms",
+      "published": "2026-11-28T13:06:06+05:30",
+      "image_url": "https://static.toiimg.com/photo/msid-136241623,imgsize-173990.cms",
+      "summary": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/136241615.cms\" />Vijay Sethupathi was taken aback by Tom Hanks' reaction to his film 'Maharaja'. Hanks lauded the performance of Sachana Namidass, who portrays his daughter.",
       "model": "facebook/bart-large-cnn (HuggingFace API)",
-      "time_sec": 15.1
+      "time_sec": 15.16
     }
   ]
 }
